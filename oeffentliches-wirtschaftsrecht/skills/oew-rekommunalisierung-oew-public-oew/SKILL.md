@@ -1,6 +1,6 @@
 ---
 name: oew-rekommunalisierung-oew-public-oew
-description: "Oew 010 Rekommunalisierung Prüfen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp: Oew 010 Rekommunalisierung Prüfen; Oew 011 Public Corporate Governance; Oew 012 Wirtschaftlichkeitsvergleich; Oew 013 Risikoallokation Im Oepp. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Oew 010 Rekommunalisierung Prüfen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 010 Rekommunalisierung Prüfen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp prüfen.; Erstelle eine Arbeitsfassung zu Oew 010 Rekommunalisierung Prüfen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Oew 010 Rekommunalisierung Prüfen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `oew-012-wirtschaftlichkeitsvergleich` | Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkeitsvergleich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-013-risikoallokation-im-oepp` | Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Oew 010 Rekommunalisierung Prüfen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

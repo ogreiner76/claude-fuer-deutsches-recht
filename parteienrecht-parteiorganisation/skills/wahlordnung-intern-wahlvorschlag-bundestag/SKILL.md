@@ -1,6 +1,6 @@
 ---
 name: wahlordnung-intern-wahlvorschlag-bundestag
-description: "Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen: Wahlordnung Intern; Wahlvorschlag Bundestag Einreichen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen prüfen.; Erstelle eine Arbeitsfassung zu Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `wahlordnung-intern` | Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung. |
 | `wahlvorschlag-bundestag-einreichen` | Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

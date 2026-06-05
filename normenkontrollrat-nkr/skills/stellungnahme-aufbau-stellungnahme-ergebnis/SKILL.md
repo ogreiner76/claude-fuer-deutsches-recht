@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-aufbau-stellungnahme-ergebnis
-description: "Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung: Nkr Stellungnahme Aufbau Und Format; Nkr Stellungnahme Ergebnis Und Empfehlung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung prüfen.; Erstelle eine Arbeitsfassung zu Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nkr-stellungnahme-aufbau-und-format` | Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt. |
 | `nkr-stellungnahme-ergebnis-und-empfehlung` | Schreibt den Schlussteil einer NKR-Stellungnahme. Drei Bausteine: (1) konkrete Empfehlungen nummeriert (2) Ergebnisformel im NKR-Standardvokabular (keine Einwaende / Einwaende / Bemerkungen) (3) Hinweise und Vorbehalte. Mit Vorlagen Eskalationsstufen und Beispieltexten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

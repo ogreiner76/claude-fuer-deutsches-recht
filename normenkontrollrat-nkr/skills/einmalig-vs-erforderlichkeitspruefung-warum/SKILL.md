@@ -1,6 +1,6 @@
 ---
 name: einmalig-vs-erforderlichkeitspruefung-warum
-description: "Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln: Nkr Einmalig Vs Jaehrlich Laufend; Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln prüfen.; Erstelle eine Arbeitsfassung zu Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nkr-einmalig-vs-jaehrlich-laufend` | Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. |
 | `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln` | Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

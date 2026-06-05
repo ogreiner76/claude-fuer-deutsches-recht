@@ -1,6 +1,6 @@
 ---
 name: owi-aussenwirtschaft-owi-aussenwirtschaft
-description: "Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue: Owi 098 Aussenwirtschaft Gerichtstermin Vorber; Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue prüfen.; Erstelle eine Arbeitsfassung zu Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `owi-098-aussenwirtschaft-gerichtstermin-vorber` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-099-aussenwirtschaft-rechtsbeschwerde-prue` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: aktenabschluss-archivierung
-description: "Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest: Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest prüfen.; Erstelle eine Arbeitsfassung zu Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest` | Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

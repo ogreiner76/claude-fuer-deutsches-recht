@@ -1,6 +1,6 @@
 ---
 name: oew-transparenz-oew-haushaltsrechtliche-oew
-description: "Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat: Oew 014 Transparenz Und Kontrolle; Oew 015 Haushaltsrechtliche Freigabe; Oew 016 Gebuehrenfinanzierung Prüfen; Oew 017 Buergschaft Und Patronat. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat prüfen.; Erstelle eine Arbeitsfassung zu Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `oew-016-gebuehrenfinanzierung-pruefen` | Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-017-buergschaft-und-patronat` | Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgschaft und Patronat im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

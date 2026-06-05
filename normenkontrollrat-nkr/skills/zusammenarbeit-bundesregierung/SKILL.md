@@ -1,6 +1,6 @@
 ---
 name: zusammenarbeit-bundesregierung
-description: "Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts: Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts prüfen.; Erstelle eine Arbeitsfassung zu Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` | Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

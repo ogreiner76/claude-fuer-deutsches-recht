@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-klimacheck-one-one
-description: "Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung: Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit; Nkr One In One Out Bilanz Und Buchung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung prüfen.; Erstelle eine Arbeitsfassung zu Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit` | Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten. |
 | `nkr-one-in-one-out-bilanz-und-buchung` | One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen fuer die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

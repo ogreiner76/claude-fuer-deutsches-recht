@@ -1,6 +1,6 @@
 ---
 name: eu-ebene-eu-richtlinien
-description: "Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating: Nkr Eu Ebene Und Better Regulation; Nkr Eu Richtlinien Umsetzung Und Goldplating. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating prüfen.; Erstelle eine Arbeitsfassung zu Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nkr-eu-ebene-und-better-regulation` | Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine fuer EU-spezifische Stellungnahmen. |
 | `nkr-eu-richtlinien-umsetzung-und-goldplating` | Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

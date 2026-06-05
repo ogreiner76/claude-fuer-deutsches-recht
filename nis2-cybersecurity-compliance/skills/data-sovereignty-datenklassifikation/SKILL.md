@@ -1,6 +1,6 @@
 ---
 name: data-sovereignty-datenklassifikation
-description: "Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabschaetzung Security, Deepfake Ceo Fraud: Data Sovereignty Cloud Region; Datenklassifikation; Datenschutzfolgenabschaetzung Security; Deepfake Ceo Fraud. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabschaetzung Security, Deepfake Ceo Fraud im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabschaetzung Security, Deepfake Ceo Fraud prüfen.; Erstelle eine Arbeitsfassung zu Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabschaetzung Security, Deepfake Ceo Fraud.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabschaetzung Security, Deepfake Ceo Fraud
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `datenschutzfolgenabschaetzung-security` | Erstellt DSFA für Security-Systeme mit hohem Risiko. |
 | `deepfake-ceo-fraud` | Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabschaetzung Security, Deepfake Ceo Fraud** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

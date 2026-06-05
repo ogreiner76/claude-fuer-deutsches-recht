@@ -1,6 +1,6 @@
 ---
 name: beteiligter-betreuung-landwirtschaftsverkehr
-description: "Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst: Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge; Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig; Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst prüfen.; Erstelle eine Arbeitsfassung zu Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `notariat-028-landwirtschaftsverkehr-grundstuecksverkehrsgenehmig` | Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte. |
 | `notariat-030-stiftung-verein-genossenschaft-notarielle-schnittst` | Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

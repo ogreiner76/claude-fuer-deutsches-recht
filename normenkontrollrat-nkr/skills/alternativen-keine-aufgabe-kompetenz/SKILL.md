@@ -1,6 +1,6 @@
 ---
 name: alternativen-keine-aufgabe-kompetenz
-description: "Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg: Nkr Alternativen Prüfung Keine Regelung Soft Law; Nkr Aufgabe Und Kompetenz Nkrg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg prüfen.; Erstelle eine Arbeitsfassung zu Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nkr-alternativen-pruefung-keine-regelung-soft-law` | Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat. |
 | `nkr-aufgabe-und-kompetenz-nkrg` | Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

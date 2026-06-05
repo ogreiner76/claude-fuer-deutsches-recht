@@ -1,6 +1,6 @@
 ---
 name: buerokratieabbau-katalog-buerokratiekosten-vs
-description: "Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand: Nkr Buerokratieabbau Katalog Konkrete Vorschlaege; Nkr Buerokratiekosten Vs Erfuellungsaufwand. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand prüfen.; Erstelle eine Arbeitsfassung zu Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nkr-buerokratieabbau-katalog-konkrete-vorschlaege` | Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme. |
 | `nkr-buerokratiekosten-vs-erfuellungsaufwand` | Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen fuer Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung fuer Ressort-Schulung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

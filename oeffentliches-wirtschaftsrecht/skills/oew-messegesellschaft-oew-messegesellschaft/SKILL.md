@@ -1,6 +1,6 @@
 ---
 name: oew-messegesellschaft-oew-messegesellschaft
-description: "Oew 098 Messegesellschaft Haushalt Anbinden, Oew 099 Messegesellschaft Kommunikation Schrei: Oew 098 Messegesellschaft Haushalt Anbinden; Oew 099 Messegesellschaft Kommunikation Schrei. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Oew 098 Messegesellschaft Haushalt Anbinden, Oew 099 Messegesellschaft Kommunikation Schrei im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 098 Messegesellschaft Haushalt Anbinden, Oew 099 Messegesellschaft Kommunikation Schrei prüfen.; Erstelle eine Arbeitsfassung zu Oew 098 Messegesellschaft Haushalt Anbinden, Oew 099 Messegesellschaft Kommunikation Schrei.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Oew 098 Messegesellschaft Haushalt Anbinden, Oew 099 Messegesellschaft Kommunikation Schrei
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `oew-098-messegesellschaft-haushalt-anbinden` | Öffentliches Wirtschaftsrecht: Messegesellschaft: Haushalt anbinden. Haushalt anbinden für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-099-messegesellschaft-kommunikation-schrei` | Öffentliches Wirtschaftsrecht: Messegesellschaft: Kommunikation schreiben. Kommunikation schreiben für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Oew 098 Messegesellschaft Haushalt Anbinden, Oew 099 Messegesellschaft Kommunikation Schrei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

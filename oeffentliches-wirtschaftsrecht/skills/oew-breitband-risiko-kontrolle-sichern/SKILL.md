@@ -1,0 +1,254 @@
+---
+name: oew-breitband-risiko-kontrolle-sichern
+description: "Nutze dies, wenn Oew 075 Breitband Risiko Verteilen, Oew 077 Breitband Kontrolle Sichern, Oew 078 Breitband Haushalt Anbinden, Oew 079 Breitband Kommunikation Schreiben im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 075 Breitband Risiko Verteilen, Oew 077 Breitband Kontrolle Sichern, Oew 078 Breitband Haushalt Anbinden, Oew 079 Breitband Kommunikation Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Oew 075 Breitband Risiko Verteilen, Oew 077 Breitband Kontrolle Sichern, Oew 078 Breitband Haushalt Anbinden, Oew 079 Breitband Kommunikation Schreiben.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Oew 075 Breitband Risiko Verteilen, Oew 077 Breitband Kontrolle Sichern, Oew 078 Breitband Haushalt Anbinden, Oew 079 Breitband Kommunikation Schreiben
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `oew-075-breitband-risiko-verteilen` | Öffentliches Wirtschaftsrecht: Breitband: Risiko verteilen. Risiko verteilen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `oew-077-breitband-kontrolle-sichern` | Öffentliches Wirtschaftsrecht: Breitband: Kontrolle sichern. Kontrolle sichern für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `oew-078-breitband-haushalt-anbinden` | Öffentliches Wirtschaftsrecht: Breitband: Haushalt anbinden. Haushalt anbinden für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `oew-079-breitband-kommunikation-schreiben` | Öffentliches Wirtschaftsrecht: Breitband: Kommunikation schreiben. Kommunikation schreiben für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+
+## Arbeitsweg
+
+Für **Oew 075 Breitband Risiko Verteilen, Oew 077 Breitband Kontrolle Sichern, Oew 078 Breitband Haushalt Anbinden, Oew 079 Breitband Kommunikation Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `oew-075-breitband-risiko-verteilen`
+
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Risiko verteilen. Risiko verteilen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Breitband Risiko Verteilen
+
+## Arbeitsauftrag
+
+Breitband Risiko Verteilen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
+- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
+- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
+- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Projektstrukturkarte
+- ÖPP-Risikomatrix
+- Vergabe-/Beihilfe-Gate
+- Vertrags- und Governance-Checkliste
+
+## Red-Team-Fragen
+
+- ÖPP als reines Vertragsproblem behandelt
+- Beihilfe/Vergabe zu spät geprüft
+- Haushaltsrisiko ausgelagert aber nicht gelöst
+- Kontrollrechte der öffentlichen Hand fehlen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 2. `oew-077-breitband-kontrolle-sichern`
+
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Kontrolle sichern. Kontrolle sichern für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Breitband Kontrolle Sichern
+
+## Arbeitsauftrag
+
+Breitband Kontrolle Sichern wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
+- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
+- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
+- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Projektstrukturkarte
+- ÖPP-Risikomatrix
+- Vergabe-/Beihilfe-Gate
+- Vertrags- und Governance-Checkliste
+
+## Red-Team-Fragen
+
+- ÖPP als reines Vertragsproblem behandelt
+- Beihilfe/Vergabe zu spät geprüft
+- Haushaltsrisiko ausgelagert aber nicht gelöst
+- Kontrollrechte der öffentlichen Hand fehlen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 3. `oew-078-breitband-haushalt-anbinden`
+
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Haushalt anbinden. Haushalt anbinden für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Breitband Haushalt Anbinden
+
+## Arbeitsauftrag
+
+Breitband Haushalt Anbinden wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
+- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
+- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
+- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Projektstrukturkarte
+- ÖPP-Risikomatrix
+- Vergabe-/Beihilfe-Gate
+- Vertrags- und Governance-Checkliste
+
+## Red-Team-Fragen
+
+- ÖPP als reines Vertragsproblem behandelt
+- Beihilfe/Vergabe zu spät geprüft
+- Haushaltsrisiko ausgelagert aber nicht gelöst
+- Kontrollrechte der öffentlichen Hand fehlen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 4. `oew-079-breitband-kommunikation-schreiben`
+
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Kommunikation schreiben. Kommunikation schreiben für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Breitband Kommunikation Schreiben
+
+## Arbeitsauftrag
+
+Breitband Kommunikation Schreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
+- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
+- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
+- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Projektstrukturkarte
+- ÖPP-Risikomatrix
+- Vergabe-/Beihilfe-Gate
+- Vertrags- und Governance-Checkliste
+
+## Red-Team-Fragen
+
+- ÖPP als reines Vertragsproblem behandelt
+- Beihilfe/Vergabe zu spät geprüft
+- Haushaltsrisiko ausgelagert aber nicht gelöst
+- Kontrollrechte der öffentlichen Hand fehlen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
