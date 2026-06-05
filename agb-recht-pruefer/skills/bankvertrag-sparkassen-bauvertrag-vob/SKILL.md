@@ -1,6 +1,6 @@
 ---
 name: bankvertrag-sparkassen-bauvertrag-vob
-description: "Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024: Agb Im Bankvertrag Sparkassen Und Banken; Agb Im Bauvertrag Vob B 2024. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024 im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024 prüfen.; Erstelle eine Arbeitsfassung zu Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `agb-im-bankvertrag-sparkassen-und-banken` | AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschaeftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Aenderungen einseitige Vertragsanpassung BGH-Linie zu Gebuehrenklauseln. Behandelt aktuelle Themen Negativzinsen Verwahrentgelte Postidentverfahren Direktbanken. Liefert Pruefraster und Klauselentwurf. |
 | `agb-im-bauvertrag-vob-b-2024` | AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Aenderungen VOB-B 2024 und Spannungsverhaeltnis zu §§ 650a ff. BGB Bauvertragsrecht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

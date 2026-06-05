@@ -5,18 +5,11 @@ description: "Anonymisiertes Beispielzeugnis mit roten orangen und gruenen Bewer
 
 # Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Dieses anonymisierte Musterzeugnis zeigt ein real vorkommendes Mischbild: ein Zeugnis, das auf den ersten Blick positiv erscheint, aber bei näherer Analyse mehrere rote und orange Signale enthält. Es dient ausschließlich als Schulungsmaterial zur Übung der Geheimcode-Erkennung. Alle Namen und Daten sind fiktiv.
-
-Dieses Zeugnis entspricht in der Gesamtbewertung der Note 3 bis 4. Die Signale verteilen sich: Leistungsbeurteilung enthält das klassische "bemüht"-Signal (Rot), die Verhaltensbeurteilung hat eine falsche Reihenfolge (Orange) und eine fragwürdige Formulierung (Orange), und die Schlussformel ist kühl — das Bedauern fehlt (Signal Orange bis Rot, rechtlich gesondert zu prüfen).
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

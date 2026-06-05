@@ -1,0 +1,314 @@
+---
+name: lagerbedingungen-laufzeit-verlaengerung
+description: "Nutze dies, wenn Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages prüfen.; Erstelle eine Arbeitsfassung zu Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `lagerbedingungen` | Branchen-Spezialskill für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `laufzeit-verlaengerung-309` | Norm- und Dogmatik-Skill für Laufzeit Verlängerung 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
+| `leasing-agb` | Branchen-Spezialskill für Leasing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `leistungsaenderung-produktupdate` | Klausel-Spezialskill für Leistungsänderung Produktupdate: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `liquidated-damages` | Klausel-Spezialskill für Liquidated Damages: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+
+## Arbeitsweg
+
+Für **Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `lagerbedingungen`
+
+**Fokus:** Branchen-Spezialskill für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+
+# Lagerbedingungen
+
+## Fachkern: Lagerbedingungen
+
+- **Klauselproblem (Lagerbedingungen):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei Lagerbedingungen besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 2. `laufzeit-verlaengerung-309`
+
+**Fokus:** Norm- und Dogmatik-Skill für Laufzeit Verlängerung 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+
+# Laufzeit Verlängerung 309
+
+## Fachkern: Laufzeit Verlängerung 309
+
+- **Klauselproblem (Laufzeit Verlängerung 309):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus Laufzeit und Verlängerung (§ 309 Nr. 9 BGB):**
+   - **Neue Fassung seit 01.03.2022 (Gesetz für faire Verbraucherverträge):** Bei B2C-Verbraucherverträgen gilt für nach dem 01.03.2022 geschlossene Verträge:
+     - **Erstlaufzeit:** maximal 2 Jahre.
+     - **Verlängerung:** nur stillschweigend auf unbestimmte Zeit zulässig, wenn Kündigung mit Frist von höchstens 1 Monat jederzeit möglich ist.
+     - **Kündigungsfrist Erstvertrag:** max. 1 Monat zum Ende der Erstlaufzeit (§ 309 Nr. 9 lit. c BGB).
+   - **B2B:** § 309 Nr. 9 BGB greift direkt nicht; aber § 307 BGB. Erstlaufzeiten über 2 Jahre und automatische Verlängerung um mehr als 1 Jahr im B2B regelmäßig nach Wertungsausstrahlung unwirksam, sofern keine besondere Investitionsamortisation begründet werden kann.
+   - **Häufiger Fehler "Verlängerung um 12 Monate, wenn nicht 3 Monate vor Ablauf gekündigt":** Im B2C absolut unwirksam (Kündigungsfrist > 1 Monat, Verlängerung um > 1 Monat statt unbestimmt). Im B2B kritisch, oft nur bei besonderen Sachgründen haltbar.
+   - **Mitteilungspflicht § 312k BGB (B2C-Onlineverträge):** Anbieter muss in Textform vor Ablauf an Vertragslaufzeit erinnern. Verstoß führt zur Möglichkeit der jederzeitigen Kündigung mit Monatsfrist.
+   - **Kündigungsbutton § 312k BGB:** Verträge im elektronischen Geschäftsverkehr mit Verbrauchern müssen einen leicht zugänglichen Kündigungsbutton enthalten.
+6. **Rechtsfolge:** Unwirksamkeit; gesetzliches Kündigungsrecht. Bei B2C-Onlineverträgen ohne Kündigungsbutton: jederzeitige Kündigung möglich.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+### Mustertext B2C (Laufzeit/Verlängerung neue Rechtslage)
+
+> Der Vertrag wird auf [unbestimmte Zeit / fest 12 Monate] geschlossen. Wird er nicht zum Ende der Erstlaufzeit mit einer Frist von einem Monat gekündigt, verlängert er sich auf unbestimmte Zeit; er kann dann jederzeit mit einer Frist von einem Monat in Textform gekündigt werden.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 3. `leasing-agb`
+
+**Fokus:** Branchen-Spezialskill für Leasing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+
+# Leasing AGB
+
+## Fachkern: Leasing AGB
+
+- **Klauselproblem (Leasing AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei Leasing AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 4. `leistungsaenderung-produktupdate`
+
+**Fokus:** Klausel-Spezialskill für Leistungsänderung Produktupdate: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+
+# Leistungsänderung Produktupdate
+
+## Fachkern: Leistungsänderung Produktupdate
+
+- **Klauselproblem (Leistungsänderung Produktupdate):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei Leistungsänderung Produktupdate besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 5. `liquidated-damages`
+
+**Fokus:** Klausel-Spezialskill für Liquidated Damages: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+
+# Liquidated Damages
+
+## Fachkern: Liquidated Damages
+
+- **Klauselproblem (Liquidated Damages):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei Liquidated Damages besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.

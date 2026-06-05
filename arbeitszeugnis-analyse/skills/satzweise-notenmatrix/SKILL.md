@@ -5,22 +5,11 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 # Satzweise Notenmatrix
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Satzweise Notenmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Die Ampelfarbe allein reicht nicht, um ein Zeugnis sauber zu bewerten. Wer Drift erkennen, Schwerpunkte verschieben oder gezielt nachverhandeln will, braucht die Note jedes einzelnen notenrelevanten Satzes. Dieser Skill liefert genau das: eine vollständige Tabelle mit Satz, Themenbereich und Note von eins bis fünf.
-
-Die Notenzuweisung folgt keinem starren Automaten, sondern einer sprachlichen Plausibilitätsprüfung. Note 1 erfordert regelmäßig ein Steigerungsadverb ("stets", "jederzeit", "äußerst", "vollkommen", "in höchstem Maße") in Kombination mit einem Superlativ oder einer Maximalformel. Note 2 hat das Adverb, aber keinen Superlativ, oder den Superlativ ohne durchgehende Zeitkomponente. Note 3 enthält die Grundaussage ohne Steigerungsadverb und ohne Superlativ. Note 4 nutzt Einschränkungen ("im Wesentlichen", "weitgehend", "im Großen und Ganzen") oder das Codewort "bemüht". Note 5 fehlt die positive Aussage ganz oder enthält Distanzformeln, die im konkreten Kontext abwertend wirken.
-
-Die Themenbereich-Zuordnung folgt acht Kategorien: Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis und Sozialverhalten. Sätze, die mehreren Bereichen zugeordnet werden können, erhalten Mehrfachzuordnung. Die Matrix ist die direkte Eingangsbasis fuer den Bereichs-Drift-Detektor: ohne saubere Einzelnoten kein Drift-Befund.
-
-Besondere Aufmerksamkeit gilt zwei Mustern: erstens dem fehlenden Steigerungsadverb bei sonst guter Formulierung, zweitens dem positiv klingenden Verb ohne Qualifikator ("zeigte", "fand", "war in der Lage"). Diese Konstruktionen sind häufig mittelwertig, aber nicht automatisch schlecht. Entscheidend bleiben Position, Branche, Aufgabenprofil und Gesamtzusammenhang.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

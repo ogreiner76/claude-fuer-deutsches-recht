@@ -5,22 +5,11 @@ description: "Katalog schwacher positiver Formulierungen im Arbeitszeugnis, die 
 
 # Orange-Flaggen-Katalog
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orange-Flaggen-Katalog` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Orange Flaggen sind Formulierungen, die zwar positiv klingen, aber deutlich unterhalb der Spitzennote liegen. Sie deuten auf eine befriedigende bis ausreichende Leistung hin — also Note 3, in manchen Kontexten auch Note 3 zu 4. Orange Signale sind besonders wichtig zu erkennen, weil sie bei flüchtiger Lektüre als gut erscheinen, in der Praxis aber eine mittelmäßige Beurteilung darstellen.
-
-Das zentrale Merkmal oranger Formulierungen ist das Fehlen von Steigerungsadverbien: "zur vollen Zufriedenheit" (ohne "stets") ist Orange; "gute Fachkenntnisse" (ohne "sehr gute" oder "hervorragende") ist Orange; "engagiert" (ohne "stets" oder "außerordentlich") ist Orange. Das Muster ist stets gleich: Die positive Grundaussage ist vorhanden, aber die Steigerung fehlt.
-
-Weitere orange Signale entstehen durch einschränkende Adverbien, die die Leistung relativieren: "überwiegend", "in der Regel", "im Allgemeinen" oder "meistens". Diese Wörter klingen nach einer Erläuterung, sind aber in der Zeugnispraxis als Einschränkungen kodiert, die eine Note-3-Beurteilung markieren.
-
-Orange Signale treten auch strukturell auf: Ein Zeugnis, das alle Bausteine enthält, aber keinen einzigen Superlativ und kein einziges "stets" verwendet, ist in seiner Gesamtheit orange — eine befriedigende Gesamtbeurteilung ohne herausragende Einzelaspekte.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

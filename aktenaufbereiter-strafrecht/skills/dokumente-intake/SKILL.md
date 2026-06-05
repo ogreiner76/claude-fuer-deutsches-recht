@@ -1,0 +1,44 @@
+---
+name: dokumente-intake
+description: "Nutze dies, wenn Dokumentenintake im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+---
+
+# Dokumentenintake
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Bereich **Aktenaufbereiter Strafrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
+- `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift` — Akteneinsicht Uebersicht Aktenvorblatt Erstellen Anklageschrift
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix` — Beweismittel Katalog Beweisverwertungsverbote Beziehungsmatrix
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `ersatz-sonderfall-excel-faehige` — Ersatz Sonderfall Excel Faehige
+- `fortlaufend-luecken-personenverzeichnis` — Fortlaufend Luecken Personenverzeichnis
+- `fristenliste-strafverfahren-aktenlektuere-fristennotiz` — Fristenliste Strafverfahren Aktenlektuere Fristennotiz
+- `kronzeugen-regelung-opferzeugen-besondere-personenverzeichnis` — Kronzeugen Regelung Opferzeugen Besondere Personenverzeichnis
+- `revision-rechtsfehler-aktenaufbereiter-aktenvorblatt` — Revision Rechtsfehler Aktenaufbereiter Aktenvorblatt
+- `sechs-u-haft-aussageanalyse-aussagepsychologie` — Sechs U Haft Aussageanalyse Aussagepsychologie
+- `strafbefehl-einspruchsstrategie-strafzumessung-deutsches` — Strafbefehl Einspruchsstrategie Strafzumessung Deutsches
+- `strafrecht-strafverteidigung-uebersichten` — Strafrecht Strafverteidigung Uebersichten
+- `vermoegensabschoepfung-dritt-einziehung-verstaendigung-deal` — Vermoegensabschoepfung Dritt Einziehung Verstaendigung Deal
+
+## Arbeitsweg
+
+- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
+- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
+- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
+- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+
+## Output
+
+Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

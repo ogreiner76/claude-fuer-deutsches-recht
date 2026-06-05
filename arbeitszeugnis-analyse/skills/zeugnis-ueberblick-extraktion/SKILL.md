@@ -5,22 +5,11 @@ description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsa
 
 # Zeugnis-Überblick und Kopfdaten-Extraktion
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zeugnis-Überblick und Kopfdaten-Extraktion` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Dieser Skill liest ein deutsches Arbeitszeugnis und extrahiert systematisch alle Kopfdaten, bevor die inhaltliche Analyse beginnt. Vollständige Kopfdaten sind Voraussetzung für jede weitere Bewertung, da fehlende Angaben bereits eigenständige Hinweise auf die Qualität des Zeugnisses liefern können.
-
-Ein qualifiziertes Zeugnis nach § 109 Abs. 1 Satz 3 GewO muss Angaben zu Art und Dauer der Tätigkeit sowie zu Leistung und Verhalten enthalten. Das einfache Zeugnis beschränkt sich auf Art und Dauer. Die Unterscheidung ist für die Erwartungshaltung an die Formulierungen entscheidend: Bei einem einfachen Zeugnis fehlt die Leistungsbeurteilung bewusst und ist kein negativer Hinweis.
-
-Beim Aussteller ist zu prüfen, ob die Firma korrekt bezeichnet ist, ob ein Briefkopf vorhanden ist und ob Ort und Datum plausibel sind. Das Datum des Zeugnisses darf nicht vor dem letzten Arbeitstag liegen (bei Endzeugnis). Bei Zwischenzeugnissen wird kein Enddatum angegeben — die fehlende Angabe ist kein Fehler.
-
-Die Unterschrift muss von einer zeichnungsberechtigten Person stammen. In der Regel sind das Geschäftsführer, Personalabteilungsleiter oder bevollmächtigte HR-Manager. Eine Unterschrift durch einen hierarchisch tiefer stehenden Mitarbeiter als den beurteilten Arbeitnehmer ist ein rotes Signal. Fehlt die Unterschrift ganz oder ist sie unleserlich ohne Namensangabe, kann das Zeugnis anfechtbar sein.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

@@ -1,6 +1,6 @@
 ---
 name: zuordnung-zeitleiste-belegkette
-description: "Spezial Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette: Spezial Zuordnung Erstpruefung Und Mandatsziel; Zeitleiste Und Belegkette. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Spezial Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette prüfen.; Erstelle eine Arbeitsfassung zu Spezial Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-zuordnung-erstpruefung-und-mandatsziel` | Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `zeitleiste-und-belegkette` | Baut aus Anlagen eine Chronologie und zeigt zu jedem Ereignis, welcher Beleg trägt, welcher nur plausibilisiert und welcher fehlt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `anlagen-zu-schriftsaetzen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

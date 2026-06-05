@@ -5,22 +5,11 @@ description: "Erkennt fehlende Pflichtaussagen im Arbeitszeugnis: Was nicht gesa
 
 # Negationen und Auslassungen erkennen
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Negationen und Auslassungen erkennen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Im deutschen Arbeitszeugnisrecht gilt ein fundamentaler Grundsatz: Was weggelassen wird, sagt häufig mehr als das, was gesagt wird. Da Arbeitgeber verpflichtet sind, ein wohlwollendes Zeugnis auszustellen, können sie negative Eigenschaften nicht direkt benennen. Die Alternative ist das strategische Weglassen positiver Aussagen. Fehlende Standardformulierungen lassen sich daher als verdeckte Negativaussagen lesen.
-
-Typische Auslassungen betreffen: Ehrlichkeit und Integrität (wenn diese Eigenschaften nicht erwähnt werden, entsteht der Verdacht auf Unregelmäßigkeiten), Pünktlichkeit (bei einem Zeugnis ohne jede Aussage zur Zuverlässigkeit im zeitlichen Sinne), Loyalität (fehlende Loyalitätsaussage bei Führungskräften ist ein rotes Signal), und Eigeninitiative (kein Wort zur selbstständigen Arbeitsweise bei einer Position, die Eigenverantwortung erfordert).
-
-Subtile Negationsformen: Manchmal werden negative Eigenschaften durch das Muster "Er hat nie..." oder "Zu keiner Zeit..." kodiert. Diese scheinbar positiven Verneinungen können seltsam betont wirken und auf das Gegenteil hinweisen — eine sogenannte Verneinungs-Doppelung. "Es wurde nie ein Verdacht laut" ist eine bekannte Warnung vor Unregelmäßigkeiten. "Er war nicht in Vorfälle verwickelt" klingt entlastend, kann aber das Gegenteil suggerieren.
-
-Die Auslassungs-Checkliste wird nach Zeugnisart justiert: Ein einfaches Zeugnis hat andere Mindestinhalte als ein qualifiziertes Endzeugnis einer Führungskraft. Der Skill prüft systematisch alle positionsbezogen erwarteten Aussagen und kennzeichnet fehlende als rote oder orange Signale, ohne aus jeder Lücke automatisch einen Anspruch zu machen.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

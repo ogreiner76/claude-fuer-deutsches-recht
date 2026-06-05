@@ -5,24 +5,11 @@ description: "Workflow-Skill zu schlussformel bewertung. Nutzt Normtext, Nutzera
 
 # Schlussformel-Bewertung
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schlussformel-Bewertung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Die Schlussformel ist das letzte, was ein potenzieller neuer Arbeitgeber im Zeugnis liest. Sie prägt deshalb den Ton des gesamten Dokuments. Eine warme Schlussformel besteht typischerweise aus drei Elementen: (1) Bedauern über das Ausscheiden, (2) Dank für die geleistete Arbeit und (3) Wünsche für die Zukunft.
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Das Bedauern signalisiert, dass der Arbeitgeber den Verlust als schmerzhaft empfindet. Formeln wie "Wir bedauern es sehr, Herrn Müller zu verlieren" oder "Wir hätten Frau Weber gerne gehalten" sind starke Signale. Schwächere Varianten wie "Wir nehmen Abschied von Herrn Fischer" oder das vollständige Fehlen eines Bedauerns sind Distanzsignale. Das bloße "Das Arbeitsverhältnis endet auf eigenen Wunsch" ohne weitere Wertung ist nicht automatisch rechtswidrig, kann aber den guten Leistungsteil abkühlen.
-
-Der Dank bezieht sich auf die geleisteten Beiträge. "Wir danken ihr herzlich für ihre engagierte und erfolgreiche Arbeit" ist stark. "Wir danken für die geleistete Arbeit" ist schwächer — der fehlende Superlativ und das fehlende Adverb senken den Ton erheblich.
-
-Die Zukunftswünsche sollten persönlich und nicht-generisch klingen. "Wir wünschen ihr für ihre berufliche und private Zukunft alles Gute und weiterhin viel Erfolg" ist eine warme Standardformel. "Wir wünschen ihr Erfolg auf ihrem weiteren Lebensweg" klingt sachlich und kühl. Völlig fehlende Zukunftswünsche sind vor allem dann auffällig, wenn der übrige Zeugnistext sehr positiv ist oder frühere Zwischenzeugnisse deutlich wärmer formuliert waren.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

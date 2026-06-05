@@ -5,28 +5,11 @@ description: "Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und 
 
 # Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Das Recht auf ein Arbeitszeugnis ist in § 109 GewO verankert. Der Arbeitnehmer kann ein einfaches oder qualifiziertes Zeugnis verlangen. Das Zeugnis muss wahr und wohlwollend sein — das BAG hat diese beiden scheinbar widersprüchlichen Anforderungen durch seine Rechtsprechung ausdifferenziert: Wahrheit geht vor Wohlwollen, aber Wohlwollen gebietet eine für den Arbeitnehmer förderliche Ausdrucksweise.
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Der Anspruch auf Berichtigung eines inhaltlich falschen oder unvollständigen Zeugnisses ergibt sich aus § 109 GewO in Verbindung mit dem allgemeinen Unterlassungsanspruch. Die Klage auf Berichtigung ist vor dem Arbeitsgericht zu erheben und unterliegt keiner kurzen Ausschlussfrist — wohl aber einer Verwirkung, wenn das Zeugnis jahrelang ohne Beanstandung hingenommen wurde.
-
-Die höchstrichterliche Rechtsprechung zur durchschnittlichen Beurteilung ist verfestigt: das BAG hat die Beweislastverteilung bei der Note "befriedigend" mehrfach bestätigt und bekräftigt, dass empirische Erhebungen über tatsächlich erteilte Zeugnisnoten den Maßstab nicht verschieben. Auch wenn statistisch betrachtet die Mehrheit der Zeugnisse heute mit Note 2 oder besser ausgestellt wird, bleibt die Beweislast fixiert auf den Streitpunkt "unter" oder "über" Note 3. Die Tatsachen der Leistungserbringung trägt jeweils die Partei, die die abweichende Note begehrt.
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Der Anspruch auf das Zeugnis verjährt nach der regelmäßigen Verjährungsfrist nach §§ 195, 199 BGB: drei Jahre, beginnend mit dem Schluss des Jahres, in dem das Zeugnis ausgestellt oder verlangt wurde. Praktisch bedeutsamer ist die Verwirkung: bei zweijähriger Untaetigkeit nach Zeugnisempfang kann das Berichtigungsverlangen je nach Einzelfall scheitern, auch wenn die Verjährungsfrist nicht abgelaufen ist.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln (Rechtliche Ebene)
 

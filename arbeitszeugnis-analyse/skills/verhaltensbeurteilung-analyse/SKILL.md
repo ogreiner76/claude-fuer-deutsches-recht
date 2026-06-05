@@ -5,22 +5,11 @@ description: "Analysiert Verhaltensbeurteilungen im Arbeitszeugnis: Verhalten zu
 
 # Verhaltensbeurteilung-Analyse
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verhaltensbeurteilung-Analyse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Die Verhaltensbeurteilung beschreibt das soziale Verhalten des Arbeitnehmers im beruflichen Umfeld. Sie ist neben der Leistungsbeurteilung der zweite große notenrelevante Block. Zwei Dimensionen werden typischerweise bewertet: das Verhalten gegenüber Vorgesetzten (Unterordnung, Loyalität, Zuverlässigkeit) und das Verhalten gegenüber Kollegen und Kunden (Teamfähigkeit, Kommunikation, Kundenorientierung).
-
-Die Reihenfolge der genannten Personengruppen ist ein eigenständiges Signal: Wird das Verhalten "gegenüber Vorgesetzten und Kollegen" positiv beschrieben, folgt die Norm. Wird hingegen "Kollegen und Vorgesetzte" genannt, gilt das als Hinweis, dass das Verhältnis zu Vorgesetzten problematisch war. Fehlt eine Personengruppe ganz — etwa kein Wort über Kunden in einem Kundenkontakt-Job — ist das ein rotes Signal.
-
-Die Qualifikationswörter variieren erheblich in ihrer Stärke: "stets einwandfrei" ist die stärkste Formel (Note 1), "einwandfrei" ohne "stets" ist bereits abgestuft (Note 2), "korrekt" signalisiert Note 3, "angemessen" oder "sachlich" signalisieren Note 4, und das völlige Fehlen einer positiven Verhaltensaussage oder Umschreibungen wie "konfliktbereit" oder "durchsetzungsfähig" können als Kodierungen für schwieriges Verhalten gelesen werden.
-
-Besonders subtile Signale entstehen durch euphemistische Umschreibungen negativer Eigenschaften: "direkte Kommunikationsweise" = grob, "selbstbewusst" (ohne weitere Qualifikation) = schwierig im Team, "durchsetzungsstark" = nicht kompromissfähig, "hat seine Meinung stets klar vertreten" = eigensinnig.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

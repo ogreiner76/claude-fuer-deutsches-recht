@@ -5,22 +5,11 @@ description: "Katalog starker positiver Formulierungen im Arbeitszeugnis, die au
 
 # Grünen-Flaggen-Katalog
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grünen-Flaggen-Katalog` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Grüne Flaggen sind Formulierungen, die eine sehr gute bis ausgezeichnete Leistung oder ein sehr gutes Verhalten kodieren. Sie stehen für Note 1 oder Note 2 und sind durch den Einsatz von Superlativen, Steigerungsadverbien und starken Bewertungswörtern gekennzeichnet. Ein Zeugnis mit überwiegend grünen Flaggen ist das Ziel einer jeden Zeugnisverhandlung.
-
-Die stärksten Einzelformulierungen sind: "stets zur vollsten Zufriedenheit" (Note 1-Leistungsformel), "hervorragend", "ausgezeichnet", "außerordentlich" als Bewertungsadjektive, "stets einwandfrei" als Verhaltensformel, und eine vollständige Schlussformel mit Bedauern, Dank und persönlich klingenden Zukunftswünschen. Diese Formeln sind eindeutig und werden selbst von erfahrenen Personalern als starke Signale erkannt.
-
-Wichtig: Nicht jede Häufung positiver Adjektive ist automatisch grün. Es kommt auf die kodierte Struktur an. "Außerordentliche Leistungen" ist grün. "Sehr gute Leistungen" ist grün bis orange, je nach Kontext. "Gute Leistungen" ist orange. Die Abstufung liegt oft in einem einzigen Wort — daher ist der Gesamtkontext entscheidend.
-
-Verstärker der grünen Kategorie sind: "jederzeit", "in jeder Hinsicht", "außergewöhnlich", "in besonderem Maße", "weit über das normale Maß hinaus". Diese Adverbien und Phrasen steigern eine bereits positive Aussage weiter und können eine Note-2-Formulierung zur Note-1-Formulierung machen.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 

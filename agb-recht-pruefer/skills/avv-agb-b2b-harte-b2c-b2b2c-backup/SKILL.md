@@ -1,0 +1,328 @@
+---
+name: avv-agb-b2b-harte-b2c-b2b2c-backup
+description: "Nutze dies, wenn Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb prüfen.; Erstelle eine Arbeitsfassung zu Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `avv-und-agb-schnittstelle` | Branchen-Spezialskill für AVV und AGB Schnittstelle: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `b2b-harte-fassung` | Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
+| `b2c-b2b-b2b2c-rollencheck` | Einstiegs- und Workflow-Skill für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `backup-datenverlust` | Klausel-Spezialskill für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `bank-agb` | Branchen-Spezialskill für Bank AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+
+## Arbeitsweg
+
+Für **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `avv-und-agb-schnittstelle`
+
+**Fokus:** Branchen-Spezialskill für AVV und AGB Schnittstelle: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+
+# AVV und AGB Schnittstelle
+
+## Fachkern: AVV und AGB Schnittstelle
+
+- **Klauselproblem (AVV und AGB Schnittstelle):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei AVV und AGB Schnittstelle besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 2. `b2b-harte-fassung`
+
+**Fokus:** Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
+
+# B2B Harte Fassung
+
+## Fachkern: B2B Harte Fassung
+
+- **Klauselproblem (B2B Harte Fassung):** macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei B2B Harte Fassung besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Aktuelle BGH-Linie zu B2B-AGB
+
+### Norm
+- § 310 Abs. 1 BGB: § 305 Abs. 2, 3 BGB, § 308 BGB und § 309 BGB finden auf B2B-AGB keine Anwendung; § 307 BGB bleibt als Massstab.
+- Bei der Anwendung des § 307 BGB im unternehmerischen Verkehr ist auf die im Handelsverkehr geltenden Gewohnheiten und Gebraeuche angemessen Ruecksicht zu nehmen.
+
+### Indizwirkung der § 308/309-Wertungen
+- BGH staendige Rspr.: Klauseln, die im B2C unwirksam sind (§ 308/309 BGB), sind im B2B im Regelfall ebenfalls unwirksam, sofern keine besonderen Erwaegungen vorliegen.
+- Diese "Indizwirkung" verfestigt sich seit BGH XII ZR 71/17 (Mietrecht, Az im Digitalisat verifizieren).
+- BGH KZR 12/15 zur Wertungsuebertragung im Wirtschaftsrecht.
+
+### Wichtige Sonderbereiche
+- **Haftungsausschluss**: § 309 Nr. 7a, 7b BGB strahlen in den B2B-Bereich aus. Insbesondere Ausschluss der Haftung fuer Vorsatz und grobe Fahrlaessigkeit ist in B2B unwirksam.
+- **Gewaehrleistungsausschluss**: Vollausschluss fuer Mangelhaftung in B2B regelmaessig unwirksam.
+- **Vertragsstrafe**: Pauschalierter Schadensersatz in AGB nur wirksam, wenn die Hoehe nicht ausser Verhaeltnis steht.
+
+### Aushandeln im B2B
+- BGH zum Aushandeln in B2B: hohes Anforderungsniveau. Bloss "kommerzielle Reife" reicht nicht; tatsaechliches Verhandlungs- und Aenderungsangebot des Verwenders muss nachweisbar sein.
+
+### Pruefraster
+1. Klausel im B2B oder B2C?
+2. § 309 BGB-Wertung als Indiz? — Pruefen.
+3. § 307 BGB als Hauptmassstab.
+4. Aushandlung tatsaechlich erfolgt? — Beweislast Verwender.
+5. Branchengewohnheit/Handelsgebrauch beruecksichtigen.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 3. `b2c-b2b-b2b2c-rollencheck`
+
+**Fokus:** Einstiegs- und Workflow-Skill für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+
+# B2C B2B B2B2C Rollencheck
+
+## Fachkern: B2C B2B B2B2C Rollencheck
+
+- **Klauselproblem (B2C B2B B2B2C Rollencheck):** sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei B2C B2B B2B2C Rollencheck besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 4. `backup-datenverlust`
+
+**Fokus:** Klausel-Spezialskill für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+
+# Backup Datenverlust
+
+## Fachkern: Backup Datenverlust
+
+- **Klauselproblem (Backup Datenverlust):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei Backup Datenverlust besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+
+## 5. `bank-agb`
+
+**Fokus:** Branchen-Spezialskill für Bank AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+
+# Bank AGB
+
+## Fachkern: Bank AGB
+
+- **Klauselproblem (Bank AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus:** Bei Bank AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.

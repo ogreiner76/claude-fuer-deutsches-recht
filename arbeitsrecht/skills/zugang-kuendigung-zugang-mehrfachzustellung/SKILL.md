@@ -1,6 +1,6 @@
 ---
 name: zugang-kuendigung-zugang-mehrfachzustellung
-description: "Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept: Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall; Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept konkret bearbeitet werden soll: Unterlagen sortieren, Normen und Fristen prüfen, typische Fehler vermeiden und einen verwertbaren nächsten Schritt formulieren."
 ---
 
 # Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept
@@ -13,21 +13,19 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
-| `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
+| `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
 ## 1. `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall`
 
-**Fokus:** Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 # Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall
 
@@ -82,7 +80,7 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 ## 2. `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept`
 
-**Fokus:** Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 # Zugang Neu 007 Mehrfachzustellung Kuendigung Sicherheitskonzept
 
@@ -129,4 +127,3 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 
 - Zustellplan mit Multipfad.
 - Beweissicherung-Matrix.
-

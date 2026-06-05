@@ -1,6 +1,6 @@
 ---
 name: skonti-boni-t-rezept-telepharmazie-grenzen
-description: "Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen: Skonti Boni Rabatte Zuweisungsverbot; T Rezept Besondere Arzneimittel; Telepharmazie Grenzen Chancen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen prüfen.; Erstelle eine Arbeitsfassung zu Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `t-rezept-besondere-arzneimittel` | T-Rezept besondere Arzneimittel: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 | `telepharmazie-grenzen-chancen` | Telepharmazie Grenzen Chancen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

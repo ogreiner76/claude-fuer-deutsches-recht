@@ -5,26 +5,11 @@ description: "Strategie und Antragsformulierungen für die Zeugnisberichtigungsk
 
 # Klagestrategie Zeugnisberichtigung
 
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klagestrategie Zeugnisberichtigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Wer in der Ampelanalyse rote oder orange Signale erkennt, steht vor der Frage, was tun. Dieser Skill fuehrt vom Befund zur konkreten Klagestrategie. Er deckt den vollen Weg ab: aussergerichtliches Berichtigungsverlangen, Klageantrag, Beweislastverteilung, Streitwertberechnung und Verfahrensoekonomie.
-
-Erste Stufe ist regelmäßig das außergerichtliche Berichtigungsverlangen. Der Arbeitgeber sollte die Chance haben, das Zeugnis selbst zu korrigieren. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Sätze benennen und die gewünschte Formulierung vorschlagen. Eine pauschale Aufforderung "bitte verbessern" hilft weder in der Verhandlung noch im späteren Prozess.
-
-Zweite Stufe ist die Klagepruefung. Nicht jedes orange Signal ist klagbar. Die Beweislast nach BAG-Rechtsprechung ist klar verteilt: Bei Streit um eine Note schlechter als befriedigend traegt der Arbeitgeber die Beweislast fuer die schlechte Bewertung. Bei Streit um eine Note besser als befriedigend traegt der Arbeitnehmer die Beweislast fuer die bessere Leistung. Wer also aus einer Drei eine Eins machen will, muss substantiieren — wer aus einer Vier eine Drei machen will, muss nur die Vier bestreiten und Wohlwollensgebot ruegen.
-
-Dritte Stufe ist der Klageantrag. Er sollte konkret formuliert werden: nicht nur "der Beklagte wird verurteilt, das Zeugnis zu berichtigen", sondern mit Wortlautvorschlag fuer die beanstandeten Saetze. Das Gericht entscheidet sonst nach billigem Ermessen, was selten der Wunschformulierung entspricht.
-
-Der Streitwert einer Zeugnisberichtigungsklage liegt nach gefestigter Rechtsprechung bei einem Monatsbruttogehalt. Auch das Bruchteilsverhaeltnis bei mehreren Streitpunkten folgt diesem Wert. Bei einer reinen Schlussformel-Korrektur kann der Streitwert auf ein Drittel oder ein Halbes Monatsgehalt reduziert sein.
-
-Die Verjaehrung folgt der regelmäßigen Verjaehrungsfrist nach §§ 195, 199 BGB. Der Anspruch entsteht mit Ausstellung des Zeugnisses, beginnt mit Schluss des Ausstellungsjahrs zu laufen und verjaehrt drei Jahre spaeter. Praktisch wichtig ist daneben die Frist zur tatsaechlichen Geltendmachung — verzoegert der Arbeitnehmer das Berichtigungsverlangen, geht ihm die Verwirkungsmoeglichkeit voraus.
+- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Geheimcode-Regeln
 
