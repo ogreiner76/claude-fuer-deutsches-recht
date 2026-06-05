@@ -1,6 +1,6 @@
 ---
 name: tk-netzneutralitaet-tk-nis2
-description: "Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle: Tk Netzneutralitaet Zero Rating Throttling; Tk Nis2 Kritis Bsi Schnittstelle. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-netzneutralitaet-zero-rating-throttling` | Netzneutralität: Zero-Rating, Priorisierung, Drosselung, Spezialdienste, Traffic Management und Beschwerde-/Abmahnrisiken. |
 | `tk-nis2-kritis-bsi-schnittstelle` | NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

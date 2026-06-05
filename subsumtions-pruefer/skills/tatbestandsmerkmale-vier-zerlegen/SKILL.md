@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-vier-zerlegen
-description: "Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente: Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste; Spezial Vier Behörden Gericht Und Registerweg; Spezial Zerlegen Risikoampel Und Gegenargumente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-vier-behoerden-gericht-und-registerweg` | Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege. |
 | `spezial-zerlegen-risikoampel-und-gegenargumente` | Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: zivil-schreiben-tenor-bauen-urb-mehrere
-description: "Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial: Tatbestand Zivil Schreiben; Tenor Bauen Zivil; Urb Mehrere Streitgegenstaende Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial prüfen.; Erstelle eine Arbeitsfassung zu Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tenor-bauen-zivil` | Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Prüfraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollständig und vollstreckbar. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen. |
 | `urb-mehrere-streitgegenstaende-spezial` | Spezialfall mehrere Streitgegenstaende und Eventualantraege: Reihenfolge der Pruefung, Tenor, Kostenverteilung. Pruefraster fuer komplexe Verfahren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urteilsbauer-relationsmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

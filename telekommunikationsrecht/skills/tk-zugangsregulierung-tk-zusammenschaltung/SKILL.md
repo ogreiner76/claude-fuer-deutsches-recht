@@ -1,6 +1,6 @@
 ---
 name: tk-zugangsregulierung-tk-zusammenschaltung
-description: "Tk Zugangsregulierung Vorleistung, Tk Zusammenschaltung Interconnection: Tk Zugangsregulierung Vorleistung; Tk Zusammenschaltung Interconnection. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Zugangsregulierung Vorleistung, Tk Zusammenschaltung Interconnection im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Zugangsregulierung Vorleistung, Tk Zusammenschaltung Interconnection prüfen.; Erstelle eine Arbeitsfassung zu Tk Zugangsregulierung Vorleistung, Tk Zusammenschaltung Interconnection.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Zugangsregulierung Vorleistung, Tk Zusammenschaltung Interconnection
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-zugangsregulierung-vorleistung` | Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskriminierung und technische Schnittstellen. |
 | `tk-zusammenschaltung-interconnection` | Zusammenschaltung, Terminierung, IP-Interconnection, Qualität, Entgelte und Streitbeilegung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Zugangsregulierung Vorleistung, Tk Zusammenschaltung Interconnection** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

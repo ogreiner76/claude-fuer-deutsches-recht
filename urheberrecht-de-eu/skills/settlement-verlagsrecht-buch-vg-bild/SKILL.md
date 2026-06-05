@@ -1,6 +1,6 @@
 ---
 name: settlement-verlagsrecht-buch-vg-bild
-description: "Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag: Vergleich Und Settlement; Verlagsrecht Buch Ebook; Vg Bild Vgwort Verlag. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag im Plugin Urheberrecht De Eu konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verlagsrecht-buch-ebook` | Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen. |
 | `vg-bild-vgwort-verlag` | Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

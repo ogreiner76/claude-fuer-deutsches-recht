@@ -1,6 +1,6 @@
 ---
 name: tk-routerfreiheit-tk-rufnummernmissbrauch
-description: "Tk Routerfreiheit Endgeraete, Tk Rufnummernmissbrauch Abschaltung: Tk Routerfreiheit Endgeraete; Tk Rufnummernmissbrauch Abschaltung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Routerfreiheit Endgeraete, Tk Rufnummernmissbrauch Abschaltung im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Routerfreiheit Endgeraete, Tk Rufnummernmissbrauch Abschaltung prüfen.; Erstelle eine Arbeitsfassung zu Tk Routerfreiheit Endgeraete, Tk Rufnummernmissbrauch Abschaltung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Routerfreiheit Endgeraete, Tk Rufnummernmissbrauch Abschaltung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-routerfreiheit-endgeraete` | Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit, Providerrouter, Konfigurationsdaten, Glasfaser-ONT und Gewährleistung/Sicherheit. |
 | `tk-rufnummernmissbrauch-abschaltung` | Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschaltung, Rechnungslegungs-/Inkassoverbot und Beschwerde. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Routerfreiheit Endgeraete, Tk Rufnummernmissbrauch Abschaltung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

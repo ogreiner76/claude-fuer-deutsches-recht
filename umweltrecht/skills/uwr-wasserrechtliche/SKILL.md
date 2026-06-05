@@ -1,6 +1,6 @@
 ---
 name: uwr-wasserrechtliche
-description: "Uwr Wasserrechtliche Erlaubnis Leitfaden: Uwr Wasserrechtliche Erlaubnis Leitfaden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Uwr Wasserrechtliche Erlaubnis Leitfaden im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Uwr Wasserrechtliche Erlaubnis Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Uwr Wasserrechtliche Erlaubnis Leitfaden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Uwr Wasserrechtliche Erlaubnis Leitfaden
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `uwr-wasserrechtliche-erlaubnis-leitfaden` | Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster fuer Industrieanlagen und kommunale Vorhaben. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Uwr Wasserrechtliche Erlaubnis Leitfaden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

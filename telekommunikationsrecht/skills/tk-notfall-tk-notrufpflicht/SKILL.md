@@ -1,6 +1,6 @@
 ---
 name: tk-notfall-tk-notrufpflicht
-description: "Tk Notfall Und Katastrophenkommunikation, Tk Notrufpflicht 112: Tk Notfall Und Katastrophenkommunikation; Tk Notrufpflicht 112. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Notfall Und Katastrophenkommunikation, Tk Notrufpflicht 112 im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Notfall Und Katastrophenkommunikation, Tk Notrufpflicht 112 prüfen.; Erstelle eine Arbeitsfassung zu Tk Notfall Und Katastrophenkommunikation, Tk Notrufpflicht 112.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Notfall Und Katastrophenkommunikation, Tk Notrufpflicht 112
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-notfall-und-katastrophenkommunikation` | Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommunikation und Business Continuity. |
 | `tk-notrufpflicht-112` | Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmensanschlüsse und Haftungsrisiko. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Notfall Und Katastrophenkommunikation, Tk Notrufpflicht 112** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

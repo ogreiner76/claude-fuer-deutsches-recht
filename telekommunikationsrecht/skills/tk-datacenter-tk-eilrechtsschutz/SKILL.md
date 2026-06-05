@@ -1,6 +1,6 @@
 ---
 name: tk-datacenter-tk-eilrechtsschutz
-description: "Tk Datacenter Connectivity, Tk Eilrechtsschutz Bnetza Beschluss: Tk Datacenter Connectivity; Tk Eilrechtsschutz Bnetza Beschluss. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Datacenter Connectivity, Tk Eilrechtsschutz Bnetza Beschluss im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Datacenter Connectivity, Tk Eilrechtsschutz Bnetza Beschluss prüfen.; Erstelle eine Arbeitsfassung zu Tk Datacenter Connectivity, Tk Eilrechtsschutz Bnetza Beschluss.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Datacenter Connectivity, Tk Eilrechtsschutz Bnetza Beschluss
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-datacenter-connectivity` | Rechenzentrumskonnektivität: Carrier Meet-Me, Cross-Connects, SLA, Wegerecht im Gebäude, Datenschutz/Sicherheit und Ausfallhaftung. |
 | `tk-eilrechtsschutz-bnetza-beschluss` | Eilrechtsschutz bei Frequenz-, Entgelt-, Zugang-, Nummerierungs- oder Missbrauchsmaßnahmen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Datacenter Connectivity, Tk Eilrechtsschutz Bnetza Beschluss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

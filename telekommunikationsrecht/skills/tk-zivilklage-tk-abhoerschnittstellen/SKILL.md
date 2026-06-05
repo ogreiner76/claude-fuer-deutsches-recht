@@ -1,6 +1,6 @@
 ---
 name: tk-zivilklage-tk-abhoerschnittstellen
-description: "Tk Zivilklage Lg Entgelt Schadensersatz, Tk Abhoerschnittstellen Sicherheitsbehoerden: Tk Zivilklage Lg Entgelt Schadensersatz; Tk Abhoerschnittstellen Sicherheitsbehoerden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Zivilklage Lg Entgelt Schadensersatz, Tk Abhoerschnittstellen Sicherheitsbehoerden im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Zivilklage Lg Entgelt Schadensersatz, Tk Abhoerschnittstellen Sicherheitsbehoerden prüfen.; Erstelle eine Arbeitsfassung zu Tk Zivilklage Lg Entgelt Schadensersatz, Tk Abhoerschnittstellen Sicherheitsbehoerden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Zivilklage Lg Entgelt Schadensersatz, Tk Abhoerschnittstellen Sicherheitsbehoerden
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-zivilklage-lg-entgelt-schadensersatz` | Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA, AGB, Minderung und Verbraucher-/Businessstreit. |
 | `tk-abhoerschnittstellen-sicherheitsbehoerden` | TK-Überwachung, Schnittstellen, Auskunftsersuchen, Bestandsdaten, Verkehrsdaten, Strafverfolgung und Geheimnisschutz. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Zivilklage Lg Entgelt Schadensersatz, Tk Abhoerschnittstellen Sicherheitsbehoerden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

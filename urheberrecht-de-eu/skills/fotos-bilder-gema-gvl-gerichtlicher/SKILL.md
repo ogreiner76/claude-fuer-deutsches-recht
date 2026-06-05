@@ -1,6 +1,6 @@
 ---
 name: fotos-bilder-gema-gvl-gerichtlicher
-description: "Fotos Bilder Design, Gema Gvl Verwertungsgesellschaften, Gerichtlicher Schriftsatz: Fotos Bilder Design; Gema Gvl Verwertungsgesellschaften; Gerichtlicher Schriftsatz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fotos Bilder Design, Gema Gvl Verwertungsgesellschaften, Gerichtlicher Schriftsatz im Plugin Urheberrecht De Eu konkret bearbeitet werden soll. Auslöser: Bitte Fotos Bilder Design, Gema Gvl Verwertungsgesellschaften, Gerichtlicher Schriftsatz prüfen.; Erstelle eine Arbeitsfassung zu Fotos Bilder Design, Gema Gvl Verwertungsgesellschaften, Gerichtlicher Schriftsatz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fotos Bilder Design, Gema Gvl Verwertungsgesellschaften, Gerichtlicher Schriftsatz
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gema-gvl-verwertungsgesellschaften` | Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung. |
 | `gerichtlicher-schriftsatz` | Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fotos Bilder Design, Gema Gvl Verwertungsgesellschaften, Gerichtlicher Schriftsatz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

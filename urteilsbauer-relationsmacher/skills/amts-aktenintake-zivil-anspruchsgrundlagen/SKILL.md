@@ -1,6 +1,6 @@
 ---
 name: amts-aktenintake-zivil-anspruchsgrundlagen
-description: "Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen: Spezial Amts Fristen Form Und Zustaendigkeit; Aktenintake Zivil; Anspruchsgrundlagen Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `aktenintake-zivil` | Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Prüfliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailprüfung Zulässigkeit siehe zulässigkeit-prüfen; Relationserstattung siehe relation-zivil. |
 | `anspruchsgrundlagen-pruefen` | Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Prüfraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjährung. Output Anspruchsgrundlagen-Baum mit Prüfungsschema. Abgrenzung: CISG-spezifisch siehe cisg-prüfen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urteilsbauer-relationsmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

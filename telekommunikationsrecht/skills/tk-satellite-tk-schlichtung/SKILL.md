@@ -1,6 +1,6 @@
 ---
 name: tk-satellite-tk-schlichtung
-description: "Tk Satellite Starlink Ntn, Tk Schlichtung Verbraucher: Tk Satellite Starlink Ntn; Tk Schlichtung Verbraucher. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Satellite Starlink Ntn, Tk Schlichtung Verbraucher im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Satellite Starlink Ntn, Tk Schlichtung Verbraucher prüfen.; Erstelle eine Arbeitsfassung zu Tk Satellite Starlink Ntn, Tk Schlichtung Verbraucher.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Satellite Starlink Ntn, Tk Schlichtung Verbraucher
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-satellite-starlink-ntn` | Satelliteninternet/NTN: Frequenzen, Genehmigung, Endgeräte, Verbrauchervertrag, Resilienz und nationale Sicherheitsaspekte. |
 | `tk-schlichtung-verbraucher` | Verbraucherschlichtung bei TK-Streit: Voraussetzungen, Antrag, Unterlagen, Hemmung/Fristen, Verhältnis zu Klage und BNetzA-Beschwerde. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Satellite Starlink Ntn, Tk Schlichtung Verbraucher** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: tk-glasfaser-tk-infrastruktursharing
-description: "Tk Glasfaser Hausanschluss Wegerecht, Tk Infrastruktursharing Open Access: Tk Glasfaser Hausanschluss Wegerecht; Tk Infrastruktursharing Open Access. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Glasfaser Hausanschluss Wegerecht, Tk Infrastruktursharing Open Access im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Glasfaser Hausanschluss Wegerecht, Tk Infrastruktursharing Open Access prüfen.; Erstelle eine Arbeitsfassung zu Tk Glasfaser Hausanschluss Wegerecht, Tk Infrastruktursharing Open Access.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Glasfaser Hausanschluss Wegerecht, Tk Infrastruktursharing Open Access
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-glasfaser-hausanschluss-wegerecht` | Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination. |
 | `tk-infrastruktursharing-open-access` | Open-Access-Modelle, Infrastruktursharing, Wholesale-Only, Kooperationsverträge, Nichtdiskriminierung und Beihilfe-/Förderschnittstelle. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Glasfaser Hausanschluss Wegerecht, Tk Infrastruktursharing Open Access** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

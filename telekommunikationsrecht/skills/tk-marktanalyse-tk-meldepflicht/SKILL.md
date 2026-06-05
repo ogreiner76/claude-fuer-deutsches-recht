@@ -1,6 +1,6 @@
 ---
 name: tk-marktanalyse-tk-meldepflicht
-description: "Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall: Tk Marktanalyse Betraechtliche Marktmacht; Tk Meldepflicht It Sicherheitsvorfall. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall prüfen.; Erstelle eine Arbeitsfassung zu Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-marktanalyse-betraechtliche-marktmacht` | Marktanalyse, Marktdefinition, SMP/beträchtliche Marktmacht, Konsultation, EU-Abstimmung und Regulierungsverfügung. |
 | `tk-meldepflicht-it-sicherheitsvorfall` | Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommunikation, Ursachenanalyse und Abhilfe. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

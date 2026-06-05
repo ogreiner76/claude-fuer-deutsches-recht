@@ -1,6 +1,6 @@
 ---
 name: soundaufnahme-tontraeger-titel-slogan
-description: "Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht: Soundaufnahme Tontraeger; Titel Slogan Kurzform; Urheberpersoenlichkeitsrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht im Plugin Urheberrecht De Eu konkret bearbeitet werden soll. Auslöser: Bitte Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht prüfen.; Erstelle eine Arbeitsfassung zu Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `titel-slogan-kurzform` | Prueft kurze Formulierungen zwischen Urheberrecht, Werktitelrecht, Marke, UWG und Gemeingut. |
 | `urheberpersoenlichkeitsrecht` | Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

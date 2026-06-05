@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-bestimmen-einreden-interaktiver
-description: "Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel: Rechtsfolge Bestimmen; Spezial Einreden Compliance Dokumentation Und Akte; Spezial Interaktiver Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-einreden-compliance-dokumentation-und-akte` | Einreden: Compliance-Dokumentation und Aktenvermerk im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-interaktiver-erstpruefung-und-mandatsziel` | Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: tk-sla-tk-standardangebot
-description: "Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer: Tk Sla Business Kunden Ausfall; Tk Standardangebot Reference Offer. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer prüfen.; Erstelle eine Arbeitsfassung zu Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-sla-business-kunden-ausfall` | Geschäftskunden-SLA: Verfügbarkeit, Reaktions-/Entstörzeiten, Credits, Schadensersatz, Haftungsbegrenzung und Force Majeure. |
 | `tk-standardangebot-reference-offer` | Standardangebotspflichten, Prüfung von Klauseln, Änderungsanordnung, Zugangsnachfrage und Nichtdiskriminierung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

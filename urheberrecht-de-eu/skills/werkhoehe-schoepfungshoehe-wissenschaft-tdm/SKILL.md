@@ -1,6 +1,6 @@
 ---
 name: werkhoehe-schoepfungshoehe-wissenschaft-tdm
-description: "Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung: Werkhoehe Schoepfungshoehe; Wissenschaft Tdm Forschung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung im Plugin Urheberrecht De Eu konkret bearbeitet werden soll. Auslöser: Bitte Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung prüfen.; Erstelle eine Arbeitsfassung zu Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `werkhoehe-schoepfungshoehe` | Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persoenliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee. |
 | `wissenschaft-tdm-forschung` | Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

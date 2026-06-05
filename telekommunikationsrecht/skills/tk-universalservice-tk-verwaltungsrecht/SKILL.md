@@ -1,6 +1,6 @@
 ---
 name: tk-universalservice-tk-verwaltungsrecht
-description: "Tk Universalservice Mindestversorgung, Tk Verwaltungsrecht Anfechtung Bnetza: Tk Universalservice Mindestversorgung; Tk Verwaltungsrecht Anfechtung Bnetza. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Universalservice Mindestversorgung, Tk Verwaltungsrecht Anfechtung Bnetza im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Universalservice Mindestversorgung, Tk Verwaltungsrecht Anfechtung Bnetza prüfen.; Erstelle eine Arbeitsfassung zu Tk Universalservice Mindestversorgung, Tk Verwaltungsrecht Anfechtung Bnetza.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Universalservice Mindestversorgung, Tk Verwaltungsrecht Anfechtung Bnetza
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-universalservice-mindestversorgung` | Universaldienst/Mindestversorgung mit Telekommunikationsdiensten: Unterversorgung, Anspruch, BNetzA-Verfahren, technische Zumutbarkeit und Alternativen. |
 | `tk-verwaltungsrecht-anfechtung-bnetza` | Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse und Nebenbestimmungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Universalservice Mindestversorgung, Tk Verwaltungsrecht Anfechtung Bnetza** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

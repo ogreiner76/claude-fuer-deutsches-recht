@@ -1,6 +1,6 @@
 ---
 name: wasser-bodenschutz-uwr-altlasten-uwr-bimschg
-description: "Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter: Umweltrecht Wasser Bodenschutz; Uwr Altlasten Prüfung Spezial; Uwr Bimschg Genehmigung Bauleiter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `uwr-altlasten-pruefung-spezial` | Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte fuer Bescheid-Anfechtung. |
 | `uwr-bimschg-genehmigung-bauleiter` | Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

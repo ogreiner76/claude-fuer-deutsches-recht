@@ -1,6 +1,6 @@
 ---
 name: tk-nummerierung-tk-open
-description: "Tk Nummerierung Rufnummernzuteilung, Tk Open Ran Lieferketten: Tk Nummerierung Rufnummernzuteilung; Tk Open Ran Lieferketten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Nummerierung Rufnummernzuteilung, Tk Open Ran Lieferketten im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Nummerierung Rufnummernzuteilung, Tk Open Ran Lieferketten prüfen.; Erstelle eine Arbeitsfassung zu Tk Nummerierung Rufnummernzuteilung, Tk Open Ran Lieferketten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Nummerierung Rufnummernzuteilung, Tk Open Ran Lieferketten
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-nummerierung-rufnummernzuteilung` | Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 0800/0900, M2M und Nummernportierung. |
 | `tk-open-ran-lieferketten` | Open-RAN-/Netzkomponenten: Lieferkette, Sicherheit, Interoperabilität, Ausfall, Exportkontrolle und kritische Komponenten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Nummerierung Rufnummernzuteilung, Tk Open Ran Lieferketten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

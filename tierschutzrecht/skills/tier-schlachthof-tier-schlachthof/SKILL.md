@@ -1,6 +1,6 @@
 ---
 name: tier-schlachthof-tier-schlachthof
-description: "Tier 098 Schlachthof Halterpflichten Erklaeren, Tier 099 Schlachthof Eilantrag Bauen: Tier 098 Schlachthof Halterpflichten Erklaeren; Tier 099 Schlachthof Eilantrag Bauen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tier 098 Schlachthof Halterpflichten Erklaeren, Tier 099 Schlachthof Eilantrag Bauen im Plugin Tierschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Tier 098 Schlachthof Halterpflichten Erklaeren, Tier 099 Schlachthof Eilantrag Bauen prüfen.; Erstelle eine Arbeitsfassung zu Tier 098 Schlachthof Halterpflichten Erklaeren, Tier 099 Schlachthof Eilantrag Bauen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tier 098 Schlachthof Halterpflichten Erklaeren, Tier 099 Schlachthof Eilantrag Bauen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tier-098-schlachthof-halterpflichten-erklaeren` | Tierschutzrecht: Schlachthof: Halterpflichten erklären. Halterpflichten erklären für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-099-schlachthof-eilantrag-bauen` | Tierschutzrecht: Schlachthof: Eilantrag bauen. Eilantrag bauen für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tier 098 Schlachthof Halterpflichten Erklaeren, Tier 099 Schlachthof Eilantrag Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `tierschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

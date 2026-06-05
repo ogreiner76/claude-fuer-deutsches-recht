@@ -1,6 +1,6 @@
 ---
 name: tk-vorratsdaten-tk-wegerecht
-description: "Tk Vorratsdaten Speicherung Eugh Bverfg, Tk Wegerecht Oeffentliche Wege: Tk Vorratsdaten Speicherung Eugh Bverfg; Tk Wegerecht Oeffentliche Wege. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Vorratsdaten Speicherung Eugh Bverfg, Tk Wegerecht Oeffentliche Wege im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Vorratsdaten Speicherung Eugh Bverfg, Tk Wegerecht Oeffentliche Wege prüfen.; Erstelle eine Arbeitsfassung zu Tk Vorratsdaten Speicherung Eugh Bverfg, Tk Wegerecht Oeffentliche Wege.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Vorratsdaten Speicherung Eugh Bverfg, Tk Wegerecht Oeffentliche Wege
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-vorratsdaten-speicherung-eugh-bverfg` | Vorratsdatenspeicherung, Quick Freeze, Sicherheitsbehördenanfragen und EuGH/BVerfG-Linie live prüfen. |
 | `tk-wegerecht-oeffentliche-wege` | Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung und Streit mit Straßenbaulastträgern. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Vorratsdaten Speicherung Eugh Bverfg, Tk Wegerecht Oeffentliche Wege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

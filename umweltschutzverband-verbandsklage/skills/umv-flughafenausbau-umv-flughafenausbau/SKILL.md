@@ -1,6 +1,6 @@
 ---
 name: umv-flughafenausbau-umv-flughafenausbau
-description: "Umv 098 Flughafenausbau Nebenbestimmung Forder, Umv 099 Flughafenausbau Monitoring Planen: Umv 098 Flughafenausbau Nebenbestimmung Forder; Umv 099 Flughafenausbau Monitoring Planen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Umv 098 Flughafenausbau Nebenbestimmung Forder, Umv 099 Flughafenausbau Monitoring Planen im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 098 Flughafenausbau Nebenbestimmung Forder, Umv 099 Flughafenausbau Monitoring Planen prüfen.; Erstelle eine Arbeitsfassung zu Umv 098 Flughafenausbau Nebenbestimmung Forder, Umv 099 Flughafenausbau Monitoring Planen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Umv 098 Flughafenausbau Nebenbestimmung Forder, Umv 099 Flughafenausbau Monitoring Planen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `umv-098-flughafenausbau-nebenbestimmung-forder` | Umweltschutzverband Verbandsklage: Flughafenausbau: Nebenbestimmung fordern. Nebenbestimmung fordern für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-099-flughafenausbau-monitoring-planen` | Umweltschutzverband Verbandsklage: Flughafenausbau: Monitoring planen. Monitoring planen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Umv 098 Flughafenausbau Nebenbestimmung Forder, Umv 099 Flughafenausbau Monitoring Planen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

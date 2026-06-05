@@ -1,6 +1,6 @@
 ---
 name: tk-cloud-tk-cookies
-description: "Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg: Tk Cloud Telefonie Voip Compliance; Tk Cookies Telemedien Ttdsg Tdddg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg prüfen.; Erstelle eine Arbeitsfassung zu Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-cloud-telefonie-voip-compliance` | Cloud-PBX/VoIP: Notruf, Standort, Datenschutz, Aufzeichnung, Ausfallsicherheit, Rufnummern und internationale Nutzer. |
 | `tk-cookies-telemedien-ttdsg-tdddg` | Telemedien-/TK-Schnittstelle: Cookies, Einwilligung, Endgerätezugriff, Consent-Banner und Telekommunikationsdienste. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

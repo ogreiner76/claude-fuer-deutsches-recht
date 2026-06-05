@@ -1,6 +1,6 @@
 ---
 name: datenpunkt-dokument-excel-beweislast
-description: "Spezial Datenpunkt Dokumentenmatrix Und Lueckenliste, Spezial Dokument Behörden Gericht Und Registerweg, Spezial Excel Beweislast Und Darlegungslast: Spezial Datenpunkt Dokumentenmatrix Und Lueckenliste; Spezial Dokument Behörden Gericht Und Registerweg; Spezial Excel Beweislast Und Darlegungslast. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Datenpunkt Dokumentenmatrix Und Lueckenliste, Spezial Dokument Behörden Gericht Und Registerweg, Spezial Excel Beweislast Und Darlegungslast im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Spezial Datenpunkt Dokumentenmatrix Und Lueckenliste, Spezial Dokument Behörden Gericht Und Registerweg, Spezial Excel Beweislast Und Darlegungslast
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-dokument-behoerden-gericht-und-registerweg` | Dokument: Behörden-, Gerichts- oder Registerweg im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-excel-beweislast-und-darlegungslast` | Excel: Beweislast, Darlegungslast und Substantiierung im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Datenpunkt Dokumentenmatrix Und Lueckenliste, Spezial Dokument Behörden Gericht Und Registerweg, Spezial Excel Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `tabellenreview-3d` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

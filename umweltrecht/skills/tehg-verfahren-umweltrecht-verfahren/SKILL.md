@@ -1,6 +1,6 @@
 ---
 name: tehg-verfahren-umweltrecht-verfahren
-description: "Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren: Spezial Tehg Fristen Form Und Zustaendigkeit; Spezial Verfahren Verhandlung Vergleich Und Eskalation; Umweltrecht Verfahren. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren prüfen.; Erstelle eine Arbeitsfassung zu Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-verfahren-verhandlung-vergleich-und-eskalation` | Verfahren: Verhandlung, Vergleich und Eskalation im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `umweltrecht-verfahren` | Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

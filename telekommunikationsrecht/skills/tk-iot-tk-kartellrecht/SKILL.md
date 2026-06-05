@@ -1,6 +1,6 @@
 ---
 name: tk-iot-tk-kartellrecht
-description: "Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu: Tk Iot M2M Sim Karten; Tk Kartellrecht Schnittstelle Gwb Eu. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu prüfen.; Erstelle eine Arbeitsfassung zu Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tk-iot-m2m-sim-karten` | IoT-/M2M-Konnektivität: SIM-Karten, Roaming, Nummerierung, Sicherheit, Datenzugriff, Produkthaftung und Vertragsketten. |
 | `tk-kartellrecht-schnittstelle-gwb-eu` | TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access, Ausbaukooperation, Exklusivität, Wholesale, Joint Venture. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: umwelt-umweltrecht-umwrg
-description: "Spezial Umwelt Zahlen Schwellen Und Berechnung, Spezial Umweltrecht Erstpruefung Und Mandatsziel, Spezial Umwrg Internationaler Bezug Und Schnittstellen: Spezial Umwelt Zahlen Schwellen Und Berechnung; Spezial Umweltrecht Erstpruefung Und Mandatsziel; Spezial Umwrg Internationaler Bezug Und Schnittstellen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Umwelt Zahlen Schwellen Und Berechnung, Spezial Umweltrecht Erstpruefung Und Mandatsziel, Spezial Umwrg Internationaler Bezug Und Schnittstellen im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Umwelt Zahlen Schwellen Und Berechnung, Spezial Umweltrecht Erstpruefung Und Mandatsziel, Spezial Umwrg Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Umwelt Zahlen Schwellen Und Berechnung, Spezial Umweltrecht Erstpruefung Und Mandatsziel, Spezial Umwrg Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Umwelt Zahlen Schwellen Und Berechnung, Spezial Umweltrecht Erstpruefung Und Mandatsziel, Spezial Umwrg Internationaler Bezug Und Schnittstellen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-umweltrecht-erstpruefung-und-mandatsziel` | Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-umwrg-internationaler-bezug-und-schnittstellen` | Umwrg: Internationaler Bezug und Schnittstellen im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Umwelt Zahlen Schwellen Und Berechnung, Spezial Umweltrecht Erstpruefung Und Mandatsziel, Spezial Umwrg Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
