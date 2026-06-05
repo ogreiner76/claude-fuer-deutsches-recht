@@ -1,0 +1,198 @@
+---
+name: anwaelte-fristversaeumnis-wiedereinsetzung
+description: "Nutze dies, wenn Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `anwaelte-fristversaeumnis-und-wiedereinsetzung-kaltstart-und-fa` | Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-gebuehrenunterschreitung-und-pro-bono-kaltstart-und-fa` | Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-geldwaesche-risikoanalyse-kanzlei-kaltstart-und-fakten` | Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-haftpflichtversicherung-deckungsluecke-kaltstart-und-f` | Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+
+## Arbeitsweg
+
+Für **Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `anwaelte-fristversaeumnis-und-wiedereinsetzung-kaltstart-und-fa`
+
+**Fokus:** Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+
+# Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+
+## Konkreter Berufsrechtskern: Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
+
+## Fallweichen dieser Speziallage
+
+1. Rolle, Ziel und Entscheidungsdruck klaeren.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+
+## Prüfprogramm
+
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
+
+## 2. `anwaelte-gebuehrenunterschreitung-und-pro-bono-kaltstart-und-fa`
+
+**Fokus:** Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+
+# Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+
+## Konkreter Berufsrechtskern: Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** Gebühren, Vergütungsvereinbarung, Transparenz, Angemessenheit, Fälligkeit und Kostenschuldner sauber aufspalten.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
+
+## Fallweichen dieser Speziallage
+
+1. Rolle, Ziel und Entscheidungsdruck klaeren.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+
+## Prüfprogramm
+
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
+
+## 3. `anwaelte-geldwaesche-risikoanalyse-kanzlei-kaltstart-und-fakten`
+
+**Fokus:** Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+
+# Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+
+## Konkreter Berufsrechtskern: Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** GwG-Risikoklasse, Identifizierung, wirtschaftlich Berechtigte, Verdachtsmeldung und Tätigkeitsverbot gesondert prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
+
+## Fallweichen dieser Speziallage
+
+1. Rolle, Ziel und Entscheidungsdruck klaeren.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+
+## Prüfprogramm
+
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
+
+## 4. `anwaelte-haftpflichtversicherung-deckungsluecke-kaltstart-und-f`
+
+**Fokus:** Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+
+# Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+
+## Konkreter Berufsrechtskern: Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** Pflichtversicherung, Deckung, Ausschlüsse, Anzeigeobliegenheiten und Regressfenster sichtbar machen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
+
+## Fallweichen dieser Speziallage
+
+1. Rolle, Ziel und Entscheidungsdruck klaeren.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+
+## Prüfprogramm
+
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.

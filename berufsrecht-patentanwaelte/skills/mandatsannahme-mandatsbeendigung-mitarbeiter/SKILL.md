@@ -1,0 +1,226 @@
+---
+name: mandatsannahme-mandatsbeendigung-mitarbeiter
+description: "Nutze dies, wenn Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf prüfen.; Erstelle eine Arbeitsfassung zu Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `mandatsannahme` | Mandatsannahme: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mandatsannahme im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
+| `mandatsbeendigung` | Mandatsbeendigung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mandatsbeendigung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
+| `mitarbeiter` | Mitarbeiter: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mitarbeiter im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
+| `nebenberuf` | Nebenberuf: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Nebenberuf im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
+
+## Arbeitsweg
+
+Für **Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `mandatsannahme`
+
+**Fokus:** Mandatsannahme: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mandatsannahme im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
+# Mandatsannahme
+
+## Fachkern: Mandatsannahme
+- **Spezialgegenstand:** Mandatsannahme; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** PAO, BOPA, PatG, MarkenG/DesignG, EPÜ/UPC-Schnittstellen, Fristen, Geheimnisschutz und Patentanwaltskammer.
+- **Entscheidende Weiche:** Erfinder-/Mandantenrolle, Offenbarung, Priorität, Vertretungsbefugnis, Frist, Kollisionsrisiko und Kammerantwort trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** Mandatsannahme im Berufsrecht für Patentanwälte
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** PAO, MarkenG/PatG Schnittstellen, Berufsordnung, RDG, GwG und Kammerhinweise live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## 2. `mandatsbeendigung`
+
+**Fokus:** Mandatsbeendigung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mandatsbeendigung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
+# Mandatsbeendigung
+
+## Fachkern: Mandatsbeendigung
+- **Spezialgegenstand:** Mandatsbeendigung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** PAO, BOPA, PatG, MarkenG/DesignG, EPÜ/UPC-Schnittstellen, Fristen, Geheimnisschutz und Patentanwaltskammer.
+- **Entscheidende Weiche:** Erfinder-/Mandantenrolle, Offenbarung, Priorität, Vertretungsbefugnis, Frist, Kollisionsrisiko und Kammerantwort trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** Mandatsbeendigung im Berufsrecht für Patentanwälte
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** PAO, MarkenG/PatG Schnittstellen, Berufsordnung, RDG, GwG und Kammerhinweise live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## 3. `mitarbeiter`
+
+**Fokus:** Mitarbeiter: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mitarbeiter im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
+# Mitarbeiter
+
+## Fachkern: Mitarbeiter
+- **Spezialgegenstand:** Mitarbeiter; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** PAO, BOPA, PatG, MarkenG/DesignG, EPÜ/UPC-Schnittstellen, Fristen, Geheimnisschutz und Patentanwaltskammer.
+- **Entscheidende Weiche:** Erfinder-/Mandantenrolle, Offenbarung, Priorität, Vertretungsbefugnis, Frist, Kollisionsrisiko und Kammerantwort trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** Mitarbeiter im Berufsrecht für Patentanwälte
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** PAO, MarkenG/PatG Schnittstellen, Berufsordnung, RDG, GwG und Kammerhinweise live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## 4. `nebenberuf`
+
+**Fokus:** Nebenberuf: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Nebenberuf im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
+# Nebenberuf
+
+## Fachkern: Nebenberuf
+- **Spezialgegenstand:** Nebenberuf; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** PAO, BOPA, PatG, MarkenG/DesignG, EPÜ/UPC-Schnittstellen, Fristen, Geheimnisschutz und Patentanwaltskammer.
+- **Entscheidende Weiche:** Erfinder-/Mandantenrolle, Offenbarung, Priorität, Vertretungsbefugnis, Frist, Kollisionsrisiko und Kammerantwort trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** Nebenberuf im Berufsrecht für Patentanwälte
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** PAO, MarkenG/PatG Schnittstellen, Berufsordnung, RDG, GwG und Kammerhinweise live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
+- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
+
+## Output
+
+Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.

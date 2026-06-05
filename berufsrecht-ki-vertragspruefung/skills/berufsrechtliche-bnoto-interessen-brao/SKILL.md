@@ -1,6 +1,6 @@
 ---
 name: berufsrechtliche-bnoto-interessen-brao
-description: "Spezial Berufsrechtliche Erstpruefung Und Mandatsziel, Spezial Bnoto Mehrparteien Konflikt Und Interessen, Spezial Brao Zahlen Schwellen Und Berechnung: Spezial Berufsrechtliche Erstpruefung Und Mandatsziel; Spezial Bnoto Mehrparteien Konflikt Und Interessen; Spezial Brao Zahlen Schwellen Und Berechnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Berufsrechtliche Erstpruefung Und Mandatsziel, Spezial Bnoto Mehrparteien Konflikt Und Interessen, Spezial Brao Zahlen Schwellen Und Berechnung im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Berufsrechtliche Erstpruefung Und Mandatsziel, Spezial Bnoto Mehrparteien Konflikt Und Interessen, Spezial Brao Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Berufsrechtliche Erstpruefung Und Mandatsziel, Spezial Bnoto Mehrparteien Konflikt Und Interessen, Spezial Brao Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Berufsrechtliche Erstpruefung Und Mandatsziel, Spezial Bnoto Mehrparteien Konflikt Und Interessen, Spezial Brao Zahlen Schwellen Und Berechnung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-bnoto-mehrparteien-konflikt-und-interessen` | Bnoto: Mehrparteienkonflikt und Interessenmatrix im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-brao-zahlen-schwellen-und-berechnung` | Brao: Zahlen, Schwellenwerte und Berechnung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Berufsrechtliche Erstpruefung Und Mandatsziel, Spezial Bnoto Mehrparteien Konflikt Und Interessen, Spezial Brao Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

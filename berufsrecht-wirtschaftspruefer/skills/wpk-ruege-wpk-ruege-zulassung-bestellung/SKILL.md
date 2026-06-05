@@ -1,6 +1,6 @@
 ---
 name: wpk-ruege-wpk-ruege-zulassung-bestellung
-description: "Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register: Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U; Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf; Zulassung Bestellung Und Register. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-organisationspf` | Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `zulassung-bestellung-und-register` | Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

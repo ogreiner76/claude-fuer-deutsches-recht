@@ -1,0 +1,226 @@
+---
+name: mandanten-beteiligtenkommunikation-notar
+description: "Nutze dies, wenn Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung im Plugin Berufsgerichtliche Verfahren Freie Berufe konkret bearbeitet werden soll. Auslöser: Bitte Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung prüfen.; Erstelle eine Arbeitsfassung zu Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `mandanten-oder-beteiligtenkommunikation` | Beteiligtenkommunikation: prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
+| `notar-disziplinar-bnoto` | Notar Disziplinarverfahren BNotO: prüft Dienstaufsicht, Disziplinarverfahren, Amtsenthebung, Verwahrung und Urkundspflichten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
+| `patentanwalt-berufsgericht-pao` | Patentanwalt Berufsgericht PAO: prüft PAO-Pflichten, Patentanwaltskammer, berufsgerichtliches Verfahren und Schutzrechtsmandate in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
+| `protokoll-und-nachbereitung` | Protokoll und Nachbereitung: prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
+
+## Arbeitsweg
+
+Für **Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `mandanten-oder-beteiligtenkommunikation`
+
+**Fokus:** Beteiligtenkommunikation: prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+
+# Beteiligtenkommunikation
+
+## Fachkern: Beteiligtenkommunikation
+- **Spezialgegenstand:** Beteiligtenkommunikation wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
+- **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** übersetzt das Ergebnis in klare, taktisch sichere Kommunikation
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** BRAO, PAO, StBerG, WPO, BNotO, BORA/BOStB/BS WP/vBP und einschlägige Verfahrensnormen live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Berufsrecht ist häufig existenzgefährdend; Sofortvollzug und Zulassungsfolgen zuerst prüfen.
+- Keine Kammer- oder Mandatsgeheimnisse in ungeprüfte Systeme eingeben.
+- Rechtsprechung nur frei/amtlich verifiziert ausgeben.
+
+## Output
+
+Erzeuge je nach Auftrag: Verteidigungsvermerk, Kammerantwort, Antrag, Klagebaustein, Fristenblatt oder Vergleichsvorschlag. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## 2. `notar-disziplinar-bnoto`
+
+**Fokus:** Notar Disziplinarverfahren BNotO: prüft Dienstaufsicht, Disziplinarverfahren, Amtsenthebung, Verwahrung und Urkundspflichten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+
+# Notar Disziplinarverfahren BNotO
+
+## Fachkern: Notar Disziplinarverfahren BNotO
+- **Spezialgegenstand:** Notar Disziplinarverfahren BNotO wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
+- **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** Dienstaufsicht, Disziplinarverfahren, Amtsenthebung, Verwahrung und Urkundspflichten
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** BRAO, PAO, StBerG, WPO, BNotO, BORA/BOStB/BS WP/vBP und einschlägige Verfahrensnormen live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Berufsrecht ist häufig existenzgefährdend; Sofortvollzug und Zulassungsfolgen zuerst prüfen.
+- Keine Kammer- oder Mandatsgeheimnisse in ungeprüfte Systeme eingeben.
+- Rechtsprechung nur frei/amtlich verifiziert ausgeben.
+
+## Output
+
+Erzeuge je nach Auftrag: Verteidigungsvermerk, Kammerantwort, Antrag, Klagebaustein, Fristenblatt oder Vergleichsvorschlag. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## 3. `patentanwalt-berufsgericht-pao`
+
+**Fokus:** Patentanwalt Berufsgericht PAO: prüft PAO-Pflichten, Patentanwaltskammer, berufsgerichtliches Verfahren und Schutzrechtsmandate in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+
+# Patentanwalt Berufsgericht PAO
+
+## Fachkern: Patentanwalt Berufsgericht PAO
+- **Spezialgegenstand:** Patentanwalt Berufsgericht PAO wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
+- **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** PAO-Pflichten, Patentanwaltskammer, berufsgerichtliches Verfahren und Schutzrechtsmandate
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** BRAO, PAO, StBerG, WPO, BNotO, BORA/BOStB/BS WP/vBP und einschlägige Verfahrensnormen live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Berufsrecht ist häufig existenzgefährdend; Sofortvollzug und Zulassungsfolgen zuerst prüfen.
+- Keine Kammer- oder Mandatsgeheimnisse in ungeprüfte Systeme eingeben.
+- Rechtsprechung nur frei/amtlich verifiziert ausgeben.
+
+## Output
+
+Erzeuge je nach Auftrag: Verteidigungsvermerk, Kammerantwort, Antrag, Klagebaustein, Fristenblatt oder Vergleichsvorschlag. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## 4. `protokoll-und-nachbereitung`
+
+**Fokus:** Protokoll und Nachbereitung: prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+
+# Protokoll und Nachbereitung
+
+## Fachkern: Protokoll und Nachbereitung
+- **Spezialgegenstand:** Protokoll und Nachbereitung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
+- **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+
+**Fokus:** sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** BRAO, PAO, StBerG, WPO, BNotO, BORA/BOStB/BS WP/vBP und einschlägige Verfahrensnormen live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+
+## Spezielle Leitplanken
+
+- Berufsrecht ist häufig existenzgefährdend; Sofortvollzug und Zulassungsfolgen zuerst prüfen.
+- Keine Kammer- oder Mandatsgeheimnisse in ungeprüfte Systeme eingeben.
+- Rechtsprechung nur frei/amtlich verifiziert ausgeben.
+
+## Output
+
+Erzeuge je nach Auftrag: Verteidigungsvermerk, Kammerantwort, Antrag, Klagebaustein, Fristenblatt oder Vergleichsvorschlag. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.

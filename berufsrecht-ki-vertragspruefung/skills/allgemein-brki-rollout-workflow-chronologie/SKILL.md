@@ -1,6 +1,6 @@
 ---
 name: allgemein-brki-rollout-workflow-chronologie
-description: "Allgemein, Brki Rollout Trainings Workflow, Workflow Chronologie Und Belegmatrix: Allgemein; Brki Rollout Trainings Workflow; Workflow Chronologie Und Belegmatrix. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Allgemein, Brki Rollout Trainings Workflow, Workflow Chronologie Und Belegmatrix im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Allgemein, Brki Rollout Trainings Workflow, Workflow Chronologie Und Belegmatrix prüfen.; Erstelle eine Arbeitsfassung zu Allgemein, Brki Rollout Trainings Workflow, Workflow Chronologie Und Belegmatrix.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Allgemein, Brki Rollout Trainings Workflow, Workflow Chronologie Und Belegmatrix
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `brki-rollout-trainings-workflow` | Workflow fuer KI-Rollout in der Kanzlei: Pilotgruppe, Trainings (Halbtages-Workshop), Approval-Prozess fuer eingesetzte Tools, Reviewer-Liste, Dokumentation, KPIs. Routet in berufsrecht-ki-vertragspruefung-kaltstart-interview. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin berufsrecht-ki-vertragspruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Allgemein, Brki Rollout Trainings Workflow, Workflow Chronologie Und Belegmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
