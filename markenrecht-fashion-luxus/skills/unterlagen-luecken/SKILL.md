@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Markenrecht Fashion Luxus** ein Fall noch 
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Markenrecht Fashion/Luxus oft fehlend: Markenregisterauszug, Lizenzvertrag, Abmahnung.
+- **Pro Lücke.** Beweisthema, Beweismittel (Verkehrsbefragung Verkehrsgeltung, Benutzungsnachweis), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Widerspruch 3 Monate § 42 MarkenG.
+- **Beschaffung extern.** DPMA (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Markenrecht Fashion/Luxus typischerweise Markenregisterauszug, Lizenzvertrag zuerst.
 
 ## Qualitätsanker
 

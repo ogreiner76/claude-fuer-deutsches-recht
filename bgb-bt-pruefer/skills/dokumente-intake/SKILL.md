@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Bgb Bt Prüfer** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
-- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
-- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
-- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+- **Sortieren nach Dokumenttyp.** Bei BGB Besonderer Teil — Prüfungsschemata typisch: Verträge, Lieferscheine, Rechnungen, Mängelrügen.
+- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Verjährung 3 Jahre § 195 BGB, Werkvertrag 5 Jahre § 634a).
+- **Beweiswert einordnen.** Urkunden, Zeugen, Sachverständige jeweils mit Tatsachenbezug.
+- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
+- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
 
 ## Output
 
-Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Vertragsparteien.
 
 ## Qualitätsanker
 

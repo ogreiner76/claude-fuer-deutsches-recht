@@ -28,14 +28,13 @@ Nutze diesen Skill, wenn im Bereich **Zitierweise Deutsches Recht** ein Fall noc
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Autor, Korrektor, Mandant) und welcher Output wird gebraucht?
+- **Normenanker.** Standardzitierregeln (Gericht, Datum, Az, Fundstelle, Rn). Tragende Norm vor Detail prüfen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Zitierweise deutsches Recht typische Eskalationsstufen: Zitiernachweis, Quellenverzeichnis, Korrektur falsch zitierter Stellen.
 
 ## Qualitätsanker
 

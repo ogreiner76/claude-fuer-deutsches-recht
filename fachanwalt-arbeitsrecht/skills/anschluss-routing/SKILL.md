@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Arbeitsrecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
-- Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
-- Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
+- **Engpass zuerst.** Bei Fachanwalt Arbeitsrecht typischer Engpass: § 4 KSchG 3 Wochen Kündigungsschutzklage oder Arbeitsvertrag.
+- **Skill-Auswahl** nach Sachverhalt, Rolle (Arbeitnehmer, Arbeitgeber), Frist und gewünschtem Output.
+- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
+- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
+- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
 
 ## Output
 
-Routing-Entscheidung mit Anschluss-Skills, Reihenfolge, Abbruchkriterien und nächster Aktion.
+Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Fachanwalt Arbeitsrecht.
 
 ## Qualitätsanker
 

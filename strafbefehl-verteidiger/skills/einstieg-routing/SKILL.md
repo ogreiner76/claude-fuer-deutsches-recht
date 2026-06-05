@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Strafbefehl Verteidiger** ein Fall noch so
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Beschuldigter, Staatsanwaltschaft, Amtsrichter) und welcher Output wird gebraucht?
+- **Fristen zuerst.** § 410 StPO Einspruch 2 Wochen; Hauptverhandlung Antrag.
+- **Normenanker.** §§ 407 ff. StPO, § 410 StPO Einspruch 2 Wochen. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Amtsgericht / Staatsanwaltschaft — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Strafbefehl-Verteidigung typische Eskalationsstufen: Einspruch, Akteneinsicht-Antrag, Verteidigungsstrategie-Memo.
 
 ## Qualitätsanker
 

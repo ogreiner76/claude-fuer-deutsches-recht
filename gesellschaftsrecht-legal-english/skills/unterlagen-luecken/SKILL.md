@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Gesellschaftsrecht Legal English** ein Fal
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Gesellschaftsrecht in legal English oft fehlend: Articles of Association, Shareholders Agreement, Board Resolutions.
+- **Pro Lücke.** Beweisthema, Beweismittel (Cap table, Board minutes), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: UK confirmation statement annual.
+- **Beschaffung extern.** UK Companies House (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Gesellschaftsrecht in legal English typischerweise Articles of Association, Shareholders Agreement zuerst.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Sportrecht** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
-- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
-- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
-- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+- **Sortieren nach Dokumenttyp.** Bei Fachanwalt Sportrecht typisch: Spielerlizenz, Verbandssatzung, Transferregister, Doping-Probe-Protokoll.
+- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Berufung CAS 21 Tage, Doping-Anhörung).
+- **Beweiswert einordnen.** Spielprotokolle, Doping-Analyse Labor, Zeugenvernehmungen jeweils mit Tatsachenbezug.
+- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
+- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
 
 ## Output
 
-Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Sportler.
 
 ## Qualitätsanker
 

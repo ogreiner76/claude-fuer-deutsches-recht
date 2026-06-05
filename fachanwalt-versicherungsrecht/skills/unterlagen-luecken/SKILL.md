@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Versicherungsrecht** ein Fall n
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Fachanwalt Versicherungsrecht oft fehlend: Versicherungsschein, AVB, Schadensanzeige.
+- **Pro Lücke.** Beweisthema, Beweismittel (Schadensbilder, SV-Gutachten Schaden), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: § 12 VVG Klagefrist.
+- **Beschaffung extern.** Zivilgerichte (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fachanwalt Versicherungsrecht typischerweise Versicherungsschein, AVB zuerst.
 
 ## Qualitätsanker
 

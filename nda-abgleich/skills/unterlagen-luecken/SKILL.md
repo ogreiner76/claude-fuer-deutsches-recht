@@ -28,14 +28,14 @@ Nutze diesen Skill, wenn im Bereich **Nda Abgleich** ein Fall noch sortiert, Dok
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei NDA-Abgleich oft fehlend: NDA-Entwurf, Mustervorlage, Vorvertrags-Korrespondenz.
+- **Pro Lücke.** Beweisthema, Beweismittel (Versionsverlauf, Mailverkehr), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Geltungsdauer NDA (5-10 Jahre).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat NDA-Abgleich typischerweise NDA-Entwurf, Mustervorlage zuerst.
 
 ## Qualitätsanker
 

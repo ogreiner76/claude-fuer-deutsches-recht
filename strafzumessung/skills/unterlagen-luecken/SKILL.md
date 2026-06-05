@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Strafzumessung** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Strafzumessung oft fehlend: Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR.
+- **Pro Lücke.** Beweisthema, Beweismittel (BZR-Auszug, Persönlichkeitsgutachten), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Revision 1 Woche/1 Monat § 341 StPO.
+- **Beschaffung extern.** Strafgericht (Amts-/Landgericht) (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Strafzumessung typischerweise Anklageschrift, Urteilsentwurf zuerst.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Verkehr Infrastrukturrecht** ein Fall noch
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Verkehr-Infrastrukturrecht typische Outputs: Einwendung, Klage gegen Planfeststellungsbeschluss, Stellungnahme.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Behörde, sachlich) / Behörde/Gericht (Eisenbahn-BBundesamt, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Klagefrist Planfeststellung.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Verkehr-Infrastrukturrecht sofort: Einwendung oder Klage gegen Planfeststellungsbeschluss.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Fachanwalt Handels- und Gesellschaftsrecht oft fehlend: Satzung, Gesellschafterbeschluss, HV-Protokoll.
+- **Pro Lücke.** Beweisthema, Beweismittel (Gesellschafterprotokolle, HR-Auszug), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: § 246 AktG Anfechtung 1 Monat.
+- **Beschaffung extern.** Handelsregister (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fachanwalt Handels- und Gesellschaftsrecht typischerweise Satzung, Gesellschafterbeschluss zuerst.
 
 ## Qualitätsanker
 

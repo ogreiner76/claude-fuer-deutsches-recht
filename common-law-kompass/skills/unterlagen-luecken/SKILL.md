@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Common Law Kompass** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Common Law Kompass oft fehlend: Pleadings, Discovery requests, Affidavits.
+- **Pro Lücke.** Beweisthema, Beweismittel (Witness statements, Expert reports), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Statutes of Limitations je Jurisdiction.
+- **Beschaffung extern.** UK Supreme Court, US Supreme Court (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Common Law Kompass typischerweise Pleadings, Discovery requests zuerst.
 
 ## Qualitätsanker
 

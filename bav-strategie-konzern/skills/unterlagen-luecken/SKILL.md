@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Bav Strategie Konzern** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Betriebliche Altersversorgung im Konzern oft fehlend: Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen.
+- **Pro Lücke.** Beweisthema, Beweismittel (Aktuarisches Gutachten, Tarifverträge), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Anpassungsprüfung alle 3 Jahre § 16 BetrAVG.
+- **Beschaffung extern.** BaFin (PSV) (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Betriebliche Altersversorgung im Konzern typischerweise Versorgungsordnung, Pensionsfonds-Vereinbarung zuerst.
 
 ## Qualitätsanker
 

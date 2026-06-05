@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Einfache/Leichte Sprache Jura typische Outputs: Bescheid in Leichter Sprache, Mandantenbrief in einfacher Sprache, Glossar.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Anwalt/Behörde, sachlich) / Behörde/Gericht (Behörden mit Verständlichkeitspflicht, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: gesetzliche Form-/Fristerfordernisse.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Einfache/Leichte Sprache Jura sofort: Bescheid in Leichter Sprache oder Mandantenbrief in einfacher Sprache.
 
 ## Qualitätsanker
 

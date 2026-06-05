@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Forschungszulage Antragstellung** ein Fall
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Forschungszulage FZulG typische Outputs: BSFZ-Antrag, Festsetzungsantrag FA, Einspruch.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (BSFZ, sachlich) / Behörde/Gericht (Bescheinigungsstelle Forschungszulage (BSFZ), formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Antrag jederzeit.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Forschungszulage FZulG sofort: BSFZ-Antrag oder Festsetzungsantrag FA.
 
 ## Qualitätsanker
 

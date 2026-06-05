@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Fachanwalt Handels- und Gesellschaftsrecht typische Outputs: Beschlussanfechtung, Squeeze-out-Klage, Geschäftsführerklage, Compliance-Memo.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Vorstand/Geschäftsführung, sachlich) / Behörde/Gericht (Handelsregister, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: § 246 AktG Anfechtung 1 Monat.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fachanwalt Handels- und Gesellschaftsrecht sofort: Beschlussanfechtung oder Squeeze-out-Klage.
 
 ## Qualitätsanker
 

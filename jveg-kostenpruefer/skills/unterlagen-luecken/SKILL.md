@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Jveg Kostenpruefer** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei JVEG-Kostenprüfer oft fehlend: SV-Rechnung, Reisekostenabrechnung, Stundennachweise.
+- **Pro Lücke.** Beweisthema, Beweismittel (Aktennotizen, Reiseplanung), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Entschädigungsantrag binnen 3 Monaten.
+- **Beschaffung extern.** Gericht (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat JVEG-Kostenprüfer typischerweise SV-Rechnung, Reisekostenabrechnung zuerst.
 
 ## Qualitätsanker
 

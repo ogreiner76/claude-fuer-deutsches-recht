@@ -28,14 +28,14 @@ Nutze diesen Skill, wenn im Bereich **Word Legal Ai Plugin And Skill For German 
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Word-Legal-AI Plugin/Skill oft fehlend: Word-Datei (.docx), Schriftsatz-Vorlage, Mandantenmail-Vorlage.
+- **Pro Lücke.** Beweisthema, Beweismittel (Urkunde, Zeuge), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: erste Frist.
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Word-Legal-AI Plugin/Skill typischerweise Word-Datei (.docx), Schriftsatz-Vorlage zuerst.
 
 ## Qualitätsanker
 

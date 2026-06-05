@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Robotik Recht** ein Fall noch sortiert, Do
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Hersteller, Operator/Anwender, Geschädigte) und welcher Output wird gebraucht?
+- **Fristen zuerst.** CE-Konformität vor Inverkehrbringen.
+- **Normenanker.** KI-VO, ProdSG/GPSR, ProdHaftG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** KI-Aufsicht / Marktüberwachung — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Robotik-Recht typische Eskalationsstufen: Konformitätsmemo, Haftungsanalyse, Versicherungs-Memo.
 
 ## Qualitätsanker
 

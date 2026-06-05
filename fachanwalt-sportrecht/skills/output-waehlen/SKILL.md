@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Sportrecht** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Fachanwalt Sportrecht typische Outputs: Verbandsbeschwerde, CAS-Berufung, Vertretung Anhörung, Spielervertrag.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Verein/Verband, sachlich) / Behörde/Gericht (Verbandsschiedsgerichte, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Berufung CAS 21 Tage.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fachanwalt Sportrecht sofort: Verbandsbeschwerde oder CAS-Berufung.
 
 ## Qualitätsanker
 

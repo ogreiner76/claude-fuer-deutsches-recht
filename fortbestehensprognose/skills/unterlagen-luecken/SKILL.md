@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fortbestehensprognose** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Fortbestehensprognose StaRUG/InsO oft fehlend: Liquiditätsplan 24 Monate, Erfolgsplan, Bilanz.
+- **Pro Lücke.** Beweisthema, Beweismittel (Bankbestätigungen, Forderungslisten), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Antragsfrist 3 Wochen § 15a InsO.
+- **Beschaffung extern.** Insolvenzgericht (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fortbestehensprognose StaRUG/InsO typischerweise Liquiditätsplan 24 Monate, Erfolgsplan zuerst.
 
 ## Qualitätsanker
 

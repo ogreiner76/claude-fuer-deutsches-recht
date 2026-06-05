@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fluggastrechte** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Fluggastrechte VO 261/2004 oft fehlend: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung.
+- **Pro Lücke.** Beweisthema, Beweismittel (Boardingpass, Verspätungsdokumentation Flightradar/LBA), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Verjährung 3 Jahre § 195 BGB.
+- **Beschaffung extern.** LBA (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fluggastrechte VO 261/2004 typischerweise Buchungsbestätigung, Boardingpass zuerst.
 
 ## Qualitätsanker
 

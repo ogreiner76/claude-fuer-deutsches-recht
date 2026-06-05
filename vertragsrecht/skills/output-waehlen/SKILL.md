@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Vertragsrecht** ein Fall noch sortiert, Do
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Vertragsrecht (BGB-Vertragsrecht) typische Outputs: Vertragsentwurf, AGB-Check, Klage Erfüllung, Klage Schadensersatz.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Drittbegünstigte, sachlich) / Behörde/Gericht (Zivilgerichte, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Verjährung 3 Jahre § 195 BGB.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Vertragsrecht (BGB-Vertragsrecht) sofort: Vertragsentwurf oder AGB-Check.
 
 ## Qualitätsanker
 

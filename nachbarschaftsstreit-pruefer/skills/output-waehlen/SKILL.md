@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Nachbarschaftsstreit Prüfer** ein Fall no
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Nachbarschaftsstreit typische Outputs: Schiedsamtsantrag, Klage AG, Unterlassung/Beseitigung-Antrag, Mandantenbrief.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Nachbar, sachlich) / Behörde/Gericht (Amtsgericht, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: § 906 II 2 BGB jährliche Berechnung.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Nachbarschaftsstreit sofort: Schiedsamtsantrag oder Klage AG.
 
 ## Qualitätsanker
 

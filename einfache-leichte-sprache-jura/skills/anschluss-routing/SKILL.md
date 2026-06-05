@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Arbeitsweg
 
-- Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
-- Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
-- Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
+- **Engpass zuerst.** Bei Einfache/Leichte Sprache Jura typischer Engpass: erste Frist oder Originalbescheid.
+- **Skill-Auswahl** nach Sachverhalt, Rolle (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde), Frist und gewünschtem Output.
+- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
+- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
+- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
 
 ## Output
 
-Routing-Entscheidung mit Anschluss-Skills, Reihenfolge, Abbruchkriterien und nächster Aktion.
+Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Einfache/Leichte Sprache Jura.
 
 ## Qualitätsanker
 

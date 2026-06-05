@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Patentrecherche** ein Fall noch sortiert, 
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Patentrecherche (FTO, Validity, Family-Watch) typische Outputs: FTO-Bericht, Validity-Analyse, Stand der Technik-Liste, Family-Watch.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Erfinder, sachlich) / Behörde/Gericht (DPMA, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Prioritätsjahr 12 Monate.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Patentrecherche (FTO, Validity, Family-Watch) sofort: FTO-Bericht oder Validity-Analyse.
 
 ## Qualitätsanker
 

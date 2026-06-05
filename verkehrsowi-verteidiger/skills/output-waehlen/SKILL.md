@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Verkehrsowi Verteidiger** ein Fall noch so
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Verkehrs-OWi-Verteidigung typische Outputs: Einspruch, Akteneinsicht-Antrag, Sachverständigen-Antrag Messung.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Bußgeldbehörde, sachlich) / Behörde/Gericht (Bußgeldbehörde, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Einspruch 2 Wochen § 67 OWiG.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Verkehrs-OWi-Verteidigung sofort: Einspruch oder Akteneinsicht-Antrag.
 
 ## Qualitätsanker
 

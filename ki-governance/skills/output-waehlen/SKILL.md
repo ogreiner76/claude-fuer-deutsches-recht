@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Ki Governance** ein Fall noch sortiert, Do
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei KI-Governance typische Outputs: KI-Governance-Memo, Risikoklassifizierung, Konformitätsbewertungsplan.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Aufsicht, sachlich) / Behörde/Gericht (KI-Aufsichtsbehörde national, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: KI-VO-Geltung gestaffelt 2025-2027.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei KI-Governance sofort: KI-Governance-Memo oder Risikoklassifizierung.
 
 ## Qualitätsanker
 

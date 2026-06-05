@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Jurastudium** ein Fall noch sortiert, Doku
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Jurastudium (Klausur, AG, Examen) typische Outputs: Klausurlösung Gutachtenstil, Hausarbeit, AG-Lösung, Lernplan.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Repetitor, sachlich) / Behörde/Gericht (Universität, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Klausurzeit.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Jurastudium (Klausur, AG, Examen) sofort: Klausurlösung Gutachtenstil oder Hausarbeit.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Dsa Dma Digitalregulierung** ein Fall noch
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Plattform/VLOP, Nutzer, DSC) und welcher Output wird gebraucht?
+- **Fristen zuerst.** DSA Risikoberichte jährlich; VLOP/VLOSE-Designation.
+- **Normenanker.** DSA EU 2022/2065, DMA EU 2022/1925, P2B EU 2019/1150. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** EU-Kommission / BNetzA als DSC — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei DSA/DMA Digitalregulierung typische Eskalationsstufen: DSA-Compliance-Memo, Risk Assessment, T&C-Update.
 
 ## Qualitätsanker
 

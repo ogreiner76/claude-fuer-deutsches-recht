@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Vergaberecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Bieter, Öffentlicher Auftraggeber, Vergabekammer) und welcher Output wird gebraucht?
+- **Fristen zuerst.** § 160 III GWB Rüge unverzüglich (10 Tage); Nachprüfungsantrag 15 Tage.
+- **Normenanker.** GWB §§ 97 ff., VgV, VOB/A, VOL/A, UVgO. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Vergabekammer Bund/Länder / OLG Vergabesenat — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Vergaberecht typische Eskalationsstufen: Rüge, Nachprüfungsantrag VK, Sofortige Beschwerde OLG.
 
 ## Qualitätsanker
 

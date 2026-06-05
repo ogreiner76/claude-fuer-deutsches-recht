@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Arbeitsrecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Fachanwalt Arbeitsrecht oft fehlend: Arbeitsvertrag, Kündigung, Aufhebungsvertrag.
+- **Pro Lücke.** Beweisthema, Beweismittel (Zugangs-Nachweis Kündigung, Lohnzettel), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: § 4 KSchG 3 Wochen Kündigungsschutzklage.
+- **Beschaffung extern.** Arbeitsgericht (1. Instanz) (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fachanwalt Arbeitsrecht typischerweise Arbeitsvertrag, Kündigung zuerst.
 
 ## Qualitätsanker
 

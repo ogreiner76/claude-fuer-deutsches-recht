@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Medizinrecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Patient, Arzt/Krankenhaus, Krankenkasse) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Verjährung 3 Jahre § 195 BGB; Klagefrist KV-Bescheid.
+- **Normenanker.** BGB §§ 630a ff. Behandlungsvertrag, AMG, MPDG, SGB V, BÄO, MBO-Ä. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** LG (Arzthaftung) / Ärztekammer — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Medizinrecht typische Eskalationsstufen: Arzthaftungsklage, Selbstständiges Beweisverfahren, KV-Widerspruch.
 
 ## Qualitätsanker
 

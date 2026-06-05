@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Krisenfrueherkennung Starug** ein Fall noc
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Krisenfrüherkennung StaRUG oft fehlend: Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6.
+- **Pro Lücke.** Beweisthema, Beweismittel (Forderungen offen, Bankenrunde-Protokolle), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Frühzeitige Indikatoren.
+- **Beschaffung extern.** Restrukturierungsgericht (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Krisenfrüherkennung StaRUG typischerweise Liquiditätsplan, Frühwarn-Indikatoren zuerst.
 
 ## Qualitätsanker
 

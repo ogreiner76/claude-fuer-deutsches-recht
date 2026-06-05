@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Aktenauszug Gerichtsverfahren** ein Fall n
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Mandant, Gegenpartei, Gericht) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Akteneinsicht im laufenden Verfahren jederzeit; Sofortige Beschwerde 2 Wochen § 569 ZPO.
+- **Normenanker.** § 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** AG/LG/OLG / Geschäftsstelle — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Aktenauszüge zivilgerichtlicher Verfahren typische Eskalationsstufen: Aktenauszug mit Inhaltsverzeichnis, Chronologie, Beweisindex.
 
 ## Qualitätsanker
 

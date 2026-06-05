@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Aktenaufbereiter Strafrecht** ein Fall noc
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Strafrechtliche Aktenaufbereitung oft fehlend: Ermittlungsakte, Anklageschrift, Hauptverhandlungsprotokoll.
+- **Pro Lücke.** Beweisthema, Beweismittel (Zeugenaussagen, Tatortfotos), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Anklage-Erwiderungsfrist.
+- **Beschaffung extern.** Staatsanwaltschaft (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Strafrechtliche Aktenaufbereitung typischerweise Ermittlungsakte, Anklageschrift zuerst.
 
 ## Qualitätsanker
 

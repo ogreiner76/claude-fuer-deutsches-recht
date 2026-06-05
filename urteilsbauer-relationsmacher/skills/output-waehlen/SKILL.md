@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Urteilsbauer Relationsmacher** ein Fall no
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Urteilsbauer/Relationsmacher typische Outputs: Relation (Klägerstation/Beklagtenstation), Urteilsskizze, Tatbestand/Entscheidungsgründe.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Rechtspfleger, sachlich) / Behörde/Gericht (Zivilgerichte, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Verkündung.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Urteilsbauer/Relationsmacher sofort: Relation (Klägerstation/Beklagtenstation) oder Urteilsskizze.
 
 ## Qualitätsanker
 

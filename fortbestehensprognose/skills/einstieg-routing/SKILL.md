@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fortbestehensprognose** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Geschäftsführung, Wirtschaftsprüfer, Insolvenzverwalter) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Antragsfrist 3 Wochen § 15a InsO; StaRUG-Restrukturierungsanzeige.
+- **Normenanker.** § 18 InsO drohende Zahlungsunfähigkeit, StaRUG §§ 1, 14, 49, IDW S 11. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Insolvenzgericht / Restrukturierungsgericht — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fortbestehensprognose StaRUG/InsO typische Eskalationsstufen: Fortbestehensprognose IDW S 11, Restrukturierungsplan, Gutachten.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Gesellschaftsgruender** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Gründer, Notar, Handelsregister) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Handelsregistereintragung; ELSTER Anmeldung Steuern.
+- **Normenanker.** GmbHG, AktG, HGB, § 5a GmbHG UG, GenG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Handelsregister AG / Notar — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Gesellschaftsgründung typische Eskalationsstufen: Gesellschaftsvertrag, HR-Anmeldung, Steueranmeldung.
 
 ## Qualitätsanker
 

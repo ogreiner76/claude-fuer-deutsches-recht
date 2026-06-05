@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Zwangsvollstreckung** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Zwangsvollstreckung oft fehlend: Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll.
+- **Pro Lücke.** Beweisthema, Beweismittel (Titel mit Klausel, Zustellungsnachweis), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Erinnerung § 766 ZPO 2 Wochen.
+- **Beschaffung extern.** Vollstreckungsgericht (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Zwangsvollstreckung typischerweise Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB) zuerst.
 
 ## Qualitätsanker
 

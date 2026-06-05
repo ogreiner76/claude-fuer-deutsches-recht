@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Arbeitszeugnis Analyse** ein Fall noch sor
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte) und welcher Output wird gebraucht?
+- **Fristen zuerst.** BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung; Verjährung 3 Jahre § 195 BGB.
+- **Normenanker.** § 109 GewO Wohlwollensgrundsatz, § 109 II GewO Wahrheits-/Klarheitspflicht, BGB §§ 241 II, 280 I Nebenpflicht. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Arbeitsgericht / LAG — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Arbeitszeugnis-Analyse typische Eskalationsstufen: Notenmatrix, Geheimcode-Befund, Berichtigungsklage.
 
 ## Qualitätsanker
 

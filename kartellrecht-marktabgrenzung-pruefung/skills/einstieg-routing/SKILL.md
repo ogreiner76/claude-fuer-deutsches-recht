@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Kartellrecht Marktabgrenzung Prüfung** ei
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Anmelder, Wettbewerber, Kunden/Lieferanten) und welcher Output wird gebraucht?
+- **Fristen zuerst.** FKVO 25 Arbeitstage Phase I; Beschwerdefrist BKartA-Beschluss 1 Monat.
+- **Normenanker.** §§ 18-19 GWB Marktbeherrschung, §§ 35 ff. GWB Fusionskontrolle, Art. 101, 102 AEUV. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** BKartA / EU-Kommission DG COMP — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Kartellrecht-Marktabgrenzung typische Eskalationsstufen: Marktdefinitions-Memo, Anmeldung FKVO, Stellungnahme Phase II.
 
 ## Qualitätsanker
 

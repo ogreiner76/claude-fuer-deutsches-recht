@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Patentrecht** ein Fall noch sortiert, Doku
 
 ## Arbeitsweg
 
-- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
-- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
-- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
-- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+- **Sortieren nach Dokumenttyp.** Bei Patentrecht (Verfahren, Verletzung) typisch: Patentschrift, Einspruchsschrift, Verletzungsanalyse, Lizenzvertrag.
+- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Einspruch EPA 9 Monate, Beschwerde 4 Monate § 73 PatG).
+- **Beweiswert einordnen.** Stand-der-Technik-Dokumente, FTO-Analyse, SV-Gutachten Technik jeweils mit Tatsachenbezug.
+- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
+- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
 
 ## Output
 
-Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Patentinhaber.
 
 ## Qualitätsanker
 

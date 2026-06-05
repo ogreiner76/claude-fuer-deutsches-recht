@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Gesellschaftsrecht Legal English** ein Fal
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Shareholders, Board of Directors, Investors) und welcher Output wird gebraucht?
+- **Fristen zuerst.** UK confirmation statement annual; US 10-K/10-Q.
+- **Normenanker.** UK Companies Act 2006, Delaware GCL, MBCA (US). Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** UK Companies House / Delaware Secretary of State — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Gesellschaftsrecht in legal English typische Eskalationsstufen: Memo English, SPA-Markup, Drag-Along/Tag-Along clauses.
 
 ## Qualitätsanker
 

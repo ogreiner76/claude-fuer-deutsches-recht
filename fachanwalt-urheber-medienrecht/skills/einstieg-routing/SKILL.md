@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Urheber Medienrecht** ein Fall 
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Urheber/Rechteinhaber, Verwerter/Nutzer, Plattform) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Verjährung 3 Jahre § 102 UrhG; Schutzdauer 70 Jahre p.m.a..
+- **Normenanker.** UrhG, UrhDaG (DSM-RL), MStV. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** LG (Verletzung) / Schiedsstelle UrhG — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Urheber- und Medienrecht typische Eskalationsstufen: Abmahnung, Klage Unterlassung/Schadensersatz, Lizenzvertrag.
 
 ## Qualitätsanker
 

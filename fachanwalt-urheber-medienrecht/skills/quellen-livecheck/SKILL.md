@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Urheber Medienrecht** ein Fall 
 
 ## Arbeitsweg
 
-- Tragende Normen zuerst amtlich prüfen; dynamisches Recht und Behördenpraxis nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Paywall-Fundstellen nicht als alleinige Verifikation nutzen.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen.
+- **Tragende Normen amtlich.** Bei Fachanwalt Urheber- und Medienrecht: UrhG, UrhDaG (DSM-RL), MStV — gesetze-im-internet, Eur-Lex oder amtliche Datenbank.
+- **Behördenpraxis.** LG (Verletzung) (Bescheide, Auslegungserlasse, FAQ); Stand-Datum prüfen.
+- **Rechtsprechung.** Gericht, Entscheidungsform, Datum, Az, Rn, frei prüfbare Fundstelle. Keine BeckRS-/juris-Blindzitate aus Modellwissen.
+- **Kommentare/Literatur** nur mit Nutzerquelle oder lizenziertem Live-Zugriff; alte Auflage explizit markieren.
+- **Quellenstand und Unsicherheit** im Output sichtbar machen — keine Scheinpräzision.
 
 ## Output
 
-Quellenkarte mit Primärquellen, Rechtsprechungssuche, Behördenhinweisen und Zitierstandard.
+Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.
 
 ## Qualitätsanker
 

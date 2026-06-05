@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Betreuungsrecht** ein Fall noch sortiert, 
 
 ## Arbeitsweg
 
-- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
-- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
-- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
-- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+- **Sortieren nach Dokumenttyp.** Bei Betreuungsrecht typisch: Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht, Patientenverfügung.
+- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Beschwerde 1 Monat § 63 FamFG, Genehmigung gerichtlich vor Maßnahme).
+- **Beweiswert einordnen.** Ärztliches Gutachten, Persönliche Anhörung Betroffener, Sozialbericht jeweils mit Tatsachenbezug.
+- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
+- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
 
 ## Output
 
-Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Betroffener.
 
 ## Qualitätsanker
 
