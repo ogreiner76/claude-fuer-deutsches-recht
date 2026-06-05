@@ -1,6 +1,6 @@
 ---
 name: zv-pfaendungstabelle-zv-pfueb-zv-pfueb
-description: "Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank: Zv Pfaendungstabelle 2025; Zv Pfueb Arbeitsentgelt; Zv Pfueb Bank. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank prüfen.; Erstelle eine Arbeitsfassung zu Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zv-pfueb-arbeitsentgelt` | Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung). |
 | `zv-pfueb-bank` | Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: kontenpfaendung-notar-interessen-online
-description: "Spezial Kontenpfaendung Formular Portal Und Einreichung, Spezial Notar Mehrparteien Konflikt Und Interessen, Spezial Online Abschlussprodukt Und Übergabe: Spezial Kontenpfaendung Formular Portal Und Einreichung; Spezial Notar Mehrparteien Konflikt Und Interessen; Spezial Online Abschlussprodukt Und Übergabe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Kontenpfaendung Formular Portal Und Einreichung, Spezial Notar Mehrparteien Konflikt Und Interessen, Spezial Online Abschlussprodukt Und Übergabe im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kontenpfaendung Formular Portal Und Einreichung, Spezial Notar Mehrparteien Konflikt Und Interessen, Spezial Online Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kontenpfaendung Formular Portal Und Einreichung, Spezial Notar Mehrparteien Konflikt Und Interessen, Spezial Online Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Kontenpfaendung Formular Portal Und Einreichung, Spezial Notar Mehrparteien Konflikt Und Interessen, Spezial Online Abschlussprodukt Und Übergabe
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-notar-mehrparteien-konflikt-und-interessen` | Notar: Mehrparteienkonflikt und Interessenmatrix im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-online-abschlussprodukt-und-uebergabe` | Online: Abschlussprodukt und Übergabe im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Kontenpfaendung Formular Portal Und Einreichung, Spezial Notar Mehrparteien Konflikt Und Interessen, Spezial Online Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

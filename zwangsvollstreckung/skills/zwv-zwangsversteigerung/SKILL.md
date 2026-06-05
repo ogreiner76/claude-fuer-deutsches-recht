@@ -1,6 +1,6 @@
 ---
 name: zwv-zwangsversteigerung
-description: "Zwv Zwangsversteigerung Grundstueck Spezial: Zwv Zwangsversteigerung Grundstueck Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zwv Zwangsversteigerung Grundstueck Spezial im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zwv Zwangsversteigerung Grundstueck Spezial prüfen.; Erstelle eine Arbeitsfassung zu Zwv Zwangsversteigerung Grundstueck Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zwv Zwangsversteigerung Grundstueck Spezial
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zwv-zwangsversteigerung-grundstueck-spezial` | Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag. Pruefraster fuer Glaeubiger und Schuldner. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zwv Zwangsversteigerung Grundstueck Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

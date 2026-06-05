@@ -1,6 +1,6 @@
 ---
 name: zpo-zwangsvollstreckung-zv-abwehr
-description: "Spezial Zpo Tatbestand Beweis Und Belege, Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner: Spezial Zpo Tatbestand Beweis Und Belege; Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel; Zv Abwehr Schuldner. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Zpo Tatbestand Beweis Und Belege, Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Zpo Tatbestand Beweis Und Belege, Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner prüfen.; Erstelle eine Arbeitsfassung zu Spezial Zpo Tatbestand Beweis Und Belege, Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Zpo Tatbestand Beweis Und Belege, Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-zwangsvollstreckung-erstpruefung-und-mandatsziel` | Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `zv-abwehr-schuldner` | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Zpo Tatbestand Beweis Und Belege, Spezial Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

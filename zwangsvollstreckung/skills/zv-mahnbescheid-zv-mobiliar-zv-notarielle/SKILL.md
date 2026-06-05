@@ -1,6 +1,6 @@
 ---
 name: zv-mahnbescheid-zv-mobiliar-zv-notarielle
-description: "Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld: Zv Mahnbescheid Online; Zv Mobiliar Gv Auftrag; Zv Notarielle Urkunde Grundschuld. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld prüfen.; Erstelle eine Arbeitsfassung zu Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zv-mobiliar-gv-auftrag` | Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-räumung-885 (Räumung). |
 | `zv-notarielle-urkunde-grundschuld` | Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Prüfraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung Sicherungsabrede Kündigung § 1193 BGB 6-Monats-Frist Vollstreckung Grundstueck ZVG vs. persoenliches Vermögen PfUeB. Output: Vollstreckungsstrategie und Schriftsatz-Entwurf. Abgrenzung zu zv-zvg-antrag-gläubiger (Versteigerung) und zv-titel-klausel-zustellung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
-name: mahnbescheid-fristennotiz-zv-titel-zv-kontensuche
-description: "Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner: Spezial Mahnbescheid Fristennotiz Und Naechster Schritt; Zv Titel Klausel Zustellung; Zv Kontensuche Drittschuldner. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+name: mahnbescheid-fristennotiz-zv-titel-zv
+description: "Nutze dies, wenn Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner prüfen.; Erstelle eine Arbeitsfassung zu Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zv-titel-klausel-zustellung` | Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung). |
 | `zv-kontensuche-drittschuldner` | Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

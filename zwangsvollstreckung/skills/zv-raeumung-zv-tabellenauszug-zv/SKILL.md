@@ -1,6 +1,6 @@
 ---
-name: zv-raeumung-zv-tabellenauszug-zv-vermoegensauskunft
-description: "Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv: Zv Raeumung 885; Zv Tabellenauszug 201 Inso; Zv Vermoegensauskunft Gv. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+name: zv-raeumung-zv-tabellenauszug-zv
+description: "Nutze dies, wenn Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv prüfen.; Erstelle eine Arbeitsfassung zu Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zv-tabellenauszug-201-inso` | Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter. |
 | `zv-vermoegensauskunft-gv` | Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
-name: zv-vollstreckungsbescheid-zv-vollstreckungsschutz-zv-zvg
-description: "Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger: Zv Vollstreckungsbescheid Folge; Zv Vollstreckungsschutz Haertefall 765A; Zv Zvg Antrag Glaeubiger. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+name: zv-vollstreckungsbescheid-zv
+description: "Nutze dies, wenn Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger prüfen.; Erstelle eine Arbeitsfassung zu Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zv-vollstreckungsschutz-haertefall-765a` | Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz). |
 | `zv-zvg-antrag-glaeubiger` | Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

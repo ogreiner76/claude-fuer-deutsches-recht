@@ -1,6 +1,6 @@
 ---
 name: zv-elektronische-zv-eu-zv
-description: "Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter: Zv Elektronische Zustellung 2027; Zv Eu Kontenpfaendung 655 2014; Zv Kommandocenter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zv-eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter. |
 | `zv-kommandocenter` | Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

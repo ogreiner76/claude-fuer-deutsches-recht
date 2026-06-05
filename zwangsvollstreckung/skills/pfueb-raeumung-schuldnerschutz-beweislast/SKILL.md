@@ -1,6 +1,6 @@
 ---
 name: pfueb-raeumung-schuldnerschutz-beweislast
-description: "Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast: Spezial Pfueb Risikoampel Und Gegenargumente; Spezial Raeumung Compliance Dokumentation Und Akte; Spezial Schuldnerschutz Beweislast Und Darlegungslast. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-raeumung-compliance-dokumentation-und-akte` | Raeumung: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-schuldnerschutz-beweislast-und-darlegungslast` | Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
