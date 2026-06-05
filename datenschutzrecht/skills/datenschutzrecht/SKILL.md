@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht
-description: "Nutze dies bei Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk

@@ -1,13 +1,13 @@
 ---
 name: anzeige-untreue-anzeige-urheberrecht
-description: "Nutze dies bei Anzeige Untreue 266, Anzeige Urheberrecht Markenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Untreue 266, Anzeige Urheberrecht Markenrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Untreue 266, Anzeige Urheberrecht Markenrecht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Untreue 266, Anzeige Urheberrecht Markenrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Untreue 266, Anzeige Urheberrecht Markenrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

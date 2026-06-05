@@ -1,6 +1,6 @@
 ---
 name: monats-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Monats Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Monats Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Monats Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: bereicherungsausgleich-bei-kettenvertraegen
-description: "Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime."
+description: "Bei vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime."
 ---
 
 # Bereicherungsausgleich bei Kettenverträgen

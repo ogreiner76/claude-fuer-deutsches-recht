@@ -1,13 +1,13 @@
 ---
 name: designuebertragung-portfolio-designverletzung
-description: "Nutze dies bei Designuebertragung Portfolio, Designverletzung Gesamteindruck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Designuebertragung Portfolio, Designverletzung Gesamteindruck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Designuebertragung Portfolio, Designverletzung Gesamteindruck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Designuebertragung Portfolio, Designverletzung Gesamteindruck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Designuebertragung Portfolio, Designverletzung Gesamteindruck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

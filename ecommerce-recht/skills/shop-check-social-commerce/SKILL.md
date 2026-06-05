@@ -1,13 +1,13 @@
 ---
 name: shop-check-social-commerce
-description: "Nutze dies bei Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

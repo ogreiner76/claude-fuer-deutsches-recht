@@ -1,6 +1,6 @@
 ---
 name: schnelle-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Schnelle Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Schnelle Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Schnelle Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: werkhoehe-schoepfungshoehe-wissenschaft-tdm
-description: "Nutze dies bei Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

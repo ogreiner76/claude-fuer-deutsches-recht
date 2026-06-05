@@ -1,13 +1,13 @@
 ---
 name: attest-anforderungen-auslandsanerkennung
-description: "Nutze dies bei Attest Anforderungen Hochschule, Auslandsanerkennung Pruefungsleistung, Befangenheit Prüfer, Begruendung Der Note: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Attest Anforderungen Hochschule, Auslandsanerkennung Pruefungsleistung, Befangenheit Prüfer, Begruendung Der Note: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Attest Anforderungen Hochschule, Auslandsanerkennung Pruefungsleistung, Befangenheit Prüfer, Begründung Der Note
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Attest Anforderungen Hochschule, Auslandsanerkennung Pruefungsleistung, Befangenheit Prüfer, Begründung Der Note** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Attest Anforderungen Hochschule, Auslandsanerkennung Pruefungsleistung, Befangenheit Prüfer, Begründung Der Note** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: kg-haftung-ohg-vertretung
-description: "Nutze dies bei Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

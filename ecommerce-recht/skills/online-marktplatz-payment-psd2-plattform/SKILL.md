@@ -1,13 +1,13 @@
 ---
 name: online-marktplatz-payment-psd2-plattform
-description: "Nutze dies bei Online Marktplatz Haendlerverifikation, Payment Psd2 Sca Chargeback, Plattform Sperrung Haendlerrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Online Marktplatz Haendlerverifikation, Payment Psd2 Sca Chargeback, Plattform Sperrung Haendlerrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Online Marktplatz Haendlerverifikation, Payment Psd2 Sca Chargeback, Plattform Sperrung Haendlerrecht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Online Marktplatz Haendlerverifikation, Payment Psd2 Sca Chargeback, Plattform Sperrung Haendlerrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Online Marktplatz Haendlerverifikation, Payment Psd2 Sca Chargeback, Plattform Sperrung Haendlerrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

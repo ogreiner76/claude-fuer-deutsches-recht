@@ -1,13 +1,13 @@
 ---
 name: personenbedingte-kuendigung-policy-rollout
-description: "Nutze dies bei Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

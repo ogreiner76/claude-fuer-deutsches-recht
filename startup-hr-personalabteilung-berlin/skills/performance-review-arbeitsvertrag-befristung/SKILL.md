@@ -1,13 +1,13 @@
 ---
 name: performance-review-arbeitsvertrag-befristung
-description: "Nutze dies bei Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

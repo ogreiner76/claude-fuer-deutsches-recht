@@ -1,13 +1,13 @@
 ---
 name: staatsanwalt-rolle-staatsanwaltschaft
-description: "Nutze dies bei Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Uebergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Uebergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: tabletop-exercise-third-party-tls-pki-usb
-description: "Nutze dies bei Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

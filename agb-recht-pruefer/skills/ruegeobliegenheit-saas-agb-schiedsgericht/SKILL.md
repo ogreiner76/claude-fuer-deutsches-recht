@@ -1,13 +1,13 @@
 ---
 name: ruegeobliegenheit-saas-agb-schiedsgericht
-description: "Nutze dies bei Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

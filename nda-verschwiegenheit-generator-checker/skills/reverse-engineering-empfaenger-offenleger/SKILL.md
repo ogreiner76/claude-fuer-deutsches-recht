@@ -1,13 +1,13 @@
 ---
 name: reverse-engineering-empfaenger-offenleger
-description: "Nutze dies bei Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

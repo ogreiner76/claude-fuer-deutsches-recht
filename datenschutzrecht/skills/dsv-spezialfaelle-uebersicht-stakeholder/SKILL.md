@@ -1,13 +1,13 @@
 ---
 name: dsv-spezialfaelle-uebersicht-stakeholder
-description: "Nutze dies bei Dsv Spezialfaelle Uebersicht, Dsv Stakeholder Mapping, Dsv Tonfall Krisenkommunikation, Dsv Verdacht Vs Festgestellt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Spezialfaelle Uebersicht, Dsv Stakeholder Mapping, Dsv Tonfall Krisenkommunikation, Dsv Verdacht Vs Festgestellt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Spezialfaelle Uebersicht, Dsv Stakeholder Mapping, Dsv Tonfall Krisenkommunikation, Dsv Verdacht Vs Festgestellt, Dsv Zeitleiste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Spezialfaelle Uebersicht, Dsv Stakeholder Mapping, Dsv Tonfall Krisenkommunikation, Dsv Verdacht Vs Festgestellt, Dsv Zeitleiste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Spezialfaelle Uebersicht, Dsv Stakeholder Mapping, Dsv Tonfall Krisenkommunikation, Dsv Verdacht Vs Festgestellt, Dsv Zeitleiste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

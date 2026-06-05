@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-015-erster-titel-12-darlehen
-description: "Nutze dies bei PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe

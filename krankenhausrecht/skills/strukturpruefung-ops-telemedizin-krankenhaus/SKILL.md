@@ -1,13 +1,13 @@
 ---
 name: strukturpruefung-ops-telemedizin-krankenhaus
-description: "Nutze dies bei Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

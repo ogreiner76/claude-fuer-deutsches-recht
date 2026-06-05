@@ -1,13 +1,13 @@
 ---
 name: ethikkommission-forschung-exmatrikulation
-description: "Nutze dies bei Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

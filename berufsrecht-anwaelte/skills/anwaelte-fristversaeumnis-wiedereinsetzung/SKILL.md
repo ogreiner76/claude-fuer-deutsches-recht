@@ -1,13 +1,13 @@
 ---
 name: anwaelte-fristversaeumnis-wiedereinsetzung
-description: "Nutze dies bei Anwaelte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwaelte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwaelte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwaelte Haftpflichtversicherung Deckungsluecke Kaltstart Und F: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwaelte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwaelte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwaelte Haftpflichtversicherung Deckungsluecke Kaltstart Und F: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Fristversaeumnis Und Wiedereinsetzung Kaltstart Und Fa, Anwälte Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa, Anwälte Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten, Anwälte Haftpflichtversicherung Deckungsluecke Kaltstart Und F** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

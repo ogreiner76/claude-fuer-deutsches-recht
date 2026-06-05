@@ -1,6 +1,6 @@
 ---
 name: output-rechtstexte-risikoampel-tickets
-description: "Nutze dies bei Output Rechtstexte Risikoampel Tickets: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Output Rechtstexte Risikoampel Tickets: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Output Rechtstexte Risikoampel Tickets

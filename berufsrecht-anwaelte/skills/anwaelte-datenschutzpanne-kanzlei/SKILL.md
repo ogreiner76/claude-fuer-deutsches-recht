@@ -1,13 +1,13 @@
 ---
 name: anwaelte-datenschutzpanne-kanzlei
-description: "Nutze dies bei Anwaelte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwaelte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwaelte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwaelte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwaelte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-it-cloud-vertrag-datenschutz-itr
-description: "Nutze dies bei Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden, Itr Saas Vertrag Bauleiter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden, Itr Saas Vertrag Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden, Itr Saas Vertrag Bauleiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

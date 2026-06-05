@@ -1,6 +1,6 @@
 ---
 name: beirat-immobilien-und-investitionen
-description: "Nutze dies bei Beirat Immobilien Und Investitionen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Immobilien Und Investitionen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Immobilien Und Investitionen

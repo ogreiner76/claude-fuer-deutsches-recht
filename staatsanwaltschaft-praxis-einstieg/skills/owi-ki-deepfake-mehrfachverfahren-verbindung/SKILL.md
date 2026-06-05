@@ -1,13 +1,13 @@
 ---
 name: owi-ki-deepfake-mehrfachverfahren-verbindung
-description: "Nutze dies bei Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: pralr-normkarte-altrecht-aufopferung
-description: "Nutze dies bei Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

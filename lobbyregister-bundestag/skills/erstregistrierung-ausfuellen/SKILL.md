@@ -1,13 +1,13 @@
 ---
 name: erstregistrierung-ausfuellen
-description: "Nutze dies bei Erstregistrierung Ausfuellen, Finanzaufwendungen Berechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Erstregistrierung Ausfuellen, Finanzaufwendungen Berechnen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Erstregistrierung Ausfuellen, Finanzaufwendungen Berechnen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Erstregistrierung Ausfuellen, Finanzaufwendungen Berechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Erstregistrierung Ausfuellen, Finanzaufwendungen Berechnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

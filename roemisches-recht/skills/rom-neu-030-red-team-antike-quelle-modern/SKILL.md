@@ -1,6 +1,6 @@
 ---
 name: rom-neu-030-red-team-antike-quelle-modern
-description: "Nutze dies bei Rom Red Team Antike Quelle Modern Ueberdehnt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Rom Red Team Antike Quelle Modern Ueberdehnt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Rom Red Team Antike Quelle Modern Ueberdehnt
@@ -45,3 +45,10 @@ Red-Team gegen antike Quelle modern ueberdehnt.
 ## Output
 
 - Anachronismus-Pruefung.
+
+## Powersprint-Vertiefung
+
+- **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
+- **Actio-Denken:** Prüfe bei `Rom Red Team Antike Quelle Modern Ueberdehnt` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
+- **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
+- **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.

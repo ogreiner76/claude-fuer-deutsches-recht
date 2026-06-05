@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-027-normkarte-altrecht-heutiger
-description: "Nutze dies bei PrALR: Normkarte Altrecht in heutiger Akte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Normkarte Altrecht in heutiger Akte: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Altrecht in heutiger Akte

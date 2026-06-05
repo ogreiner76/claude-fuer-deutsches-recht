@@ -1,13 +1,13 @@
 ---
 name: wahrnehmung-berechtigter-zitat
-description: "Nutze dies bei Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

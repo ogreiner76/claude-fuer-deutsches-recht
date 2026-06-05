@@ -1,13 +1,13 @@
 ---
 name: satzungsaenderung-beschlussmaengel-liste
-description: "Nutze dies bei Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

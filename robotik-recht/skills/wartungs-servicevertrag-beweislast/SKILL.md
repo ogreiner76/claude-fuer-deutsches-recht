@@ -1,6 +1,6 @@
 ---
 name: wartungs-servicevertrag-beweislast
-description: "Nutze dies bei Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung

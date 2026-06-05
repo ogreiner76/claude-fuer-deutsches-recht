@@ -1,13 +1,13 @@
 ---
 name: steuerberater-mandant-verlangt-aggressive
-description: "Nutze dies bei Steuerberater Mandant Verlangt Aggressive Gestaltung Kammerantw, Steuerberater Mandant Verlangt Aggressive Gestaltung Organisati, Steuerberater Mandant Verlangt Aggressive Gestaltung Rechtsprec, Steuerberater Mandat Aus Krypto Transaktionen Kammerantwort Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Mandant Verlangt Aggressive Gestaltung Kammerantw, Steuerberater Mandant Verlangt Aggressive Gestaltung Organisati, Steuerberater Mandant Verlangt Aggressive Gestaltung Rechtsprec, Steuerberater Mandat Aus Krypto Transaktionen Kammerantwort Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Mandant Verlangt Aggressive Gestaltung Kammerantw, Steuerberater Mandant Verlangt Aggressive Gestaltung Organisati, Steuerberater Mandant Verlangt Aggressive Gestaltung Rechtsprec, Steuerberater Mandat Aus Krypto Transaktionen Kammerantwort Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Mandant Verlangt Aggressive Gestaltung Kammerantw, Steuerberater Mandant Verlangt Aggressive Gestaltung Organisati, Steuerberater Mandant Verlangt Aggressive Gestaltung Rechtsprec, Steuerberater Mandat Aus Krypto Transaktionen Kammerantwort Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Mandant Verlangt Aggressive Gestaltung Kammerantw, Steuerberater Mandant Verlangt Aggressive Gestaltung Organisati, Steuerberater Mandant Verlangt Aggressive Gestaltung Rechtsprec, Steuerberater Mandat Aus Krypto Transaktionen Kammerantwort Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

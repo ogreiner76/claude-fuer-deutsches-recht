@@ -1,13 +1,13 @@
 ---
 name: ehegattenvertretung-bgb-ehrenamtlicher
-description: "Nutze dies bei Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

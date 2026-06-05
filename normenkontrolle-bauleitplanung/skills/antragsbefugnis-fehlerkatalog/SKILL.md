@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Antragsbefugnis Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Antragsbefugnis Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Antragsbefugnis Fehlerkatalog

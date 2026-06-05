@@ -1,13 +1,13 @@
 ---
 name: fristverlaengerung-laien-oertliche-sgg
-description: "Nutze dies bei Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

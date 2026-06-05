@@ -1,6 +1,6 @@
 ---
 name: goldplating-vermeiden-inkrafttreten
-description: "Nutze dies bei Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension

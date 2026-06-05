@@ -1,13 +1,13 @@
 ---
 name: fahrradreparatur-nachbesserung-fake-shop
-description: "Nutze dies bei Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: insol-sanierungsgewinn-insolvenzreife
-description: "Nutze dies bei Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3a Estg Im Insolvenzplan, Insol Sanierungsgewinn 3a Estg Im Starug Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3a Estg Im Insolvenzplan, Insol Sanierungsgewinn 3a Estg Im Starug Plan: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

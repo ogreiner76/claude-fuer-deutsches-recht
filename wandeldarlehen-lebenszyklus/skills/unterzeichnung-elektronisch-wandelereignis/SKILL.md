@@ -1,13 +1,13 @@
 ---
 name: unterzeichnung-elektronisch-wandelereignis
-description: "Nutze dies bei Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

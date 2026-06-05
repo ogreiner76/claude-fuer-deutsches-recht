@@ -1,13 +1,13 @@
 ---
 name: see-schiffshypothek-klagepfad-risiko
-description: "Nutze dies bei See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

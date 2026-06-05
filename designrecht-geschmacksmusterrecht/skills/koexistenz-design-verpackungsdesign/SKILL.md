@@ -1,13 +1,13 @@
 ---
 name: koexistenz-design-verpackungsdesign
-description: "Nutze dies bei Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

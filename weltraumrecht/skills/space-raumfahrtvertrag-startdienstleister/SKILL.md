@@ -1,13 +1,13 @@
 ---
 name: space-raumfahrtvertrag-startdienstleister
-description: "Nutze dies bei Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

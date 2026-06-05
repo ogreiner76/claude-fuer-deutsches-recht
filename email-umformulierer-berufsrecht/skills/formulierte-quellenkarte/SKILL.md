@@ -1,6 +1,6 @@
 ---
 name: formulierte-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Formulierte Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Formulierte Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Formulierte Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: space-raketenstart-exportkontrolle-absturz
-description: "Nutze dies bei Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

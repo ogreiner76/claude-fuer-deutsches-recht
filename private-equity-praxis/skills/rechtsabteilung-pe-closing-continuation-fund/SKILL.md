@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-pe-closing-continuation-fund
-description: "Nutze dies bei Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

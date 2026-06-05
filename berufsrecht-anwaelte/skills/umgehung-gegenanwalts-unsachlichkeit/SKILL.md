@@ -1,13 +1,13 @@
 ---
 name: umgehung-gegenanwalts-unsachlichkeit
-description: "Nutze dies bei Anwaelte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwaelte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwaelte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwaelte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwaelte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwaelte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwaelte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

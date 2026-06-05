@@ -1,13 +1,13 @@
 ---
 name: anlagen-elektronische-dokumente-format
-description: "Nutze dies bei Anlagen Elektronische Dokumente Spezial, Anlagen Format Und Dateinamen, Anlagen Für Bea Versand, Anlagen Für Glaubhaftmachung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anlagen Elektronische Dokumente Spezial, Anlagen Format Und Dateinamen, Anlagen Für Bea Versand, Anlagen Für Glaubhaftmachung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anlagen Elektronische Dokumente Spezial, Anlagen Format Und Dateinamen, Anlagen Für Bea Versand, Anlagen Für Glaubhaftmachung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anlagen Elektronische Dokumente Spezial, Anlagen Format Und Dateinamen, Anlagen Für Bea Versand, Anlagen Für Glaubhaftmachung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anlagen Elektronische Dokumente Spezial, Anlagen Format Und Dateinamen, Anlagen Für Bea Versand, Anlagen Für Glaubhaftmachung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

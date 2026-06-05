@@ -1,13 +1,13 @@
 ---
 name: fto-triage-gewerblicher-rechtsschutz-mandat
-description: "Nutze dies bei Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

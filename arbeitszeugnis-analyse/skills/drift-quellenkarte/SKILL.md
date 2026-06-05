@@ -1,6 +1,6 @@
 ---
 name: drift-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Drift Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Drift Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Drift Quellenkarte

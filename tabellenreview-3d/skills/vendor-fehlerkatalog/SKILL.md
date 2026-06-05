@@ -1,6 +1,6 @@
 ---
 name: vendor-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Vendor Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Vendor Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Vendor Fehlerkatalog

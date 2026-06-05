@@ -1,13 +1,13 @@
 ---
 name: rom-seeunglueck-versicherung-actio-tributoria
-description: "Nutze dies bei Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

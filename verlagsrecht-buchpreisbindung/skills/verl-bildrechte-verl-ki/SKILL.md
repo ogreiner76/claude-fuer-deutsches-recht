@@ -1,13 +1,13 @@
 ---
 name: verl-bildrechte-verl-ki
-description: "Nutze dies bei Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

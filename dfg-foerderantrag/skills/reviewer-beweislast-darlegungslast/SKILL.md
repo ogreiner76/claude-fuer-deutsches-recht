@@ -1,6 +1,6 @@
 ---
 name: reviewer-beweislast-darlegungslast
-description: "Nutze dies bei Reviewer: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Reviewer: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Reviewer: Beweislast, Darlegungslast und Substantiierung

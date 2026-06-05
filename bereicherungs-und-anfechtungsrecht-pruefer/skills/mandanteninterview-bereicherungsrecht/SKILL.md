@@ -1,6 +1,6 @@
 ---
 name: mandanteninterview-bereicherungsrecht
-description: "Nutze diesen Skill, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung."
+description: "Bei die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung."
 ---
 
 # Mandanteninterview Bereicherungsrecht

@@ -1,13 +1,13 @@
 ---
 name: lebensbescheinigung-auslandszahlung
-description: "Nutze dies bei Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

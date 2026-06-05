@@ -1,13 +1,13 @@
 ---
 name: oew-schulbau-oepp-autobahnprojekt-vertrag
-description: "Nutze dies bei Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

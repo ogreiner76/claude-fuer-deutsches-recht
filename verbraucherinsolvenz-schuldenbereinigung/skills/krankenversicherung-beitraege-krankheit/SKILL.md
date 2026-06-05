@@ -1,13 +1,13 @@
 ---
 name: krankenversicherung-beitraege-krankheit
-description: "Nutze dies bei Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfaendung Und Arbeitgeber: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfaendung Und Arbeitgeber: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfaendung Und Arbeitgeber
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfaendung Und Arbeitgeber** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfaendung Und Arbeitgeber** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

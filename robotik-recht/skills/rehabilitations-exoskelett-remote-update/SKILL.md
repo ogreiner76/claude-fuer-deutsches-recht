@@ -1,6 +1,6 @@
 ---
 name: rehabilitations-exoskelett-remote-update
-description: "Nutze dies bei Rehabilitations Und Exoskelett Robotik, Remote Update Und Secure Channel, Risikobeurteilung En Iso 12100, Rollen Hersteller Anbieter Integrator: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rehabilitations Und Exoskelett Robotik, Remote Update Und Secure Channel, Risikobeurteilung En Iso 12100, Rollen Hersteller Anbieter Integrator: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rehabilitations Und Exoskelett Robotik, Remote Update Und Secure Channel, Risikobeurteilung En Iso 12100, Rollen Hersteller Anbieter Integrator

@@ -1,13 +1,13 @@
 ---
 name: formwahl-zugang-live-prozessablauf
-description: "Nutze dies bei Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: drg-historische
-description: "Nutze dies bei Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
+description: "Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
 ---
 
 # Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

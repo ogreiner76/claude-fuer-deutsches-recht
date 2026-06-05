@@ -1,13 +1,13 @@
 ---
 name: strafrecht-markenrecht-143a-marktmanipulation
-description: "Nutze dies bei Strafrecht Markenrecht 143a Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafrecht Markenrecht 143a Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

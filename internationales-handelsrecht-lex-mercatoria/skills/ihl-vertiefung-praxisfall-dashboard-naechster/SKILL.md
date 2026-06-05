@@ -1,13 +1,13 @@
 ---
 name: ihl-vertiefung-praxisfall-dashboard-naechster
-description: "Nutze dies bei Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

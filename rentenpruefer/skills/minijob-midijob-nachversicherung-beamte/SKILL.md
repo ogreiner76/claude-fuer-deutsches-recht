@@ -1,13 +1,13 @@
 ---
 name: minijob-midijob-nachversicherung-beamte
-description: "Nutze dies bei Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

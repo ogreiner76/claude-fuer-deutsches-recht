@@ -1,13 +1,13 @@
 ---
 name: fran-fitness-franchise-bildungsfranchise
-description: "Nutze dies bei Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Regulatorische Grenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Regulatorische Grenzen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Regulatorische Grenzen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Regulatorische Grenzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Regulatorische Grenzen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: inso-p003e-unternehmensgruppe-p004b
-description: "Nutze dies bei Inso P003e Unternehmensgruppe, Inso P004b Ruckzahlung Und Anpassung Der Gestundeten Betrage, Inso P004c Aufhebung Der Stundung, Inso P004d Rechtsmittel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso P003e Unternehmensgruppe, Inso P004b Ruckzahlung Und Anpassung Der Gestundeten Betrage, Inso P004c Aufhebung Der Stundung, Inso P004d Rechtsmittel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso P003E Unternehmensgruppe, Inso P004B Ruckzahlung Und Anpassung Der Gestundeten Betrage, Inso P004C Aufhebung Der Stundung, Inso P004D Rechtsmittel, Inso P006 Sofortige Beschwerde und 16 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso P003E Unternehmensgruppe, Inso P004B Ruckzahlung Und Anpassung Der Gestundeten Betrage, Inso P004C Aufhebung Der Stundung, Inso P004D Rechtsmittel, Inso P006 Sofortige Beschwerde und 16 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso P003E Unternehmensgruppe, Inso P004B Ruckzahlung Und Anpassung Der Gestundeten Betrage, Inso P004C Aufhebung Der Stundung, Inso P004D Rechtsmittel, Inso P006 Sofortige Beschwerde und 16 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

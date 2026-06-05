@@ -1,13 +1,13 @@
 ---
 name: jveg-anspruchsberechtigung-antragsgenerator
-description: "Nutze dies bei Jveg Anspruchsberechtigung, Jveg Antragsgenerator, Jveg Dolmetscher Uebersetzer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jveg Anspruchsberechtigung, Jveg Antragsgenerator, Jveg Dolmetscher Uebersetzer: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jveg Anspruchsberechtigung, Jveg Antragsgenerator, Jveg Dolmetscher Uebersetzer
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Jveg Anspruchsberechtigung, Jveg Antragsgenerator, Jveg Dolmetscher Uebersetzer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Jveg Anspruchsberechtigung, Jveg Antragsgenerator, Jveg Dolmetscher Uebersetzer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

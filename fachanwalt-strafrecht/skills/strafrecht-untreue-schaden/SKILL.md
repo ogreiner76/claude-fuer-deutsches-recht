@@ -1,13 +1,13 @@
 ---
 name: strafrecht-untreue-schaden
-description: "Nutze dies bei Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

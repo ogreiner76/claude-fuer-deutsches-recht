@@ -1,6 +1,6 @@
 ---
 name: versicherung-und-praemienrueckforderung
-description: "Nutze diesen Skill, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Prämienrückforderung mit Risikoabschlag. Abgrenzung: nicht Leistungsklage gegen Versicherer auf VVG-Basis."
+description: "Bei prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Prämienrückforderung mit Risikoabschlag. Abgrenzung: nicht Leistungsklage gegen Versicherer auf VVG-Basis."
 ---
 
 # Versicherung und Prämienrückforderung

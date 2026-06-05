@@ -1,13 +1,13 @@
 ---
 name: prompt-versionierung-paket-review
-description: "Nutze dies bei Prompt Versionierung, Prüfer Uebergabe Paket, Review Durchfuehren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Prompt Versionierung, Prüfer Uebergabe Paket, Review Durchfuehren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

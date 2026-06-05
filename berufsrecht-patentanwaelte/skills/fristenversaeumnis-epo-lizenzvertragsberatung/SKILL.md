@@ -1,13 +1,13 @@
 ---
 name: fristenversaeumnis-epo-lizenzvertragsberatung
-description: "Nutze dies bei Patentanwaelte Fristenversaeumnis Epo Restitutio Organisationsp, Patentanwaelte Lizenzvertragsberatung Grenzen Kammerantwort Und, Patentanwaelte Lizenzvertragsberatung Grenzen Organisationspfli, Patentanwaelte Sanktionen Und Russlandbezug Kammerantwort Und V: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Fristenversaeumnis Epo Restitutio Organisationsp, Patentanwaelte Lizenzvertragsberatung Grenzen Kammerantwort Und, Patentanwaelte Lizenzvertragsberatung Grenzen Organisationspfli, Patentanwaelte Sanktionen Und Russlandbezug Kammerantwort Und V: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Fristenversaeumnis Epo Restitutio Organisationsp, Patentanwaelte Lizenzvertragsberatung Grenzen Kammerantwort Und, Patentanwaelte Lizenzvertragsberatung Grenzen Organisationspfli, Patentanwaelte Sanktionen Und Russlandbezug Kammerantwort Und V
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Fristenversaeumnis Epo Restitutio Organisationsp, Patentanwaelte Lizenzvertragsberatung Grenzen Kammerantwort Und, Patentanwaelte Lizenzvertragsberatung Grenzen Organisationspfli, Patentanwaelte Sanktionen Und Russlandbezug Kammerantwort Und V** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Fristenversaeumnis Epo Restitutio Organisationsp, Patentanwaelte Lizenzvertragsberatung Grenzen Kammerantwort Und, Patentanwaelte Lizenzvertragsberatung Grenzen Organisationspfli, Patentanwaelte Sanktionen Und Russlandbezug Kammerantwort Und V** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

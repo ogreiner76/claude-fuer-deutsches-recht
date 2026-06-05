@@ -1,13 +1,13 @@
 ---
 name: drohende-zahlungsunfaehigkeit
-description: "Nutze dies bei Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

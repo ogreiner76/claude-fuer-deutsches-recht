@@ -1,13 +1,13 @@
 ---
 name: bho-klimafonds-brh-parlamentsfrage
-description: "Nutze dies bei Bho 113 Klimafonds Brh Frage Formulieren, Bho 114 Klimafonds Parlamentsfrage Vorbereiten, Bho 115 Klimafonds Vollzug Tracken, Bho 116 Digitalisierungstitel Titel Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bho 113 Klimafonds Brh Frage Formulieren, Bho 114 Klimafonds Parlamentsfrage Vorbereiten, Bho 115 Klimafonds Vollzug Tracken, Bho 116 Digitalisierungstitel Titel Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bho 113 Klimafonds Brh Frage Formulieren, Bho 114 Klimafonds Parlamentsfrage Vorbereiten, Bho 115 Klimafonds Vollzug Tracken, Bho 116 Digitalisierungstitel Titel Prüfen, Bho 117 Digitalisierungstitel Umschichtung Sim und 6 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bho 113 Klimafonds Brh Frage Formulieren, Bho 114 Klimafonds Parlamentsfrage Vorbereiten, Bho 115 Klimafonds Vollzug Tracken, Bho 116 Digitalisierungstitel Titel Prüfen, Bho 117 Digitalisierungstitel Umschichtung Sim und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bho 113 Klimafonds Brh Frage Formulieren, Bho 114 Klimafonds Parlamentsfrage Vorbereiten, Bho 115 Klimafonds Vollzug Tracken, Bho 116 Digitalisierungstitel Titel Prüfen, Bho 117 Digitalisierungstitel Umschichtung Sim und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

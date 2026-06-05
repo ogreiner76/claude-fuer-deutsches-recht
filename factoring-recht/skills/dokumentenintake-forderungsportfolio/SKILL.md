@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-forderungsportfolio
-description: "Nutze dies für Unterlagen zu Dokumentenintake Forderungsportfolio: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake Forderungsportfolio: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake Forderungsportfolio

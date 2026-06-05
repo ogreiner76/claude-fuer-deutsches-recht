@@ -1,6 +1,6 @@
 ---
 name: kondiktion-bei-schwarzarbeit-und-illegalitaet
-description: "Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB."
+description: "Bei illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB."
 ---
 
 # Kondiktion bei Schwarzarbeit und Illegalität

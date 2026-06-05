@@ -1,13 +1,13 @@
 ---
 name: fran-it-system-lieferketten-lksg-lebensmittel
-description: "Nutze dies bei Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

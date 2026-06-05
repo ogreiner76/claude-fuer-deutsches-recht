@@ -1,6 +1,6 @@
 ---
 name: teilzeit-beurlaubung-umsetzung-versetzung
-description: "Nutze dies bei Teilzeit Beurlaubung Familienpflege, Umsetzung Versetzung Abordnung Zuweisung, Unfallruhegehalt 36 Beamtvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Teilzeit Beurlaubung Familienpflege, Umsetzung Versetzung Abordnung Zuweisung, Unfallruhegehalt 36 Beamtvg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Teilzeit Beurlaubung Familienpflege, Umsetzung Versetzung Abordnung Zuweisung, Unfallruhegehalt 36 Beamtvg

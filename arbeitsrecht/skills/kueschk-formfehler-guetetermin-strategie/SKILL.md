@@ -1,13 +1,13 @@
 ---
 name: kueschk-formfehler-guetetermin-strategie
-description: "Nutze dies bei Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

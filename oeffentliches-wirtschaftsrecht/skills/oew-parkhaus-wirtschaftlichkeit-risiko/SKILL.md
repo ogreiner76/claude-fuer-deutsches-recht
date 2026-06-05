@@ -1,13 +1,13 @@
 ---
 name: oew-parkhaus-wirtschaftlichkeit-risiko
-description: "Nutze dies bei Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

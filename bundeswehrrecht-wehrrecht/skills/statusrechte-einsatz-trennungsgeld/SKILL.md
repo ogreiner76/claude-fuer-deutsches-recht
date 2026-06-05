@@ -1,13 +1,13 @@
 ---
 name: statusrechte-einsatz-trennungsgeld
-description: "Nutze dies bei Statusrechte Im Einsatz Urlaub Betreuung, Trennungsgeld Umzugskosten Reisekosten, Unterhaltssicherung Reservisten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Statusrechte Im Einsatz Urlaub Betreuung, Trennungsgeld Umzugskosten Reisekosten, Unterhaltssicherung Reservisten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Statusrechte Im Einsatz Urlaub Betreuung, Trennungsgeld Umzugskosten Reisekosten, Unterhaltssicherung Reservisten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Statusrechte Im Einsatz Urlaub Betreuung, Trennungsgeld Umzugskosten Reisekosten, Unterhaltssicherung Reservisten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Statusrechte Im Einsatz Urlaub Betreuung, Trennungsgeld Umzugskosten Reisekosten, Unterhaltssicherung Reservisten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

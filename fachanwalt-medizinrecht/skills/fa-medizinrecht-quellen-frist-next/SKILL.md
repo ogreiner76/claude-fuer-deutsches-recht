@@ -1,6 +1,6 @@
 ---
 name: fa-medizinrecht-quellen-frist-next
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Fristennotiz und nächster Schritt

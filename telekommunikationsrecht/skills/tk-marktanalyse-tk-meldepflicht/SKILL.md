@@ -1,13 +1,13 @@
 ---
 name: tk-marktanalyse-tk-meldepflicht
-description: "Nutze dies bei Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tk Marktanalyse Betraechtliche Marktmacht, Tk Meldepflicht It Sicherheitsvorfall** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

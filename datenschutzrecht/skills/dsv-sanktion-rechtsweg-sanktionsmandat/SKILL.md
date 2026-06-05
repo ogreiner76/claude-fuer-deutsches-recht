@@ -1,13 +1,13 @@
 ---
 name: dsv-sanktion-rechtsweg-sanktionsmandat
-description: "Nutze dies bei Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 
@@ -36,7 +36,7 @@ Für **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussproduk
 
 Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen.
 
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -98,7 +98,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren.
 
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -160,7 +160,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen.
 
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -222,7 +222,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren.
 
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -284,7 +284,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären.
 
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 

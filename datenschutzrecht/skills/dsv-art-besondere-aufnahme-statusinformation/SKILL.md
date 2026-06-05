@@ -1,13 +1,13 @@
 ---
 name: dsv-art-besondere-aufnahme-statusinformation
-description: "Nutze dies bei Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

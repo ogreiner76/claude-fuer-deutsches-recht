@@ -1,13 +1,13 @@
 ---
 name: kirk-leitfaden-kirk-prompts-kr-executive
-description: "Nutze dies bei Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

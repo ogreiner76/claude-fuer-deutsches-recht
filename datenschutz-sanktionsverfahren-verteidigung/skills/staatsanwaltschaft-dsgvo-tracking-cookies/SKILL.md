@@ -1,13 +1,13 @@
 ---
 name: staatsanwaltschaft-dsgvo-tracking-cookies
-description: "Nutze dies bei Staatsanwaltschaft Im Dsgvo Owig, Tracking Cookies Und Ttddg Schnittstelle, Transferstopp Drittland Art 58, Umsatz Und Wirtschaftliche Einheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Staatsanwaltschaft Im Dsgvo Owig, Tracking Cookies Und Ttddg Schnittstelle, Transferstopp Drittland Art 58, Umsatz Und Wirtschaftliche Einheit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Staatsanwaltschaft Im Dsgvo Owig, Tracking Cookies Und Ttddg Schnittstelle, Transferstopp Drittland Art 58, Umsatz Und Wirtschaftliche Einheit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Staatsanwaltschaft Im Dsgvo Owig, Tracking Cookies Und Ttddg Schnittstelle, Transferstopp Drittland Art 58, Umsatz Und Wirtschaftliche Einheit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Staatsanwaltschaft Im Dsgvo Owig, Tracking Cookies Und Ttddg Schnittstelle, Transferstopp Drittland Art 58, Umsatz Und Wirtschaftliche Einheit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

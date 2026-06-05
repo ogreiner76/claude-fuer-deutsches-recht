@@ -1,6 +1,6 @@
 ---
 name: sozialer-humanoider-spielzeug-kinderroboter
-description: "Nutze dies bei Sozialer Humanoider Roboter, Spielzeug Und Kinderroboter, Strom Emv Und Niederspannung, Systemintegrator Als Hersteller: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sozialer Humanoider Roboter, Spielzeug Und Kinderroboter, Strom Emv Und Niederspannung, Systemintegrator Als Hersteller: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sozialer Humanoider Roboter, Spielzeug Und Kinderroboter, Strom Emv Und Niederspannung, Systemintegrator Als Hersteller

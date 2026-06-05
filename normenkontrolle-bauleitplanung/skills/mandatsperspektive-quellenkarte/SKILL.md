@@ -1,6 +1,6 @@
 ---
 name: mandatsperspektive-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Mandatsperspektive Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Mandatsperspektive Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Mandatsperspektive Quellenkarte

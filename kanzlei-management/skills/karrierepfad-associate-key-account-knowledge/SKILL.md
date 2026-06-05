@@ -1,13 +1,13 @@
 ---
 name: karrierepfad-associate-key-account-knowledge
-description: "Nutze dies bei Karrierepfad Associate Counsel Partner, Key Account Management, Knowledge Management, Lockup Days: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Karrierepfad Associate Counsel Partner, Key Account Management, Knowledge Management, Lockup Days: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Karrierepfad Associate Counsel Partner, Key Account Management, Knowledge Management, Lockup Days
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Karrierepfad Associate Counsel Partner, Key Account Management, Knowledge Management, Lockup Days** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Karrierepfad Associate Counsel Partner, Key Account Management, Knowledge Management, Lockup Days** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

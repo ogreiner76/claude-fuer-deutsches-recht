@@ -1,6 +1,6 @@
 ---
 name: output-behoerdenbrief-sop-mandantenmemo
-description: "Nutze dies bei Output Behördenbrief SOP Mandantenmemo: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Output Behördenbrief SOP Mandantenmemo: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Output Behördenbrief SOP Mandantenmemo

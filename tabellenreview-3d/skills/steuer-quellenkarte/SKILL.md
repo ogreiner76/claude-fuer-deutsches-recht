@@ -1,6 +1,6 @@
 ---
 name: steuer-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Steuer Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Steuer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Steuer Quellenkarte

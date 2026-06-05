@@ -1,6 +1,6 @@
 ---
 name: forderungen-interessen
-description: "Nutze dies bei Forderungen: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Forderungen: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Forderungen: Mehrparteienkonflikt und Interessenmatrix

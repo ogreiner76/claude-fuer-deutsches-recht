@@ -1,13 +1,13 @@
 ---
 name: urheberrechts-versand-interessen-streitwert
-description: "Nutze dies bei Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: zustandigkeit-pfarrei
-description: "Nutze dies bei Zustandigkeit Pfarrei Bistum Offizialat Dikasterium: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zustandigkeit Pfarrei Bistum Offizialat Dikasterium: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zustandigkeit Pfarrei Bistum Offizialat Dikasterium
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zustandigkeit Pfarrei Bistum Offizialat Dikasterium** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zustandigkeit Pfarrei Bistum Offizialat Dikasterium** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

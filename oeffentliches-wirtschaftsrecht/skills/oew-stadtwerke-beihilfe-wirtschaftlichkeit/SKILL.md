@@ -1,13 +1,13 @@
 ---
 name: oew-stadtwerke-beihilfe-wirtschaftlichkeit
-description: "Nutze dies bei Oew 053 Stadtwerke Beihilfe Markieren, Oew 054 Stadtwerke Wirtschaftlichkeit Rechnen, Oew 055 Stadtwerke Risiko Verteilen, Oew 057 Stadtwerke Kontrolle Sichern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 053 Stadtwerke Beihilfe Markieren, Oew 054 Stadtwerke Wirtschaftlichkeit Rechnen, Oew 055 Stadtwerke Risiko Verteilen, Oew 057 Stadtwerke Kontrolle Sichern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 053 Stadtwerke Beihilfe Markieren, Oew 054 Stadtwerke Wirtschaftlichkeit Rechnen, Oew 055 Stadtwerke Risiko Verteilen, Oew 057 Stadtwerke Kontrolle Sichern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 053 Stadtwerke Beihilfe Markieren, Oew 054 Stadtwerke Wirtschaftlichkeit Rechnen, Oew 055 Stadtwerke Risiko Verteilen, Oew 057 Stadtwerke Kontrolle Sichern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 053 Stadtwerke Beihilfe Markieren, Oew 054 Stadtwerke Wirtschaftlichkeit Rechnen, Oew 055 Stadtwerke Risiko Verteilen, Oew 057 Stadtwerke Kontrolle Sichern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

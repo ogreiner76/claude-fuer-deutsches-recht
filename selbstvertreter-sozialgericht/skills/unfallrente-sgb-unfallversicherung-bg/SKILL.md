@@ -1,13 +1,13 @@
 ---
 name: unfallrente-sgb-unfallversicherung-bg
-description: "Nutze dies bei Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

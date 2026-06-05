@@ -1,13 +1,13 @@
 ---
 name: infl-kennzeichnung-eigenmarke-live-shopping
-description: "Nutze dies bei Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige Anschrift: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige Anschrift: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige Anschrift
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige Anschrift** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige Anschrift** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

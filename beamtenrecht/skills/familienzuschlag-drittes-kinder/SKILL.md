@@ -1,6 +1,6 @@
 ---
 name: familienzuschlag-drittes-kinder
-description: "Nutze dies bei Familienzuschlag Drittes Kind Bverfg, Familienzuschlag Kinder Und Rueckforderung, Foederalismusreform Kompetenzmatrix Beamtenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Familienzuschlag Drittes Kind Bverfg, Familienzuschlag Kinder Und Rueckforderung, Foederalismusreform Kompetenzmatrix Beamtenrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Familienzuschlag Drittes Kind Bverfg, Familienzuschlag Kinder Und Rueckforderung, Foederalismusreform Kompetenzmatrix Beamtenrecht

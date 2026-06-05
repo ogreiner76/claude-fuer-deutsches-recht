@@ -1,6 +1,6 @@
 ---
 name: tumorboard-onkologiepflicht-unregulierte
-description: "Nutze dies bei Tumorboard Onkologiepflicht, Unregulierte Zelltherapie Abwehr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tumorboard Onkologiepflicht, Unregulierte Zelltherapie Abwehr: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tumorboard Onkologiepflicht, Unregulierte Zelltherapie Abwehr

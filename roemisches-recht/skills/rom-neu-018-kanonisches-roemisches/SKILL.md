@@ -1,6 +1,6 @@
 ---
 name: rom-neu-018-kanonisches-roemisches
-description: "Nutze dies bei Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung

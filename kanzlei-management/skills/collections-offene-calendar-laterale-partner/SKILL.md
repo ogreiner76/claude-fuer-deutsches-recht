@@ -1,13 +1,13 @@
 ---
 name: collections-offene-calendar-laterale-partner
-description: "Nutze dies bei Collections Offene Posten, Compliance Calendar, Laterale Partner Integration, Partner Draws Liquiditaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Collections Offene Posten, Compliance Calendar, Laterale Partner Integration, Partner Draws Liquiditaet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Collections Offene Posten, Compliance Calendar, Laterale Partner Integration, Partner Draws Liquiditaet
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Collections Offene Posten, Compliance Calendar, Laterale Partner Integration, Partner Draws Liquiditaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Collections Offene Posten, Compliance Calendar, Laterale Partner Integration, Partner Draws Liquiditaet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

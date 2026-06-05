@@ -1,13 +1,13 @@
 ---
 name: nachgruendung-sachkapital
-description: "Nutze dies bei Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: atmp-chain-atmp-classification
-description: "Nutze dies bei Atmp Chain Of Identity, Atmp Classification Cat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Atmp Chain Of Identity, Atmp Classification Cat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Atmp Chain Of Identity, Atmp Classification Cat

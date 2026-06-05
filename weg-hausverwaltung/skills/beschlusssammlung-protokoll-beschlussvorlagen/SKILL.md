@@ -1,13 +1,13 @@
 ---
 name: beschlusssammlung-protokoll-beschlussvorlagen
-description: "Nutze dies bei Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: wahlordnung-intern-wahlvorschlag-bundestag
-description: "Nutze dies bei Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

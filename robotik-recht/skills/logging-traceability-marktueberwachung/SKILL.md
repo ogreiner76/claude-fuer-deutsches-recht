@@ -1,6 +1,6 @@
 ---
 name: logging-traceability-marktueberwachung
-description: "Nutze dies bei Logging Und Traceability Robotik, Marktueberwachung Unterlagenvorlage, Maschine Oder Unvollstaendige Maschine, Maschinenverordnung Annex Iii Hochrisiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Logging Und Traceability Robotik, Marktueberwachung Unterlagenvorlage, Maschine Oder Unvollstaendige Maschine, Maschinenverordnung Annex Iii Hochrisiko: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Logging Und Traceability Robotik, Marktueberwachung Unterlagenvorlage, Maschine Oder Unvollstaendige Maschine, Maschinenverordnung Annex Iii Hochrisiko

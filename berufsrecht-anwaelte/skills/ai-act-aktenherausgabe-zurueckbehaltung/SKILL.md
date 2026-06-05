@@ -1,13 +1,13 @@
 ---
 name: ai-act-aktenherausgabe-zurueckbehaltung
-description: "Nutze dies bei Anwaelte Ai Act Transparenz Kanzlei Chatbot, Anwaelte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwaelte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwaelte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Ai Act Transparenz Kanzlei Chatbot, Anwaelte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwaelte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwaelte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

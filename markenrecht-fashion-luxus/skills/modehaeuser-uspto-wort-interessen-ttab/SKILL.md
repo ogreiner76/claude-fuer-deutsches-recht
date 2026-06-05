@@ -1,13 +1,13 @@
 ---
 name: modehaeuser-uspto-wort-interessen-ttab
-description: "Nutze dies bei Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

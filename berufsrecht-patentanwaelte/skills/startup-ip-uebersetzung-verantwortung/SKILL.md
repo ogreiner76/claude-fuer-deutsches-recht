@@ -1,13 +1,13 @@
 ---
 name: startup-ip-uebersetzung-verantwortung
-description: "Nutze dies bei Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

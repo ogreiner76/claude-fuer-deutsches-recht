@@ -1,13 +1,13 @@
 ---
 name: mangelhaftung-symptomtheorie-bautraeger
-description: "Nutze dies bei Bau Mangelhaftung Symptomtheorie, Bautraeger Haftungsausschluss 307 Bgb, Bautraeger Maengelhaftung Fuenf Jahre 634a, Maengelhaftung Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bau Mangelhaftung Symptomtheorie, Bautraeger Haftungsausschluss 307 Bgb, Bautraeger Maengelhaftung Fuenf Jahre 634a, Maengelhaftung Verhandlung Vergleich Und Eskalation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bau Mangelhaftung Symptomtheorie, Bautraeger Haftungsausschluss 307 Bgb, Bautraeger Maengelhaftung Fuenf Jahre 634A, Maengelhaftung Verhandlung Vergleich Und Eskalation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bau Mangelhaftung Symptomtheorie, Bautraeger Haftungsausschluss 307 Bgb, Bautraeger Maengelhaftung Fuenf Jahre 634A, Maengelhaftung Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bau Mangelhaftung Symptomtheorie, Bautraeger Haftungsausschluss 307 Bgb, Bautraeger Maengelhaftung Fuenf Jahre 634A, Maengelhaftung Verhandlung Vergleich Und Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

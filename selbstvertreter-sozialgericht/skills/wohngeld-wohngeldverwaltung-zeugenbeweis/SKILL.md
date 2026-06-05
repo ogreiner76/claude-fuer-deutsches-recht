@@ -1,13 +1,13 @@
 ---
 name: wohngeld-wohngeldverwaltung-zeugenbeweis
-description: "Nutze dies bei Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

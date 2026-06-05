@@ -1,6 +1,6 @@
 ---
 name: pflichtverteidigung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Pflichtverteidigung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Pflichtverteidigung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Pflichtverteidigung Quellenkarte

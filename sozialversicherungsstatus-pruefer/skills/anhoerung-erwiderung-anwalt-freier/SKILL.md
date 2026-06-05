@@ -1,13 +1,13 @@
 ---
 name: anhoerung-erwiderung-anwalt-freier
-description: "Nutze dies bei Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

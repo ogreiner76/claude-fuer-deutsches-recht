@@ -1,6 +1,6 @@
 ---
 name: rechtsinhalt-interessen
-description: "Nutze dies bei Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: abtretung-adversarial-test
-description: "Nutze dies bei Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg

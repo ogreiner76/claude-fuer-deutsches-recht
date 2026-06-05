@@ -1,13 +1,13 @@
 ---
 name: auslaenderrecht-warnwoerter-barrierefreie
-description: "Nutze dies bei Auslaenderrecht Warnwoerter, Barrierefreie Erklaerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Auslaenderrecht Warnwoerter, Barrierefreie Erklaerung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Auslaenderrecht Warnwoerter, Barrierefreie Erklaerung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Auslaenderrecht Warnwoerter, Barrierefreie Erklaerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Auslaenderrecht Warnwoerter, Barrierefreie Erklaerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

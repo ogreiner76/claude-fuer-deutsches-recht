@@ -1,13 +1,13 @@
 ---
 name: beratungshaftung-haftung-beweislast-bk-cum
-description: "Nutze dies bei Beratungshaftung Zahlen Schwellen Und Berechnung, Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beratungshaftung Zahlen Schwellen Und Berechnung, Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beratungshaftung Zahlen Schwellen Und Berechnung, Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beratungshaftung Zahlen Schwellen Und Berechnung, Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beratungshaftung Zahlen Schwellen Und Berechnung, Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

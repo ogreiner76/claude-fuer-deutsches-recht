@@ -1,13 +1,13 @@
 ---
 name: transparenzbericht-fristennotiz-dsa-dma
-description: "Nutze dies bei Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

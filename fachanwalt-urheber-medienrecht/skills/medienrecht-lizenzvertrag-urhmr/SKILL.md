@@ -1,13 +1,13 @@
 ---
 name: medienrecht-lizenzvertrag-urhmr
-description: "Nutze dies bei Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

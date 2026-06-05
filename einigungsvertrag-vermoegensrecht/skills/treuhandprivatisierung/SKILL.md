@@ -1,13 +1,13 @@
 ---
 name: treuhandprivatisierung
-description: "Nutze dies bei Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

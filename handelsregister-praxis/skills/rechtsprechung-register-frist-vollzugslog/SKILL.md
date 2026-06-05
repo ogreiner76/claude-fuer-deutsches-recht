@@ -1,13 +1,13 @@
 ---
 name: rechtsprechung-register-frist-vollzugslog
-description: "Nutze dies bei Rechtsprechung Register Live Verifizieren, Frist Und Vollzugslog Register, Registerrecht Mandatsannahme Notarferne: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsprechung Register Live Verifizieren, Frist Und Vollzugslog Register, Registerrecht Mandatsannahme Notarferne: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsprechung Register Live Verifizieren, Frist Und Vollzugslog Register, Registerrecht Mandatsannahme Notarferne
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsprechung Register Live Verifizieren, Frist Und Vollzugslog Register, Registerrecht Mandatsannahme Notarferne** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsprechung Register Live Verifizieren, Frist Und Vollzugslog Register, Registerrecht Mandatsannahme Notarferne** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

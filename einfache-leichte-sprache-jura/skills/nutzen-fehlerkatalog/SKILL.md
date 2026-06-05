@@ -1,6 +1,6 @@
 ---
 name: nutzen-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Nutzen Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Nutzen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Nutzen Fehlerkatalog

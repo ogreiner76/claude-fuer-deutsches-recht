@@ -1,13 +1,13 @@
 ---
 name: produktfreigabe-new-restrukturierung
-description: "Nutze dies bei Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

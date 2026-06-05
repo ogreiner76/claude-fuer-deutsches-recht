@@ -1,13 +1,13 @@
 ---
 name: produktlaunch-beweislast-rechtscheck
-description: "Nutze dies bei Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

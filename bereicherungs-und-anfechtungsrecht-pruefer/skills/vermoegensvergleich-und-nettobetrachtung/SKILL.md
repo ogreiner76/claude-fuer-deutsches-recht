@@ -1,6 +1,6 @@
 ---
 name: vermoegensvergleich-und-nettobetrachtung
-description: "Nutze diesen Skill, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Saldo- oder Zweikondiktionen-Rechnung mit Nettoergebnis. Abgrenzung: nicht Einzelpositionsbetrachtung ohne Saldo."
+description: "Bei der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Saldo- oder Zweikondiktionen-Rechnung mit Nettoergebnis. Abgrenzung: nicht Einzelpositionsbetrachtung ohne Saldo."
 ---
 
 # Vermögensvergleich und Nettobetrachtung

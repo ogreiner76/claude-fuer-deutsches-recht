@@ -1,13 +1,13 @@
 ---
 name: arbeitsgericht-klage-arbeitsschutz-audit
-description: "Nutze dies bei Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

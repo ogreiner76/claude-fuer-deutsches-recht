@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-cybersecurity-digitale
-description: "Nutze dies bei Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

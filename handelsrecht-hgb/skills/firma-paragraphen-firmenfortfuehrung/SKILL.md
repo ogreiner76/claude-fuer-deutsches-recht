@@ -1,13 +1,13 @@
 ---
 name: firma-paragraphen-firmenfortfuehrung
-description: "Nutze dies bei Firma Paragraphen 17 37a Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Firma Paragraphen 17 37a Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

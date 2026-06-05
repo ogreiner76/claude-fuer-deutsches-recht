@@ -1,13 +1,13 @@
 ---
 name: oew-wohnungsbau-vergabeweg-beihilfe-markieren
-description: "Nutze dies bei Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

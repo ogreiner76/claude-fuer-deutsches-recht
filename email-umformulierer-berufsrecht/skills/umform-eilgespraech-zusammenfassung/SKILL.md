@@ -1,13 +1,13 @@
 ---
 name: umform-eilgespraech-zusammenfassung
-description: "Nutze dies bei Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

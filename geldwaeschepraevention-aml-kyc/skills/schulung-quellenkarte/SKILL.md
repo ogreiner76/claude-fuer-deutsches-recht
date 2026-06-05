@@ -1,6 +1,6 @@
 ---
 name: schulung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Schulung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Schulung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Schulung Quellenkarte

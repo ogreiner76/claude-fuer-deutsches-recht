@@ -1,13 +1,13 @@
 ---
 name: lease-restrukturierung-stundung-leasing
-description: "Nutze dies bei Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

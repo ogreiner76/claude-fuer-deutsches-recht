@@ -1,6 +1,6 @@
 ---
 name: bekanntmachung-beweislast-darlegungslast
-description: "Nutze dies bei Bekanntmachung: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Bekanntmachung: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung

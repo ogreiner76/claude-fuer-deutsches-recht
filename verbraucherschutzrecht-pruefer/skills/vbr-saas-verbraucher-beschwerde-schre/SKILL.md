@@ -1,13 +1,13 @@
 ---
 name: vbr-saas-verbraucher-beschwerde-schre
-description: "Nutze dies bei Vbr 085 Saas Für Verbraucher Agb Redlinen, Vbr 086 Saas Für Verbraucher Beschwerde Schre, Vbr 087 Saas Für Verbraucher Schlichtung Waeh, Vbr 088 Saas Für Verbraucher Klagepfad Skizzi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vbr 085 Saas Für Verbraucher Agb Redlinen, Vbr 086 Saas Für Verbraucher Beschwerde Schre, Vbr 087 Saas Für Verbraucher Schlichtung Waeh, Vbr 088 Saas Für Verbraucher Klagepfad Skizzi: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vbr 085 Saas Für Verbraucher Agb Redlinen, Vbr 086 Saas Für Verbraucher Beschwerde Schre, Vbr 087 Saas Für Verbraucher Schlichtung Waeh, Vbr 088 Saas Für Verbraucher Klagepfad Skizzi
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 085 Saas Für Verbraucher Agb Redlinen, Vbr 086 Saas Für Verbraucher Beschwerde Schre, Vbr 087 Saas Für Verbraucher Schlichtung Waeh, Vbr 088 Saas Für Verbraucher Klagepfad Skizzi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vbr 085 Saas Für Verbraucher Agb Redlinen, Vbr 086 Saas Für Verbraucher Beschwerde Schre, Vbr 087 Saas Für Verbraucher Schlichtung Waeh, Vbr 088 Saas Für Verbraucher Klagepfad Skizzi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

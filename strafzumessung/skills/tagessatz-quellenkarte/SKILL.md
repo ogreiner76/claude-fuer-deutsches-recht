@@ -1,6 +1,6 @@
 ---
 name: tagessatz-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Tagessatz Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Tagessatz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Tagessatz Quellenkarte

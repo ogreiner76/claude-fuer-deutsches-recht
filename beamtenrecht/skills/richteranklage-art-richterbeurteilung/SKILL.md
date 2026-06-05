@@ -1,6 +1,6 @@
 ---
 name: richteranklage-art-richterbeurteilung
-description: "Nutze dies bei Richteranklage Art 98 Gg, Richterbeurteilung Praesidialrat, Richterdienst Drig Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Richteranklage Art 98 Gg, Richterbeurteilung Praesidialrat, Richterdienst Drig Grundlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Richteranklage Art 98 Gg, Richterbeurteilung Praesidialrat, Richterdienst Drig Grundlagen

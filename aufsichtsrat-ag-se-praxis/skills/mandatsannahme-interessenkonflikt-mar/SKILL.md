@@ -1,13 +1,13 @@
 ---
 name: mandatsannahme-interessenkonflikt-mar
-description: "Nutze dies bei Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

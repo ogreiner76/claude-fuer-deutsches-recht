@@ -1,6 +1,6 @@
 ---
 name: polizei-feuerwehr-praesidialrat-mitwirkung
-description: "Nutze dies bei Polizei Feuerwehr Vollzug Sonderdienst, Praesidialrat Mitwirkung Richterernennung, Probezeit Und Lebenszeiternennung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Polizei Feuerwehr Vollzug Sonderdienst, Praesidialrat Mitwirkung Richterernennung, Probezeit Und Lebenszeiternennung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Polizei Feuerwehr Vollzug Sonderdienst, Praesidialrat Mitwirkung Richterernennung, Probezeit Und Lebenszeiternennung

@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben
-description: "Nutze dies bei Forderungsschreiben: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Forderungsschreiben: Formular, Portal und Einreichungslogik: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Forderungsschreiben: Formular, Portal und Einreichungslogik

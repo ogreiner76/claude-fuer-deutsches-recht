@@ -1,13 +1,13 @@
 ---
 name: lease-agb-klauseln-restwertgarantie
-description: "Nutze dies bei Lease 003 Agb Klauseln Im Leasingvertrag Prüfen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 003 Agb Klauseln Im Leasingvertrag Prüfen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 003 Agb Klauseln Im Leasingvertrag Prüfen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 003 Agb Klauseln Im Leasingvertrag Prüfen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 003 Agb Klauseln Im Leasingvertrag Prüfen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

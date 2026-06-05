@@ -1,13 +1,13 @@
 ---
 name: hoai-lph6-lv-lph7-bieterspiegel-lph8-maengel
-description: "Nutze dies bei Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Maengel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Maengel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: ssm-bundesbank-stablecoin-payment-staking
-description: "Nutze dies bei Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

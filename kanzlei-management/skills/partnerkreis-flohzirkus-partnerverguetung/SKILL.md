@@ -1,13 +1,13 @@
 ---
 name: partnerkreis-flohzirkus-partnerverguetung
-description: "Nutze dies bei Partnerkreis Flohzirkus, Partnerverguetung Lockstep Merit, Pipeline Dashboard, Pitch Debrief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Partnerkreis Flohzirkus, Partnerverguetung Lockstep Merit, Pipeline Dashboard, Pitch Debrief: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Partnerkreis Flohzirkus, Partnerverguetung Lockstep Merit, Pipeline Dashboard, Pitch Debrief
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Partnerkreis Flohzirkus, Partnerverguetung Lockstep Merit, Pipeline Dashboard, Pitch Debrief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Partnerkreis Flohzirkus, Partnerverguetung Lockstep Merit, Pipeline Dashboard, Pitch Debrief** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: forschung-studien-gewaltschutz
-description: "Nutze dies bei Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

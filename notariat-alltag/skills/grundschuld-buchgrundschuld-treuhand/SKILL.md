@@ -1,13 +1,13 @@
 ---
 name: grundschuld-buchgrundschuld-treuhand
-description: "Nutze dies bei Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

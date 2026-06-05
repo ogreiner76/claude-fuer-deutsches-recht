@@ -1,13 +1,13 @@
 ---
 name: igel-aufklaerung-klageerwiderung
-description: "Nutze dies bei Igel Aufklaerung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen Medizinische Indikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Igel Aufklaerung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen Medizinische Indikation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Igel Aufklaerung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen Medizinische Indikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Igel Aufklaerung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen Medizinische Indikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Igel Aufklaerung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen Medizinische Indikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

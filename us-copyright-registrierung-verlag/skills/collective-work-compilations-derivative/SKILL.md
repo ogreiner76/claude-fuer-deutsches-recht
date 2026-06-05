@@ -1,13 +1,13 @@
 ---
 name: collective-work-compilations-derivative
-description: "Nutze dies bei Collective Work Contributions Periodicals, Compilations Derivative Works 103, Copying Substantial Similarity, Copyright Bankruptcy 365n: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Collective Work Contributions Periodicals, Compilations Derivative Works 103, Copying Substantial Similarity, Copyright Bankruptcy 365n: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Collective Work Contributions Periodicals, Compilations Derivative Works 103, Copying Substantial Similarity, Copyright Bankruptcy 365N
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Collective Work Contributions Periodicals, Compilations Derivative Works 103, Copying Substantial Similarity, Copyright Bankruptcy 365N** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Collective Work Contributions Periodicals, Compilations Derivative Works 103, Copying Substantial Similarity, Copyright Bankruptcy 365N** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: distanz-interessen
-description: "Nutze dies bei Distanz: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Distanz: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Distanz: Mehrparteienkonflikt und Interessenmatrix

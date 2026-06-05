@@ -1,13 +1,13 @@
 ---
 name: wegegeld-besuch-zahnaerztliche-schnittstelle
-description: "Nutze dies bei Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

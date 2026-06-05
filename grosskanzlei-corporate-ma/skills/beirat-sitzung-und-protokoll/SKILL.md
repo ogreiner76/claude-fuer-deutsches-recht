@@ -1,6 +1,6 @@
 ---
 name: beirat-sitzung-und-protokoll
-description: "Nutze dies bei Beirat Sitzung Und Protokoll: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Sitzung Und Protokoll: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Sitzung Und Protokoll

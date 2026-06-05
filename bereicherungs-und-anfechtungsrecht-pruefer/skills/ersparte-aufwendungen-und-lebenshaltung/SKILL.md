@@ -1,6 +1,6 @@
 ---
 name: ersparte-aufwendungen-und-lebenshaltung
-description: "Nutze diesen Skill, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich."
+description: "Bei verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich."
 ---
 
 # Ersparte Aufwendungen und Lebenshaltung

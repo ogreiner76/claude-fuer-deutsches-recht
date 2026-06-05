@@ -1,13 +1,13 @@
 ---
 name: anfechtungsfrist-erklaerung-annahmefrist
-description: "Nutze dies bei Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

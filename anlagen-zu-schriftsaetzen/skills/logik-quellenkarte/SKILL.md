@@ -1,6 +1,6 @@
 ---
 name: logik-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Logik Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Logik Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Logik Quellenkarte

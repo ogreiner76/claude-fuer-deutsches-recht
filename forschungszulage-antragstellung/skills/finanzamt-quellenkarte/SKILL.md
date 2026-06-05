@@ -1,6 +1,6 @@
 ---
 name: finanzamt-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Finanzamt Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Finanzamt Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Finanzamt Quellenkarte

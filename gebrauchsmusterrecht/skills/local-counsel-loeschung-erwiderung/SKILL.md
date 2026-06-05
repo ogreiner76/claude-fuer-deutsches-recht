@@ -1,13 +1,13 @@
 ---
 name: local-counsel-loeschung-erwiderung
-description: "Nutze dies bei Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

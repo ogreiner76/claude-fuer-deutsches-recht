@@ -1,13 +1,13 @@
 ---
 name: pre1972-sound-preemption-state-privacy-pii
-description: "Nutze dies bei Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

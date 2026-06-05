@@ -1,6 +1,6 @@
 ---
 name: amtsangemessene-alimentation
-description: "Nutze dies bei Amtsangemessene Alimentation, Amtsangemessene Alimentation Bverfg, Amtsangemessene Beschaeftigung, Anfaenger Modus Beamtenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Amtsangemessene Alimentation, Amtsangemessene Alimentation Bverfg, Amtsangemessene Beschaeftigung, Anfaenger Modus Beamtenrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Amtsangemessene Alimentation, Amtsangemessene Alimentation Bverfg, Amtsangemessene Beschaeftigung, Anfaenger Modus Beamtenrecht

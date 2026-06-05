@@ -1,13 +1,13 @@
 ---
 name: grenzueberschreitender-formwechsel
-description: "Nutze dies bei Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

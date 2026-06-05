@@ -1,6 +1,6 @@
 ---
 name: eskalations-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Eskalations Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Eskalations Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Eskalations Quellenkarte

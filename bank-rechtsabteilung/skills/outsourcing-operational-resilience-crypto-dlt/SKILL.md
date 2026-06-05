@@ -1,13 +1,13 @@
 ---
 name: outsourcing-operational-resilience-crypto-dlt
-description: "Nutze dies bei Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

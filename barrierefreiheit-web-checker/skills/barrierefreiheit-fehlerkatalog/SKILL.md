@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Barrierefreiheit Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Barrierefreiheit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Barrierefreiheit Fehlerkatalog

@@ -1,13 +1,13 @@
 ---
 name: schwerbehinderung-agg-shared-resources-speak
-description: "Nutze dies bei Schwerbehinderung Agg, Shared Resources, Speak Up Kultur, Sprachliche Zugaenglichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schwerbehinderung Agg, Shared Resources, Speak Up Kultur, Sprachliche Zugaenglichkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schwerbehinderung Agg, Shared Resources, Speak Up Kultur, Sprachliche Zugaenglichkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schwerbehinderung Agg, Shared Resources, Speak Up Kultur, Sprachliche Zugaenglichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schwerbehinderung Agg, Shared Resources, Speak Up Kultur, Sprachliche Zugaenglichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

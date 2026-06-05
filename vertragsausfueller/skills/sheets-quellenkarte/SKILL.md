@@ -1,6 +1,6 @@
 ---
 name: sheets-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Sheets Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Sheets Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Sheets Quellenkarte

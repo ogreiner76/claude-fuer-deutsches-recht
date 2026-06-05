@@ -1,6 +1,6 @@
 ---
 name: uebereinkommen-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Uebereinkommen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Uebereinkommen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Uebereinkommen Quellenkarte

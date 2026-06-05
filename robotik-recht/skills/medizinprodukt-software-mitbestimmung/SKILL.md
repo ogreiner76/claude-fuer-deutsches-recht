@@ -1,6 +1,6 @@
 ---
 name: medizinprodukt-software-mitbestimmung
-description: "Nutze dies bei Medizinprodukt Software Ki Roboter, Mitbestimmung Betriebsrat Robotik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Medizinprodukt Software Ki Roboter, Mitbestimmung Betriebsrat Robotik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Medizinprodukt Software Ki Roboter, Mitbestimmung Betriebsrat Robotik

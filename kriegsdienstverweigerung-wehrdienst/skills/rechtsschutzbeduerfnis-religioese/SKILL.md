@@ -1,13 +1,13 @@
 ---
 name: rechtsschutzbeduerfnis-religioese
-description: "Nutze dies bei Rechtsschutzbeduerfnis Prüfen, Religioese Weltanschauliche Gruende, Reservisten Heranziehung, Ruecknahme Oder Verzicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsschutzbeduerfnis Prüfen, Religioese Weltanschauliche Gruende, Reservisten Heranziehung, Ruecknahme Oder Verzicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsschutzbeduerfnis Prüfen, Religioese Weltanschauliche Gruende, Reservisten Heranziehung, Rücknahme Oder Verzicht, Sanitaetsdienst Und Waffenloser Dienst
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsschutzbeduerfnis Prüfen, Religioese Weltanschauliche Gruende, Reservisten Heranziehung, Rücknahme Oder Verzicht, Sanitaetsdienst Und Waffenloser Dienst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsschutzbeduerfnis Prüfen, Religioese Weltanschauliche Gruende, Reservisten Heranziehung, Rücknahme Oder Verzicht, Sanitaetsdienst Und Waffenloser Dienst** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

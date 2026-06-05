@@ -1,13 +1,13 @@
 ---
 name: beweisfuehrung-berufsverfahren
-description: "Nutze dies bei Anwaelte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwaelte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwaelte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwaelte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwaelte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

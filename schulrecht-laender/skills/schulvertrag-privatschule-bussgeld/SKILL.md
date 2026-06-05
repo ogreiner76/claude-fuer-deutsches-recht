@@ -1,13 +1,13 @@
 ---
 name: schulvertrag-privatschule-bussgeld
-description: "Nutze dies bei Schulvertrag Privatschule Kündigung, Bussgeld Schulpflicht, Abitur Und Abschlusspruefungen, Abiturzulassung Und Fehlkurse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schulvertrag Privatschule Kündigung, Bussgeld Schulpflicht, Abitur Und Abschlusspruefungen, Abiturzulassung Und Fehlkurse: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schulvertrag Privatschule Kündigung, Bussgeld Schulpflicht, Abitur Und Abschlusspruefungen, Abiturzulassung Und Fehlkurse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schulvertrag Privatschule Kündigung, Bussgeld Schulpflicht, Abitur Und Abschlusspruefungen, Abiturzulassung Und Fehlkurse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schulvertrag Privatschule Kündigung, Bussgeld Schulpflicht, Abitur Und Abschlusspruefungen, Abiturzulassung Und Fehlkurse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

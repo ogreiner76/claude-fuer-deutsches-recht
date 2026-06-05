@@ -1,13 +1,13 @@
 ---
 name: sanktionen-investorcheck-gewerbeanmeldung
-description: "Nutze dies bei Gesellschaftsgruender Sanktionen Investorcheck, Gesellschaftsgruender Gewerbeanmeldung Finanzamt, Gesellschaftsgruender Gf Sozialversicherungs Status, Gesellschaftsgruender Gruender Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Sanktionen Investorcheck, Gesellschaftsgruender Gewerbeanmeldung Finanzamt, Gesellschaftsgruender Gf Sozialversicherungs Status, Gesellschaftsgruender Gruender Intake: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

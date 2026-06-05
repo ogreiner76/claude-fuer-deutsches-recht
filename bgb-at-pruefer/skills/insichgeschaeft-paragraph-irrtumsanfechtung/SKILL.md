@@ -1,13 +1,13 @@
 ---
 name: insichgeschaeft-paragraph-irrtumsanfechtung
-description: "Nutze dies bei Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

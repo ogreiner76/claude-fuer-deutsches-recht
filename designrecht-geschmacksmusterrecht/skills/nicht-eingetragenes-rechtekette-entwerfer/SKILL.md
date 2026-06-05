@@ -1,13 +1,13 @@
 ---
 name: nicht-eingetragenes-rechtekette-entwerfer
-description: "Nutze dies bei Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

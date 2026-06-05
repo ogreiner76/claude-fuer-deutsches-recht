@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis
-description: "Nutze dies bei Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik

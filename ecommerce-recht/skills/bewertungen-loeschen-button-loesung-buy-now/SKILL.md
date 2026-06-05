@@ -1,13 +1,13 @@
 ---
 name: bewertungen-loeschen-button-loesung-buy-now
-description: "Nutze dies bei Bewertungen Loeschen Lassen, Button Loesung 312j Bgb, Buy Now Pay Later Verbraucherkredit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bewertungen Loeschen Lassen, Button Loesung 312j Bgb, Buy Now Pay Later Verbraucherkredit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

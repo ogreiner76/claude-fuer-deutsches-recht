@@ -1,13 +1,13 @@
 ---
 name: einspruchsverfahren-conflict
-description: "Nutze dies bei Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

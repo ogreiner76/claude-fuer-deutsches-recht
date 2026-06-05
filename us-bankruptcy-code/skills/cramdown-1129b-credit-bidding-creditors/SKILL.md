@@ -1,13 +1,13 @@
 ---
 name: cramdown-1129b-credit-bidding-creditors
-description: "Nutze dies bei Cramdown 1129b, Credit Bidding 363k, Creditors Committee 1102, Critical Vendors: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Cramdown 1129b, Credit Bidding 363k, Creditors Committee 1102, Critical Vendors: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

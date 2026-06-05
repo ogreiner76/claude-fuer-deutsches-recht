@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-020-erster-titel-17-erbrecht
-description: "Nutze dies bei PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge

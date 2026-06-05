@@ -1,6 +1,6 @@
 ---
 name: mobile-roboter-nis2-betreiber
-description: "Nutze dies bei Mobile Roboter Amr Agv, Nis2 Betreiber Kritische Sektoren, Patientenaufklaerung Robotik, Pflege Und Assistenzroboter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mobile Roboter Amr Agv, Nis2 Betreiber Kritische Sektoren, Patientenaufklaerung Robotik, Pflege Und Assistenzroboter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mobile Roboter Amr Agv, Nis2 Betreiber Kritische Sektoren, Patientenaufklaerung Robotik, Pflege Und Assistenzroboter

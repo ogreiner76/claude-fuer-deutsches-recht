@@ -1,13 +1,13 @@
 ---
 name: avv-agb-b2b-harte-b2c-b2b2c-backup
-description: "Nutze dies bei Avv Und Agb Schnittstelle, B2b Harte Fassung, B2c B2b B2b2c Rollencheck, Backup Datenverlust: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Avv Und Agb Schnittstelle, B2b Harte Fassung, B2c B2b B2b2c Rollencheck, Backup Datenverlust: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

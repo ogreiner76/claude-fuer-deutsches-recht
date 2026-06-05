@@ -1,13 +1,13 @@
 ---
 name: it-sicherheits-konzessionsvergabe-konzvgv
-description: "Nutze dies bei Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

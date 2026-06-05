@@ -1,13 +1,13 @@
 ---
 name: anzeige-wer-anzeige-zeugenliste
-description: "Nutze dies bei Anzeige Wer Was Wann Wo Wie, Anzeige Zeugenliste Kontakt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Wer Was Wann Wo Wie, Anzeige Zeugenliste Kontakt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Wer Was Wann Wo Wie, Anzeige Zeugenliste Kontakt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Wer Was Wann Wo Wie, Anzeige Zeugenliste Kontakt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Wer Was Wann Wo Wie, Anzeige Zeugenliste Kontakt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: pruefung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Prüfung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Prüfung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Prüfung Fehlerkatalog

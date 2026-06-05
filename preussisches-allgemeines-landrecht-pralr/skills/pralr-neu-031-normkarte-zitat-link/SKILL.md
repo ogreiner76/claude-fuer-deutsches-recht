@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-031-normkarte-zitat-link
-description: "Nutze dies bei PrALR: Normkarte Zitat mit Link zum Digitalisat: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Normkarte Zitat mit Link zum Digitalisat: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Zitat mit Link zum Digitalisat

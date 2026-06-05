@@ -1,13 +1,13 @@
 ---
 name: insiderinformationen-mar-interessenprofil
-description: "Nutze dies bei Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

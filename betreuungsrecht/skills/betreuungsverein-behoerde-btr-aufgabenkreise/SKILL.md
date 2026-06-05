@@ -1,13 +1,13 @@
 ---
 name: betreuungsverein-behoerde-btr-aufgabenkreise
-description: "Nutze dies bei Betreuungsverein Behörde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betreuungsverein Behörde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betreuungsverein Behörde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betreuungsverein Behörde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betreuungsverein Behörde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

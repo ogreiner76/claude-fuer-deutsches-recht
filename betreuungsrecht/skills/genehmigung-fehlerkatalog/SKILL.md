@@ -1,6 +1,6 @@
 ---
 name: genehmigung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Genehmigung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Genehmigung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Genehmigung Fehlerkatalog

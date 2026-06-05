@@ -1,13 +1,13 @@
 ---
 name: whistleblowerhinweis-pruefmandat
-description: "Nutze dies bei Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

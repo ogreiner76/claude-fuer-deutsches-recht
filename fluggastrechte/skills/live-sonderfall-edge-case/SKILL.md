@@ -1,6 +1,6 @@
 ---
 name: live-sonderfall-edge-case
-description: "Nutze dies bei Live: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Live: Sonderfall und Edge-Case-Prüfung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Live: Sonderfall und Edge-Case-Prüfung

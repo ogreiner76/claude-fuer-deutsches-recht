@@ -1,13 +1,13 @@
 ---
 name: nicht-ausgleichsreife-notarielle
-description: "Nutze dies bei Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: entschliessungsantraege-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Entschliessungsantraege Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Entschliessungsantraege Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Entschliessungsantraege Fehlerkatalog

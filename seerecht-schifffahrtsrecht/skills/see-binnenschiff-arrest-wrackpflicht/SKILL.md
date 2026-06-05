@@ -1,13 +1,13 @@
 ---
 name: see-binnenschiff-arrest-wrackpflicht
-description: "Nutze dies bei See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: bericht-aussenhandel-intrastat-battg
-description: "Nutze dies bei Bericht Aussenhandel Intrastat Ahstatg, Bericht Battg Batterieregister Mengen, Bericht Baugenehmigung Baustatistik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bericht Aussenhandel Intrastat Ahstatg, Bericht Battg Batterieregister Mengen, Bericht Baugenehmigung Baustatistik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bericht Aussenhandel Intrastat Ahstatg, Bericht Battg Batterieregister Mengen, Bericht Baugenehmigung Baustatistik
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Aussenhandel Intrastat Ahstatg, Bericht Battg Batterieregister Mengen, Bericht Baugenehmigung Baustatistik** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bericht Aussenhandel Intrastat Ahstatg, Bericht Battg Batterieregister Mengen, Bericht Baugenehmigung Baustatistik** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

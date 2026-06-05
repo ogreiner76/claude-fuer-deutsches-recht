@@ -1,13 +1,13 @@
 ---
 name: eco-account-edition-isbn-education-distance
-description: "Nutze dies bei Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

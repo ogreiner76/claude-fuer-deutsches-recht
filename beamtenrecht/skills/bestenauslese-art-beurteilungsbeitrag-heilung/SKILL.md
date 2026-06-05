@@ -1,6 +1,6 @@
 ---
 name: bestenauslese-art-beurteilungsbeitrag-heilung
-description: "Nutze dies bei Bestenauslese Art 33 Ii Gg, Beurteilungsbeitrag Heilung Maengel, Bindungswirkung Strafurteil 23 Bdg, Bverfg Resilienz Und Bundesverfassungsgerichtswahl 2024 2025: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bestenauslese Art 33 Ii Gg, Beurteilungsbeitrag Heilung Maengel, Bindungswirkung Strafurteil 23 Bdg, Bverfg Resilienz Und Bundesverfassungsgerichtswahl 2024 2025: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bestenauslese Art 33 Ii Gg, Beurteilungsbeitrag Heilung Mängel, Bindungswirkung Strafurteil 23 Bdg, Bverfg Resilienz Und Bundesverfassungsgerichtswahl 2024 2025

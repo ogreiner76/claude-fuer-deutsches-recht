@@ -1,13 +1,13 @@
 ---
 name: glaeubigerausschuss-fristennotiz
-description: "Nutze dies bei Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3a Iv Antraege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3a Iv Antraege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

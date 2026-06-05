@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-krankenversicherungsschutz
-description: "Nutze dies bei Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

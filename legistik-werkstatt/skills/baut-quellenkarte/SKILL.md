@@ -1,6 +1,6 @@
 ---
 name: baut-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Baut Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Baut Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Baut Quellenkarte

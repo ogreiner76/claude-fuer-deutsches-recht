@@ -1,6 +1,6 @@
 ---
 name: product-counsel-feedback-rechte-annahmefrist
-description: "Nutze dies bei Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308

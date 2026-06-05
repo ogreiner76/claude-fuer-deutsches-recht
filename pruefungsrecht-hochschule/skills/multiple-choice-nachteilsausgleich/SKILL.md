@@ -1,13 +1,13 @@
 ---
 name: multiple-choice-nachteilsausgleich
-description: "Nutze dies bei Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

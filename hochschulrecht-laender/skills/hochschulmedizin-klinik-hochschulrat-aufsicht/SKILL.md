@@ -1,13 +1,13 @@
 ---
 name: hochschulmedizin-klinik-hochschulrat-aufsicht
-description: "Nutze dies bei Hochschulmedizin Klinik Schnittstelle, Hochschulrat Aufsicht Ministerium, Hochschulwahlen, Hochschulzugang Beruflich Qualifizierte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hochschulmedizin Klinik Schnittstelle, Hochschulrat Aufsicht Ministerium, Hochschulwahlen, Hochschulzugang Beruflich Qualifizierte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hochschulmedizin Klinik Schnittstelle, Hochschulrat Aufsicht Ministerium, Hochschulwahlen, Hochschulzugang Beruflich Qualifizierte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Hochschulmedizin Klinik Schnittstelle, Hochschulrat Aufsicht Ministerium, Hochschulwahlen, Hochschulzugang Beruflich Qualifizierte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Hochschulmedizin Klinik Schnittstelle, Hochschulrat Aufsicht Ministerium, Hochschulwahlen, Hochschulzugang Beruflich Qualifizierte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

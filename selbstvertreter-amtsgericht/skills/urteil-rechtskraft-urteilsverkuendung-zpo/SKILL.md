@@ -1,13 +1,13 @@
 ---
 name: urteil-rechtskraft-urteilsverkuendung-zpo
-description: "Nutze dies bei Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29c Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29c Zpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: formulararbeitsvertrag-haendlervertrag-agb
-description: "Nutze dies bei Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

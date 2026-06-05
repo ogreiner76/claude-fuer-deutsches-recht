@@ -1,6 +1,6 @@
 ---
 name: medienstaatsvertrag-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Medienstaatsvertrag Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Medienstaatsvertrag Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Medienstaatsvertrag Quellenkarte

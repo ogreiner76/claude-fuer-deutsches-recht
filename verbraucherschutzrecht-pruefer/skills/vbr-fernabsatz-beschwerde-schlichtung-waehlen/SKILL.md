@@ -1,13 +1,13 @@
 ---
 name: vbr-fernabsatz-beschwerde-schlichtung-waehlen
-description: "Nutze dies bei Vbr 036 Fernabsatz Beschwerde Schreiben, Vbr 037 Fernabsatz Schlichtung Waehlen, Vbr 038 Fernabsatz Klagepfad Skizzieren, Vbr 039 Fernabsatz Vergleich Vorschlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vbr 036 Fernabsatz Beschwerde Schreiben, Vbr 037 Fernabsatz Schlichtung Waehlen, Vbr 038 Fernabsatz Klagepfad Skizzieren, Vbr 039 Fernabsatz Vergleich Vorschlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vbr 036 Fernabsatz Beschwerde Schreiben, Vbr 037 Fernabsatz Schlichtung Waehlen, Vbr 038 Fernabsatz Klagepfad Skizzieren, Vbr 039 Fernabsatz Vergleich Vorschlagen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 036 Fernabsatz Beschwerde Schreiben, Vbr 037 Fernabsatz Schlichtung Waehlen, Vbr 038 Fernabsatz Klagepfad Skizzieren, Vbr 039 Fernabsatz Vergleich Vorschlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vbr 036 Fernabsatz Beschwerde Schreiben, Vbr 037 Fernabsatz Schlichtung Waehlen, Vbr 038 Fernabsatz Klagepfad Skizzieren, Vbr 039 Fernabsatz Vergleich Vorschlagen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

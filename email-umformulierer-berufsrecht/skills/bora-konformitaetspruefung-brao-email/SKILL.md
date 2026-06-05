@@ -1,13 +1,13 @@
 ---
 name: bora-konformitaetspruefung-brao-email
-description: "Nutze dies bei Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: anfaenger-sozialgericht-rechtsprechungschat
-description: "Nutze dies bei Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

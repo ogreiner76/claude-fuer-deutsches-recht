@@ -1,6 +1,6 @@
 ---
 name: staat-usbekistan-migrationscheck-vanuatu
-description: "Nutze dies bei Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck

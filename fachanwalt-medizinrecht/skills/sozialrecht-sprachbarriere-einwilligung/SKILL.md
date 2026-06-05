@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-sprachbarriere-einwilligung
-description: "Nutze dies bei Sozialrecht Formular Portal Und Einreichung, Sprachbarriere Einwilligung, Sterilgut Medizinprodukt, Transplantation Allocation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sozialrecht Formular Portal Und Einreichung, Sprachbarriere Einwilligung, Sterilgut Medizinprodukt, Transplantation Allocation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sozialrecht Formular Portal Und Einreichung, Sprachbarriere Einwilligung, Sterilgut Medizinprodukt, Transplantation Allocation

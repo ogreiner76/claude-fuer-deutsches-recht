@@ -1,6 +1,6 @@
 ---
 name: rechtsgrundlage-mandantenentscheidung
-description: "Nutze dies bei Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage

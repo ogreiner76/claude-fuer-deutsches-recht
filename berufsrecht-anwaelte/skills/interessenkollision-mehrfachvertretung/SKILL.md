@@ -1,13 +1,13 @@
 ---
 name: interessenkollision-mehrfachvertretung
-description: "Nutze dies bei Anwaelte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwaelte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwaelte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwaelte Internationales Mandat Und Geheimnisschutz Kammerantwo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwaelte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwaelte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwaelte Internationales Mandat Und Geheimnisschutz Kammerantwo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

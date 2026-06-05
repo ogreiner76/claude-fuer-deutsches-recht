@@ -1,13 +1,13 @@
 ---
 name: ihl-dokumenteninkasso-retention-title
-description: "Nutze dies bei Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

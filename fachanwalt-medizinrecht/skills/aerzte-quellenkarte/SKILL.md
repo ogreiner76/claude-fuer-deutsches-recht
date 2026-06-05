@@ -1,6 +1,6 @@
 ---
 name: aerzte-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Aerzte Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Aerzte Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Aerzte Quellenkarte

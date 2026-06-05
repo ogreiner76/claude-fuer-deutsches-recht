@@ -1,13 +1,13 @@
 ---
 name: authorschaft-work-backlist-rights-best
-description: "Nutze dies bei Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

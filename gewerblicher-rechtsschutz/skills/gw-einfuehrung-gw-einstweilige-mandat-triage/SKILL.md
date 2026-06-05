@@ -1,13 +1,13 @@
 ---
 name: gw-einfuehrung-gw-einstweilige-mandat-triage
-description: "Nutze dies bei Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: fran-multi-unit-pilotbetrieb-proof-disclosure
-description: "Nutze dies bei Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-beweislast-darlegungslast
-description: "Nutze dies bei Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Rechtsprechung: Beweislast, Darlegungslast und Substantiierung

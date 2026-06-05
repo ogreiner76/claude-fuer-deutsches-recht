@@ -1,13 +1,13 @@
 ---
 name: space-weltraumdaten-datenbankrecht
-description: "Nutze dies bei Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: jugendschoeffe-besonderheiten-sitzung-ladung
-description: "Nutze dies bei Jugendschoeffe Besonderheiten Orientierung, Jugendschoeffe Besonderheiten Sitzung, Ladung Erhalten Erste Orientierung Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jugendschoeffe Besonderheiten Orientierung, Jugendschoeffe Besonderheiten Sitzung, Ladung Erhalten Erste Orientierung Orientierung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jugendschoeffe Besonderheiten Orientierung, Jugendschoeffe Besonderheiten Sitzung, Ladung Erhalten Erste Orientierung Orientierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Jugendschoeffe Besonderheiten Orientierung, Jugendschoeffe Besonderheiten Sitzung, Ladung Erhalten Erste Orientierung Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Jugendschoeffe Besonderheiten Orientierung, Jugendschoeffe Besonderheiten Sitzung, Ladung Erhalten Erste Orientierung Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

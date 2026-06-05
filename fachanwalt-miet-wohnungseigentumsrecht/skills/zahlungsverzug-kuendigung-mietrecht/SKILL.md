@@ -1,13 +1,13 @@
 ---
 name: zahlungsverzug-kuendigung-mietrecht
-description: "Nutze dies bei Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel, Mietvertrag Agb Klauseln
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel, Mietvertrag Agb Klauseln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel, Mietvertrag Agb Klauseln** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

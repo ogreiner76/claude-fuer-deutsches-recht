@@ -1,6 +1,6 @@
 ---
 name: rom-neu-025-roemisches-griechischer-sprache
-description: "Nutze dies bei Römisches Recht: Römisches Recht in griechischer Sprache Terminologie: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Römisches Recht in griechischer Sprache Terminologie: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römisches Recht in griechischer Sprache Terminologie

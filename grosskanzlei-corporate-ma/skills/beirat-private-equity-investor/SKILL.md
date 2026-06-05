@@ -1,6 +1,6 @@
 ---
 name: beirat-private-equity-investor
-description: "Nutze dies bei Beirat Private Equity Investor: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Private Equity Investor: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Private Equity Investor

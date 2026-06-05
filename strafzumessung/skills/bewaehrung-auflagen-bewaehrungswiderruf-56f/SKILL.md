@@ -1,13 +1,13 @@
 ---
 name: bewaehrung-auflagen-bewaehrungswiderruf-56f
-description: "Nutze dies bei Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

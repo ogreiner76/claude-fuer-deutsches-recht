@@ -1,6 +1,6 @@
 ---
 name: rom-neu-023-roemisches-stadtrechte
-description: "Nutze dies bei Römisches Recht: Römisches Recht und Stadtrechte Norditalien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Römisches Recht und Stadtrechte Norditalien: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römisches Recht und Stadtrechte Norditalien

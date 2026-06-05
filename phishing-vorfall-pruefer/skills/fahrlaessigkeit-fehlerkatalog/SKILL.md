@@ -1,6 +1,6 @@
 ---
 name: fahrlaessigkeit-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Fahrlaessigkeit Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Fahrlaessigkeit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Fahrlaessigkeit Fehlerkatalog

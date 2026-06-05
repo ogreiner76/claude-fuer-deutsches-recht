@@ -1,13 +1,13 @@
 ---
 name: logistik-spedition-maengelrechte
-description: "Nutze dies bei Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

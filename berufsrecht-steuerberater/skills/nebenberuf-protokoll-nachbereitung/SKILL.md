@@ -1,13 +1,13 @@
 ---
 name: nebenberuf-protokoll-nachbereitung
-description: "Nutze dies bei Nebenberuf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nebenberuf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nebenberuf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nebenberuf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nebenberuf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

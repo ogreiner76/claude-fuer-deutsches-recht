@@ -1,13 +1,13 @@
 ---
 name: lease-unternehmerleasing-gewaehrleistung
-description: "Nutze dies bei Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: presse-gegendarstellung-schiedsstelle-dpma
-description: "Nutze dies bei Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44b Urhg Ki Training Opt Out: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44b Urhg Ki Training Opt Out: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

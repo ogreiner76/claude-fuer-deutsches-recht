@@ -1,13 +1,13 @@
 ---
 name: mahnverfahren-beweislast
-description: "Nutze dies bei Mahnverfahren Beweislast Und Darlegungslast, Zustaendigkeitspruefung Fristen Form Und Zustaendigkeit, Forderung Aus Werkvertrag Bgb Bau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mahnverfahren Beweislast Und Darlegungslast, Zustaendigkeitspruefung Fristen Form Und Zustaendigkeit, Forderung Aus Werkvertrag Bgb Bau: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mahnverfahren Beweislast Und Darlegungslast, Zustaendigkeitspruefung Fristen Form Und Zustaendigkeit, Forderung Aus Werkvertrag Bgb Bau
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mahnverfahren Beweislast Und Darlegungslast, Zustaendigkeitspruefung Fristen Form Und Zustaendigkeit, Forderung Aus Werkvertrag Bgb Bau** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mahnverfahren Beweislast Und Darlegungslast, Zustaendigkeitspruefung Fristen Form Und Zustaendigkeit, Forderung Aus Werkvertrag Bgb Bau** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

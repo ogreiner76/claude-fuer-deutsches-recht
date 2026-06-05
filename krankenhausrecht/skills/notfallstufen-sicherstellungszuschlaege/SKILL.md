@@ -1,13 +1,13 @@
 ---
 name: notfallstufen-sicherstellungszuschlaege
-description: "Nutze dies bei Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

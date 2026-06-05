@@ -1,13 +1,13 @@
 ---
 name: lease-kuendigung-zahlungsverzug-insolvenz
-description: "Nutze dies bei Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

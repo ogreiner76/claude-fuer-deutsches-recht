@@ -1,13 +1,13 @@
 ---
 name: dankt-dsgvo-sonderfall-e-mail
-description: "Nutze dies bei Dankt Risikoampel Und Gegenargumente, Dsgvo Sonderfall Und Edge Case, E Mail Erstantwort Und Terminrouting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dankt Risikoampel Und Gegenargumente, Dsgvo Sonderfall Und Edge Case, E Mail Erstantwort Und Terminrouting: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dankt Risikoampel Und Gegenargumente, Dsgvo Sonderfall Und Edge Case, E Mail Erstantwort Und Terminrouting
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dankt Risikoampel Und Gegenargumente, Dsgvo Sonderfall Und Edge Case, E Mail Erstantwort Und Terminrouting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dankt Risikoampel Und Gegenargumente, Dsgvo Sonderfall Und Edge Case, E Mail Erstantwort Und Terminrouting** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

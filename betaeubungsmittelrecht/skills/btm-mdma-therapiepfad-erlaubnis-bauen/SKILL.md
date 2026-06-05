@@ -1,13 +1,13 @@
 ---
 name: btm-mdma-therapiepfad-erlaubnis-bauen
-description: "Nutze dies bei Btm 066 Mdma Therapiepfad Prüfen, Btm 067 Mdma Erlaubnis Prüfen, Btm 068 Mdma Compliance Bauen, Btm 069 Mdma Akteneinsicht Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Btm 066 Mdma Therapiepfad Prüfen, Btm 067 Mdma Erlaubnis Prüfen, Btm 068 Mdma Compliance Bauen, Btm 069 Mdma Akteneinsicht Vorbereiten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Btm 066 Mdma Therapiepfad Prüfen, Btm 067 Mdma Erlaubnis Prüfen, Btm 068 Mdma Compliance Bauen, Btm 069 Mdma Akteneinsicht Vorbereiten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Btm 066 Mdma Therapiepfad Prüfen, Btm 067 Mdma Erlaubnis Prüfen, Btm 068 Mdma Compliance Bauen, Btm 069 Mdma Akteneinsicht Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Btm 066 Mdma Therapiepfad Prüfen, Btm 067 Mdma Erlaubnis Prüfen, Btm 068 Mdma Compliance Bauen, Btm 069 Mdma Akteneinsicht Vorbereiten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

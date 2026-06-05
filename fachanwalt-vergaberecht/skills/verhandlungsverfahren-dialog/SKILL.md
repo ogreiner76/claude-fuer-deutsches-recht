@@ -1,13 +1,13 @@
 ---
 name: verhandlungsverfahren-dialog
-description: "Nutze dies bei Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-erklaerung-meldebehoerde
-description: "Nutze dies bei Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

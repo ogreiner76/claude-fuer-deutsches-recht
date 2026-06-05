@@ -1,6 +1,6 @@
 ---
 name: beirat-geschaeftsfuehrerabberufung
-description: "Nutze dies bei Beirat Geschaeftsfuehrerabberufung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Geschaeftsfuehrerabberufung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Geschaeftsfuehrerabberufung

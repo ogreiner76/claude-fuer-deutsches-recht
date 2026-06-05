@@ -1,13 +1,13 @@
 ---
 name: vergabe-nachpruefung-vergabe-os-vergabeakte
-description: "Nutze dies bei Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

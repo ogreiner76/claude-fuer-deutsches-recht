@@ -1,13 +1,13 @@
 ---
 name: termination-exit-trade-secret-uk-software-us
-description: "Nutze dies bei Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

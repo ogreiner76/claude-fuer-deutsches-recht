@@ -1,13 +1,13 @@
 ---
 name: ins-gerichtsverfahren-ins-sanktionen
-description: "Nutze dies bei Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

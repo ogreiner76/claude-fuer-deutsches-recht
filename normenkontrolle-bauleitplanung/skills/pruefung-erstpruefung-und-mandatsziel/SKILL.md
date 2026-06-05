@@ -1,6 +1,6 @@
 ---
 name: pruefung-erstpruefung-und-mandatsziel
-description: "Nutze dies bei Pruefung: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Pruefung: Erstprüfung, Rollenklärung und Mandatsziel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Pruefung: Erstprüfung, Rollenklärung und Mandatsziel

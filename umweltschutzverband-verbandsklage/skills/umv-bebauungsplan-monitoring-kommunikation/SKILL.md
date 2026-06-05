@@ -1,13 +1,13 @@
 ---
 name: umv-bebauungsplan-monitoring-kommunikation
-description: "Nutze dies bei Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

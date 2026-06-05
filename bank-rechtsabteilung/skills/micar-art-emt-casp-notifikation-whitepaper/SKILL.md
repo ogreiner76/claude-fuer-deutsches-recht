@@ -1,13 +1,13 @@
 ---
 name: micar-art-emt-casp-notifikation-whitepaper
-description: "Nutze dies bei Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

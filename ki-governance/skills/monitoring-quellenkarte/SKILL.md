@@ -1,6 +1,6 @@
 ---
 name: monitoring-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Monitoring Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Monitoring Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Monitoring Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: disziplinarrecht-bdg-vollzugsmodell-bund
-description: "Nutze dies bei Disziplinarrecht Bdg 2024 Vollzugsmodell, Disziplinarrecht Bund Bdg, Disziplinarrecht Länder, Einstweiliger Rechtsschutz Vwgo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Disziplinarrecht Bdg 2024 Vollzugsmodell, Disziplinarrecht Bund Bdg, Disziplinarrecht Länder, Einstweiliger Rechtsschutz Vwgo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Disziplinarrecht Bdg 2024 Vollzugsmodell, Disziplinarrecht Bund Bdg, Disziplinarrecht Länder, Einstweiliger Rechtsschutz Vwgo

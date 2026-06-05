@@ -1,13 +1,13 @@
 ---
 name: entfristung-sachgrund-abs-sachgrundlos
-description: "Nutze dies bei Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2a Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2a Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

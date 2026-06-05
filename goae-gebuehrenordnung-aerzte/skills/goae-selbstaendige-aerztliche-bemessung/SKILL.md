@@ -1,13 +1,13 @@
 ---
 name: goae-selbstaendige-aerztliche-bemessung
-description: "Nutze dies bei Goae 4 Selbstaendige Aerztliche Leistung Zielleistungsprinzip, Goae 5 Bemessung Gebuehrenrahmen 2 3 1 8 1 15 Schwelle, Goae 5a Bemessung Im Basistarif: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Goae 4 Selbstaendige Aerztliche Leistung Zielleistungsprinzip, Goae 5 Bemessung Gebuehrenrahmen 2 3 1 8 1 15 Schwelle, Goae 5a Bemessung Im Basistarif: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Goae 4 Selbstaendige Aerztliche Leistung Zielleistungsprinzip, Goae 5 Bemessung Gebuehrenrahmen 2 3 1 8 1 15 Schwelle, Goae 5A Bemessung Im Basistarif
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Goae 4 Selbstaendige Aerztliche Leistung Zielleistungsprinzip, Goae 5 Bemessung Gebuehrenrahmen 2 3 1 8 1 15 Schwelle, Goae 5A Bemessung Im Basistarif** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Goae 4 Selbstaendige Aerztliche Leistung Zielleistungsprinzip, Goae 5 Bemessung Gebuehrenrahmen 2 3 1 8 1 15 Schwelle, Goae 5A Bemessung Im Basistarif** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

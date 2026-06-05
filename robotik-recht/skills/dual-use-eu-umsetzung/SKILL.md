@@ -1,6 +1,6 @@
 ---
 name: dual-use-eu-umsetzung
-description: "Nutze dies bei Dual Use Und Militaerische Robotik, Eu De Umsetzung Und Rechtsstand Livecheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dual Use Und Militaerische Robotik, Eu De Umsetzung Und Rechtsstand Livecheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dual Use Und Militaerische Robotik, Eu De Umsetzung Und Rechtsstand Livecheck

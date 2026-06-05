@@ -1,6 +1,6 @@
 ---
 name: bussgeld-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Bussgeld Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Bussgeld Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Bussgeld Quellenkarte

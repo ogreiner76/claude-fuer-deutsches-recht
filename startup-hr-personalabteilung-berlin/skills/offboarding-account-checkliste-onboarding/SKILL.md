@@ -1,13 +1,13 @@
 ---
 name: offboarding-account-checkliste-onboarding
-description: "Nutze dies bei Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: mandantenanfragen-anfrage-eingang-anrede
-description: "Nutze dies bei Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: inso-pl
-description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

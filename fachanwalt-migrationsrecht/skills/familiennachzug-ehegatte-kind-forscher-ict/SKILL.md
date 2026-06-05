@@ -1,13 +1,13 @@
 ---
 name: familiennachzug-ehegatte-kind-forscher-ict
-description: "Nutze dies bei Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

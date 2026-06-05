@@ -1,13 +1,13 @@
 ---
 name: notare-kollegialitaet-faktenma-kostenrechnung
-description: "Nutze dies bei Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: formalia-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Formalia Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Formalia Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Formalia Fehlerkatalog

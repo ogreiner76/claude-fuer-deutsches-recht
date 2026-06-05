@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-021-zweiter-familienrecht-ehe
-description: "Nutze dies bei PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft

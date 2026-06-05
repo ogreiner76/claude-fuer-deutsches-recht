@@ -1,13 +1,13 @@
 ---
 name: videoueberwachung-biometrie-vorbelastungen
-description: "Nutze dies bei Videoueberwachung Und Biometrie, Vorbelastungen Und Wiederholungstaeter, Vorsatz Fahrlaessigkeit Unternehmen, Vorstands Und Gf Briefing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Videoueberwachung Und Biometrie, Vorbelastungen Und Wiederholungstaeter, Vorsatz Fahrlaessigkeit Unternehmen, Vorstands Und Gf Briefing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Videoueberwachung Und Biometrie, Vorbelastungen Und Wiederholungstaeter, Vorsatz Fahrlaessigkeit Unternehmen, Vorstands Und Gf Briefing
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Videoueberwachung Und Biometrie, Vorbelastungen Und Wiederholungstaeter, Vorsatz Fahrlaessigkeit Unternehmen, Vorstands Und Gf Briefing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Videoueberwachung Und Biometrie, Vorbelastungen Und Wiederholungstaeter, Vorsatz Fahrlaessigkeit Unternehmen, Vorstands Und Gf Briefing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: sanktionen-mandatsannahme-steuerliche
-description: "Nutze dies bei Anwaelte Sanktionen Und Mandatsannahme Organisationspflicht Und, Anwaelte Steuerliche Probleme Kanzlei Kammerantwort Und Verfahr, Anwaelte Steuerliche Probleme Kanzlei Organisationspflicht Und, Aktenfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Sanktionen Und Mandatsannahme Organisationspflicht Und, Anwaelte Steuerliche Probleme Kanzlei Kammerantwort Und Verfahr, Anwaelte Steuerliche Probleme Kanzlei Organisationspflicht Und, Aktenfuehrung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Sanktionen Und Mandatsannahme Organisationspflicht Und, Anwälte Steuerliche Probleme Kanzlei Kammerantwort Und Verfahr, Anwälte Steuerliche Probleme Kanzlei Organisationspflicht Und, Aktenfuehrung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Sanktionen Und Mandatsannahme Organisationspflicht Und, Anwälte Steuerliche Probleme Kanzlei Kammerantwort Und Verfahr, Anwälte Steuerliche Probleme Kanzlei Organisationspflicht Und, Aktenfuehrung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Sanktionen Und Mandatsannahme Organisationspflicht Und, Anwälte Steuerliche Probleme Kanzlei Kammerantwort Und Verfahr, Anwälte Steuerliche Probleme Kanzlei Organisationspflicht Und, Aktenfuehrung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

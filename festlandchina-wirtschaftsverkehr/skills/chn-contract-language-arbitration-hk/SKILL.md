@@ -1,13 +1,13 @@
 ---
 name: chn-contract-language-arbitration-hk
-description: "Nutze dies bei Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

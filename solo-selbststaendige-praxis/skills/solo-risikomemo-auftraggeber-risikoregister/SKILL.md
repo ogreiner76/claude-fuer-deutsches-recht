@@ -1,13 +1,13 @@
 ---
 name: solo-risikomemo-auftraggeber-risikoregister
-description: "Nutze dies bei Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

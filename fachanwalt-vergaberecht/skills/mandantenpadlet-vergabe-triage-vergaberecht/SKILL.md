@@ -1,13 +1,13 @@
 ---
 name: mandantenpadlet-vergabe-triage-vergaberecht
-description: "Nutze dies bei Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

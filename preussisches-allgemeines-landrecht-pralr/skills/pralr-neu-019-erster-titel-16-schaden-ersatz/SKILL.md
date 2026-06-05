@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-019-erster-titel-16-schaden-ersatz
-description: "Nutze dies bei PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr

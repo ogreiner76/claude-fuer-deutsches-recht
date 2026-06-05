@@ -1,13 +1,13 @@
 ---
 name: schoeffe-digitale-beweise-dolmetscher
-description: "Nutze dies bei Schoeffe Digitale Beweise Sitzung, Schoeffe Dolmetscher Orientierung, Schoeffe Dolmetscher Sitzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schoeffe Digitale Beweise Sitzung, Schoeffe Dolmetscher Orientierung, Schoeffe Dolmetscher Sitzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schoeffe Digitale Beweise Sitzung, Schoeffe Dolmetscher Orientierung, Schoeffe Dolmetscher Sitzung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schoeffe Digitale Beweise Sitzung, Schoeffe Dolmetscher Orientierung, Schoeffe Dolmetscher Sitzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schoeffe Digitale Beweise Sitzung, Schoeffe Dolmetscher Orientierung, Schoeffe Dolmetscher Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

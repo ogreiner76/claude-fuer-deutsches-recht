@@ -1,13 +1,13 @@
 ---
 name: anwaelte-versorgungswerk-arbeitslosigkeit
-description: "Nutze dies bei Anwaelte Versorgungswerk Spezial, Arbeitslosigkeit Bürgergeld Und Rente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Versorgungswerk Spezial, Arbeitslosigkeit Bürgergeld Und Rente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Versorgungswerk Spezial, Arbeitslosigkeit Buergergeld Und Rente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Versorgungswerk Spezial, Arbeitslosigkeit Buergergeld Und Rente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Versorgungswerk Spezial, Arbeitslosigkeit Buergergeld Und Rente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

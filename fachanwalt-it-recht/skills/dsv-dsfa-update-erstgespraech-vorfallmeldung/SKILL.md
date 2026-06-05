@@ -1,13 +1,13 @@
 ---
 name: dsv-dsfa-update-erstgespraech-vorfallmeldung
-description: "Nutze dies bei Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

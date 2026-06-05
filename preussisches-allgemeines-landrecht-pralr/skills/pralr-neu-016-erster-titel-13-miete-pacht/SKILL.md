@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-016-erster-titel-13-miete-pacht
-description: "Nutze dies bei PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag

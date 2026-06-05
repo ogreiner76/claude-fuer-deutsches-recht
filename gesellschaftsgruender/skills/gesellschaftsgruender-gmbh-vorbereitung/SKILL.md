@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-gmbh-vorbereitung
-description: "Nutze dies bei Gesellschaftsgruender Gmbh Vorbereitung, Gesellschaftsgruender Golden Share Und Vetorechte, Gesellschaftsgruender Gruenderrollen Konfliktcheck, Gesellschaftsgruender Gv Einladung Tagesordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Gmbh Vorbereitung, Gesellschaftsgruender Golden Share Und Vetorechte, Gesellschaftsgruender Gruenderrollen Konfliktcheck, Gesellschaftsgruender Gv Einladung Tagesordnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

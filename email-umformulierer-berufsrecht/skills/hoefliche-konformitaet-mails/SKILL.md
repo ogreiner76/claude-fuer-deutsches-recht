@@ -1,13 +1,13 @@
 ---
 name: hoefliche-konformitaet-mails
-description: "Nutze dies bei Hoefliche Behörden Gericht Und Registerweg, Konformitaet Formular Portal Und Einreichung, Mails Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hoefliche Behörden Gericht Und Registerweg, Konformitaet Formular Portal Und Einreichung, Mails Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hoefliche Behörden Gericht Und Registerweg, Konformitaet Formular Portal Und Einreichung, Mails Risikoampel Und Gegenargumente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Hoefliche Behörden Gericht Und Registerweg, Konformitaet Formular Portal Und Einreichung, Mails Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Hoefliche Behörden Gericht Und Registerweg, Konformitaet Formular Portal Und Einreichung, Mails Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

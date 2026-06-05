@@ -1,6 +1,6 @@
 ---
 name: mahnung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Mahnung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Mahnung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Mahnung Fehlerkatalog

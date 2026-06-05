@@ -1,6 +1,6 @@
 ---
 name: notfall-mutmassliche-off-label
-description: "Nutze dies bei Notfall Mutmassliche Einwilligung, Off Label Rare Disease: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notfall Mutmassliche Einwilligung, Off Label Rare Disease: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notfall Mutmassliche Einwilligung, Off Label Rare Disease

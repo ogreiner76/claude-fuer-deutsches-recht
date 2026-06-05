@@ -1,13 +1,13 @@
 ---
 name: rom-mandatum-qualificatum-testamentum-calatis
-description: "Nutze dies bei Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

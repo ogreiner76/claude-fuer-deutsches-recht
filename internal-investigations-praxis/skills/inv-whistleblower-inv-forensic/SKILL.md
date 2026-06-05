@@ -1,13 +1,13 @@
 ---
 name: inv-whistleblower-inv-forensic
-description: "Nutze dies bei Inv 013 Whistleblower, Inv 015 Forensic Imaging: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inv 013 Whistleblower, Inv 015 Forensic Imaging: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inv 013 Whistleblower, Inv 015 Forensic Imaging
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inv 013 Whistleblower, Inv 015 Forensic Imaging** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inv 013 Whistleblower, Inv 015 Forensic Imaging** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

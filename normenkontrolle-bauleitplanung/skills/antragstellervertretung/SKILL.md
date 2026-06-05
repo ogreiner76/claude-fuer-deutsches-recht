@@ -1,6 +1,6 @@
 ---
 name: antragstellervertretung
-description: "Nutze dies bei Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung

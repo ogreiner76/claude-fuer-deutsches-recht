@@ -1,13 +1,13 @@
 ---
 name: klausurloesungen-fehlerdiagnose-konsens
-description: "Nutze dies bei Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

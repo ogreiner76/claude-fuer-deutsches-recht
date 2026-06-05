@@ -1,13 +1,13 @@
 ---
 name: notare-dienstaufsicht-beschwerde
-description: "Nutze dies bei Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

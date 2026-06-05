@@ -1,6 +1,6 @@
 ---
 name: first-human-geburtshilfe-ctg-gendg-diagnostik
-description: "Nutze dies bei First In Human Riskboard, Geburtshilfe Ctg Sectio, Gendg Diagnostik Einwilligung, Genomdaten Ehds Biobank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "First In Human Riskboard, Geburtshilfe Ctg Sectio, Gendg Diagnostik Einwilligung, Genomdaten Ehds Biobank: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # First In Human Riskboard, Geburtshilfe Ctg Sectio, Gendg Diagnostik Einwilligung, Genomdaten Ehds Biobank

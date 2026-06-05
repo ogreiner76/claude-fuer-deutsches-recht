@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-testdaten-validierung
-description: "Nutze dies bei Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart

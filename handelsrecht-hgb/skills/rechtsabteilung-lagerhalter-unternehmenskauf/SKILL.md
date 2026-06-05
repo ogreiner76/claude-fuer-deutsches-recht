@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-lagerhalter-unternehmenskauf
-description: "Nutze dies bei Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

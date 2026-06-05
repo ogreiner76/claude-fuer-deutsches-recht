@@ -1,13 +1,13 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "Nutze dies bei It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

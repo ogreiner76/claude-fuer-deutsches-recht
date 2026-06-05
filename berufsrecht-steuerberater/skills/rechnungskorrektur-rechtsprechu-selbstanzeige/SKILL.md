@@ -1,13 +1,13 @@
 ---
 name: rechnungskorrektur-rechtsprechu-selbstanzeige
-description: "Nutze dies bei Steuerberater Rechnungskorrektur Und Dokumentation Rechtsprechu, Steuerberater Selbstanzeige Mandat Risiko Kammerantwort Und Ver, Steuerberater Selbstanzeige Mandat Risiko Organisationspflicht, Steuerberater Stbvv Verguetung Und Transparenz Kammerantwort Un: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Rechnungskorrektur Und Dokumentation Rechtsprechu, Steuerberater Selbstanzeige Mandat Risiko Kammerantwort Und Ver, Steuerberater Selbstanzeige Mandat Risiko Organisationspflicht, Steuerberater Stbvv Verguetung Und Transparenz Kammerantwort Un: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Rechnungskorrektur Und Dokumentation Rechtsprechu, Steuerberater Selbstanzeige Mandat Risiko Kammerantwort Und Ver, Steuerberater Selbstanzeige Mandat Risiko Organisationspflicht, Steuerberater Stbvv Vergütung Und Transparenz Kammerantwort Un
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Rechnungskorrektur Und Dokumentation Rechtsprechu, Steuerberater Selbstanzeige Mandat Risiko Kammerantwort Und Ver, Steuerberater Selbstanzeige Mandat Risiko Organisationspflicht, Steuerberater Stbvv Vergütung Und Transparenz Kammerantwort Un** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Rechnungskorrektur Und Dokumentation Rechtsprechu, Steuerberater Selbstanzeige Mandat Risiko Kammerantwort Und Ver, Steuerberater Selbstanzeige Mandat Risiko Organisationspflicht, Steuerberater Stbvv Vergütung Und Transparenz Kammerantwort Un** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

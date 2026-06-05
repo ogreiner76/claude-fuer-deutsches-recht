@@ -1,13 +1,13 @@
 ---
 name: dsv-meldung-baylda-bfdi-bln-bdi-hbdi-hmbbfdi
-description: "Nutze dies bei Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: anwaelte-ki-tool-legal-tech-mandatsgeheimnis
-description: "Nutze dies bei Anwaelte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwaelte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwaelte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwaelte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwaelte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwaelte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwaelte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

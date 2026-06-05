@@ -1,13 +1,13 @@
 ---
 name: mehrere-verstoesse-milderung-durch
-description: "Nutze dies bei Mehrere Verstoesse Und Art 83 3, Milderung Durch Compliance Vor Dem Vorfall, Milderung Durch Remediation Nach Dem Vorfall, Normenkollision Geheimnisse Und Datenschutzaufsicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mehrere Verstoesse Und Art 83 3, Milderung Durch Compliance Vor Dem Vorfall, Milderung Durch Remediation Nach Dem Vorfall, Normenkollision Geheimnisse Und Datenschutzaufsicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mehrere Verstoesse Und Art 83 3, Milderung Durch Compliance Vor Dem Vorfall, Milderung Durch Remediation Nach Dem Vorfall, Normenkollision Geheimnisse Und Datenschutzaufsicht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mehrere Verstoesse Und Art 83 3, Milderung Durch Compliance Vor Dem Vorfall, Milderung Durch Remediation Nach Dem Vorfall, Normenkollision Geheimnisse Und Datenschutzaufsicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mehrere Verstoesse Und Art 83 3, Milderung Durch Compliance Vor Dem Vorfall, Milderung Durch Remediation Nach Dem Vorfall, Normenkollision Geheimnisse Und Datenschutzaufsicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

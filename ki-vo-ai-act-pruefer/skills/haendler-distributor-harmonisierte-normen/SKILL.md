@@ -1,13 +1,13 @@
 ---
 name: haendler-distributor-harmonisierte-normen
-description: "Nutze dies bei Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: kabinettsentwuerfe
-description: "Nutze dies bei Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk

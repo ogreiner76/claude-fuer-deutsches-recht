@@ -1,6 +1,6 @@
 ---
 name: jahresabrechnung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Jahresabrechnung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Jahresabrechnung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Jahresabrechnung Quellenkarte

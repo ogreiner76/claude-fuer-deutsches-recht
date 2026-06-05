@@ -1,13 +1,13 @@
 ---
 name: status-stellungnahmen-dritter-ungedient-ab
-description: "Nutze dies bei Status Routing, Stellungnahmen Dritter, Ungedient Ab 2010, Ungedient Vor 2010: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Status Routing, Stellungnahmen Dritter, Ungedient Ab 2010, Ungedient Vor 2010: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Status Routing, Stellungnahmen Dritter, Ungedient Ab 2010, Ungedient Vor 2010, Untaetigkeitsklage Vwgo 75
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Status Routing, Stellungnahmen Dritter, Ungedient Ab 2010, Ungedient Vor 2010, Untaetigkeitsklage Vwgo 75** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Status Routing, Stellungnahmen Dritter, Ungedient Ab 2010, Ungedient Vor 2010, Untaetigkeitsklage Vwgo 75** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: familien-und-partnerzuwendungen
-description: "Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB."
+description: "Bei private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB."
 ---
 
 # Familien- und Partnerzuwendungen

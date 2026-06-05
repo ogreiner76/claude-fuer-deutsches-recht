@@ -1,6 +1,6 @@
 ---
 name: erholungsurlaub-verfall-ernennung-wirksamkeit
-description: "Nutze dies bei Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Ruecknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Ruecknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Rücknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch

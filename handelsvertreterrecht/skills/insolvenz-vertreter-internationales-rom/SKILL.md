@@ -1,13 +1,13 @@
 ---
 name: insolvenz-vertreter-internationales-rom
-description: "Nutze dies bei Insolvenz Vertreter, Internationales Recht Rom I, Karenzentschaedigung, Kartellrecht Vertikal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insolvenz Vertreter, Internationales Recht Rom I, Karenzentschaedigung, Kartellrecht Vertikal: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insolvenz Vertreter, Internationales Recht Rom I, Karenzentschaedigung, Kartellrecht Vertikal
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insolvenz Vertreter, Internationales Recht Rom I, Karenzentschaedigung, Kartellrecht Vertikal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insolvenz Vertreter, Internationales Recht Rom I, Karenzentschaedigung, Kartellrecht Vertikal** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

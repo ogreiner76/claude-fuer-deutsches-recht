@@ -1,6 +1,6 @@
 ---
 name: rom-neu-013-basiliken-prochiron-epanagoge
-description: "Nutze dies bei Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption

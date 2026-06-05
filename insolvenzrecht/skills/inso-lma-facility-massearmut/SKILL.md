@@ -1,13 +1,13 @@
 ---
 name: inso-lma-facility-massearmut
-description: "Nutze dies bei Inso Lma Facility Agent Und Syndikat, Inso Massearmut Massekostenmangel Spezial, Inso Negativeintrag Bestreiten Belegpaket, Inso Neustart Bonitaet Konto Kredit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso Lma Facility Agent Und Syndikat, Inso Massearmut Massekostenmangel Spezial, Inso Negativeintrag Bestreiten Belegpaket, Inso Neustart Bonitaet Konto Kredit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso Lma Facility Agent Und Syndikat, Inso Massearmut Massekostenmangel Spezial, Inso Negativeintrag Bestreiten Belegpaket, Inso Neustart Bonitaet Konto Kredit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso Lma Facility Agent Und Syndikat, Inso Massearmut Massekostenmangel Spezial, Inso Negativeintrag Bestreiten Belegpaket, Inso Neustart Bonitaet Konto Kredit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso Lma Facility Agent Und Syndikat, Inso Massearmut Massekostenmangel Spezial, Inso Negativeintrag Bestreiten Belegpaket, Inso Neustart Bonitaet Konto Kredit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

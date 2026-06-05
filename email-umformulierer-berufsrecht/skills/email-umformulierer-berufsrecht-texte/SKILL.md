@@ -1,6 +1,6 @@
 ---
 name: email-umformulierer-berufsrecht-texte
-description: "Nutze dies bei Texte: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Texte: Zahlen, Schwellenwerte und Berechnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Texte: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-verhandlung-vergleich-und
-description: "Nutze dies bei Schriftsatz: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Schriftsatz: Verhandlung, Vergleich und Eskalation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: apothekenbetrieb-dokumentenintake
-description: "Nutze dies für Unterlagen zu Apothekenbetrieb Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Apothekenbetrieb Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Apothekenbetrieb Dokumentenintake

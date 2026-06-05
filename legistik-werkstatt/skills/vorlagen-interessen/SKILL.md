@@ -1,6 +1,6 @@
 ---
 name: vorlagen-interessen
-description: "Nutze dies bei Vorlagen: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Vorlagen: Mehrparteienkonflikt und Interessenmatrix

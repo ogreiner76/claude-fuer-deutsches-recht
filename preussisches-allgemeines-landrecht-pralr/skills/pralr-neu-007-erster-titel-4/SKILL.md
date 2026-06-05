@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-007-erster-titel-4
-description: "Nutze dies bei PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge

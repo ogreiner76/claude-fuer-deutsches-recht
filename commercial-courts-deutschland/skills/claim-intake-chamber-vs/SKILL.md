@@ -1,13 +1,13 @@
 ---
 name: claim-intake-chamber-vs
-description: "Nutze dies bei Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

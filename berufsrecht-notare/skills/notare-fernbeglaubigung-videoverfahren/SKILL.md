@@ -1,13 +1,13 @@
 ---
 name: notare-fernbeglaubigung-videoverfahren
-description: "Nutze dies bei Notare Fernbeglaubigung Und Videoverfahren Kaltstart Und Fakten, Notare Geldwaesche Sanktionslisten Kaltstart Und Faktenmatrix, Notare Geldwaeschepruefung Immobilienkauf Kaltstart Und Faktenm, Notare Gesellschafterliste Nach Auslandsinsolvenz Kaltstart Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Fernbeglaubigung Und Videoverfahren Kaltstart Und Fakten, Notare Geldwaesche Sanktionslisten Kaltstart Und Faktenmatrix, Notare Geldwaeschepruefung Immobilienkauf Kaltstart Und Faktenm, Notare Gesellschafterliste Nach Auslandsinsolvenz Kaltstart Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Fernbeglaubigung Und Videoverfahren Kaltstart Und Fakten, Notare Geldwaesche Sanktionslisten Kaltstart Und Faktenmatrix, Notare Geldwaeschepruefung Immobilienkauf Kaltstart Und Faktenm, Notare Gesellschafterliste Nach Auslandsinsolvenz Kaltstart Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Fernbeglaubigung Und Videoverfahren Kaltstart Und Fakten, Notare Geldwaesche Sanktionslisten Kaltstart Und Faktenmatrix, Notare Geldwaeschepruefung Immobilienkauf Kaltstart Und Faktenm, Notare Gesellschafterliste Nach Auslandsinsolvenz Kaltstart Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Fernbeglaubigung Und Videoverfahren Kaltstart Und Fakten, Notare Geldwaesche Sanktionslisten Kaltstart Und Faktenmatrix, Notare Geldwaeschepruefung Immobilienkauf Kaltstart Und Faktenm, Notare Gesellschafterliste Nach Auslandsinsolvenz Kaltstart Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

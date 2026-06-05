@@ -1,13 +1,13 @@
 ---
 name: autonome-lkw-cmr-schadensregulierung
-description: "Nutze dies bei Fachanwalt Transport Autonome Lkw Konvois Haftung 1d Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Transport Autonome Lkw Konvois Haftung 1d Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

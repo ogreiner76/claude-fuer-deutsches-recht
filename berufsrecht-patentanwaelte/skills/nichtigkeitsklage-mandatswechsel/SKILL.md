@@ -1,13 +1,13 @@
 ---
 name: nichtigkeitsklage-mandatswechsel
-description: "Nutze dies bei Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: zugang-kuendigungsschutzklage
-description: "Nutze dies bei Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
+description: "Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
 ---
 
 # Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: evaluation-jahresbericht-fallzahlen
-description: "Nutze dies bei Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

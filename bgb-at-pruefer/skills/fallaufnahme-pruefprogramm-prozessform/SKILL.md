@@ -1,13 +1,13 @@
 ---
 name: fallaufnahme-pruefprogramm-prozessform
-description: "Nutze dies bei Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

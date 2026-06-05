@@ -1,13 +1,13 @@
 ---
 name: space-internationale-streitbeilegung
-description: "Nutze dies bei Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

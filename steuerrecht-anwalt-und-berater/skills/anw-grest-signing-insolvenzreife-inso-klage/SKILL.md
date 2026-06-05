@@ -1,13 +1,13 @@
 ---
 name: anw-grest-signing-insolvenzreife-inso-klage
-description: "Nutze dies bei Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

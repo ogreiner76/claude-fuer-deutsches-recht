@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-laender-lehrer-schule-live
-description: "Nutze dies bei Laufbahnrecht Länder Matrix, Lehrer Schule Beamtenrecht, Live Quellencheck Bund Land Richter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laufbahnrecht Länder Matrix, Lehrer Schule Beamtenrecht, Live Quellencheck Bund Land Richter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laufbahnrecht Länder Matrix, Lehrer Schule Beamtenrecht, Live Quellencheck Bund Land Richter

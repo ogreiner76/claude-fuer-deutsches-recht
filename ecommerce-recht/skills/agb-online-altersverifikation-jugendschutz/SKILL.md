@@ -1,13 +1,13 @@
 ---
 name: agb-online-altersverifikation-jugendschutz
-description: "Nutze dies bei Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

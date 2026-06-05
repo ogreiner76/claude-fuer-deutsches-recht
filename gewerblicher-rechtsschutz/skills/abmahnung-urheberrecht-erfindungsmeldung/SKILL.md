@@ -1,13 +1,13 @@
 ---
 name: abmahnung-urheberrecht-erfindungsmeldung
-description: "Nutze dies bei Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Urteilsverfuegung Beschlussverfuegung Und Zust: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Urteilsverfuegung Beschlussverfuegung Und Zust: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Urteilsverfuegung Beschlussverfuegung Und Zust
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Urteilsverfuegung Beschlussverfuegung Und Zust** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Urteilsverfuegung Beschlussverfuegung Und Zust** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

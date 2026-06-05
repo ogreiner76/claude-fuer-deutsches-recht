@@ -1,13 +1,13 @@
 ---
 name: ausgleich-ma-deal-ausgleichsanmeldung
-description: "Nutze dies bei Ausgleich Berechnung, Ausgleich Im Ma Deal, Ausgleichsanmeldung, Ausgleichsanspruch 89b: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ausgleich Berechnung, Ausgleich Im Ma Deal, Ausgleichsanmeldung, Ausgleichsanspruch 89b: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ausgleich Berechnung, Ausgleich Im Ma Deal, Ausgleichsanmeldung, Ausgleichsanspruch 89B
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ausgleich Berechnung, Ausgleich Im Ma Deal, Ausgleichsanmeldung, Ausgleichsanspruch 89B** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ausgleich Berechnung, Ausgleich Im Ma Deal, Ausgleichsanmeldung, Ausgleichsanspruch 89B** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: deliktsrecht-paragraph-sittenwidrige
-description: "Nutze dies bei Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

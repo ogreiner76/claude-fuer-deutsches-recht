@@ -1,13 +1,13 @@
 ---
 name: parallelverfahren-art-strafrecht-bdsg
-description: "Nutze dies bei Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

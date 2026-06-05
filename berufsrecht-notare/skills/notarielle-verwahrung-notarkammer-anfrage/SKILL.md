@@ -1,13 +1,13 @@
 ---
 name: notarielle-verwahrung-notarkammer-anfrage
-description: "Nutze dies bei Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

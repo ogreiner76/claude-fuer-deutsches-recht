@@ -1,6 +1,6 @@
 ---
 name: rom-neu-026-epigraphische-quellen-juristisch
-description: "Nutze dies zur Quellenprüfung bei Römisches Recht: Epigraphische Quellen juristisch auswerten: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Römisches Recht: Quellenprüfung; Epigraphische Quellen juristisch auswerten: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Römisches Recht: Epigraphische Quellen juristisch auswerten

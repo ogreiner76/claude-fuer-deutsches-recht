@@ -1,13 +1,13 @@
 ---
 name: inso-verteidigung-vorsatzanfechtung
-description: "Nutze dies bei Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

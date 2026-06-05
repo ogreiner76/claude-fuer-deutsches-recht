@@ -1,13 +1,13 @@
 ---
 name: livecheck-red-risikoanalyse
-description: "Nutze dies bei Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

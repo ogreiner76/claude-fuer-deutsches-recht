@@ -1,13 +1,13 @@
 ---
 name: lagerbedingungen-laufzeit-verlaengerung
-description: "Nutze dies bei Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

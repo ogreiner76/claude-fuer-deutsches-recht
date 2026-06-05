@@ -1,13 +1,13 @@
 ---
 name: training-fallvarianten-digitale-elemente
-description: "Nutze dies bei Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

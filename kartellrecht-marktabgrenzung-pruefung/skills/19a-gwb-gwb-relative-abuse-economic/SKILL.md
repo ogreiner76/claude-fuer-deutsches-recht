@@ -1,6 +1,6 @@
 ---
 name: 19a-gwb-gwb-relative-abuse-economic
-description: "Nutze dies bei 19a Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "19a Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # 19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing

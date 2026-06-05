@@ -1,6 +1,6 @@
 ---
 name: livecheck-fristennotiz-naechster-schritt
-description: "Nutze dies zur Quellenprüfung bei Livecheck: Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Livecheck: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Livecheck: Fristennotiz und nächster Schritt

@@ -1,13 +1,13 @@
 ---
 name: fashion-textilmuster-grenzbeschlagnahme
-description: "Nutze dies bei Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: beirat-compliance-und-internal-investigation
-description: "Nutze dies bei Beirat Compliance Und Internal Investigation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Compliance Und Internal Investigation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Compliance Und Internal Investigation

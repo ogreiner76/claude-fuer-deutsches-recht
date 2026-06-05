@@ -1,6 +1,6 @@
 ---
 name: chirurgisch-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Chirurgisch Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Chirurgisch Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Chirurgisch Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: minimis-inlandsauswirkung-digital-platforms
-description: "Nutze dies bei De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33g Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33g Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

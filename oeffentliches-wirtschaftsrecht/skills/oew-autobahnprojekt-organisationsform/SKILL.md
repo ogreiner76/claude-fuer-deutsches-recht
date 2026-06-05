@@ -1,13 +1,13 @@
 ---
 name: oew-autobahnprojekt-organisationsform
-description: "Nutze dies bei Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

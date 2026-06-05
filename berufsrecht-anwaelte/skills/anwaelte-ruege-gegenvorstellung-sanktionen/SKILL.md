@@ -1,13 +1,13 @@
 ---
 name: anwaelte-ruege-gegenvorstellung-sanktionen
-description: "Nutze dies bei Anwaelte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwaelte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwaelte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwaelte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwaelte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwaelte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwaelte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: space-satellitenbetrieb-deutschland
-description: "Nutze dies bei Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

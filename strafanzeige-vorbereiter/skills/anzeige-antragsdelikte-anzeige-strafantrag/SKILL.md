@@ -1,13 +1,13 @@
 ---
 name: anzeige-antragsdelikte-anzeige-strafantrag
-description: "Nutze dies bei Anzeige Antragsdelikte 77b Frist, Anzeige Strafantrag Form Frist: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Antragsdelikte 77b Frist, Anzeige Strafantrag Form Frist: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Antragsdelikte 77B Frist, Anzeige Strafantrag Form Frist
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Antragsdelikte 77B Frist, Anzeige Strafantrag Form Frist** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Antragsdelikte 77B Frist, Anzeige Strafantrag Form Frist** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

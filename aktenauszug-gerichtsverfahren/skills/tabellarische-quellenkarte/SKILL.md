@@ -1,6 +1,6 @@
 ---
 name: tabellarische-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Tabellarische Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Tabellarische Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Tabellarische Quellenkarte

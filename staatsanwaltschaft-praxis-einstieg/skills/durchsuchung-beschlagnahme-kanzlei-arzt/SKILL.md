@@ -1,13 +1,13 @@
 ---
 name: durchsuchung-beschlagnahme-kanzlei-arzt
-description: "Nutze dies bei Durchsuchung Beschlagnahme Antrag, Durchsuchung Kanzlei Arzt Redaktion, Einstellung 153 153a Auflagen, Einstellung 153 153a Stpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Durchsuchung Beschlagnahme Antrag, Durchsuchung Kanzlei Arzt Redaktion, Einstellung 153 153a Auflagen, Einstellung 153 153a Stpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Durchsuchung Beschlagnahme Antrag, Durchsuchung Kanzlei Arzt Redaktion, Einstellung 153 153A Auflagen, Einstellung 153 153A Stpo, Einziehung Drittbetroffene Anhoerung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Durchsuchung Beschlagnahme Antrag, Durchsuchung Kanzlei Arzt Redaktion, Einstellung 153 153A Auflagen, Einstellung 153 153A Stpo, Einziehung Drittbetroffene Anhoerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Durchsuchung Beschlagnahme Antrag, Durchsuchung Kanzlei Arzt Redaktion, Einstellung 153 153A Auflagen, Einstellung 153 153A Stpo, Einziehung Drittbetroffene Anhoerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

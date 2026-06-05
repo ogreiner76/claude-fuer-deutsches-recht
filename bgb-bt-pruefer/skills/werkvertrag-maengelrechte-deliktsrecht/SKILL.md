@@ -1,13 +1,13 @@
 ---
 name: werkvertrag-maengelrechte-deliktsrecht
-description: "Nutze dies bei Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

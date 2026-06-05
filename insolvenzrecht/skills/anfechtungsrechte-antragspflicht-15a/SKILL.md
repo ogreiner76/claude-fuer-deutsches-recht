@@ -1,13 +1,13 @@
 ---
 name: anfechtungsrechte-antragspflicht-15a
-description: "Nutze dies bei Anfechtungsrechte Prüfen, Antragspflicht 15a Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anfechtungsrechte Prüfen, Antragspflicht 15a Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: egbr-mopeg-gesellschaftsgruender
-description: "Nutze dies bei Gesellschaftsgruender Egbr Mopeg, Gesellschaftsgruender Familiengesellschaft, Gesellschaftsgruender Finanzierungsrunde Seed, Gesellschaftsgruender Firmenname Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Egbr Mopeg, Gesellschaftsgruender Familiengesellschaft, Gesellschaftsgruender Finanzierungsrunde Seed, Gesellschaftsgruender Firmenname Prüfung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

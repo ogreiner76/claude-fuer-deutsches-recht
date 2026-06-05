@@ -1,6 +1,6 @@
 ---
 name: richterdienstgericht-rechtswegabgrenzung
-description: "Nutze dies bei Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg

@@ -1,13 +1,13 @@
 ---
 name: consumer-ki-datentransfer-eu-erforderlichkeit
-description: "Nutze dies bei Consumer Ki Vs 43e Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Consumer Ki Vs 43e Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Consumer Ki Vs 43E Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Consumer Ki Vs 43E Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Consumer Ki Vs 43E Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

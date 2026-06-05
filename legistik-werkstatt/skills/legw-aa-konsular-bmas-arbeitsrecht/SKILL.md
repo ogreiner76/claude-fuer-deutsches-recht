@@ -1,6 +1,6 @@
 ---
 name: legw-aa-konsular-bmas-arbeitsrecht
-description: "Nutze dies bei Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb

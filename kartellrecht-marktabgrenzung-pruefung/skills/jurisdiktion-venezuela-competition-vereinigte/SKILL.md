@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-venezuela-competition-vereinigte
-description: "Nutze dies bei Jurisdiktion Venezuela Competition Authority, Jurisdiktion Vereinigte Arabische Emirate Competition Authorit, Jurisdiktion Vereinigtes Koenigreich Competition Authority, Jurisdiktion Vietnam Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jurisdiktion Venezuela Competition Authority, Jurisdiktion Vereinigte Arabische Emirate Competition Authorit, Jurisdiktion Vereinigtes Koenigreich Competition Authority, Jurisdiktion Vietnam Competition Authority: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jurisdiktion Venezuela Competition Authority, Jurisdiktion Vereinigte Arabische Emirate Competition Authorit, Jurisdiktion Vereinigtes Koenigreich Competition Authority, Jurisdiktion Vietnam Competition Authority

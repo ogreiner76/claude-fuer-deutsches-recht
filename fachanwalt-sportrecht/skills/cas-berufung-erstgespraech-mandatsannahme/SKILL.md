@@ -1,13 +1,13 @@
 ---
 name: cas-berufung-erstgespraech-mandatsannahme
-description: "Nutze dies bei Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: ki-gestuetzte-klarna-paypal-kuendigungsbutton
-description: "Nutze dies bei Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312k Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312k Bgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

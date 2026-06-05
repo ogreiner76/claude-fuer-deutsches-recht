@@ -1,13 +1,13 @@
 ---
 name: infl-green-claims-vergleichende-werbung
-description: "Nutze dies bei Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

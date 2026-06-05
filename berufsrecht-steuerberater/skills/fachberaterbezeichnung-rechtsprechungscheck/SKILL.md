@@ -1,13 +1,13 @@
 ---
 name: fachberaterbezeichnung-rechtsprechungscheck
-description: "Nutze dies bei Steuerberater Fachberaterbezeichnung Rechtsprechungscheck Und R, Steuerberater Fehlerhafte Steuerschaetzung Rechtsprechungscheck, Steuerberater Honorarstreit Und Schlichtung Rechtsprechungschec, Steuerberater Jahresabschluss Verantwortung Rechtsprechungschec: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Fachberaterbezeichnung Rechtsprechungscheck Und R, Steuerberater Fehlerhafte Steuerschaetzung Rechtsprechungscheck, Steuerberater Honorarstreit Und Schlichtung Rechtsprechungschec, Steuerberater Jahresabschluss Verantwortung Rechtsprechungschec: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Fachberaterbezeichnung Rechtsprechungscheck Und R, Steuerberater Fehlerhafte Steuerschaetzung Rechtsprechungscheck, Steuerberater Honorarstreit Und Schlichtung Rechtsprechungschec, Steuerberater Jahresabschluss Verantwortung Rechtsprechungschec, Steuerberater Kammerbeschwerde Steuerberater Rechtsprechungsche
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Fachberaterbezeichnung Rechtsprechungscheck Und R, Steuerberater Fehlerhafte Steuerschaetzung Rechtsprechungscheck, Steuerberater Honorarstreit Und Schlichtung Rechtsprechungschec, Steuerberater Jahresabschluss Verantwortung Rechtsprechungschec, Steuerberater Kammerbeschwerde Steuerberater Rechtsprechungsche** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Fachberaterbezeichnung Rechtsprechungscheck Und R, Steuerberater Fehlerhafte Steuerschaetzung Rechtsprechungscheck, Steuerberater Honorarstreit Und Schlichtung Rechtsprechungschec, Steuerberater Jahresabschluss Verantwortung Rechtsprechungschec, Steuerberater Kammerbeschwerde Steuerberater Rechtsprechungsche** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

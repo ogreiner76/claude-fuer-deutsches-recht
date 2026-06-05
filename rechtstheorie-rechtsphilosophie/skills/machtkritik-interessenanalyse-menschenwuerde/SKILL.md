@@ -1,13 +1,13 @@
 ---
 name: machtkritik-interessenanalyse-menschenwuerde
-description: "Nutze dies bei Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

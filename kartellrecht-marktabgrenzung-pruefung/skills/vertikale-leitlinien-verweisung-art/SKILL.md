@@ -1,13 +1,13 @@
 ---
 name: vertikale-leitlinien-verweisung-art
-description: "Nutze dies bei Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

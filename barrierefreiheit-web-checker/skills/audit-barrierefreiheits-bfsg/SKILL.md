@@ -1,13 +1,13 @@
 ---
 name: audit-barrierefreiheits-bfsg
-description: "Nutze dies bei Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

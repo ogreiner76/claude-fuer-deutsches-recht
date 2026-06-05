@@ -1,13 +1,13 @@
 ---
 name: drittschuldneranzeige-stille-echtes-unechtes
-description: "Nutze dies bei Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

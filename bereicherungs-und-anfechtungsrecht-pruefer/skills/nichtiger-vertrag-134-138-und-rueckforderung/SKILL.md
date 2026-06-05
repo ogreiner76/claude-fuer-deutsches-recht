@@ -1,6 +1,6 @@
 ---
 name: nichtiger-vertrag-134-138-und-rueckforderung
-description: "Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB."
+description: "Bei verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB."
 ---
 
 # Nichtiger Vertrag nach §§ 134 und 138 BGB

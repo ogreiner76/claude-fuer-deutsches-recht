@@ -1,13 +1,13 @@
 ---
 name: anwaelte-legal-tech-mandatskuendigung-unzeit
-description: "Nutze dies bei Anwaelte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwaelte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwaelte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwaelte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwaelte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwaelte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwaelte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: anwaelte-verschwiegenheit-cloud-outsourcing
-description: "Nutze dies bei Anwaelte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwaelte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwaelte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwaelte Werbung Google Ads Und Linkedin Organisationspflicht U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwaelte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwaelte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwaelte Werbung Google Ads Und Linkedin Organisationspflicht U: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

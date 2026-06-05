@@ -1,13 +1,13 @@
 ---
 name: landwirtschaftliche
-description: "Nutze dies bei Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

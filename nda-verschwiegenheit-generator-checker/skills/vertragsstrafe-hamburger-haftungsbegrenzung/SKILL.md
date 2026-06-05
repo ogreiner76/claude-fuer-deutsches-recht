@@ -1,13 +1,13 @@
 ---
 name: vertragsstrafe-hamburger-haftungsbegrenzung
-description: "Nutze dies bei Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

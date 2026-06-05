@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer
-description: "Nutze dies bei Drittlandstransfer: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Drittlandstransfer: Verhandlung, Vergleich und Eskalation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Drittlandstransfer: Verhandlung, Vergleich und Eskalation

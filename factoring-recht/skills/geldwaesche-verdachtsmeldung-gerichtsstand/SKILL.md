@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-verdachtsmeldung-gerichtsstand
-description: "Nutze dies bei Geldwaesche Verdachtsmeldung Monitoring, Gerichtsstand Rechtswahl Schiedsvereinbarung, Globalzession Verlaengerte Eigentumsvorbehalte Prioritaetskonfli: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Geldwaesche Verdachtsmeldung Monitoring, Gerichtsstand Rechtswahl Schiedsvereinbarung, Globalzession Verlaengerte Eigentumsvorbehalte Prioritaetskonfli: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Geldwaesche Verdachtsmeldung Monitoring, Gerichtsstand Rechtswahl Schiedsvereinbarung, Globalzession Verlaengerte Eigentumsvorbehalte Prioritaetskonfli
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Geldwaesche Verdachtsmeldung Monitoring, Gerichtsstand Rechtswahl Schiedsvereinbarung, Globalzession Verlaengerte Eigentumsvorbehalte Prioritaetskonfli** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Geldwaesche Verdachtsmeldung Monitoring, Gerichtsstand Rechtswahl Schiedsvereinbarung, Globalzession Verlaengerte Eigentumsvorbehalte Prioritaetskonfli** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

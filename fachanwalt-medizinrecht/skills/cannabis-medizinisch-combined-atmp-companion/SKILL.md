@@ -1,6 +1,6 @@
 ---
 name: cannabis-medizinisch-combined-atmp-companion
-description: "Nutze dies bei Cannabis Medizinisch Verordnung, Combined Atmp Device Mdr, Companion Diagnostic Atmp, Compassionate Use Haertefall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Cannabis Medizinisch Verordnung, Combined Atmp Device Mdr, Companion Diagnostic Atmp, Compassionate Use Haertefall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Cannabis Medizinisch Verordnung, Combined Atmp Device Mdr, Companion Diagnostic Atmp, Compassionate Use Haertefall

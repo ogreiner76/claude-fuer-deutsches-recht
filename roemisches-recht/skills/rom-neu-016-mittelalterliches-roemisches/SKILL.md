@@ -1,6 +1,6 @@
 ---
 name: rom-neu-016-mittelalterliches-roemisches
-description: "Nutze dies bei Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna

@@ -1,6 +1,6 @@
 ---
 name: designverletzung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Designverletzung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Designverletzung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Designverletzung Fehlerkatalog

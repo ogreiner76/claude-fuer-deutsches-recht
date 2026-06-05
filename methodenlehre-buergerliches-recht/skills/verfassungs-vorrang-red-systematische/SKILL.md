@@ -1,13 +1,13 @@
 ---
 name: verfassungs-vorrang-red-systematische
-description: "Nutze dies bei Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

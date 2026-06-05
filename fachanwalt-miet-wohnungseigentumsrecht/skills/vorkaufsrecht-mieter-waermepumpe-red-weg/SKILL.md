@@ -1,13 +1,13 @@
 ---
 name: vorkaufsrecht-mieter-waermepumpe-red-weg
-description: "Nutze dies bei Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begruendung, Weg Balkonkraftwerk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begruendung, Weg Balkonkraftwerk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begründung, Weg Balkonkraftwerk, Weg Baum Fassade Dach
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begründung, Weg Balkonkraftwerk, Weg Baum Fassade Dach** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begründung, Weg Balkonkraftwerk, Weg Baum Fassade Dach** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

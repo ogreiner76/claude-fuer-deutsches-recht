@@ -1,13 +1,13 @@
 ---
 name: anwaltszwang-sgg-arbeitslosengeld-i
-description: "Nutze dies bei Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

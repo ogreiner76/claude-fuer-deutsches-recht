@@ -1,13 +1,13 @@
 ---
 name: abwaegung-material-abwaegungslast-non
-description: "Nutze dies bei Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

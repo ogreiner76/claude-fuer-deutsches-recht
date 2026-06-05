@@ -1,6 +1,6 @@
 ---
 name: betreuungsrecht-bgb
-description: "Nutze dies bei BGB: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "BGB: Verhandlung, Vergleich und Eskalation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation

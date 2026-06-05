@@ -1,13 +1,13 @@
 ---
 name: verteidigerrolle-dsb-verwarnung-art-vg
-description: "Nutze dies bei Verteidigerrolle Dsb Gf Und Externe Berater, Verwarnung Art 58 2 B, Vg Anfechtungsklage 20 Bdsg, Vg Eilrechtsschutz 80 5 Vwgo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verteidigerrolle Dsb Gf Und Externe Berater, Verwarnung Art 58 2 B, Vg Anfechtungsklage 20 Bdsg, Vg Eilrechtsschutz 80 5 Vwgo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verteidigerrolle Dsb Gf Und Externe Berater, Verwarnung Art 58 2 B, Vg Anfechtungsklage 20 Bdsg, Vg Eilrechtsschutz 80 5 Vwgo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verteidigerrolle Dsb Gf Und Externe Berater, Verwarnung Art 58 2 B, Vg Anfechtungsklage 20 Bdsg, Vg Eilrechtsschutz 80 5 Vwgo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verteidigerrolle Dsb Gf Und Externe Berater, Verwarnung Art 58 2 B, Vg Anfechtungsklage 20 Bdsg, Vg Eilrechtsschutz 80 5 Vwgo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

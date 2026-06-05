@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung
-description: "Nutze dies bei Dokumentation: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage

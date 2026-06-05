@@ -1,6 +1,6 @@
 ---
 name: experimentelle-behandlung-fachanwalt
-description: "Nutze dies bei Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630a, Fachanwalt Medizinrecht Honorarvertrag Kv, Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630a, Fachanwalt Medizinrecht Honorarvertrag Kv, Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine

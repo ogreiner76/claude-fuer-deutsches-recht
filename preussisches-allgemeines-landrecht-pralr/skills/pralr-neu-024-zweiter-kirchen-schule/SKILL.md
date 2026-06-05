@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-024-zweiter-kirchen-schule
-description: "Nutze dies bei PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Kirchen Schule Armenwesen

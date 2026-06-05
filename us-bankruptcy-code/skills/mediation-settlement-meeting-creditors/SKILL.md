@@ -1,13 +1,13 @@
 ---
 name: mediation-settlement-meeting-creditors
-description: "Nutze dies bei Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

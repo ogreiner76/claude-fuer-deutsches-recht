@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-hr-ai-ki
-description: "Nutze dies bei Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

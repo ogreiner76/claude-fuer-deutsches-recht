@@ -1,6 +1,6 @@
 ---
 name: beirat-amtszeit-und-rotation
-description: "Nutze dies bei Beirat Amtszeit Und Rotation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Amtszeit Und Rotation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Amtszeit Und Rotation

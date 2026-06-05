@@ -1,13 +1,13 @@
 ---
 name: tempo-messung-unfallregulierung-quoten
-description: "Nutze dies bei Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

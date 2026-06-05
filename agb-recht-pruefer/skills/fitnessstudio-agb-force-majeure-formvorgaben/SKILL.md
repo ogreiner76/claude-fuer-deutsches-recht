@@ -1,13 +1,13 @@
 ---
 name: fitnessstudio-agb-force-majeure-formvorgaben
-description: "Nutze dies bei Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: hospital-exemption-hta-jca
-description: "Nutze dies bei Hospital Exemption 4b Amg, Hta Jca Atmp Onkologie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hospital Exemption 4b Amg, Hta Jca Atmp Onkologie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie

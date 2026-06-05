@@ -1,6 +1,6 @@
 ---
 name: beirat-startup-investor-director
-description: "Nutze dies bei Beirat Startup Investor Director: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Startup Investor Director: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Startup Investor Director

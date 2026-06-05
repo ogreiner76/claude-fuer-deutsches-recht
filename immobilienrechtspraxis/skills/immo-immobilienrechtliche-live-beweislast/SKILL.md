@@ -1,13 +1,13 @@
 ---
 name: immo-immobilienrechtliche-live-beweislast
-description: "Nutze dies bei Immo Abschlussprodukt Und Uebergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Immo Abschlussprodukt Und Uebergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

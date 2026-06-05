@@ -1,6 +1,6 @@
 ---
 name: schenkung-leihe-und-unbenannte-zuwendung
-description: "Nutze diesen Skill, wenn unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Normen: §§ 516 und 528 BGB; § 530 BGB; § 812 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zuordnungs-Matrix Schenkung vs. Leihe vs. unbenannte Zuwendung. Abgrenzung: nicht Familien- oder Erbrecht."
+description: "Bei unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Normen: §§ 516 und 528 BGB; § 530 BGB; § 812 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zuordnungs-Matrix Schenkung vs. Leihe vs. unbenannte Zuwendung. Abgrenzung: nicht Familien- oder Erbrecht."
 ---
 
 # Schenkung, Leihe und unbenannte Zuwendung

@@ -1,13 +1,13 @@
 ---
 name: notare-datenschutzpanne-notariat
-description: "Nutze dies bei Notare Datenschutzpanne Notariat Organisationspflicht Und Praev, Notare Dienstaufsicht Beschwerde Organisationspflicht Und Praev, Notare Dolmetscher Und Sprachrisiko Organisationspflicht Und Pr, Notare Geldwaeschepruefung Immobilienkauf Kammerantwort Und Ver: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Datenschutzpanne Notariat Organisationspflicht Und Praev, Notare Dienstaufsicht Beschwerde Organisationspflicht Und Praev, Notare Dolmetscher Und Sprachrisiko Organisationspflicht Und Pr, Notare Geldwaeschepruefung Immobilienkauf Kammerantwort Und Ver: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Datenschutzpanne Notariat Organisationspflicht Und Praev, Notare Dienstaufsicht Beschwerde Organisationspflicht Und Praev, Notare Dolmetscher Und Sprachrisiko Organisationspflicht Und Pr, Notare Geldwaeschepruefung Immobilienkauf Kammerantwort Und Ver, Notare Geldwaeschepruefung Immobilienkauf Organisationspflicht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Datenschutzpanne Notariat Organisationspflicht Und Praev, Notare Dienstaufsicht Beschwerde Organisationspflicht Und Praev, Notare Dolmetscher Und Sprachrisiko Organisationspflicht Und Pr, Notare Geldwaeschepruefung Immobilienkauf Kammerantwort Und Ver, Notare Geldwaeschepruefung Immobilienkauf Organisationspflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Datenschutzpanne Notariat Organisationspflicht Und Praev, Notare Dienstaufsicht Beschwerde Organisationspflicht Und Praev, Notare Dolmetscher Und Sprachrisiko Organisationspflicht Und Pr, Notare Geldwaeschepruefung Immobilienkauf Kammerantwort Und Ver, Notare Geldwaeschepruefung Immobilienkauf Organisationspflicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

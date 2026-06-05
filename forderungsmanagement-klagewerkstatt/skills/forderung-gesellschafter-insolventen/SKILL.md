@@ -1,13 +1,13 @@
 ---
 name: forderung-gesellschafter-insolventen
-description: "Nutze dies bei Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

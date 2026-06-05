@@ -1,13 +1,13 @@
 ---
 name: landwirtschaftliche-flaeche-wohnhaus-ddr
-description: "Nutze dies bei Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

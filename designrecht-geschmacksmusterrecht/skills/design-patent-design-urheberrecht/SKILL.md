@@ -1,13 +1,13 @@
 ---
 name: design-patent-design-urheberrecht
-description: "Nutze dies bei Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: beweislast-hightech-biobank-consent
-description: "Nutze dies bei Beweislast Hightech Medizin, Biobank Consent Withdrawal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beweislast Hightech Medizin, Biobank Consent Withdrawal: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beweislast Hightech Medizin, Biobank Consent Withdrawal

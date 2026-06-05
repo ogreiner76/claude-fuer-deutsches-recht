@@ -1,6 +1,6 @@
 ---
 name: beirat-fakultativer-aufsichtsrat-52-gmbhg
-description: "Nutze dies bei Beirat Fakultativer Aufsichtsrat 52 Gmbhg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Fakultativer Aufsichtsrat 52 Gmbhg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg

@@ -1,13 +1,13 @@
 ---
 name: fruehere-interessenvertretung
-description: "Nutze dies bei Fruehere Interessenvertretung Exit, Geschaeftsjahresaktualisierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fruehere Interessenvertretung Exit, Geschaeftsjahresaktualisierung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fruehere Interessenvertretung Exit, Geschaeftsjahresaktualisierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fruehere Interessenvertretung Exit, Geschaeftsjahresaktualisierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fruehere Interessenvertretung Exit, Geschaeftsjahresaktualisierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

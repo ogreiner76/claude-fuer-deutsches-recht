@@ -1,6 +1,6 @@
 ---
 name: forderungsmanagement
-description: "Nutze dies bei Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

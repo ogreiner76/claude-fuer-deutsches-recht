@@ -1,6 +1,6 @@
 ---
 name: annaeherung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Annaeherung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Annaeherung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Annaeherung Quellenkarte

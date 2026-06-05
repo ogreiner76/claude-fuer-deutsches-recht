@@ -1,13 +1,13 @@
 ---
 name: vertraulichkeit-vs-zugriffskonzept
-description: "Nutze dies bei Vertraulichkeit Vs Anhoerung, Zugriffskonzept: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vertraulichkeit Vs Anhoerung, Zugriffskonzept: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vertraulichkeit Vs Anhoerung, Zugriffskonzept
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vertraulichkeit Vs Anhoerung, Zugriffskonzept** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vertraulichkeit Vs Anhoerung, Zugriffskonzept** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

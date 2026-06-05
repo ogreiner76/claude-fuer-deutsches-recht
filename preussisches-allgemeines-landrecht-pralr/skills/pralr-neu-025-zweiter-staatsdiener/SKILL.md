@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-025-zweiter-staatsdiener
-description: "Nutze dies bei PrALR: Zweiter Teil Staatsdiener Amtspflichten: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Staatsdiener Amtspflichten

@@ -1,13 +1,13 @@
 ---
 name: grosse-kleine-koselleck-interessen
-description: "Nutze dies bei Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

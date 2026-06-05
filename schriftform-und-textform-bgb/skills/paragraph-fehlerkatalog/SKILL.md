@@ -1,6 +1,6 @@
 ---
 name: paragraph-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Paragraph Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Paragraph Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Paragraph Fehlerkatalog

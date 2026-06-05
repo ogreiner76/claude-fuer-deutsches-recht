@@ -1,13 +1,13 @@
 ---
 name: bilinguales-writing-englische-vertraege
-description: "Nutze dies bei Bilinguales Legal Writing, Englische Vertraege Deutsches Recht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bilinguales Legal Writing, Englische Vertraege Deutsches Recht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bilinguales Legal Writing, Englische Vertraege Deutsches Recht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bilinguales Legal Writing, Englische Vertraege Deutsches Recht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bilinguales Legal Writing, Englische Vertraege Deutsches Recht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: berechnen-bgb-buch-fuehren-fristverlaengerung
-description: "Nutze dies bei Fristen Berechnen 187 188 Bgb, Fristen Buch Fuehren Laien, Fristverlaengerung Antrag 225 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fristen Berechnen 187 188 Bgb, Fristen Buch Fuehren Laien, Fristverlaengerung Antrag 225 Zpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fristen Berechnen 187 188 Bgb, Fristen Buch Fuehren Laien, Fristverlaengerung Antrag 225 Zpo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Berechnen 187 188 Bgb, Fristen Buch Fuehren Laien, Fristverlaengerung Antrag 225 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fristen Berechnen 187 188 Bgb, Fristen Buch Fuehren Laien, Fristverlaengerung Antrag 225 Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

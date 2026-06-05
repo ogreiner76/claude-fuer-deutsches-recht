@@ -1,13 +1,13 @@
 ---
 name: force-majeure-geheimhaltung-nda
-description: "Nutze dies bei Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

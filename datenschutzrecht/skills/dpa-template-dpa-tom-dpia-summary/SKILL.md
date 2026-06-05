@@ -1,13 +1,13 @@
 ---
 name: dpa-template-dpa-tom-dpia-summary
-description: "Nutze dies bei Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

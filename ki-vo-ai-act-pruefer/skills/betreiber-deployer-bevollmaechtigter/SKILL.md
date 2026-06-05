@@ -1,13 +1,13 @@
 ---
 name: betreiber-deployer-bevollmaechtigter
-description: "Nutze dies bei Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

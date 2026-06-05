@@ -1,6 +1,6 @@
 ---
 name: rom-neu-002-zwoelftafelgesetz-textzeugen
-description: "Nutze dies bei Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht

@@ -1,13 +1,13 @@
 ---
 name: bora-brak-dsgvo
-description: "Nutze dies bei Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

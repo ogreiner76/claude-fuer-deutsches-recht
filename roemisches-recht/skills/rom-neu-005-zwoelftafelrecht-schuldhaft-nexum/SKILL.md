@@ -1,6 +1,6 @@
 ---
 name: rom-neu-005-zwoelftafelrecht-schuldhaft-nexum
-description: "Nutze dies bei Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung

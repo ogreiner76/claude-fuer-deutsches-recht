@@ -1,6 +1,6 @@
 ---
 name: besoldung-zeitnahe-sofortmassnahmen
-description: "Nutze dies bei Besoldung Zeitnahe Geltendmachung Und Musterverfahren, Fristen Und Sofortmassnahmen, Konkurrentenstreit Eilverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Besoldung Zeitnahe Geltendmachung Und Musterverfahren, Fristen Und Sofortmassnahmen, Konkurrentenstreit Eilverfahren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Besoldung Zeitnahe Geltendmachung Und Musterverfahren, Fristen Und Sofortmassnahmen, Konkurrentenstreit Eilverfahren

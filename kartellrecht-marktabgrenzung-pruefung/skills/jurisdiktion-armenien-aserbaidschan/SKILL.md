@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-armenien-aserbaidschan
-description: "Nutze dies bei Jurisdiktion Armenien Competition Authority, Jurisdiktion Aserbaidschan Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jurisdiktion Armenien Competition Authority, Jurisdiktion Aserbaidschan Competition Authority: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jurisdiktion Armenien Competition Authority, Jurisdiktion Aserbaidschan Competition Authority

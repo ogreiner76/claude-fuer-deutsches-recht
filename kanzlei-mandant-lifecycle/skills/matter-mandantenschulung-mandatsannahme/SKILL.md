@@ -1,13 +1,13 @@
 ---
 name: matter-mandantenschulung-mandatsannahme
-description: "Nutze dies bei Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder, Matter Taxonomy
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder, Matter Taxonomy** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder, Matter Taxonomy** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

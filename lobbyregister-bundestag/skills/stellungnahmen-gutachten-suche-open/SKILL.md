@@ -1,13 +1,13 @@
 ---
 name: stellungnahmen-gutachten-suche-open
-description: "Nutze dies bei Stellungnahmen Gutachten Upload, Suche Open Data Monitor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Stellungnahmen Gutachten Upload, Suche Open Data Monitor: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Stellungnahmen Gutachten Upload, Suche Open Data Monitor
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Stellungnahmen Gutachten Upload, Suche Open Data Monitor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Stellungnahmen Gutachten Upload, Suche Open Data Monitor** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

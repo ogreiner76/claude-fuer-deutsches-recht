@@ -1,13 +1,13 @@
 ---
 name: ohg-anmeldung-ohg-begriff
-description: "Nutze dies bei Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

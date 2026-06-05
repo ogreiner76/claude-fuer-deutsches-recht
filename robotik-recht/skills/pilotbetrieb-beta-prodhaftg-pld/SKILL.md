@@ -1,6 +1,6 @@
 ---
 name: pilotbetrieb-beta-prodhaftg-pld
-description: "Nutze dies bei Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich

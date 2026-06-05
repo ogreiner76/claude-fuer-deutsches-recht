@@ -1,6 +1,6 @@
 ---
 name: produktrecht-rechtsquellen
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Internationaler Bezug und Schnittstellen: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Internationaler Bezug und Schnittstellen: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Internationaler Bezug und Schnittstellen

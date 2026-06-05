@@ -1,13 +1,13 @@
 ---
 name: erfinderische-taetigkeit-freedom-to-ki-patent
-description: "Nutze dies bei Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

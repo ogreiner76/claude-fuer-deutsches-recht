@@ -1,13 +1,13 @@
 ---
 name: umv-naturschutz-ffh-artenschutz-fachbeitrag
-description: "Nutze dies bei Umv 010 Naturschutz Und Ffh, Umv 011 Artenschutz Fachbeitrag Lesen, Umv 012 Wasserrecht Und Wrrl, Umv 013 Klimaschutz Und Abwaegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umv 010 Naturschutz Und Ffh, Umv 011 Artenschutz Fachbeitrag Lesen, Umv 012 Wasserrecht Und Wrrl, Umv 013 Klimaschutz Und Abwaegung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umv 010 Naturschutz Und Ffh, Umv 011 Artenschutz Fachbeitrag Lesen, Umv 012 Wasserrecht Und Wrrl, Umv 013 Klimaschutz Und Abwaegung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umv 010 Naturschutz Und Ffh, Umv 011 Artenschutz Fachbeitrag Lesen, Umv 012 Wasserrecht Und Wrrl, Umv 013 Klimaschutz Und Abwaegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umv 010 Naturschutz Und Ffh, Umv 011 Artenschutz Fachbeitrag Lesen, Umv 012 Wasserrecht Und Wrrl, Umv 013 Klimaschutz Und Abwaegung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

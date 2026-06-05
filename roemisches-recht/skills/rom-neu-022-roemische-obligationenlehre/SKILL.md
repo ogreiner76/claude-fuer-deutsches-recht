@@ -1,6 +1,6 @@
 ---
 name: rom-neu-022-roemische-obligationenlehre
-description: "Nutze dies bei Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters

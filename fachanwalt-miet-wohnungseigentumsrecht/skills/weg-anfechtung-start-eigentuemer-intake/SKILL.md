@@ -1,13 +1,13 @@
 ---
 name: weg-anfechtung-start-eigentuemer-intake
-description: "Nutze dies bei Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten, Whatsapp Email Beweis
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten, Whatsapp Email Beweis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten, Whatsapp Email Beweis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

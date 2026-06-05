@@ -1,6 +1,6 @@
 ---
 name: richtlinie-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Richtlinie Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Richtlinie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Richtlinie Fehlerkatalog

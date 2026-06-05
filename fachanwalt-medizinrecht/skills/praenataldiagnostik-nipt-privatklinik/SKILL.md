@@ -1,6 +1,6 @@
 ---
 name: praenataldiagnostik-nipt-privatklinik
-description: "Nutze dies bei Praenataldiagnostik Nipt, Privatklinik Paketpreis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Praenataldiagnostik Nipt, Privatklinik Paketpreis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Praenataldiagnostik Nipt, Privatklinik Paketpreis

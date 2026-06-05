@@ -1,13 +1,13 @@
 ---
 name: kig-konformitaetsbewertung-risikobewertung
-description: "Nutze dies bei Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

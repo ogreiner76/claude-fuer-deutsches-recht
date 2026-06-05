@@ -1,13 +1,13 @@
 ---
 name: kv-kinderwunschbehandlung-ehe
-description: "Nutze dies bei Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskrankenversicherung Und Koordinierun: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskrankenversicherung Und Koordinierun: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskrankenversicherung Und Koordinierun
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskrankenversicherung Und Koordinierun** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskrankenversicherung Und Koordinierun** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

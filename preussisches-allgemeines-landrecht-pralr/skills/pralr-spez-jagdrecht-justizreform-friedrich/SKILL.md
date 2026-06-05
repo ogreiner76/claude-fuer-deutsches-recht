@@ -1,13 +1,13 @@
 ---
 name: pralr-spez-jagdrecht-justizreform-friedrich
-description: "Nutze dies bei Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

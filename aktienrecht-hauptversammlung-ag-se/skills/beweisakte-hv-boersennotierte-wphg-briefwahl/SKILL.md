@@ -1,13 +1,13 @@
 ---
 name: beweisakte-hv-boersennotierte-wphg-briefwahl
-description: "Nutze dies bei Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

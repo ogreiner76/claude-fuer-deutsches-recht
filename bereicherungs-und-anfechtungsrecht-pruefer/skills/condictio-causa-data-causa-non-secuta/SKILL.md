@@ -1,6 +1,6 @@
 ---
 name: condictio-causa-data-causa-non-secuta
-description: "Nutze diesen Skill, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB."
+description: "Bei der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB."
 ---
 
 # Causa data causa non secuta

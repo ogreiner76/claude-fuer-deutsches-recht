@@ -1,13 +1,13 @@
 ---
 name: investitionsfoerderung-einzelfoerderung
-description: "Nutze dies bei Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

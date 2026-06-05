@@ -1,13 +1,13 @@
 ---
 name: zugang-kuendigung-zugang-mehrfachzustellung
-description: "Nutze dies bei Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
+description: "Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
 ---
 
 # Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

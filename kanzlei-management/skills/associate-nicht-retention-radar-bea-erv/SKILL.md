@@ -1,13 +1,13 @@
 ---
 name: associate-nicht-retention-radar-bea-erv
-description: "Nutze dies bei Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

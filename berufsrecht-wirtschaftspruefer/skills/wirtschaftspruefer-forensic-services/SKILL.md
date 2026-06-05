@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-forensic-services
-description: "Nutze dies bei Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Rechtsprechung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsprechung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsprechung Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: kommunalvermoegen
-description: "Nutze dies bei Ein 072 Kommunalvermoegen Akte Anfordern, Ein 073 Kommunalvermoegen Chronologie Bauen, Ein 074 Kommunalvermoegen Berechtigte Ermittel, Ein 076 Kommunalvermoegen Grundbuch Auswerten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 072 Kommunalvermoegen Akte Anfordern, Ein 073 Kommunalvermoegen Chronologie Bauen, Ein 074 Kommunalvermoegen Berechtigte Ermittel, Ein 076 Kommunalvermoegen Grundbuch Auswerten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 072 Kommunalvermoegen Akte Anfordern, Ein 073 Kommunalvermoegen Chronologie Bauen, Ein 074 Kommunalvermoegen Berechtigte Ermittel, Ein 076 Kommunalvermoegen Grundbuch Auswerten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 072 Kommunalvermoegen Akte Anfordern, Ein 073 Kommunalvermoegen Chronologie Bauen, Ein 074 Kommunalvermoegen Berechtigte Ermittel, Ein 076 Kommunalvermoegen Grundbuch Auswerten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 072 Kommunalvermoegen Akte Anfordern, Ein 073 Kommunalvermoegen Chronologie Bauen, Ein 074 Kommunalvermoegen Berechtigte Ermittel, Ein 076 Kommunalvermoegen Grundbuch Auswerten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

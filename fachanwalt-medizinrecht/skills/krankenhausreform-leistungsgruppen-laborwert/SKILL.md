@@ -1,6 +1,6 @@
 ---
 name: krankenhausreform-leistungsgruppen-laborwert
-description: "Nutze dies bei Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability

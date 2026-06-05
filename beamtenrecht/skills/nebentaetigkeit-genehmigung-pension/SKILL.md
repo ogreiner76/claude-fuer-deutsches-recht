@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-genehmigung-pension
-description: "Nutze dies bei Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv

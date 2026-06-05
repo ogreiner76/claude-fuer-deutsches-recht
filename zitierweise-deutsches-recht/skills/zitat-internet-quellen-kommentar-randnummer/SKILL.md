@@ -1,13 +1,13 @@
 ---
 name: zitat-internet-quellen-kommentar-randnummer
-description: "Nutze dies bei Zitat Internet Quellen, Zitat Kommentar Randnummer, Zitat Leitsatzentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zitat Internet Quellen, Zitat Kommentar Randnummer, Zitat Leitsatzentscheidung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zitat Internet Quellen, Zitat Kommentar Randnummer, Zitat Leitsatzentscheidung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zitat Internet Quellen, Zitat Kommentar Randnummer, Zitat Leitsatzentscheidung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zitat Internet Quellen, Zitat Kommentar Randnummer, Zitat Leitsatzentscheidung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

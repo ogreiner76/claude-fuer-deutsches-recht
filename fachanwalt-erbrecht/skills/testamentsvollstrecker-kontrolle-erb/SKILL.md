@@ -1,13 +1,13 @@
 ---
 name: testamentsvollstrecker-kontrolle-erb
-description: "Nutze dies bei Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

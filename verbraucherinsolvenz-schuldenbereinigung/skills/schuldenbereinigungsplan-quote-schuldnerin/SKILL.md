@@ -1,13 +1,13 @@
 ---
 name: schuldenbereinigungsplan-quote-schuldnerin
-description: "Nutze dies bei Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

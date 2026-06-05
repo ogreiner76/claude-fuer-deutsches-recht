@@ -1,13 +1,13 @@
 ---
 name: drg-europaeisierung-deutschen-menschenrechte
-description: "Nutze dies bei Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

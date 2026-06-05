@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-werbung-aussenauftritt
-description: "Nutze dies bei Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

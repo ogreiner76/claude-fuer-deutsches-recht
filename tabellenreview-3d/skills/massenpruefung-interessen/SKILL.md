@@ -1,6 +1,6 @@
 ---
 name: massenpruefung-interessen
-description: "Nutze dies bei Massenpruefung: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix

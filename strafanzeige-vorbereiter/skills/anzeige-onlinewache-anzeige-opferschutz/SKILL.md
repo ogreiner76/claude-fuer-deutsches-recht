@@ -1,13 +1,13 @@
 ---
 name: anzeige-onlinewache-anzeige-opferschutz
-description: "Nutze dies bei Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

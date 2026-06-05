@@ -1,13 +1,13 @@
 ---
 name: owi-datenschutzbussgeld-mandantenbrief-abgabe
-description: "Nutze dies bei Owi 030 Datenschutzbussgeld Mandantenbrief Sch, Owi 014 Abgabe An Staatsanwaltschaft, Owi 002 Tatbestand Fachgesetz Finden, Owi 003 Anhoerung Richtig Behandeln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Owi 030 Datenschutzbussgeld Mandantenbrief Sch, Owi 014 Abgabe An Staatsanwaltschaft, Owi 002 Tatbestand Fachgesetz Finden, Owi 003 Anhoerung Richtig Behandeln: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Owi 030 Datenschutzbussgeld Mandantenbrief Sch, Owi 014 Abgabe An Staatsanwaltschaft, Owi 002 Tatbestand Fachgesetz Finden, Owi 003 Anhoerung Richtig Behandeln
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Owi 030 Datenschutzbussgeld Mandantenbrief Sch, Owi 014 Abgabe An Staatsanwaltschaft, Owi 002 Tatbestand Fachgesetz Finden, Owi 003 Anhoerung Richtig Behandeln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Owi 030 Datenschutzbussgeld Mandantenbrief Sch, Owi 014 Abgabe An Staatsanwaltschaft, Owi 002 Tatbestand Fachgesetz Finden, Owi 003 Anhoerung Richtig Behandeln** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

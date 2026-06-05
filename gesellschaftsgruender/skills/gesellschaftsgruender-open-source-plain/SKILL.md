@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-open-source-plain
-description: "Nutze dies bei Gesellschaftsgruender Open Source Startup, Gesellschaftsgruender Plain Language Modus, Gesellschaftsgruender Registerbeanstandung Beantworten, Gesellschaftsgruender Reguliertes Geschaeftsmodell: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Open Source Startup, Gesellschaftsgruender Plain Language Modus, Gesellschaftsgruender Registerbeanstandung Beantworten, Gesellschaftsgruender Reguliertes Geschaeftsmodell: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

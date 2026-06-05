@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-aufenthaltstitel
-description: "Nutze dies bei Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung

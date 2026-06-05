@@ -1,6 +1,6 @@
 ---
 name: docx-beweislast-darlegungslast
-description: "Nutze dies bei Docx: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Docx: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Docx: Beweislast, Darlegungslast und Substantiierung

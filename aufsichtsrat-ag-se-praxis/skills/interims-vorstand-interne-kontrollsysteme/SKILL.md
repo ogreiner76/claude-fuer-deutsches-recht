@@ -1,13 +1,13 @@
 ---
 name: interims-vorstand-interne-kontrollsysteme
-description: "Nutze dies bei Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

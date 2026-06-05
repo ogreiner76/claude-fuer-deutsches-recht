@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis
-description: "Nutze dies bei Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

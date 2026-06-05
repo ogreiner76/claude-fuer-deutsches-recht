@@ -1,13 +1,13 @@
 ---
 name: tk-iot-tk-kartellrecht
-description: "Nutze dies bei Tk Iot M2m Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tk Iot M2m Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tk Iot M2M Sim Karten, Tk Kartellrecht Schnittstelle Gwb Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

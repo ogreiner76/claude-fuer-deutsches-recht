@@ -1,13 +1,13 @@
 ---
 name: triage-verbraucherinsolvenz
-description: "Nutze dies bei Triage Mandantenkommunikation Entscheidungsvorlage, Verbraucherinsolvenz Mehrparteienkonflikt, Zahlungsunfaehigkeit Tatbestand Beweis Und Belege, Ueberschuldung Prüfung 19 Inso: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Triage Mandantenkommunikation Entscheidungsvorlage, Verbraucherinsolvenz Mehrparteienkonflikt, Zahlungsunfaehigkeit Tatbestand Beweis Und Belege, Ueberschuldung Prüfung 19 Inso: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Triage Mandantenkommunikation Entscheidungsvorlage, Verbraucherinsolvenz Mehrparteienkonflikt, Zahlungsunfaehigkeit Tatbestand Beweis Und Belege, Ueberschuldung Prüfung 19 Inso
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Triage Mandantenkommunikation Entscheidungsvorlage, Verbraucherinsolvenz Mehrparteienkonflikt, Zahlungsunfaehigkeit Tatbestand Beweis Und Belege, Ueberschuldung Prüfung 19 Inso** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Triage Mandantenkommunikation Entscheidungsvorlage, Verbraucherinsolvenz Mehrparteienkonflikt, Zahlungsunfaehigkeit Tatbestand Beweis Und Belege, Ueberschuldung Prüfung 19 Inso** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

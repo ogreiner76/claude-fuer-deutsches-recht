@@ -1,13 +1,13 @@
 ---
 name: versicherungsvertraegen-vvg-agb
-description: "Nutze dies bei Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

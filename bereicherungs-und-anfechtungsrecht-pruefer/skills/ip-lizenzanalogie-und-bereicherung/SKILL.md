@@ -1,6 +1,6 @@
 ---
 name: ip-lizenzanalogie-und-bereicherung
-description: "Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie."
+description: "Bei ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie."
 ---
 
 # IP-Lizenzanalogie und Bereicherung

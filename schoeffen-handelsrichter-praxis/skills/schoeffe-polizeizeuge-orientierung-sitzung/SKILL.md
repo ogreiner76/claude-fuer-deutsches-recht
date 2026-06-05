@@ -1,13 +1,13 @@
 ---
 name: schoeffe-polizeizeuge-orientierung-sitzung
-description: "Nutze dies bei Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: lanham-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Lanham Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Lanham Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Lanham Quellenkarte

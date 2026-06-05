@@ -1,13 +1,13 @@
 ---
 name: uebergang-bgb-abgb-code-roemisches-gemeines
-description: "Nutze dies bei Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Römisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Römisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

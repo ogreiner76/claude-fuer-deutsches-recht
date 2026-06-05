@@ -1,6 +1,6 @@
 ---
 name: cra-produkt-lager-intralogistikflotte
-description: "Nutze dies bei Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte

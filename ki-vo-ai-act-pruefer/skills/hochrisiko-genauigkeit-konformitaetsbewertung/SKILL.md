@@ -1,13 +1,13 @@
 ---
 name: hochrisiko-genauigkeit-konformitaetsbewertung
-description: "Nutze dies bei Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

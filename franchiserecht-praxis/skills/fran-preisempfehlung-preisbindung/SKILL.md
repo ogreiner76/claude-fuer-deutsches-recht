@@ -1,13 +1,13 @@
 ---
 name: fran-preisempfehlung-preisbindung
-description: "Nutze dies bei Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

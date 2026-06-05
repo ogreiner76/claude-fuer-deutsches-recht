@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-folgekosten-disziplinar
-description: "Nutze dies bei Dienstunfall Folgekosten Unfallfuersorge, Disziplinar Bemessung 13 Bdg Stufenfolge, Disziplinarmassnahmebemessung 13 Bdg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dienstunfall Folgekosten Unfallfuersorge, Disziplinar Bemessung 13 Bdg Stufenfolge, Disziplinarmassnahmebemessung 13 Bdg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dienstunfall Folgekosten Unfallfuersorge, Disziplinar Bemessung 13 Bdg Stufenfolge, Disziplinarmassnahmebemessung 13 Bdg

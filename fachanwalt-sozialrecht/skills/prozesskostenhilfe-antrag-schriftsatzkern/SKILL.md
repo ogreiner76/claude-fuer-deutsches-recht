@@ -1,13 +1,13 @@
 ---
 name: prozesskostenhilfe-antrag-schriftsatzkern
-description: "Nutze dies bei Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

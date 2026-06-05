@@ -1,13 +1,13 @@
 ---
 name: criminal-copyright-customs-border-database
-description: "Nutze dies bei Criminal Copyright 506, Customs Border Copyright, Database Collections Us Law, Derivative Right Adaptations: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Criminal Copyright 506, Customs Border Copyright, Database Collections Us Law, Derivative Right Adaptations: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Criminal Copyright 506, Customs Border Copyright, Database Collections Us Law, Derivative Right Adaptations
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Criminal Copyright 506, Customs Border Copyright, Database Collections Us Law, Derivative Right Adaptations** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Criminal Copyright 506, Customs Border Copyright, Database Collections Us Law, Derivative Right Adaptations** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

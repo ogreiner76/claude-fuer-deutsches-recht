@@ -1,13 +1,13 @@
 ---
 name: unternehmensgruppe-federfuehrende-untersagung
-description: "Nutze dies bei Unternehmensgruppe Und Federfuehrende Aufsicht, Untersagung Und Verarbeitungsstopp, Unverhaeltnismaessigkeit Und Existenzgefahr, Verhaeltnismaessigkeit Aufsichtsmassnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Unternehmensgruppe Und Federfuehrende Aufsicht, Untersagung Und Verarbeitungsstopp, Unverhaeltnismaessigkeit Und Existenzgefahr, Verhaeltnismaessigkeit Aufsichtsmassnahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Unternehmensgruppe Und Federfuehrende Aufsicht, Untersagung Und Verarbeitungsstopp, Unverhaeltnismaessigkeit Und Existenzgefahr, Verhaeltnismaessigkeit Aufsichtsmassnahme
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Unternehmensgruppe Und Federfuehrende Aufsicht, Untersagung Und Verarbeitungsstopp, Unverhaeltnismaessigkeit Und Existenzgefahr, Verhaeltnismaessigkeit Aufsichtsmassnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Unternehmensgruppe Und Federfuehrende Aufsicht, Untersagung Und Verarbeitungsstopp, Unverhaeltnismaessigkeit Und Existenzgefahr, Verhaeltnismaessigkeit Aufsichtsmassnahme** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

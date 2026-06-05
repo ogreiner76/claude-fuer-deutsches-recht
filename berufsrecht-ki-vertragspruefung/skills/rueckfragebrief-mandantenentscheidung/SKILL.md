@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-mandantenentscheidung
-description: "Nutze dies bei Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage

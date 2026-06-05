@@ -1,13 +1,13 @@
 ---
 name: vdg-plattform-sperre-umsetzung-ueberwachen
-description: "Nutze dies bei Vdg 056 Plattform Sperre Beweisplan Erstellen, Vdg 057 Plattform Sperre Vergleich Prüfen, Vdg 058 Plattform Sperre Umsetzung Ueberwachen, Vdg 060 Plattform Sperre Risiko Rot Markieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vdg 056 Plattform Sperre Beweisplan Erstellen, Vdg 057 Plattform Sperre Vergleich Prüfen, Vdg 058 Plattform Sperre Umsetzung Ueberwachen, Vdg 060 Plattform Sperre Risiko Rot Markieren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vdg 056 Plattform Sperre Beweisplan Erstellen, Vdg 057 Plattform Sperre Vergleich Prüfen, Vdg 058 Plattform Sperre Umsetzung Ueberwachen, Vdg 060 Plattform Sperre Risiko Rot Markieren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 056 Plattform Sperre Beweisplan Erstellen, Vdg 057 Plattform Sperre Vergleich Prüfen, Vdg 058 Plattform Sperre Umsetzung Ueberwachen, Vdg 060 Plattform Sperre Risiko Rot Markieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vdg 056 Plattform Sperre Beweisplan Erstellen, Vdg 057 Plattform Sperre Vergleich Prüfen, Vdg 058 Plattform Sperre Umsetzung Ueberwachen, Vdg 060 Plattform Sperre Risiko Rot Markieren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

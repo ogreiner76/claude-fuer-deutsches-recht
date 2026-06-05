@@ -1,13 +1,13 @@
 ---
 name: beirat-bank-sanierung-beratungsfunktion
-description: "Nutze dies bei Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung und 2 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

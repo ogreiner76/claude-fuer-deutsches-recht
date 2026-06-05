@@ -1,13 +1,13 @@
 ---
 name: private-enforcement-produktmarkt
-description: "Nutze dies bei Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

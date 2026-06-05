@@ -1,13 +1,13 @@
 ---
 name: gutachten-internes-ip-rechteuebertragung
-description: "Nutze dies bei Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

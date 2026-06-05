@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-edge-datensatzqualitaet-bias
-description: "Nutze dies bei Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri

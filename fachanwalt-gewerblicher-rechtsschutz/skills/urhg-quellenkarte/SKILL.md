@@ -1,6 +1,6 @@
 ---
 name: urhg-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Urhg Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Urhg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Urhg Quellenkarte

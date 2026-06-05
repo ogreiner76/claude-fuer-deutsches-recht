@@ -1,13 +1,13 @@
 ---
 name: tk-callcenter-tk-campusnetze
-description: "Nutze dies bei Tk Callcenter Einwilligung Werbeanrufe, Tk Campusnetze Private 5g: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tk Callcenter Einwilligung Werbeanrufe, Tk Campusnetze Private 5g: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tk Callcenter Einwilligung Werbeanrufe, Tk Campusnetze Private 5G
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tk Callcenter Einwilligung Werbeanrufe, Tk Campusnetze Private 5G** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tk Callcenter Einwilligung Werbeanrufe, Tk Campusnetze Private 5G** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

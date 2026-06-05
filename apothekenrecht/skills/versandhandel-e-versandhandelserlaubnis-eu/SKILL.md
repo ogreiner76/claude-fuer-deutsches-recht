@@ -1,13 +1,13 @@
 ---
 name: versandhandel-e-versandhandelserlaubnis-eu
-description: "Nutze dies bei Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

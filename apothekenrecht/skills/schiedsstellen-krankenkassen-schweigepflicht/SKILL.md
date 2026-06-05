@@ -1,13 +1,13 @@
 ---
 name: schiedsstellen-krankenkassen-schweigepflicht
-description: "Nutze dies bei Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

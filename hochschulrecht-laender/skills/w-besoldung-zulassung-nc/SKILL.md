@@ -1,13 +1,13 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "Nutze dies bei W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

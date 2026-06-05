@@ -1,13 +1,13 @@
 ---
 name: str-bundesstrasse-sondernutzung-einwendung
-description: "Nutze dies bei Str 034 Bundesstrasse Sondernutzung Formuliere, Str 035 Bundesstrasse Einwendung Bauen, Str 036 Bundesstrasse Eilantrag Skizzieren, Str 037 Bundesstrasse Kostenlast Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Str 034 Bundesstrasse Sondernutzung Formuliere, Str 035 Bundesstrasse Einwendung Bauen, Str 036 Bundesstrasse Eilantrag Skizzieren, Str 037 Bundesstrasse Kostenlast Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Str 034 Bundesstrasse Sondernutzung Formuliere, Str 035 Bundesstrasse Einwendung Bauen, Str 036 Bundesstrasse Eilantrag Skizzieren, Str 037 Bundesstrasse Kostenlast Prüfen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Str 034 Bundesstrasse Sondernutzung Formuliere, Str 035 Bundesstrasse Einwendung Bauen, Str 036 Bundesstrasse Eilantrag Skizzieren, Str 037 Bundesstrasse Kostenlast Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Str 034 Bundesstrasse Sondernutzung Formuliere, Str 035 Bundesstrasse Einwendung Bauen, Str 036 Bundesstrasse Eilantrag Skizzieren, Str 037 Bundesstrasse Kostenlast Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

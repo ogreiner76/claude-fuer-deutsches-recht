@@ -1,13 +1,13 @@
 ---
 name: insurance-notice-investigation-governance
-description: "Nutze dies bei Insurance Notice, Investigation Governance, Invoice Review Narratives, Joint Ai Workspace: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insurance Notice, Investigation Governance, Invoice Review Narratives, Joint Ai Workspace: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insurance Notice, Investigation Governance, Invoice Review Narratives, Joint Ai Workspace, Kanzlei Ki Tool Mandanteneinwilligung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insurance Notice, Investigation Governance, Invoice Review Narratives, Joint Ai Workspace, Kanzlei Ki Tool Mandanteneinwilligung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insurance Notice, Investigation Governance, Invoice Review Narratives, Joint Ai Workspace, Kanzlei Ki Tool Mandanteneinwilligung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

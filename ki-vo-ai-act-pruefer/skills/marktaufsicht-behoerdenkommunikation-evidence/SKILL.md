@@ -37,3 +37,10 @@ Wenn eine Behörde Unterlagen verlangt, muss das Unternehmen schnell, geordnet u
 - Schwärzungsliste.
 - Fragen-an-Technik-Liste.
 - Eskalationsvermerk für Geschäftsleitung.
+
+## Powersprint-Vertiefung
+
+- **AI-Act-Pfad:** Bei `Marktaufsicht: Evidence Room` Art. 3 KI-VO, Zweckbestimmung, Anbieter-/Betreiberrolle, Art. 6 Abs. 2 mit Anhang III, Transparenzpflichten und Sanktionen getrennt prüfen.
+- **Dokumentationslogik:** Schreibe nicht nur ein Ergebnis, sondern eine auditfähige Begründung mit Systembeschreibung, Datenfluss, Risiko, Governance, menschlicher Aufsicht und Restunsicherheit.
+- **Quellenbremse:** Normtext, Leitlinien, harmonisierte Normen und Behördenpraxis nur mit Datum/Quelle; ISO-/DIN-Bezüge als Prüfauftrag kennzeichnen, wenn nicht im Mandat belegt.
+- **Output:** KI-System-Check, Hochrisiko-Matrix, Grundrechte-/Transparenznotiz oder Behördenkommunikation.

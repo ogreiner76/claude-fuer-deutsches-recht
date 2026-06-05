@@ -1,13 +1,13 @@
 ---
 name: space-raumstation-an-suborbitalflug-luftrecht
-description: "Nutze dies bei Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

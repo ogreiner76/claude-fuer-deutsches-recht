@@ -1,13 +1,13 @@
 ---
 name: rechtsprechungsgetrieben-rechtsweg-bverfg
-description: "Nutze dies bei Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: echten-sonderfall-edge-case
-description: "Nutze dies bei Echten: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Echten: Sonderfall und Edge-Case-Prüfung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung

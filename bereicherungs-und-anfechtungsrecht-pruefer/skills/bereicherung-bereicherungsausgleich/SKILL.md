@@ -1,13 +1,13 @@
 ---
 name: bereicherung-bereicherungsausgleich
-description: "Nutze dies bei Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

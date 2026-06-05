@@ -1,13 +1,13 @@
 ---
 name: space-incident-response-launch-readiness-post
-description: "Nutze dies bei Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: mehrfachansatz-ausschluesse-minderjaehrige
-description: "Nutze dies bei Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

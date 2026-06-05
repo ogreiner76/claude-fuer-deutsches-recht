@@ -1,6 +1,6 @@
 ---
 name: gutachten-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Gutachten Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Gutachten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Gutachten Fehlerkatalog

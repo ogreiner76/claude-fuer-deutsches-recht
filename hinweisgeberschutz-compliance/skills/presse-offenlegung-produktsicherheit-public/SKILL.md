@@ -1,13 +1,13 @@
 ---
 name: presse-offenlegung-produktsicherheit-public
-description: "Nutze dies bei Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

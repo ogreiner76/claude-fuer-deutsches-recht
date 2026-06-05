@@ -1,13 +1,13 @@
 ---
 name: normtext-heutige-fraktur-lesen-fallloesung
-description: "Nutze dies bei Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

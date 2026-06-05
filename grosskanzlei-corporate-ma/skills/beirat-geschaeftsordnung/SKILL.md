@@ -1,6 +1,6 @@
 ---
 name: beirat-geschaeftsordnung
-description: "Nutze dies bei Beirat Geschaeftsordnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Geschaeftsordnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Geschaeftsordnung

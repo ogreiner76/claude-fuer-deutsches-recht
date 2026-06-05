@@ -1,13 +1,13 @@
 ---
 name: elsj-qualitaetsgate-rechtsnormen-einfach
-description: "Nutze dies bei Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

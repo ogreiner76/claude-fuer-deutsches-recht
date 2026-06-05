@@ -1,13 +1,13 @@
 ---
 name: elektrog-verpackg-geoblocking-verordnung
-description: "Nutze dies bei Elektrog Verpackg Battg Registrierung, Geoblocking Verordnung Eu, Gewaehrleistung Digitale Produkte Warenkauf 327 Ff 434 Ff Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Elektrog Verpackg Battg Registrierung, Geoblocking Verordnung Eu, Gewaehrleistung Digitale Produkte Warenkauf 327 Ff 434 Ff Bgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Elektrog Verpackg Battg Registrierung, Geoblocking Verordnung Eu, Gewährleistung Digitale Produkte Warenkauf 327 Ff 434 Ff Bgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Elektrog Verpackg Battg Registrierung, Geoblocking Verordnung Eu, Gewährleistung Digitale Produkte Warenkauf 327 Ff 434 Ff Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Elektrog Verpackg Battg Registrierung, Geoblocking Verordnung Eu, Gewährleistung Digitale Produkte Warenkauf 327 Ff 434 Ff Bgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

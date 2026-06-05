@@ -1,13 +1,13 @@
 ---
 name: owi-strassenverkehr-rechtsbeschwerde
-description: "Nutze dies bei Owi 089 Strassenverkehr Rechtsbeschwerde Pruef, Owi 090 Strassenverkehr Mandantenbrief Schreib, Owi 091 Aussenwirtschaft Tatbestand Zerlegen, Owi 093 Aussenwirtschaft Akteneinsicht Schreib: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Owi 089 Strassenverkehr Rechtsbeschwerde Pruef, Owi 090 Strassenverkehr Mandantenbrief Schreib, Owi 091 Aussenwirtschaft Tatbestand Zerlegen, Owi 093 Aussenwirtschaft Akteneinsicht Schreib: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Owi 089 Strassenverkehr Rechtsbeschwerde Pruef, Owi 090 Strassenverkehr Mandantenbrief Schreib, Owi 091 Aussenwirtschaft Tatbestand Zerlegen, Owi 093 Aussenwirtschaft Akteneinsicht Schreib
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Owi 089 Strassenverkehr Rechtsbeschwerde Pruef, Owi 090 Strassenverkehr Mandantenbrief Schreib, Owi 091 Aussenwirtschaft Tatbestand Zerlegen, Owi 093 Aussenwirtschaft Akteneinsicht Schreib** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Owi 089 Strassenverkehr Rechtsbeschwerde Pruef, Owi 090 Strassenverkehr Mandantenbrief Schreib, Owi 091 Aussenwirtschaft Tatbestand Zerlegen, Owi 093 Aussenwirtschaft Akteneinsicht Schreib** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

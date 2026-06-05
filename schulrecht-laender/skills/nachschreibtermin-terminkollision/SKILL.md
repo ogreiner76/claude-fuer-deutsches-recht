@@ -1,13 +1,13 @@
 ---
 name: nachschreibtermin-terminkollision
-description: "Nutze dies bei Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Nachteilsausgleich Schule, Notenschutz Und Bewertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Nachteilsausgleich Schule, Notenschutz Und Bewertung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Nachteilsausgleich Schule, Notenschutz Und Bewertung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Nachteilsausgleich Schule, Notenschutz Und Bewertung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Nachteilsausgleich Schule, Notenschutz Und Bewertung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

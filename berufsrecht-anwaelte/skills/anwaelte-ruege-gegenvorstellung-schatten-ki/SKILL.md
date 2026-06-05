@@ -1,13 +1,13 @@
 ---
 name: anwaelte-ruege-gegenvorstellung-schatten-ki
-description: "Nutze dies bei Anwaelte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwaelte Schatten Ki Und Team Policy, Anwaelte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwaelte Social Media Kanzleimarketing Organisationspflicht Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwaelte Schatten Ki Und Team Policy, Anwaelte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwaelte Social Media Kanzleimarketing Organisationspflicht Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

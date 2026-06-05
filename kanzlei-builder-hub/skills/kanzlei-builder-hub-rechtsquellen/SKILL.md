@@ -1,6 +1,6 @@
 ---
 name: kanzlei-builder-hub-rechtsquellen
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Compliance-Dokumentation und Aktenvermerk: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Compliance-Dokumentation und Aktenvermerk: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Compliance-Dokumentation und Aktenvermerk

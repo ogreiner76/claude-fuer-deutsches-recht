@@ -1,13 +1,13 @@
 ---
 name: informationspflichten-vertragsschluss
-description: "Nutze dies bei Informationspflichten Vor Vertragsschluss Art 246a Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewaehrleistung, Marktplatzhaftung Haendler Plattform: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Informationspflichten Vor Vertragsschluss Art 246a Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewaehrleistung, Marktplatzhaftung Haendler Plattform: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

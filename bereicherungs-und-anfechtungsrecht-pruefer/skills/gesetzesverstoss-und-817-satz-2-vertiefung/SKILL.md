@@ -1,6 +1,6 @@
 ---
 name: gesetzesverstoss-und-817-satz-2-vertiefung
-description: "Nutze diesen Skill, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
+description: "Bei § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
 ---
 
 # Gesetzesverstoß und § 817 Satz 2 vertieft

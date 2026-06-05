@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-joint-controller-meta
-description: "Nutze dies bei Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

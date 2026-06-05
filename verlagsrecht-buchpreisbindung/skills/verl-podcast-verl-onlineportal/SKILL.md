@@ -1,13 +1,13 @@
 ---
 name: verl-podcast-verl-onlineportal
-description: "Nutze dies bei Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

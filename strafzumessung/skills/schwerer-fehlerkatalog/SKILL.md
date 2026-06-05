@@ -1,6 +1,6 @@
 ---
 name: schwerer-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Schwerer Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Schwerer Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Schwerer Fehlerkatalog

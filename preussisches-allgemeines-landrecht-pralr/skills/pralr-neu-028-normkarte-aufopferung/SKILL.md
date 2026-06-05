@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-028-normkarte-aufopferung
-description: "Nutze dies bei PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft

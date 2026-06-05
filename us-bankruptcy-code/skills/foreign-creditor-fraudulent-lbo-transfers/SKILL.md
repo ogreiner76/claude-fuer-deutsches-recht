@@ -1,13 +1,13 @@
 ---
 name: foreign-creditor-fraudulent-lbo-transfers
-description: "Nutze dies bei Foreign Creditor German Client, Fraudulent Lbo, Fraudulent Transfers 548, Free Clear Sale 363f: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Foreign Creditor German Client, Fraudulent Lbo, Fraudulent Transfers 548, Free Clear Sale 363f: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Foreign Creditor German Client, Fraudulent Lbo, Fraudulent Transfers 548, Free Clear Sale 363F
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Foreign Creditor German Client, Fraudulent Lbo, Fraudulent Transfers 548, Free Clear Sale 363F** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Foreign Creditor German Client, Fraudulent Lbo, Fraudulent Transfers 548, Free Clear Sale 363F** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

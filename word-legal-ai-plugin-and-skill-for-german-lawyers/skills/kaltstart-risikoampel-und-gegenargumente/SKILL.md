@@ -1,6 +1,6 @@
 ---
 name: kaltstart-risikoampel-und-gegenargumente
-description: "Nutze dies zum Einstieg in Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kaltstart: Einstieg und Routing; Risikoampel, Gegenargumente und Verteidigungslinien: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien

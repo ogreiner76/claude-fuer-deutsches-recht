@@ -1,13 +1,13 @@
 ---
 name: derivatives-repos-dip-financing-discharge
-description: "Nutze dies bei Derivatives Repos Swaps, Dip Financing 364, Discharge Chapter7 727, Disclosure Statement 1125: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Derivatives Repos Swaps, Dip Financing 364, Discharge Chapter7 727, Disclosure Statement 1125: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Derivatives Repos Swaps, Dip Financing 364, Discharge Chapter7 727, Disclosure Statement 1125
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Derivatives Repos Swaps, Dip Financing 364, Discharge Chapter7 727, Disclosure Statement 1125** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Derivatives Repos Swaps, Dip Financing 364, Discharge Chapter7 727, Disclosure Statement 1125** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

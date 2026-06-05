@@ -1,6 +1,6 @@
 ---
 name: verkehr-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Verkehr Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Verkehr Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Verkehr Quellenkarte

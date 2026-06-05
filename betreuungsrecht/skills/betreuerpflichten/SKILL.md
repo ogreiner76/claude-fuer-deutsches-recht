@@ -1,6 +1,6 @@
 ---
 name: betreuerpflichten
-description: "Nutze dies bei Betreuerpflichten: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Betreuerpflichten: Formular, Portal und Einreichungslogik: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Betreuerpflichten: Formular, Portal und Einreichungslogik

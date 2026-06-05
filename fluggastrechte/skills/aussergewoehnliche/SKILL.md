@@ -1,6 +1,6 @@
 ---
 name: aussergewoehnliche
-description: "Nutze dies bei Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung

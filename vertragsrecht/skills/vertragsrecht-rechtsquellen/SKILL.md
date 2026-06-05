@@ -1,6 +1,6 @@
 ---
 name: vertragsrecht-rechtsquellen
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Abschlussprodukt und Übergabe: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Abschlussprodukt und Übergabe: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Abschlussprodukt und Übergabe

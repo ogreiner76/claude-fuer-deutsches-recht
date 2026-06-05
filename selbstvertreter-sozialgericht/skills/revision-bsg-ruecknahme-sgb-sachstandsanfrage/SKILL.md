@@ -1,13 +1,13 @@
 ---
 name: revision-bsg-ruecknahme-sgb-sachstandsanfrage
-description: "Nutze dies bei Revision Bsg 160 Sgg, Ruecknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Revision Bsg 160 Sgg, Ruecknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

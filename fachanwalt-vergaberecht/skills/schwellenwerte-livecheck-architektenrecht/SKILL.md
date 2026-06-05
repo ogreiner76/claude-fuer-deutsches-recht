@@ -1,13 +1,13 @@
 ---
 name: schwellenwerte-livecheck-architektenrecht
-description: "Nutze dies bei Schwellenwerte 2026 2027 Livecheck, Architektenrecht Compliance Dokumentation Und Akte, Fachanwalt Erstpruefung Und Mandatsziel, Konzession Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schwellenwerte 2026 2027 Livecheck, Architektenrecht Compliance Dokumentation Und Akte, Fachanwalt Erstpruefung Und Mandatsziel, Konzession Formular Portal Und Einreichung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schwellenwerte 2026 2027 Livecheck, Architektenrecht Compliance Dokumentation Und Akte, Fachanwalt Erstpruefung Und Mandatsziel, Konzession Formular Portal Und Einreichung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schwellenwerte 2026 2027 Livecheck, Architektenrecht Compliance Dokumentation Und Akte, Fachanwalt Erstpruefung Und Mandatsziel, Konzession Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schwellenwerte 2026 2027 Livecheck, Architektenrecht Compliance Dokumentation Und Akte, Fachanwalt Erstpruefung Und Mandatsziel, Konzession Formular Portal Und Einreichung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

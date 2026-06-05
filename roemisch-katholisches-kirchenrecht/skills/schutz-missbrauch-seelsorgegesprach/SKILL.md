@@ -1,13 +1,13 @@
 ---
 name: schutz-missbrauch-seelsorgegesprach
-description: "Nutze dies bei Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

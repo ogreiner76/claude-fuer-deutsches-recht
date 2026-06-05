@@ -1,13 +1,13 @@
 ---
 name: sftf-formvorgaben-bgb-interessen-checklisten
-description: "Nutze dies bei Sftf Formvorgaben Bauleiter, Bgb Mehrparteien Konflikt Und Interessen, Checklisten Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sftf Formvorgaben Bauleiter, Bgb Mehrparteien Konflikt Und Interessen, Checklisten Schriftsatz Brief Und Memo Bausteine: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sftf Formvorgaben Bauleiter, Bgb Mehrparteien Konflikt Und Interessen, Checklisten Schriftsatz Brief Und Memo Bausteine
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sftf Formvorgaben Bauleiter, Bgb Mehrparteien Konflikt Und Interessen, Checklisten Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sftf Formvorgaben Bauleiter, Bgb Mehrparteien Konflikt Und Interessen, Checklisten Schriftsatz Brief Und Memo Bausteine** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

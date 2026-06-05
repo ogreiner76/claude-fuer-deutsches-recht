@@ -1,13 +1,13 @@
 ---
 name: qualitaetsmanagement-vier
-description: "Nutze dies bei Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwaelte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwaelte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

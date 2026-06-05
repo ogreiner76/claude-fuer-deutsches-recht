@@ -1,13 +1,13 @@
 ---
 name: richtlinien-entwurf-kueschk-grundwarnung
-description: "Nutze dies bei Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

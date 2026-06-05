@@ -1,13 +1,13 @@
 ---
 name: kapitalwert-korrespondierender-kindeswohl
-description: "Nutze dies bei Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

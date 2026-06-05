@@ -1,6 +1,6 @@
 ---
 name: staat-vereinigte-arabische-staaten
-description: "Nutze dies bei Staat Vereinigte Arabische Emirate Migrationscheck, Staat Vereinigte Staaten Migrationscheck, Staat Vereinigtes Koenigreich Migrationscheck, Staat Vietnam Migrationscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Staat Vereinigte Arabische Emirate Migrationscheck, Staat Vereinigte Staaten Migrationscheck, Staat Vereinigtes Koenigreich Migrationscheck, Staat Vietnam Migrationscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Staat Vereinigte Arabische Emirate Migrationscheck, Staat Vereinigte Staaten Migrationscheck, Staat Vereinigtes Koenigreich Migrationscheck, Staat Vietnam Migrationscheck

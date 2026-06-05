@@ -1,13 +1,13 @@
 ---
 name: trans-cmr-frachtbrief-hgb-spedition-kabotage
-description: "Nutze dies bei Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

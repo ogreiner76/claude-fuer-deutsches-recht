@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-dolmetscher-sprache-eilantrag
-description: "Nutze dies bei Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

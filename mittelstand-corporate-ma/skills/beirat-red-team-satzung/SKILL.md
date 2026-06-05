@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Nutze dies bei Beirat Red Team Satzung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Red Team Satzung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Red Team Satzung

@@ -1,13 +1,13 @@
 ---
 name: spuerbarkeit-zwischenstaatlichkeit-ssnip-test
-description: "Nutze dies bei Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

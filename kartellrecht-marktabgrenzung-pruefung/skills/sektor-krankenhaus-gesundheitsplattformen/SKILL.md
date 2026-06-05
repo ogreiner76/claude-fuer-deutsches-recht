@@ -1,13 +1,13 @@
 ---
 name: sektor-krankenhaus-gesundheitsplattformen
-description: "Nutze dies bei Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

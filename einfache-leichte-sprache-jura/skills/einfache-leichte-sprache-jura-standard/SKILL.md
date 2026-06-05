@@ -1,6 +1,6 @@
 ---
 name: einfache-leichte-sprache-jura-standard
-description: "Nutze dies bei Standard: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Standard: Verhandlung, Vergleich und Eskalation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Standard: Verhandlung, Vergleich und Eskalation

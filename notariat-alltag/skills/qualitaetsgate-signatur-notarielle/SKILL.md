@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-signatur-notarielle
-description: "Nutze dies bei Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

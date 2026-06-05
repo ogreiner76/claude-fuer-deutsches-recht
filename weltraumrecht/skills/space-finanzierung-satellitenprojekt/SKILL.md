@@ -1,13 +1,13 @@
 ---
 name: space-finanzierung-satellitenprojekt
-description: "Nutze dies bei Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: weg-teilungsgrundbuch-zwischenverfuegung
-description: "Nutze dies bei Weg Teilungsgrundbuch, Zwischenverfuegung Paragraph 18 Gbo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Weg Teilungsgrundbuch, Zwischenverfuegung Paragraph 18 Gbo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Weg Teilungsgrundbuch, Zwischenverfuegung Paragraph 18 Gbo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Weg Teilungsgrundbuch, Zwischenverfuegung Paragraph 18 Gbo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Weg Teilungsgrundbuch, Zwischenverfuegung Paragraph 18 Gbo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: bwbes-dienstzeitversorgung
-description: "Nutze dies bei Bwbes Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Heilfuersorge Truppenaerztliche Versorgung Und Pkv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bwbes Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Heilfuersorge Truppenaerztliche Versorgung Und Pkv: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bwbes Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Heilfuersorge Truppenaerztliche Versorgung Und Pkv
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bwbes Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Heilfuersorge Truppenaerztliche Versorgung Und Pkv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bwbes Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Heilfuersorge Truppenaerztliche Versorgung Und Pkv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

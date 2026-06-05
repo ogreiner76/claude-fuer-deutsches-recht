@@ -1,6 +1,6 @@
 ---
 name: 765a-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei 765a Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "765a Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # 765a Fehlerkatalog

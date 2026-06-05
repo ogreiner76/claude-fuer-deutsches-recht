@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-verstaendlich
-description: "Nutze dies bei Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung

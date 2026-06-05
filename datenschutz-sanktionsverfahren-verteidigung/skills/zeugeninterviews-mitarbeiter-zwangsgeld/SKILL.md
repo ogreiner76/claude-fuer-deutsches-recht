@@ -1,13 +1,13 @@
 ---
 name: zeugeninterviews-mitarbeiter-zwangsgeld
-description: "Nutze dies bei Zeugeninterviews Mitarbeiter, Zwangsgeld Und Vollstreckung Aufsicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zeugeninterviews Mitarbeiter, Zwangsgeld Und Vollstreckung Aufsicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zeugeninterviews Mitarbeiter, Zwangsgeld Und Vollstreckung Aufsicht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zeugeninterviews Mitarbeiter, Zwangsgeld Und Vollstreckung Aufsicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zeugeninterviews Mitarbeiter, Zwangsgeld Und Vollstreckung Aufsicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

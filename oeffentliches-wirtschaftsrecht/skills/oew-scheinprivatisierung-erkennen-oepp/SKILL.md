@@ -1,13 +1,13 @@
 ---
 name: oew-scheinprivatisierung-erkennen-oepp
-description: "Nutze dies bei Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

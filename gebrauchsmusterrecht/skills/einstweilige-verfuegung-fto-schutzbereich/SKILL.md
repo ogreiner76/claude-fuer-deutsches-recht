@@ -1,13 +1,13 @@
 ---
 name: einstweilige-verfuegung-fto-schutzbereich
-description: "Nutze dies bei Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

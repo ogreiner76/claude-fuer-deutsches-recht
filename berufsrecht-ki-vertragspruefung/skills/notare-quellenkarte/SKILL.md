@@ -1,6 +1,6 @@
 ---
 name: notare-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Notare Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Notare Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Notare Quellenkarte

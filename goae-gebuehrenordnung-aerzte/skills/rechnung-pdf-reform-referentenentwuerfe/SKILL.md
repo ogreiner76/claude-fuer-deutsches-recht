@@ -1,13 +1,13 @@
 ---
 name: rechnung-pdf-reform-referentenentwuerfe
-description: "Nutze dies bei Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

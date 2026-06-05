@@ -1,13 +1,13 @@
 ---
 name: lease-datenschutz-telematik-esg-leasing-start
-description: "Nutze dies bei Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

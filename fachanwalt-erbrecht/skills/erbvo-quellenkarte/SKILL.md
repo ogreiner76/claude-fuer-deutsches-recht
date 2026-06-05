@@ -1,6 +1,6 @@
 ---
 name: erbvo-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Erbvo Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Erbvo Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Erbvo Quellenkarte

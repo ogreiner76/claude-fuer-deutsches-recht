@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-kita-integration-klage
-description: "Nutze dies bei Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

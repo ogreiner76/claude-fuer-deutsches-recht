@@ -1,13 +1,13 @@
 ---
 name: recordation-transfer-refusal-reconsideration
-description: "Nutze dies bei Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-013-erster-titel-10-dienstbarkeiten
-description: "Nutze dies bei PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen

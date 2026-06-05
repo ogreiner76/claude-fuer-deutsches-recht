@@ -1,13 +1,13 @@
 ---
 name: normen-scheidung-sorge-umgang-interessen
-description: "Nutze dies bei Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

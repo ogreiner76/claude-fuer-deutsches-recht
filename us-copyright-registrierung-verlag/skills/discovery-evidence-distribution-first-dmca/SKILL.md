@@ -1,13 +1,13 @@
 ---
 name: discovery-evidence-distribution-first-dmca
-description: "Nutze dies bei Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

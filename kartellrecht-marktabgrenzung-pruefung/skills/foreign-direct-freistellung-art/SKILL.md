@@ -1,13 +1,13 @@
 ---
 name: foreign-direct-freistellung-art
-description: "Nutze dies bei Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

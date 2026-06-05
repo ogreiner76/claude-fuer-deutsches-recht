@@ -1,13 +1,13 @@
 ---
 name: aufsichtsrat-kartellrecht-red-ki-einsatz
-description: "Nutze dies bei Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

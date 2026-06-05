@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-pie
-description: "Nutze dies bei Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

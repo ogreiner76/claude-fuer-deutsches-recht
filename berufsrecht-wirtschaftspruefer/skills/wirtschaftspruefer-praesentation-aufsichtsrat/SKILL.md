@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-praesentation-aufsichtsrat
-description: "Nutze dies bei Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

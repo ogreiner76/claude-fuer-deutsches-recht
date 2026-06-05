@@ -1,6 +1,6 @@
 ---
 name: rdg-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Rdg Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rdg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rdg Quellenkarte

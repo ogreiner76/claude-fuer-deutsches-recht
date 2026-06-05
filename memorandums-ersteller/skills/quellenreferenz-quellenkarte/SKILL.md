@@ -1,6 +1,6 @@
 ---
 name: quellenreferenz-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Quellenreferenz Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellenreferenz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Quellenreferenz Quellenkarte

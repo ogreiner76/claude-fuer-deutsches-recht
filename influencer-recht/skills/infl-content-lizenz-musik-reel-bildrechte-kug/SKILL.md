@@ -1,13 +1,13 @@
 ---
 name: infl-content-lizenz-musik-reel-bildrechte-kug
-description: "Nutze dies bei Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

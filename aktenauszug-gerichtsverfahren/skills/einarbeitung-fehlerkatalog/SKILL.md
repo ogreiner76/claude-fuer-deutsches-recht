@@ -1,6 +1,6 @@
 ---
 name: einarbeitung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Einarbeitung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Einarbeitung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Einarbeitung Fehlerkatalog

@@ -17,3 +17,10 @@ Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft,
 
 ## Output
 Satzungsbaustein, Geschäftsordnungsbaustein und Tabelle `Maßnahme / Schwelle / Gremium / Mehrheit / Konflikt / Eskalation / Dokumentation`.
+
+## Powersprint-Vertiefung
+
+- **Konkreter Arbeitsauftrag:** `GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik` immer als eigenes Fachproblem behandeln: Rolle, Ziel, Frist, Zuständigkeit, Beleglage und gewünschten Output trennen.
+- **Normen- und Quellenradar:** Tragende Normen, Behördenpraxis und Rechtsprechung nur verwenden, wenn sie aus der Akte, amtlicher Quelle oder frei prüfbarer Quelle belastbar sind.
+- **Fehlerbremse:** Keine allgemeinen Einstiegssätze, wenn schon ein Spezialproblem vorliegt; stattdessen direkt mit Matrix `Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` arbeiten.
+- **Output:** Kurzmemo, Prüfraster, Dokumententwurf, Fristenliste oder Rückfragenliste mit höchstens einer wirklich entscheidenden Rückfrage.

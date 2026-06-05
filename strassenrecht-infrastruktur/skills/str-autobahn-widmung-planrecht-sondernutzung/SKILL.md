@@ -1,13 +1,13 @@
 ---
 name: str-autobahn-widmung-planrecht-sondernutzung
-description: "Nutze dies bei Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

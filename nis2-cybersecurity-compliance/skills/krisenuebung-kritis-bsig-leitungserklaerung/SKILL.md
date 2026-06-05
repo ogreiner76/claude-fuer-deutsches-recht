@@ -1,13 +1,13 @@
 ---
 name: krisenuebung-kritis-bsig-leitungserklaerung
-description: "Nutze dies bei Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: btm-heroin-mandantenbrief-amphetamin-stoff
-description: "Nutze dies bei Btm 050 Heroin Mandantenbrief Schreiben, Btm 051 Amphetamin Stoff Prüfen, Btm 052 Amphetamin Menge Einordnen, Btm 053 Amphetamin Strafrahmen Routen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Btm 050 Heroin Mandantenbrief Schreiben, Btm 051 Amphetamin Stoff Prüfen, Btm 052 Amphetamin Menge Einordnen, Btm 053 Amphetamin Strafrahmen Routen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Btm 050 Heroin Mandantenbrief Schreiben, Btm 051 Amphetamin Stoff Prüfen, Btm 052 Amphetamin Menge Einordnen, Btm 053 Amphetamin Strafrahmen Routen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Btm 050 Heroin Mandantenbrief Schreiben, Btm 051 Amphetamin Stoff Prüfen, Btm 052 Amphetamin Menge Einordnen, Btm 053 Amphetamin Strafrahmen Routen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Btm 050 Heroin Mandantenbrief Schreiben, Btm 051 Amphetamin Stoff Prüfen, Btm 052 Amphetamin Menge Einordnen, Btm 053 Amphetamin Strafrahmen Routen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: betriebsrat-betrvg-datum
-description: "Nutze dies bei Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

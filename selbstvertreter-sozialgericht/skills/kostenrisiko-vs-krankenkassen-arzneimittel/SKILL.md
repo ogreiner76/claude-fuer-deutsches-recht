@@ -1,13 +1,13 @@
 ---
 name: kostenrisiko-vs-krankenkassen-arzneimittel
-description: "Nutze dies bei Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

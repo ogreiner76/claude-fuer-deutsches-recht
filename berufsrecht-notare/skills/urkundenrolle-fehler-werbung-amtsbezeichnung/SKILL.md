@@ -1,13 +1,13 @@
 ---
 name: urkundenrolle-fehler-werbung-amtsbezeichnung
-description: "Nutze dies bei Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

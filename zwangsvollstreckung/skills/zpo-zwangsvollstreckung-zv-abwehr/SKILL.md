@@ -1,13 +1,13 @@
 ---
 name: zpo-zwangsvollstreckung-zv-abwehr
-description: "Nutze dies bei Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: kommission-paragraphen-ladenvollmacht
-description: "Nutze dies bei Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

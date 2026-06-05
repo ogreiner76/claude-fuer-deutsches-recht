@@ -1,13 +1,13 @@
 ---
 name: beschwerdemanagement-patient-blutprodukte
-description: "Nutze dies bei Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

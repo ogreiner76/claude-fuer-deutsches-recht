@@ -1,13 +1,13 @@
 ---
 name: dokumentenstapel-sortieren-first-year
-description: "Nutze dies bei Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel, Fristenrettung Miet Weg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel, Fristenrettung Miet Weg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel, Fristenrettung Miet Weg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

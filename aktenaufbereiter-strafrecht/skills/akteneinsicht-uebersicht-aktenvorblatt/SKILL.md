@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-uebersicht-aktenvorblatt
-description: "Nutze dies bei Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

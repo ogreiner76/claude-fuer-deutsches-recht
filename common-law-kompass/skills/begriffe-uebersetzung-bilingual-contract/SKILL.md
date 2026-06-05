@@ -1,13 +1,13 @@
 ---
 name: begriffe-uebersetzung-bilingual-contract
-description: "Nutze dies bei Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

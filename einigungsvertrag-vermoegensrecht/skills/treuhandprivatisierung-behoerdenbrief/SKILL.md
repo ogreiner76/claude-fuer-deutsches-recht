@@ -1,13 +1,13 @@
 ---
 name: treuhandprivatisierung-behoerdenbrief
-description: "Nutze dies bei Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

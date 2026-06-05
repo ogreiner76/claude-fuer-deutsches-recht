@@ -1,13 +1,13 @@
 ---
 name: ausland-eu-aussergerichtlicher
-description: "Nutze dies bei Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

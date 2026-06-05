@@ -1,6 +1,6 @@
 ---
 name: dokumentationsaudit-630f
-description: "Nutze dies bei Dokumentationsaudit 630f, Einwilligungsunfaehigkeit Ablehnung, Erezept Falschmedikation, Erstgespraech Mandatsannahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dokumentationsaudit 630f, Einwilligungsunfaehigkeit Ablehnung, Erezept Falschmedikation, Erstgespraech Mandatsannahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dokumentationsaudit 630F, Einwilligungsunfaehigkeit Ablehnung, Erezept Falschmedikation, Erstgespraech Mandatsannahme

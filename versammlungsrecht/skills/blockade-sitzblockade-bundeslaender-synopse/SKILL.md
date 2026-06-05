@@ -1,13 +1,13 @@
 ---
 name: blockade-sitzblockade-bundeslaender-synopse
-description: "Nutze dies bei Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

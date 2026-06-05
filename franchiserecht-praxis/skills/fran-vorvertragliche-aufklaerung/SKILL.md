@@ -1,13 +1,13 @@
 ---
 name: fran-vorvertragliche-aufklaerung
-description: "Nutze dies bei Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

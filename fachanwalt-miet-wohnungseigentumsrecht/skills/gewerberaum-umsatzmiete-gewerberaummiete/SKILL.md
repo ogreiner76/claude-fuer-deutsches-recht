@@ -1,13 +1,13 @@
 ---
 name: gewerberaum-umsatzmiete-gewerberaummiete
-description: "Nutze dies bei Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb, Hausmeisterkosten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb, Hausmeisterkosten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb, Hausmeisterkosten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

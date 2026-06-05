@@ -1,13 +1,13 @@
 ---
 name: prodr-machinery-produktrueckruf
-description: "Nutze dies bei Prodr Machinery Regulation Spezial, Prodr Produktrueckruf Leitfaden, Produktbeobachtung Feldueberwachung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Prodr Machinery Regulation Spezial, Prodr Produktrueckruf Leitfaden, Produktbeobachtung Feldueberwachung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Prodr Machinery Regulation Spezial, Prodr Produktrueckruf Leitfaden, Produktbeobachtung Feldueberwachung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Prodr Machinery Regulation Spezial, Prodr Produktrueckruf Leitfaden, Produktbeobachtung Feldueberwachung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Prodr Machinery Regulation Spezial, Prodr Produktrueckruf Leitfaden, Produktbeobachtung Feldueberwachung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

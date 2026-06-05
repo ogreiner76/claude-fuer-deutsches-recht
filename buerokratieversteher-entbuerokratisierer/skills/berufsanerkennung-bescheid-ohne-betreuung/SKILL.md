@@ -1,13 +1,13 @@
 ---
 name: berufsanerkennung-bescheid-ohne-betreuung
-description: "Nutze dies bei Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

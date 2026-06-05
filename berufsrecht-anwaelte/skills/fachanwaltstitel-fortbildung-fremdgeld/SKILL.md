@@ -1,13 +1,13 @@
 ---
 name: fachanwaltstitel-fortbildung-fremdgeld
-description: "Nutze dies bei Anwaelte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwaelte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwaelte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwaelte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwaelte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwaelte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwaelte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

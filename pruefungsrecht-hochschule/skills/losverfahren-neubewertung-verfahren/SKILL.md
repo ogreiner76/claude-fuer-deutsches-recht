@@ -1,13 +1,13 @@
 ---
 name: losverfahren-neubewertung-verfahren
-description: "Nutze dies bei Losverfahren Prüfer, Neubewertung Verfahren, Notenbekanntgabe Und Friststart, Prueferbestellung Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Losverfahren Prüfer, Neubewertung Verfahren, Notenbekanntgabe Und Friststart, Prueferbestellung Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Losverfahren Prüfer, Neubewertung Verfahren, Notenbekanntgabe Und Friststart, Prueferbestellung Zustaendigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Losverfahren Prüfer, Neubewertung Verfahren, Notenbekanntgabe Und Friststart, Prueferbestellung Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Losverfahren Prüfer, Neubewertung Verfahren, Notenbekanntgabe Und Friststart, Prueferbestellung Zustaendigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

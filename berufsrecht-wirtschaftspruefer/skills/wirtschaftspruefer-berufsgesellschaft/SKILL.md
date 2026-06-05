@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-berufsgesellschaft
-description: "Nutze dies bei Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

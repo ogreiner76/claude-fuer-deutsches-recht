@@ -1,13 +1,13 @@
 ---
 name: bericht-hv-cyberangriff-am-d-o-datenschutz
-description: "Nutze dies bei Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

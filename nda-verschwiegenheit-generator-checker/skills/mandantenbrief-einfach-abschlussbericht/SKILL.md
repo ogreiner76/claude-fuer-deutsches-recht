@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-einfach-abschlussbericht
-description: "Nutze dies bei Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

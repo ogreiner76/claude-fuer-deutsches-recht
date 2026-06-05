@@ -1,13 +1,13 @@
 ---
 name: r-d-nda-grundstruktur-international
-description: "Nutze dies bei Nda Bei R D Kooperation, Nda Grundstruktur Prüfen, Nda International Arbitration Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nda Bei R D Kooperation, Nda Grundstruktur Prüfen, Nda International Arbitration Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nda Bei R D Kooperation, Nda Grundstruktur Prüfen, Nda International Arbitration Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nda Bei R D Kooperation, Nda Grundstruktur Prüfen, Nda International Arbitration Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nda Bei R D Kooperation, Nda Grundstruktur Prüfen, Nda International Arbitration Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

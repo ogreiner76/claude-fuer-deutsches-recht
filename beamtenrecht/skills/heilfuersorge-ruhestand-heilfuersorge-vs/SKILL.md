@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-ruhestand-heilfuersorge-vs
-description: "Nutze dies bei Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen

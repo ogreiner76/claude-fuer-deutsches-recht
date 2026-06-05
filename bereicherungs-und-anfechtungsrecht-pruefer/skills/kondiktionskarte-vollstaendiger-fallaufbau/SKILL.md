@@ -1,6 +1,6 @@
 ---
 name: kondiktionskarte-vollstaendiger-fallaufbau
-description: "Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs."
+description: "Bei ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs."
 ---
 
 # Kondiktionskarte: vollständiger Fallaufbau

@@ -1,6 +1,6 @@
 ---
 name: icsid-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Icsid Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Icsid Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Icsid Quellenkarte

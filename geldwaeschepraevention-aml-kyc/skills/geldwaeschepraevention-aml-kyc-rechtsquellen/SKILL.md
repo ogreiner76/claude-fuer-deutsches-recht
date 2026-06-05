@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepraevention-aml-kyc-rechtsquellen
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Formular, Portal und Einreichungslogik: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Formular, Portal und Einreichungslogik: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Formular, Portal und Einreichungslogik

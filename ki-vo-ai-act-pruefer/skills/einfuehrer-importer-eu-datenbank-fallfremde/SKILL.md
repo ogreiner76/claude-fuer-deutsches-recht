@@ -1,13 +1,13 @@
 ---
 name: einfuehrer-importer-eu-datenbank-fallfremde
-description: "Nutze dies bei Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

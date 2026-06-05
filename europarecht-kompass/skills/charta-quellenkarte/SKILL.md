@@ -1,6 +1,6 @@
 ---
 name: charta-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Charta Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Charta Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Charta Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: geldbetraege-berechnungen-gerichtstermin
-description: "Nutze dies bei Geldbetraege Berechnungen, Gerichtstermin Verstehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Geldbetraege Berechnungen, Gerichtstermin Verstehen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Geldbetraege Berechnungen, Gerichtstermin Verstehen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Geldbetraege Berechnungen, Gerichtstermin Verstehen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Geldbetraege Berechnungen, Gerichtstermin Verstehen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

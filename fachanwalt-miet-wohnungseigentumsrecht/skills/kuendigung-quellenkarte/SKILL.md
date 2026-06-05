@@ -1,6 +1,6 @@
 ---
 name: kuendigung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Kündigung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Kündigung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Kündigung Quellenkarte

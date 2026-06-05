@@ -1,13 +1,13 @@
 ---
 name: notare-handelsregisteranmeldung-fehler
-description: "Nutze dies bei Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

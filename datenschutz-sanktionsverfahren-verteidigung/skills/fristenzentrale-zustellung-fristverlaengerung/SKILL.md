@@ -1,13 +1,13 @@
 ---
 name: fristenzentrale-zustellung-fristverlaengerung
-description: "Nutze dies bei Fristenzentrale Zustellung Und Wiedervorlage, Fristverlaengerung Behörde Ohne Nachteile, Grch Verfahrensgrundrechte, Ki Tools Im Sanktionsverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fristenzentrale Zustellung Und Wiedervorlage, Fristverlaengerung Behörde Ohne Nachteile, Grch Verfahrensgrundrechte, Ki Tools Im Sanktionsverfahren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fristenzentrale Zustellung Und Wiedervorlage, Fristverlaengerung Behörde Ohne Nachteile, Grch Verfahrensgrundrechte, Ki Tools Im Sanktionsverfahren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fristenzentrale Zustellung Und Wiedervorlage, Fristverlaengerung Behörde Ohne Nachteile, Grch Verfahrensgrundrechte, Ki Tools Im Sanktionsverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fristenzentrale Zustellung Und Wiedervorlage, Fristverlaengerung Behörde Ohne Nachteile, Grch Verfahrensgrundrechte, Ki Tools Im Sanktionsverfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

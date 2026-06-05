@@ -1,13 +1,13 @@
 ---
 name: anwalt-steuerberater-personalakte
-description: "Nutze dies bei Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: klausel-entwerfen-low-risk-klauselbibliothek
-description: "Nutze dies bei Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

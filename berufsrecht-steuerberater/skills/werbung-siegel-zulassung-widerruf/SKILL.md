@@ -1,13 +1,13 @@
 ---
 name: werbung-siegel-zulassung-widerruf
-description: "Nutze dies bei Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

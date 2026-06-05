@@ -1,13 +1,13 @@
 ---
 name: begruendung-ehemalige-anerkannte-reservisten
-description: "Nutze dies bei Begruendung Für Ehemalige Anerkannte, Begruendung Für Reservisten, Begruendung Für Ungediente, Begruendung Redaktion Ohne Schablone: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Begruendung Für Ehemalige Anerkannte, Begruendung Für Reservisten, Begruendung Für Ungediente, Begruendung Redaktion Ohne Schablone: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

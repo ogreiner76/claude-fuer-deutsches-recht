@@ -1,13 +1,13 @@
 ---
 name: sale-bidding-schedules-sofa-secured-claim
-description: "Nutze dies bei Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

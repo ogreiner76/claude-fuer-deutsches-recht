@@ -1,13 +1,13 @@
 ---
 name: mandatsgeheimnis-tooling-market-positioning
-description: "Nutze dies bei Mandatsgeheimnis Tooling, Market Positioning, Matter Profitability, Mental Health Boundaries: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandatsgeheimnis Tooling, Market Positioning, Matter Profitability, Mental Health Boundaries: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandatsgeheimnis Tooling, Market Positioning, Matter Profitability, Mental Health Boundaries
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandatsgeheimnis Tooling, Market Positioning, Matter Profitability, Mental Health Boundaries** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandatsgeheimnis Tooling, Market Positioning, Matter Profitability, Mental Health Boundaries** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

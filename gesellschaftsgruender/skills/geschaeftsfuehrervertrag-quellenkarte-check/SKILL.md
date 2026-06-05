@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrervertrag-quellenkarte-check
-description: "Nutze dies zur Quellenprüfung bei Geschaeftsfuehrervertrag Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Geschaeftsfuehrervertrag Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Geschaeftsfuehrervertrag Quellenkarte Check

@@ -1,13 +1,13 @@
 ---
 name: rentenversicherungspflicht-selbststaendige
-description: "Nutze dies bei Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

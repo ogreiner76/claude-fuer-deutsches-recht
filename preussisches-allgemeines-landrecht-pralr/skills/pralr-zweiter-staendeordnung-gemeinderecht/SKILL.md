@@ -1,13 +1,13 @@
 ---
 name: pralr-zweiter-staendeordnung-gemeinderecht
-description: "Nutze dies bei Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

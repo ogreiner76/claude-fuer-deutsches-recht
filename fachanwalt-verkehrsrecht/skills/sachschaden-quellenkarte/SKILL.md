@@ -1,6 +1,6 @@
 ---
 name: sachschaden-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Sachschaden Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Sachschaden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Sachschaden Quellenkarte

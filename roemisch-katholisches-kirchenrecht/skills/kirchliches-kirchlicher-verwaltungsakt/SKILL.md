@@ -1,13 +1,13 @@
 ---
 name: kirchliches-kirchlicher-verwaltungsakt
-description: "Nutze dies bei Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: heizungsausfall-sofort-indexmiete
-description: "Nutze dies bei Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug, Kosten Streitwert
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug, Kosten Streitwert** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug, Kosten Streitwert** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

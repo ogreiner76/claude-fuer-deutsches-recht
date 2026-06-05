@@ -1,13 +1,13 @@
 ---
 name: migr-ausweisung-abschiebung-duldung
-description: "Nutze dies bei Migr Ausweisung Abschiebung Spezial, Migr Duldung Und Spurwechsel Spezial, Migr Einbuergerung Mehrstaatigkeit Spezial, Migr Einfuehrung Aufenthaltszwecke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Migr Ausweisung Abschiebung Spezial, Migr Duldung Und Spurwechsel Spezial, Migr Einbuergerung Mehrstaatigkeit Spezial, Migr Einfuehrung Aufenthaltszwecke: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Migr Ausweisung Abschiebung Spezial, Migr Duldung Und Spurwechsel Spezial, Migr Einbuergerung Mehrstaatigkeit Spezial, Migr Einfuehrung Aufenthaltszwecke, Migr Fachkraefteeinwanderung Praxis
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Migr Ausweisung Abschiebung Spezial, Migr Duldung Und Spurwechsel Spezial, Migr Einbuergerung Mehrstaatigkeit Spezial, Migr Einfuehrung Aufenthaltszwecke, Migr Fachkraefteeinwanderung Praxis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Migr Ausweisung Abschiebung Spezial, Migr Duldung Und Spurwechsel Spezial, Migr Einbuergerung Mehrstaatigkeit Spezial, Migr Einfuehrung Aufenthaltszwecke, Migr Fachkraefteeinwanderung Praxis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

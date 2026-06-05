@@ -1,6 +1,6 @@
 ---
 name: forschungszulage
-description: "Nutze dies bei Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel

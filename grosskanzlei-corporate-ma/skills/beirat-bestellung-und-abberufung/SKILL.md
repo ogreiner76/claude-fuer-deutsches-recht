@@ -1,6 +1,6 @@
 ---
 name: beirat-bestellung-und-abberufung
-description: "Nutze dies bei Beirat Bestellung Und Abberufung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Bestellung Und Abberufung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Bestellung Und Abberufung

@@ -1,13 +1,13 @@
 ---
 name: themen-fristennotiz-versr-rechtsschutz-versr
-description: "Nutze dies bei Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

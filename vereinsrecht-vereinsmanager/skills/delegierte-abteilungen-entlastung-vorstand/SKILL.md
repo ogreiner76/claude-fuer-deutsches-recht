@@ -1,13 +1,13 @@
 ---
 name: delegierte-abteilungen-entlastung-vorstand
-description: "Nutze dies bei Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

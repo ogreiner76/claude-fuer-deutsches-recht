@@ -1,13 +1,13 @@
 ---
 name: inso-p001-ziele-p003c-zustandigkeit-p004a
-description: "Nutze dies bei Inso P001 Ziele Des Insolvenzverfahrens, Inso P003c Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004a Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso P001 Ziele Des Insolvenzverfahrens, Inso P003c Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004a Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

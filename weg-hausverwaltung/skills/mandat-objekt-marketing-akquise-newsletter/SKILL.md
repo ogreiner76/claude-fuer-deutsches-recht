@@ -1,13 +1,13 @@
 ---
 name: mandat-objekt-marketing-akquise-newsletter
-description: "Nutze dies bei Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

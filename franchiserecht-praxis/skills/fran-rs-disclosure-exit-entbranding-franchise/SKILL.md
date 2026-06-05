@@ -1,13 +1,13 @@
 ---
 name: fran-rs-disclosure-exit-entbranding-franchise
-description: "Nutze dies bei Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

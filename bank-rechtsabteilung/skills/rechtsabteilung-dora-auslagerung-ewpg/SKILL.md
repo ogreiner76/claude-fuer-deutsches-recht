@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-dora-auslagerung-ewpg
-description: "Nutze dies bei Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

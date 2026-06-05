@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bilanzkreis-strom
-description: "Nutze dies bei Energie Regulierungsakte Bilanzkreis Gas Fristen Und Bescheidana, Energie Regulierungsakte Bilanzkreis Strom Fristen Und Bescheida, Energie Regulierungsakte Grosshandelsdaten Transparenz Fristen U, Energie Regulierungsakte Kapazitaetsvergabe Gas Fristen Und Besc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Energie Regulierungsakte Bilanzkreis Gas Fristen Und Bescheidana, Energie Regulierungsakte Bilanzkreis Strom Fristen Und Bescheida, Energie Regulierungsakte Grosshandelsdaten Transparenz Fristen U, Energie Regulierungsakte Kapazitaetsvergabe Gas Fristen Und Besc: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Energie Regulierungsakte Bilanzkreis Gas Fristen Und Bescheidana, Energie Regulierungsakte Bilanzkreis Strom Fristen Und Bescheida, Energie Regulierungsakte Grosshandelsdaten Transparenz Fristen U, Energie Regulierungsakte Kapazitaetsvergabe Gas Fristen Und Besc

@@ -1,13 +1,13 @@
 ---
 name: duftmarke-geschmacksmarke-einstweilige
-description: "Nutze dies bei Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: eugh-rechtsprechung-beweislast-jurisdiktion
-description: "Nutze dies bei Eugh Rechtsprechung Leitentscheidungen, Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Eugh Rechtsprechung Leitentscheidungen, Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Eugh Rechtsprechung Leitentscheidungen, Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority

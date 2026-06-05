@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-bankkonto-kyc-beirat
-description: "Nutze dies bei Gesellschaftsgruender Bankkonto Kyc Paket, Gesellschaftsgruender Beirat Advisory Board, Gesellschaftsgruender Bilinguale Dokumente, Gesellschaftsgruender Board Pack Erste 100 Tage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Bankkonto Kyc Paket, Gesellschaftsgruender Beirat Advisory Board, Gesellschaftsgruender Bilinguale Dokumente, Gesellschaftsgruender Board Pack Erste 100 Tage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

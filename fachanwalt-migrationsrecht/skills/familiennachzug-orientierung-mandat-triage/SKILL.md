@@ -1,6 +1,6 @@
 ---
 name: familiennachzug-orientierung-mandat-triage
-description: "Nutze dies bei Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial

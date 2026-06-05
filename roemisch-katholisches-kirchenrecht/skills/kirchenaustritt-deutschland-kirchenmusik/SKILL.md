@@ -1,13 +1,13 @@
 ---
 name: kirchenaustritt-deutschland-kirchenmusik
-description: "Nutze dies bei Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

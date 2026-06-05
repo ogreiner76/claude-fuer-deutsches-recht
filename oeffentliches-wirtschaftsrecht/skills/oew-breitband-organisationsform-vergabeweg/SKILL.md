@@ -1,13 +1,13 @@
 ---
 name: oew-breitband-organisationsform-vergabeweg
-description: "Nutze dies bei Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

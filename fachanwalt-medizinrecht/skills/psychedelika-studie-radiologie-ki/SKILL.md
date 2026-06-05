@@ -1,6 +1,6 @@
 ---
 name: psychedelika-studie-radiologie-ki
-description: "Nutze dies bei Psychedelika Studie Therapie, Radiologie Ki Befund, Registerdaten Patientensicherheit, Robotische Operation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Psychedelika Studie Therapie, Radiologie Ki Befund, Registerdaten Patientensicherheit, Robotische Operation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Psychedelika Studie Therapie, Radiologie Ki Befund, Registerdaten Patientensicherheit, Robotische Operation

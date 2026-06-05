@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-010-erster-titel-7-gewahrsam-besitz
-description: "Nutze dies bei PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung

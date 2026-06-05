@@ -1,13 +1,13 @@
 ---
 name: bescheid-frist-fristenbuch-sozialrecht
-description: "Nutze dies bei Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

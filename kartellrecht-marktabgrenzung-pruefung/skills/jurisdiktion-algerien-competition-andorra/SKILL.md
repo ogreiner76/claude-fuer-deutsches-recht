@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-algerien-competition-andorra
-description: "Nutze dies bei Jurisdiktion Algerien Competition Authority, Jurisdiktion Andorra Competition Authority, Jurisdiktion Angola Competition Authority, Jurisdiktion Argentinien Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jurisdiktion Algerien Competition Authority, Jurisdiktion Andorra Competition Authority, Jurisdiktion Angola Competition Authority, Jurisdiktion Argentinien Competition Authority: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jurisdiktion Algerien Competition Authority, Jurisdiktion Andorra Competition Authority, Jurisdiktion Angola Competition Authority, Jurisdiktion Argentinien Competition Authority

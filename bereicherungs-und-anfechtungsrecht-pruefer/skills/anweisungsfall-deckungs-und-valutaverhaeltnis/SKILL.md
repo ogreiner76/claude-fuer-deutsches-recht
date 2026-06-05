@@ -1,6 +1,6 @@
 ---
 name: anweisungsfall-deckungs-und-valutaverhaeltnis
-description: "Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung."
+description: "Bei ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung."
 ---
 
 # Anweisungsfall: Deckungs- und Valutaverhältnis

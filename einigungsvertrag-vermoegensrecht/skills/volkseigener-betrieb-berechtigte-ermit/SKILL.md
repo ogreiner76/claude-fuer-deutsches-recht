@@ -1,13 +1,13 @@
 ---
 name: volkseigener-betrieb-berechtigte-ermit
-description: "Nutze dies bei Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

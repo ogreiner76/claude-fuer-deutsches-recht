@@ -1,13 +1,13 @@
 ---
 name: kammeraufsicht-rechtsprechungscheck
-description: "Nutze dies bei Anwaelte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwaelte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwaelte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwaelte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwaelte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: unternehmerversorgung-gesellschafter
-description: "Nutze dies bei Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

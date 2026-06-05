@@ -1,6 +1,6 @@
 ---
 name: kommunal-behoerdenrobotik
-description: "Nutze dies bei Kommunal Und Behoerdenrobotik, Konformitaetsbescheinigung Robotik Ki, Konformitaetsbewertung Modulwahl, Landwirtschaftsroboter Und Autonome Feldtechnik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kommunal Und Behoerdenrobotik, Konformitaetsbescheinigung Robotik Ki, Konformitaetsbewertung Modulwahl, Landwirtschaftsroboter Und Autonome Feldtechnik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kommunal Und Behoerdenrobotik, Konformitaetsbescheinigung Robotik Ki, Konformitaetsbewertung Modulwahl, Landwirtschaftsroboter Und Autonome Feldtechnik

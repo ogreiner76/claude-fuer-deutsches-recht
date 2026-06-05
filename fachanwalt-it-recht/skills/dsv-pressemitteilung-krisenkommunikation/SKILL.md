@@ -1,13 +1,13 @@
 ---
 name: dsv-pressemitteilung-krisenkommunikation
-description: "Nutze dies bei Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72h: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72h: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

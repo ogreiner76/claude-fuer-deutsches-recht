@@ -1,6 +1,6 @@
 ---
 name: ruecktritt-widerruf-und-bereicherung
-description: "Nutze diesen Skill, wenn Rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix Rücktritt/Widerruf vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht bei vorrangigem Rücktritts-/Widerrufsregime."
+description: "Bei rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix Rücktritt/Widerruf vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht bei vorrangigem Rücktritts-/Widerrufsregime."
 ---
 
 # Rücktritt, Widerruf und Bereicherung

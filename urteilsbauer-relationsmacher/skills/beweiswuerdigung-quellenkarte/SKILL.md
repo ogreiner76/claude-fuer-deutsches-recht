@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Beweiswuerdigung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Beweiswuerdigung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Beweiswuerdigung Quellenkarte

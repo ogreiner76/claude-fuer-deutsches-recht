@@ -1,13 +1,13 @@
 ---
 name: rechtsgrundlage-mandantenentscheidung-review
-description: "Nutze dies bei Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

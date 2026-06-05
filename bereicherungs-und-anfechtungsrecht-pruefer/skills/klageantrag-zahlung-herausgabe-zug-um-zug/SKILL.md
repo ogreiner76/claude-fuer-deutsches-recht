@@ -1,6 +1,6 @@
 ---
 name: klageantrag-zahlung-herausgabe-zug-um-zug
-description: "Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung."
+description: "Bei aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung."
 ---
 
 # Klageantrag: Zahlung, Herausgabe, Zug um Zug

@@ -1,13 +1,13 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Nutze dies bei Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

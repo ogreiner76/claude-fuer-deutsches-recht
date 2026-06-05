@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-022-zweiter-staendeordnung-adel
-description: "Nutze dies bei PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern

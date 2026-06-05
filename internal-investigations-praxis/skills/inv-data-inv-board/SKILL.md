@@ -1,13 +1,13 @@
 ---
 name: inv-data-inv-board
-description: "Nutze dies bei Inv 022 Data Room For Counsel, Inv 023 Board Special Committee: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inv 022 Data Room For Counsel, Inv 023 Board Special Committee: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inv 022 Data Room For Counsel, Inv 023 Board Special Committee
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inv 022 Data Room For Counsel, Inv 023 Board Special Committee** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inv 022 Data Room For Counsel, Inv 023 Board Special Committee** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

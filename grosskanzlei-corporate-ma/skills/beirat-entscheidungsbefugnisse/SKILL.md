@@ -1,6 +1,6 @@
 ---
 name: beirat-entscheidungsbefugnisse
-description: "Nutze dies bei Beirat Entscheidungsbefugnisse: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Entscheidungsbefugnisse: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Entscheidungsbefugnisse

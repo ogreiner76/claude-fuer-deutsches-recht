@@ -1,13 +1,13 @@
 ---
 name: beweismittel-vorab-dokumenten-erzeugung
-description: "Nutze dies bei Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

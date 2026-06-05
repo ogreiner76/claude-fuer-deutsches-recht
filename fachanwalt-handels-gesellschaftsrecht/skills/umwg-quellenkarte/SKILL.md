@@ -1,6 +1,6 @@
 ---
 name: umwg-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Umwg Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Umwg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Umwg Quellenkarte

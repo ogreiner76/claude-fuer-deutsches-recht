@@ -1,13 +1,13 @@
 ---
 name: bachelorarbeit-abgabe-abschlussarbeit
-description: "Nutze dies bei Bachelorarbeit Abgabe, Abschlussarbeit Betreuung, Akteneinsicht Pruefungsakte, Akteneinsicht Vollstaendig: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bachelorarbeit Abgabe, Abschlussarbeit Betreuung, Akteneinsicht Pruefungsakte, Akteneinsicht Vollstaendig: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bachelorarbeit Abgabe, Abschlussarbeit Betreuung, Akteneinsicht Pruefungsakte, Akteneinsicht Vollstaendig
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bachelorarbeit Abgabe, Abschlussarbeit Betreuung, Akteneinsicht Pruefungsakte, Akteneinsicht Vollstaendig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bachelorarbeit Abgabe, Abschlussarbeit Betreuung, Akteneinsicht Pruefungsakte, Akteneinsicht Vollstaendig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

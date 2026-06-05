@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-komplexe-faelle
-description: "Nutze dies bei Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen

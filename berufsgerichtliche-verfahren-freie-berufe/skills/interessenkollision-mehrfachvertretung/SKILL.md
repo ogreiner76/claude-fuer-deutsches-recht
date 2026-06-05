@@ -1,13 +1,13 @@
 ---
 name: interessenkollision-mehrfachvertretung
-description: "Nutze dies bei Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

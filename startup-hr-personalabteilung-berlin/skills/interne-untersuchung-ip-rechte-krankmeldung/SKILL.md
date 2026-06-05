@@ -1,13 +1,13 @@
 ---
 name: interne-untersuchung-ip-rechte-krankmeldung
-description: "Nutze dies bei Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen, Minijob Werkstudent Praktikum Payroll
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen, Minijob Werkstudent Praktikum Payroll** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen, Minijob Werkstudent Praktikum Payroll** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

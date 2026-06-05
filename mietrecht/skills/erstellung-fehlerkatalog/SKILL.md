@@ -1,6 +1,6 @@
 ---
 name: erstellung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Erstellung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Erstellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Erstellung Fehlerkatalog

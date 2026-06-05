@@ -1,13 +1,13 @@
 ---
 name: berufsrechtliche-notfallkommunikation
-description: "Nutze dies bei Anwaelte Berufsrechtliche Notfallkommunikation Organisationspfl, Anwaelte Beschwerde Bei Rechtsanwaltskammer Kammerantwort Und V, Anwaelte Beschwerde Bei Rechtsanwaltskammer Organisationspflich, Anwaelte Datenschutzpanne In Der Kanzlei Kammerantwort Und Verf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Berufsrechtliche Notfallkommunikation Organisationspfl, Anwaelte Beschwerde Bei Rechtsanwaltskammer Kammerantwort Und V, Anwaelte Beschwerde Bei Rechtsanwaltskammer Organisationspflich, Anwaelte Datenschutzpanne In Der Kanzlei Kammerantwort Und Verf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Berufsrechtliche Notfallkommunikation Organisationspfl, Anwälte Beschwerde Bei Rechtsanwaltskammer Kammerantwort Und V, Anwälte Beschwerde Bei Rechtsanwaltskammer Organisationspflich, Anwälte Datenschutzpanne In Der Kanzlei Kammerantwort Und Verf
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Berufsrechtliche Notfallkommunikation Organisationspfl, Anwälte Beschwerde Bei Rechtsanwaltskammer Kammerantwort Und V, Anwälte Beschwerde Bei Rechtsanwaltskammer Organisationspflich, Anwälte Datenschutzpanne In Der Kanzlei Kammerantwort Und Verf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Berufsrechtliche Notfallkommunikation Organisationspfl, Anwälte Beschwerde Bei Rechtsanwaltskammer Kammerantwort Und V, Anwälte Beschwerde Bei Rechtsanwaltskammer Organisationspflich, Anwälte Datenschutzpanne In Der Kanzlei Kammerantwort Und Verf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

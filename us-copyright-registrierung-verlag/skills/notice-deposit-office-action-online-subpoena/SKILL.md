@@ -1,13 +1,13 @@
 ---
 name: notice-deposit-office-action-online-subpoena
-description: "Nutze dies bei Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512h, Ownership Transfer Writing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512h, Ownership Transfer Writing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

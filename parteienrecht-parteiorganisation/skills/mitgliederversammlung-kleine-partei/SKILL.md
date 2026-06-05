@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-partei
-description: "Nutze dies bei Kleine Partei Praxis: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Kleine Partei Praxis: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Kleine Partei Praxis

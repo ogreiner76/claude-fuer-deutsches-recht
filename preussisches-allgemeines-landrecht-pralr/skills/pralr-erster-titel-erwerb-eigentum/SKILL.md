@@ -1,13 +1,13 @@
 ---
 name: pralr-erster-titel-erwerb-eigentum
-description: "Nutze dies bei Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

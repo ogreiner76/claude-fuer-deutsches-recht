@@ -1,6 +1,6 @@
 ---
 name: urlaub-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Urlaub Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Urlaub Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Urlaub Quellenkarte

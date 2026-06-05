@@ -1,6 +1,6 @@
 ---
 name: verteilung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Verteilung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Verteilung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Verteilung Fehlerkatalog

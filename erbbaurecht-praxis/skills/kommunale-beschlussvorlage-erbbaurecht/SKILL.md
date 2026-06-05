@@ -1,13 +1,13 @@
 ---
 name: kommunale-beschlussvorlage-erbbaurecht
-description: "Nutze dies bei Erbbaurecht Kommunale Beschlussvorlage, Erbbaurecht Mandantenbrief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Erbbaurecht Kommunale Beschlussvorlage, Erbbaurecht Mandantenbrief: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Erbbaurecht Kommunale Beschlussvorlage, Erbbaurecht Mandantenbrief
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Erbbaurecht Kommunale Beschlussvorlage, Erbbaurecht Mandantenbrief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Erbbaurecht Kommunale Beschlussvorlage, Erbbaurecht Mandantenbrief** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

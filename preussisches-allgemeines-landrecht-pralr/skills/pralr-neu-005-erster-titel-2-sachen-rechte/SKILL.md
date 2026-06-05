@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-005-erster-titel-2-sachen-rechte
-description: "Nutze dies bei PrALR: Erster Teil Titel 2 Sachen und Rechte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 2 Sachen und Rechte: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 2 Sachen und Rechte

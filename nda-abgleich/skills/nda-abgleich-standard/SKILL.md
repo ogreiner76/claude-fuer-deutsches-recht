@@ -1,6 +1,6 @@
 ---
 name: nda-abgleich-standard
-description: "Nutze dies bei Standard: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Standard: Behörden-, Gerichts- oder Registerweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Standard: Behörden-, Gerichts- oder Registerweg

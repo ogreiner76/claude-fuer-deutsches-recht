@@ -1,13 +1,13 @@
 ---
 name: schutzdauer-gemeinfreiheit-software-69a
-description: "Nutze dies bei Schutzdauer Gemeinfreiheit, Software 69a Computerprogramm, Songtext Lyrics Sprachwerk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schutzdauer Gemeinfreiheit, Software 69a Computerprogramm, Songtext Lyrics Sprachwerk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schutzdauer Gemeinfreiheit, Software 69A Computerprogramm, Songtext Lyrics Sprachwerk
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schutzdauer Gemeinfreiheit, Software 69A Computerprogramm, Songtext Lyrics Sprachwerk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schutzdauer Gemeinfreiheit, Software 69A Computerprogramm, Songtext Lyrics Sprachwerk** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

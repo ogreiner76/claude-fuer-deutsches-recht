@@ -1,6 +1,6 @@
 ---
 name: output-vertragsentwurf-memo-anzeige
-description: "Nutze dies bei Output Vertragsentwurf Memo Anzeige: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Output Vertragsentwurf Memo Anzeige: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Output Vertragsentwurf Memo Anzeige

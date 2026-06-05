@@ -1,13 +1,13 @@
 ---
 name: geschaeftsordnung-gf-gesellschafterstreit
-description: "Nutze dies bei Gesellschaftsgruender Geschaeftsordnung Gf, Gesellschaftsgruender Gesellschafterstreit Eilantraege, Gesellschaftsgruender Gesellschaftervereinbarung, Gesellschaftsgruender Gf Meeting Templates: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Geschaeftsordnung Gf, Gesellschaftsgruender Gesellschafterstreit Eilantraege, Gesellschaftsgruender Gesellschaftervereinbarung, Gesellschaftsgruender Gf Meeting Templates: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

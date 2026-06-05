@@ -1,6 +1,6 @@
 ---
 name: immobiliendarlehen-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Immobiliendarlehen Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Immobiliendarlehen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Immobiliendarlehen Fehlerkatalog

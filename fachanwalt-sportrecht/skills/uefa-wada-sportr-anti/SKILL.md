@@ -1,13 +1,13 @@
 ---
 name: uefa-wada-sportr-anti
-description: "Nutze dies bei Uefa Risikoampel Und Gegenargumente, Wada Zahlen Schwellen Und Berechnung, Sportr Anti Doping Praxis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Uefa Risikoampel Und Gegenargumente, Wada Zahlen Schwellen Und Berechnung, Sportr Anti Doping Praxis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Uefa Risikoampel Und Gegenargumente, Wada Zahlen Schwellen Und Berechnung, Sportr Anti Doping Praxis
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Uefa Risikoampel Und Gegenargumente, Wada Zahlen Schwellen Und Berechnung, Sportr Anti Doping Praxis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Uefa Risikoampel Und Gegenargumente, Wada Zahlen Schwellen Und Berechnung, Sportr Anti Doping Praxis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: bea-nutzungspflichten-kanzleisitz
-description: "Nutze dies bei Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

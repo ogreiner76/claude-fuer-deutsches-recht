@@ -1,6 +1,6 @@
 ---
 name: mehrjahresroadmap-fristennotiz-naechster
-description: "Nutze dies bei Mehrjahresroadmap: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt

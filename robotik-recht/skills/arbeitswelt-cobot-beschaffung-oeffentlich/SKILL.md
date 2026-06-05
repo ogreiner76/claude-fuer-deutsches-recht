@@ -1,13 +1,13 @@
 ---
 name: arbeitswelt-cobot-beschaffung-oeffentlich
-description: "Nutze dies bei Arbeitswelt Cobot Check, Beschaffung Öffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Arbeitswelt Cobot Check, Beschaffung Öffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Arbeitswelt Cobot Check, Beschaffung Öffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung, Board Und C Level Briefing und 1 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitswelt Cobot Check, Beschaffung Öffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung, Board Und C Level Briefing und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Arbeitswelt Cobot Check, Beschaffung Öffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung, Board Und C Level Briefing und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

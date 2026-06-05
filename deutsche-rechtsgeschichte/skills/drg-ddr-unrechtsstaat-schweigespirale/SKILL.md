@@ -1,13 +1,13 @@
 ---
 name: drg-ddr-unrechtsstaat-schweigespirale
-description: "Nutze dies bei Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

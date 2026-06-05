@@ -1,13 +1,13 @@
 ---
 name: pflichtenkollision-shift-restructuring-lounge
-description: "Nutze dies bei Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

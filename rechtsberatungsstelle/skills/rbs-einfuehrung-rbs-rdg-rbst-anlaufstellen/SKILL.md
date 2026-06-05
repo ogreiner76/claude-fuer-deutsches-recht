@@ -1,13 +1,13 @@
 ---
 name: rbs-einfuehrung-rbs-rdg-rbst-anlaufstellen
-description: "Nutze dies bei Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

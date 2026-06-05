@@ -1,13 +1,13 @@
 ---
 name: pacht-leihe-schnittstelle-at
-description: "Nutze dies bei Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

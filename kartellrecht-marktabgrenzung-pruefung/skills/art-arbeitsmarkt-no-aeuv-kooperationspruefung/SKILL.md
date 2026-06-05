@@ -1,6 +1,6 @@
 ---
 name: art-arbeitsmarkt-no-aeuv-kooperationspruefung
-description: "Nutze dies bei Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch

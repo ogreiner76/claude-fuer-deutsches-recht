@@ -1,13 +1,13 @@
 ---
 name: klauselverbote-systematik
-description: "Nutze dies bei Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

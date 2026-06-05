@@ -1,13 +1,13 @@
 ---
 name: product-liability-prompt-code-public
-description: "Nutze dies bei Product Liability Defective Software Eu, Prompt Code Ownership, Public Procurement Software, Quellen Und Livecheck Softwarerecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Product Liability Defective Software Eu, Prompt Code Ownership, Public Procurement Software, Quellen Und Livecheck Softwarerecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Product Liability Defective Software Eu, Prompt Code Ownership, Public Procurement Software, Quellen Und Livecheck Softwarerecht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Product Liability Defective Software Eu, Prompt Code Ownership, Public Procurement Software, Quellen Und Livecheck Softwarerecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Product Liability Defective Software Eu, Prompt Code Ownership, Public Procurement Software, Quellen Und Livecheck Softwarerecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-screenshots-agb-logs
-description: "Nutze dies für Unterlagen zu Dokumentenintake Screenshots AGB Logs: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake Screenshots AGB Logs: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake Screenshots AGB Logs

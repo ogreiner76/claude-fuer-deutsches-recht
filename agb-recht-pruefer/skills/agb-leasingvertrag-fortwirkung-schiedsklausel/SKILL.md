@@ -1,13 +1,13 @@
 ---
 name: agb-leasingvertrag-fortwirkung-schiedsklausel
-description: "Nutze dies bei Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

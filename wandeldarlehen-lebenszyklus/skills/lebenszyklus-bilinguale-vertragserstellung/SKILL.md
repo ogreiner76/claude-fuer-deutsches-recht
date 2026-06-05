@@ -1,13 +1,13 @@
 ---
 name: lebenszyklus-bilinguale-vertragserstellung
-description: "Nutze dies bei Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

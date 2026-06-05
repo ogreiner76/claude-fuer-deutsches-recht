@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-monatsroutine-scannen
-description: "Nutze dies bei Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

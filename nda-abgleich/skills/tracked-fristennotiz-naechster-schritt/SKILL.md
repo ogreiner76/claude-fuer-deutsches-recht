@@ -1,6 +1,6 @@
 ---
 name: tracked-fristennotiz-naechster-schritt
-description: "Nutze dies bei Tracked: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Tracked: Fristennotiz und nächster Schritt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Tracked: Fristennotiz und nächster Schritt

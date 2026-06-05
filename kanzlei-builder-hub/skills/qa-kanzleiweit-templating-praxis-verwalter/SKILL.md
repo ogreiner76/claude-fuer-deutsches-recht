@@ -1,13 +1,13 @@
 ---
 name: qa-kanzleiweit-templating-praxis-verwalter
-description: "Nutze dies bei Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

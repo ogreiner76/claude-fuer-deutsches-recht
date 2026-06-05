@@ -1,13 +1,13 @@
 ---
 name: auslandsroute-kein-beschreibung-zeichnungen
-description: "Nutze dies bei Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

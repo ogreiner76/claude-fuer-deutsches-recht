@@ -1,13 +1,13 @@
 ---
 name: handelsvertreterausgleich-paragraph
-description: "Nutze dies bei Handelsvertreterausgleich Paragraph 89b, Handlungsgehilfen Und Wettbewerbsverbot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Handelsvertreterausgleich Paragraph 89b, Handlungsgehilfen Und Wettbewerbsverbot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfen Und Wettbewerbsverbot
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfen Und Wettbewerbsverbot** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfen Und Wettbewerbsverbot** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

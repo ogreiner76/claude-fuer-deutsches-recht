@@ -1,13 +1,13 @@
 ---
 name: redaction-confidentiality-regulatory-matter
-description: "Nutze dies bei Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan, Relationship Redflags: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan, Relationship Redflags: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan, Relationship Redflags, Relationship Renewal
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan, Relationship Redflags, Relationship Renewal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan, Relationship Redflags, Relationship Renewal** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

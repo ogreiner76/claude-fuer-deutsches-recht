@@ -1,6 +1,6 @@
 ---
 name: dealroom-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Dealroom Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Dealroom Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Dealroom Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: produkthaftung-grundlagen-produktsicherheit
-description: "Nutze dies bei Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

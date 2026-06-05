@@ -1,13 +1,13 @@
 ---
 name: marketplace-agb-mediation-escalation
-description: "Nutze dies bei Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305c2: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305c2: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

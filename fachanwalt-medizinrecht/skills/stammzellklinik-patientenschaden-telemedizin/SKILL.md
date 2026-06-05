@@ -1,6 +1,6 @@
 ---
 name: stammzellklinik-patientenschaden-telemedizin
-description: "Nutze dies bei Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial

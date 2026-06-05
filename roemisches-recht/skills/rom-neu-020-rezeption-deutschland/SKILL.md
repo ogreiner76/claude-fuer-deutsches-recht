@@ -1,6 +1,6 @@
 ---
 name: rom-neu-020-rezeption-deutschland
-description: "Nutze dies bei Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

@@ -1,6 +1,6 @@
 ---
 name: leistungszweck-bei-vorleistung-und-anzahlung
-description: "Nutze diesen Skill, wenn Anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zweck-Analyse mit Rückforderungsbetrag und Risikozuordnung. Abgrenzung: nicht Schadensersatz wegen Nichterfüllung."
+description: "Bei anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zweck-Analyse mit Rückforderungsbetrag und Risikozuordnung. Abgrenzung: nicht Schadensersatz wegen Nichterfüllung."
 ---
 
 # Leistungszweck bei Vorleistung und Anzahlung

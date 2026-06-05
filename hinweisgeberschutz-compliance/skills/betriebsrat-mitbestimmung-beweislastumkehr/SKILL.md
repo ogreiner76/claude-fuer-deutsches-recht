@@ -1,13 +1,13 @@
 ---
 name: betriebsrat-mitbestimmung-beweislastumkehr
-description: "Nutze dies bei Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglaeubige Meldung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglaeubige Meldung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglaeubige Meldung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglaeubige Meldung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglaeubige Meldung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

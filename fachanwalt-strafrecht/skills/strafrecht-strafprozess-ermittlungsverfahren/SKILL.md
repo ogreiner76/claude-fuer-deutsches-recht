@@ -1,13 +1,13 @@
 ---
 name: strafrecht-strafprozess-ermittlungsverfahren
-description: "Nutze dies bei Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren, Strafrecht Markenrecht 144 Markeng Strafverfahren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren, Strafrecht Markenrecht 144 Markeng Strafverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren, Strafrecht Markenrecht 144 Markeng Strafverfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: strafprozess-antragslog-beweisantraege
-description: "Nutze dies bei Strafprozess Antragslog Beweisantraege Und Widerspruch, Strafprozess Biometrischer Internetabgleich 98d Stpo E, Strafprozess Cockpit Taegliche Kanzleifuehrung, Strafprozess Haft Und Besuchsmanagement: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafprozess Antragslog Beweisantraege Und Widerspruch, Strafprozess Biometrischer Internetabgleich 98d Stpo E, Strafprozess Cockpit Taegliche Kanzleifuehrung, Strafprozess Haft Und Besuchsmanagement: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafprozess Antragslog Beweisantraege Und Widerspruch, Strafprozess Biometrischer Internetabgleich 98D Stpo E, Strafprozess Cockpit Taegliche Kanzleifuehrung, Strafprozess Haft Und Besuchsmanagement, Strafprozess Hv Tagesmappe Und Sitzungsplan
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafprozess Antragslog Beweisantraege Und Widerspruch, Strafprozess Biometrischer Internetabgleich 98D Stpo E, Strafprozess Cockpit Taegliche Kanzleifuehrung, Strafprozess Haft Und Besuchsmanagement, Strafprozess Hv Tagesmappe Und Sitzungsplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafprozess Antragslog Beweisantraege Und Widerspruch, Strafprozess Biometrischer Internetabgleich 98D Stpo E, Strafprozess Cockpit Taegliche Kanzleifuehrung, Strafprozess Haft Und Besuchsmanagement, Strafprozess Hv Tagesmappe Und Sitzungsplan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

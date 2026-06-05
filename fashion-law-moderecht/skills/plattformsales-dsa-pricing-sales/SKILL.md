@@ -1,13 +1,13 @@
 ---
 name: plattformsales-dsa-pricing-sales
-description: "Nutze dies bei Plattformsales Dsa Marketplace, Pricing Sales Rabatte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Plattformsales Dsa Marketplace, Pricing Sales Rabatte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Plattformsales Dsa Marketplace, Pricing Sales Rabatte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Plattformsales Dsa Marketplace, Pricing Sales Rabatte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Plattformsales Dsa Marketplace, Pricing Sales Rabatte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

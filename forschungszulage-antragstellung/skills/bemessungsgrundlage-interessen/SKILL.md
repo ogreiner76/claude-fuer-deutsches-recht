@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen
-description: "Nutze dies bei Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix

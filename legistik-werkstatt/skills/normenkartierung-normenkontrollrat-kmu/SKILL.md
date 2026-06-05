@@ -1,6 +1,6 @@
 ---
 name: normenkartierung-normenkontrollrat-kmu
-description: "Nutze dies bei Normenkartierung, Normenkontrollrat Kmu Check, Normhierarchie Routing, Satzungskompetenz Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Normenkartierung, Normenkontrollrat Kmu Check, Normhierarchie Routing, Satzungskompetenz Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Normenkartierung, Normenkontrollrat Kmu Check, Normhierarchie Routing, Satzungskompetenz Prüfen

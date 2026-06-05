@@ -1,13 +1,13 @@
 ---
 name: bverfg-grenzen-diskurstheorie-habermas
-description: "Nutze dies bei Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

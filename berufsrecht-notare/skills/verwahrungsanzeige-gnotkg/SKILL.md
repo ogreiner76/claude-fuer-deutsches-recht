@@ -1,13 +1,13 @@
 ---
 name: verwahrungsanzeige-gnotkg
-description: "Nutze dies bei Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

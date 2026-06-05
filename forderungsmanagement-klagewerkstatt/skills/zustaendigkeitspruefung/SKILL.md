@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitspruefung
-description: "Nutze dies bei Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg

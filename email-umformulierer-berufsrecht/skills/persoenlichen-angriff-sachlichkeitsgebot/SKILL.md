@@ -1,13 +1,13 @@
 ---
 name: persoenlichen-angriff-sachlichkeitsgebot
-description: "Nutze dies bei Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

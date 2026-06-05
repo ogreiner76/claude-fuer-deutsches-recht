@@ -1,13 +1,13 @@
 ---
 name: geschaeftsfuehrer-altlasten-steuerschulden
-description: "Nutze dies bei Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

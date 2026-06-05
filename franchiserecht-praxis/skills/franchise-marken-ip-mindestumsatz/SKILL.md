@@ -1,13 +1,13 @@
 ---
 name: franchise-marken-ip-mindestumsatz
-description: "Nutze dies bei Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

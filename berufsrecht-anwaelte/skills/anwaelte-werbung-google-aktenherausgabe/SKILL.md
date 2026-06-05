@@ -1,13 +1,13 @@
 ---
 name: anwaelte-werbung-google-aktenherausgabe
-description: "Nutze dies bei Anwaelte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwaelte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwaelte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwaelte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwaelte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwaelte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwaelte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

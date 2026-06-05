@@ -1,6 +1,6 @@
 ---
 name: car-t-diga-hersteller
-description: "Nutze dies bei Car T Haftung Klinik, Diga Hersteller Arzt Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Car T Haftung Klinik, Diga Hersteller Arzt Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Car T Haftung Klinik, Diga Hersteller Arzt Haftung

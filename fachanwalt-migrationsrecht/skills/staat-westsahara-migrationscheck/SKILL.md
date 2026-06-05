@@ -1,6 +1,6 @@
 ---
 name: staat-westsahara-migrationscheck
-description: "Nutze dies bei Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024

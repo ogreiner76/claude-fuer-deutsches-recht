@@ -1,13 +1,13 @@
 ---
 name: datenschutz-schufa-scoring-art22
-description: "Nutze dies bei Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

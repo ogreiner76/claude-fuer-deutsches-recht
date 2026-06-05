@@ -1,6 +1,6 @@
 ---
 name: output-vorstandsvorlage-behoerdenbrief-klage
-description: "Nutze dies bei Output Vorstandsvorlage Behördenbrief Klage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Output Vorstandsvorlage Behördenbrief Klage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Output Vorstandsvorlage Behördenbrief Klage

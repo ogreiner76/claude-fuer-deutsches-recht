@@ -1,13 +1,13 @@
 ---
 name: beirat-streit-gesellschafter-transaktionen-ma
-description: "Nutze dies bei Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Verguetung, Beirat Verschwiegenheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Verguetung, Beirat Verschwiegenheit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

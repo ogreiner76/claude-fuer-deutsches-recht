@@ -1,13 +1,13 @@
 ---
 name: u-haft-umweltstrafrecht-behoerdenakten
-description: "Nutze dies bei U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

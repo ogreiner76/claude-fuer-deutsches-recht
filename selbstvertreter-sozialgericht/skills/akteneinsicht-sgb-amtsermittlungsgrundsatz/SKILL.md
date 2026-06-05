@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-sgb-amtsermittlungsgrundsatz
-description: "Nutze dies bei Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

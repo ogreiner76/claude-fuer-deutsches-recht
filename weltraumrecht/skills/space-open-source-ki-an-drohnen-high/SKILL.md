@@ -1,13 +1,13 @@
 ---
 name: space-open-source-ki-an-drohnen-high
-description: "Nutze dies bei Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

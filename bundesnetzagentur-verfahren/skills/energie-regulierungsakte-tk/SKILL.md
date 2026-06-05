@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-tk
-description: "Nutze dies bei Energie Regulierungsakte Redispatch 2 0 Stellungnahme Entwurf, Energie Regulierungsakte Regelenergie Stellungnahme Entwurf, Tk Regulierungsakte Frequenzauktion Stellungnahme Entwurf, Tk Regulierungsakte Frequenzzuteilung Stellungnahme Entwurf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Energie Regulierungsakte Redispatch 2 0 Stellungnahme Entwurf, Energie Regulierungsakte Regelenergie Stellungnahme Entwurf, Tk Regulierungsakte Frequenzauktion Stellungnahme Entwurf, Tk Regulierungsakte Frequenzzuteilung Stellungnahme Entwurf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Energie Regulierungsakte Redispatch 2 0 Stellungnahme Entwurf, Energie Regulierungsakte Regelenergie Stellungnahme Entwurf, Tk Regulierungsakte Frequenzauktion Stellungnahme Entwurf, Tk Regulierungsakte Frequenzzuteilung Stellungnahme Entwurf

@@ -1,13 +1,13 @@
 ---
 name: hauptverhandlung-sonderfall-messakte-messung
-description: "Nutze dies bei Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

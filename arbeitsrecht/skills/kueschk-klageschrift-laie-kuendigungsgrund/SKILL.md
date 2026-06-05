@@ -1,13 +1,13 @@
 ---
 name: kueschk-klageschrift-laie-kuendigungsgrund
-description: "Nutze dies bei Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

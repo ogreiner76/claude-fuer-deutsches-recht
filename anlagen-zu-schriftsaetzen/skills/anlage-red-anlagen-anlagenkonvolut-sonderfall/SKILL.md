@@ -1,13 +1,13 @@
 ---
 name: anlage-red-anlagen-anlagenkonvolut-sonderfall
-description: "Nutze dies bei Anlage Red Team Und Qualitaetskontrolle, Anlagen Tatbestand Beweis Und Belege, Anlagenkonvolut Sonderfall Und Edge Case, Arial Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anlage Red Team Und Qualitaetskontrolle, Anlagen Tatbestand Beweis Und Belege, Anlagenkonvolut Sonderfall Und Edge Case, Arial Mandantenkommunikation Entscheidungsvorlage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anlage Red Team Und Qualitaetskontrolle, Anlagen Tatbestand Beweis Und Belege, Anlagenkonvolut Sonderfall Und Edge Case, Arial Mandantenkommunikation Entscheidungsvorlage
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anlage Red Team Und Qualitaetskontrolle, Anlagen Tatbestand Beweis Und Belege, Anlagenkonvolut Sonderfall Und Edge Case, Arial Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anlage Red Team Und Qualitaetskontrolle, Anlagen Tatbestand Beweis Und Belege, Anlagenkonvolut Sonderfall Und Edge Case, Arial Mandantenkommunikation Entscheidungsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

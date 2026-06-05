@@ -1,13 +1,13 @@
 ---
 name: zitierweise-fundstellen-historische-anwendung
-description: "Nutze dies bei Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

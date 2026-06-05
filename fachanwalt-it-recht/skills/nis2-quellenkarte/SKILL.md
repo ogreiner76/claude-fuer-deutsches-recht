@@ -1,6 +1,6 @@
 ---
 name: nis2-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Nis2 Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Nis2 Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Nis2 Quellenkarte

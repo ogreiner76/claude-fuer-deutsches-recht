@@ -1,13 +1,13 @@
 ---
 name: schulgesetz-sachsen-anhalt-schleswig-holstein
-description: "Nutze dies bei Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Holstein, Schulgesetz Thueringen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Holstein, Schulgesetz Thueringen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Holstein, Schulgesetz Thueringen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Holstein, Schulgesetz Thueringen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Holstein, Schulgesetz Thueringen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: vermerk-mustertext-sexualdelikte-aussage
-description: "Nutze dies bei Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

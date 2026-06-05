@@ -1,13 +1,13 @@
 ---
 name: instant-payments-interne-richtlinie-it
-description: "Nutze dies bei Instant Payments Sepa Vo, Interne Richtlinie Policy Drafting, It Sicherheit Cloud Vertraege, Kontokuendigung Sperre Basiskonto: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Instant Payments Sepa Vo, Interne Richtlinie Policy Drafting, It Sicherheit Cloud Vertraege, Kontokuendigung Sperre Basiskonto: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Instant Payments Sepa Vo, Interne Richtlinie Policy Drafting, It Sicherheit Cloud Vertraege, Kontokuendigung Sperre Basiskonto, Kreditentscheidung Weiterfinanzierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Instant Payments Sepa Vo, Interne Richtlinie Policy Drafting, It Sicherheit Cloud Vertraege, Kontokuendigung Sperre Basiskonto, Kreditentscheidung Weiterfinanzierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Instant Payments Sepa Vo, Interne Richtlinie Policy Drafting, It Sicherheit Cloud Vertraege, Kontokuendigung Sperre Basiskonto, Kreditentscheidung Weiterfinanzierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

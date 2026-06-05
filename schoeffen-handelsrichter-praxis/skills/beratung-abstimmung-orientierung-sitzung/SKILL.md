@@ -1,13 +1,13 @@
 ---
 name: beratung-abstimmung-orientierung-sitzung
-description: "Nutze dies bei Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: strafrecht-betrug-stgb-btmg-grundtatbestand
-description: "Nutze dies bei Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29a Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29a Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

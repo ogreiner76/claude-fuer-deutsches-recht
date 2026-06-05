@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-erstgespraech-mandatsannahme
-description: "Nutze dies bei Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71

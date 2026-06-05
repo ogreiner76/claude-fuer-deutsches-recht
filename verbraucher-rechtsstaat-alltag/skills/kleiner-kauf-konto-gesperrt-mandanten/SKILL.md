@@ -1,13 +1,13 @@
 ---
 name: kleiner-kauf-konto-gesperrt-mandanten
-description: "Nutze dies bei Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

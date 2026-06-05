@@ -1,13 +1,13 @@
 ---
 name: energieversorgung-agb-entgelt-nebenkosten
-description: "Nutze dies bei Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

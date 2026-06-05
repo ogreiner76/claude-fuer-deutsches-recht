@@ -1,6 +1,6 @@
 ---
 name: berufsrechtliche
-description: "Nutze dies bei Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

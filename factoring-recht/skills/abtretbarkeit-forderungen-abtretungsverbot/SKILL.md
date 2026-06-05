@@ -1,13 +1,13 @@
 ---
 name: abtretbarkeit-forderungen-abtretungsverbot
-description: "Nutze dies bei Abtretbarkeit Forderungen 398 Bgb Und Abtretungsverbote, Abtretungsverbot 354a Hgb Handelsgeschaeft, Auditrechte Stichproben Forderungspruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abtretbarkeit Forderungen 398 Bgb Und Abtretungsverbote, Abtretungsverbot 354a Hgb Handelsgeschaeft, Auditrechte Stichproben Forderungspruefung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abtretbarkeit Forderungen 398 Bgb Und Abtretungsverbote, Abtretungsverbot 354A Hgb Handelsgeschaeft, Auditrechte Stichproben Forderungspruefung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Abtretbarkeit Forderungen 398 Bgb Und Abtretungsverbote, Abtretungsverbot 354A Hgb Handelsgeschaeft, Auditrechte Stichproben Forderungspruefung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Abtretbarkeit Forderungen 398 Bgb Und Abtretungsverbote, Abtretungsverbot 354A Hgb Handelsgeschaeft, Auditrechte Stichproben Forderungspruefung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

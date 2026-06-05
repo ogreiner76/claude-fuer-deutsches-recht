@@ -1,6 +1,6 @@
 ---
 name: excel-beweislast-darlegungslast
-description: "Nutze dies bei Excel: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Excel: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Excel: Beweislast, Darlegungslast und Substantiierung

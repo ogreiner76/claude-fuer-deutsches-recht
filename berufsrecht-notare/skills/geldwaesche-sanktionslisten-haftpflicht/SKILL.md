@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-sanktionslisten-haftpflicht
-description: "Nutze dies bei Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

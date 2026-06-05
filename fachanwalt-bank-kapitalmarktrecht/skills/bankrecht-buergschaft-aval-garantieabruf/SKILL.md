@@ -1,13 +1,13 @@
 ---
 name: bankrecht-buergschaft-aval-garantieabruf
-description: "Nutze dies bei Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

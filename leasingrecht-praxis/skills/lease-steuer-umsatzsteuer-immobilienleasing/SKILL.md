@@ -1,13 +1,13 @@
 ---
 name: lease-steuer-umsatzsteuer-immobilienleasing
-description: "Nutze dies bei Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

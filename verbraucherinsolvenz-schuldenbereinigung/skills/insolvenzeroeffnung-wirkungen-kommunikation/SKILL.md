@@ -1,13 +1,13 @@
 ---
 name: insolvenzeroeffnung-wirkungen-kommunikation
-description: "Nutze dies bei Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

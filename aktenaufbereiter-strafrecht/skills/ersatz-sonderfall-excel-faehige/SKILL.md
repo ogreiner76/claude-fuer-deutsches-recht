@@ -1,13 +1,13 @@
 ---
 name: ersatz-sonderfall-excel-faehige
-description: "Nutze dies bei Ersatz Sonderfall Und Edge Case, Excel Dokumentenmatrix Und Lueckenliste, Faehige Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ersatz Sonderfall Und Edge Case, Excel Dokumentenmatrix Und Lueckenliste, Faehige Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ersatz Sonderfall Und Edge Case, Excel Dokumentenmatrix Und Lueckenliste, Faehige Risikoampel Und Gegenargumente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ersatz Sonderfall Und Edge Case, Excel Dokumentenmatrix Und Lueckenliste, Faehige Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ersatz Sonderfall Und Edge Case, Excel Dokumentenmatrix Und Lueckenliste, Faehige Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

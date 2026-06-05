@@ -1,13 +1,13 @@
 ---
 name: taschengeld-paragraph-uebermittlungsirrtum
-description: "Nutze dies bei Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: zitate-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Zitate Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Zitate Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Zitate Quellenkarte

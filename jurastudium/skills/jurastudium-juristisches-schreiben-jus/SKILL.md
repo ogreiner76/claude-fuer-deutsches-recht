@@ -1,13 +1,13 @@
 ---
 name: jurastudium-juristisches-schreiben-jus
-description: "Nutze dies bei Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

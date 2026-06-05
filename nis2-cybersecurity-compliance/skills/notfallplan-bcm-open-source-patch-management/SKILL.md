@@ -1,13 +1,13 @@
 ---
 name: notfallplan-bcm-open-source-patch-management
-description: "Nutze dies bei Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: professional-fees-professionals-retention
-description: "Nutze dies bei Professional Fees 330, Professionals Retention 327, Real Property Leases 365, Rsa Lockup Fiduciary Out: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Professional Fees 330, Professionals Retention 327, Real Property Leases 365, Rsa Lockup Fiduciary Out: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Professional Fees 330, Professionals Retention 327, Real Property Leases 365, Rsa Lockup Fiduciary Out
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Professional Fees 330, Professionals Retention 327, Real Property Leases 365, Rsa Lockup Fiduciary Out** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Professional Fees 330, Professionals Retention 327, Real Property Leases 365, Rsa Lockup Fiduciary Out** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

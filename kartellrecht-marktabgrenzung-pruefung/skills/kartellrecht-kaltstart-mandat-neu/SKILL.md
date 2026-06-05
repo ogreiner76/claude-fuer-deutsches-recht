@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-kaltstart-mandat-neu
-description: "Nutze dies zum Einstieg in Kartellrecht Kaltstart Mandat neu: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kartellrecht Kaltstart Mandat neu: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kartellrecht Kaltstart Mandat neu

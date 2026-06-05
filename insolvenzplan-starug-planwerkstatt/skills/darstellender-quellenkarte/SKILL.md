@@ -1,6 +1,6 @@
 ---
 name: darstellender-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Darstellender Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Darstellender Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Darstellender Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: beteiligung-unternehmen-brh-aufgabe-brh
-description: "Nutze dies bei Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

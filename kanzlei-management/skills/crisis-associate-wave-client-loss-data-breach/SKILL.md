@@ -1,13 +1,13 @@
 ---
 name: crisis-associate-wave-client-loss-data-breach
-description: "Nutze dies bei Crisis Associate Wave, Crisis Client Loss, Crisis Data Breach, Crisis Partner Conflict: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Crisis Associate Wave, Crisis Client Loss, Crisis Data Breach, Crisis Partner Conflict: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Crisis Associate Wave, Crisis Client Loss, Crisis Data Breach, Crisis Partner Conflict
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Crisis Associate Wave, Crisis Client Loss, Crisis Data Breach, Crisis Partner Conflict** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Crisis Associate Wave, Crisis Client Loss, Crisis Data Breach, Crisis Partner Conflict** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

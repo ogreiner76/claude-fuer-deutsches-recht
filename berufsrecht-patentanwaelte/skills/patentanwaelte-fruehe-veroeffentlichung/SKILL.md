@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-fruehe-veroeffentlichung
-description: "Nutze dies bei Patentanwaelte Fruehe Veroeffentlichung Konferenz Organisations, Patentanwaelte Fruehe Veroeffentlichung Konferenz Rechtsprechun, Patentanwaelte Gebuehren Und Kostentransparenz Kammerantwort Un, Patentanwaelte Gebuehren Und Kostentransparenz Organisationspfl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Fruehe Veroeffentlichung Konferenz Organisations, Patentanwaelte Fruehe Veroeffentlichung Konferenz Rechtsprechun, Patentanwaelte Gebuehren Und Kostentransparenz Kammerantwort Un, Patentanwaelte Gebuehren Und Kostentransparenz Organisationspfl: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Fruehe Veroeffentlichung Konferenz Organisations, Patentanwaelte Fruehe Veroeffentlichung Konferenz Rechtsprechun, Patentanwaelte Gebühren Und Kostentransparenz Kammerantwort Un, Patentanwaelte Gebühren Und Kostentransparenz Organisationspfl
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Fruehe Veroeffentlichung Konferenz Organisations, Patentanwaelte Fruehe Veroeffentlichung Konferenz Rechtsprechun, Patentanwaelte Gebühren Und Kostentransparenz Kammerantwort Un, Patentanwaelte Gebühren Und Kostentransparenz Organisationspfl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Fruehe Veroeffentlichung Konferenz Organisations, Patentanwaelte Fruehe Veroeffentlichung Konferenz Rechtsprechun, Patentanwaelte Gebühren Und Kostentransparenz Kammerantwort Un, Patentanwaelte Gebühren Und Kostentransparenz Organisationspfl** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

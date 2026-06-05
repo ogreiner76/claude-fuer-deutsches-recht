@@ -1,13 +1,13 @@
 ---
 name: ruegelose-einlassung-service-abroad
-description: "Nutze dies bei Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

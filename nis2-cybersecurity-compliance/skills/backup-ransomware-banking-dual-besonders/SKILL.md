@@ -1,13 +1,13 @@
 ---
 name: backup-ransomware-banking-dual-besonders
-description: "Nutze dies bei Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wichtige Einrichtung, Betriebsrat Mitbestimmung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wichtige Einrichtung, Betriebsrat Mitbestimmung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wichtige Einrichtung, Betriebsrat Mitbestimmung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wichtige Einrichtung, Betriebsrat Mitbestimmung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wichtige Einrichtung, Betriebsrat Mitbestimmung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

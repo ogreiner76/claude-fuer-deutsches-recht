@@ -1,13 +1,13 @@
 ---
 name: betriebsvereinbarung-remote
-description: "Nutze dies bei Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

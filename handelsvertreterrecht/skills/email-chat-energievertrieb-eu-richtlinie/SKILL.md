@@ -1,13 +1,13 @@
 ---
 name: email-chat-energievertrieb-eu-richtlinie
-description: "Nutze dies bei Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

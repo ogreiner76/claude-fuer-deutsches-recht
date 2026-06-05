@@ -1,6 +1,6 @@
 ---
 name: verwendungen-auf-das-erlangte
-description: "Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug."
+description: "Bei aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug."
 ---
 
 # Verwendungen auf das Erlangte

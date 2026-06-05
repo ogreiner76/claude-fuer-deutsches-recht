@@ -1,13 +1,13 @@
 ---
 name: e-rezept-erlaubnis-filialverbund
-description: "Nutze dies bei E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: anordnung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Anordnung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Anordnung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Anordnung Quellenkarte

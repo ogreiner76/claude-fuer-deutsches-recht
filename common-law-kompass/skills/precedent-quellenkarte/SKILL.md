@@ -1,6 +1,6 @@
 ---
 name: precedent-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Precedent Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Precedent Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Precedent Quellenkarte

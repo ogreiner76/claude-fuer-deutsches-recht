@@ -1,13 +1,13 @@
 ---
 name: umv-batteriespeicher-normenkontrolle
-description: "Nutze dies bei Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

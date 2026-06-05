@@ -1,13 +1,13 @@
 ---
 name: inso-gesellschafterdarlehen-grundtatbestand
-description: "Nutze dies bei Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

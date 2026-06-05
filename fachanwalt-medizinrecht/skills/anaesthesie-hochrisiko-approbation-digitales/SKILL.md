@@ -1,6 +1,6 @@
 ---
 name: anaesthesie-hochrisiko-approbation-digitales
-description: "Nutze dies bei Anaesthesie Hochrisiko Aufklaerung, Approbation Digitales Fehlverhalten, Arzt Anstellung Mvz, Assistierter Suizid Beratung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anaesthesie Hochrisiko Aufklaerung, Approbation Digitales Fehlverhalten, Arzt Anstellung Mvz, Assistierter Suizid Beratung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anaesthesie Hochrisiko Aufklaerung, Approbation Digitales Fehlverhalten, Arzt Anstellung Mvz, Assistierter Suizid Beratung

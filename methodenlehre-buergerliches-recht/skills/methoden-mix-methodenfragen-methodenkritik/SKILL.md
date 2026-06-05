@@ -1,13 +1,13 @@
 ---
 name: methoden-mix-methodenfragen-methodenkritik
-description: "Nutze dies bei Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

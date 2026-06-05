@@ -1,13 +1,13 @@
 ---
 name: designlizenz-vertrag-reparaturklausel
-description: "Nutze dies bei Designlizenz Vertrag, Reparaturklausel Und Aftermarket: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Designlizenz Vertrag, Reparaturklausel Und Aftermarket: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Designlizenz Vertrag, Reparaturklausel Und Aftermarket
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Designlizenz Vertrag, Reparaturklausel Und Aftermarket** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Designlizenz Vertrag, Reparaturklausel Und Aftermarket** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

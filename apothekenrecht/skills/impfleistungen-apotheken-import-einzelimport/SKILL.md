@@ -1,13 +1,13 @@
 ---
 name: impfleistungen-apotheken-import-einzelimport
-description: "Nutze dies bei Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

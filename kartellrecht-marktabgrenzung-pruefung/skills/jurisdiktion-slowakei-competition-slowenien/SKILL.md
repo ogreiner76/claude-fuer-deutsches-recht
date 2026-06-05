@@ -1,13 +1,13 @@
 ---
 name: jurisdiktion-slowakei-competition-slowenien
-description: "Nutze dies bei Jurisdiktion Slowakei Competition Authority, Jurisdiktion Slowenien Competition Authority, Jurisdiktion Spanien Competition Authority, Jurisdiktion Sri Lanka Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jurisdiktion Slowakei Competition Authority, Jurisdiktion Slowenien Competition Authority, Jurisdiktion Spanien Competition Authority, Jurisdiktion Sri Lanka Competition Authority: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jurisdiktion Slowakei Competition Authority, Jurisdiktion Slowenien Competition Authority, Jurisdiktion Spanien Competition Authority, Jurisdiktion Sri Lanka Competition Authority, Jurisdiktion Suedafrika Competition Authority und 9 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Jurisdiktion Slowakei Competition Authority, Jurisdiktion Slowenien Competition Authority, Jurisdiktion Spanien Competition Authority, Jurisdiktion Sri Lanka Competition Authority, Jurisdiktion Suedafrika Competition Authority und 9 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Jurisdiktion Slowakei Competition Authority, Jurisdiktion Slowenien Competition Authority, Jurisdiktion Spanien Competition Authority, Jurisdiktion Sri Lanka Competition Authority, Jurisdiktion Suedafrika Competition Authority und 9 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: marktabgrenzung-kontextanalyse-mehrseitige
-description: "Nutze dies bei Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

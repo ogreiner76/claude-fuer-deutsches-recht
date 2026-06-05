@@ -1,6 +1,6 @@
 ---
 name: aufsatz-interessen
-description: "Nutze dies bei Aufsatz: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix

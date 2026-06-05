@@ -1,13 +1,13 @@
 ---
 name: unterlagenherausgabe-zurueckbehaltung
-description: "Nutze dies bei Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und, Steuerberater Vermoegensverfall Steuerberater Organisationspfli
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und, Steuerberater Vermoegensverfall Steuerberater Organisationspfli** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und, Steuerberater Vermoegensverfall Steuerberater Organisationspfli** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

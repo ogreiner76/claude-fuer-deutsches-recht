@@ -1,13 +1,13 @@
 ---
 name: ki-abschlusspruefung-mangelhafte
-description: "Nutze dies bei Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

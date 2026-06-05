@@ -1,6 +1,6 @@
 ---
 name: rom-neu-006-etruskische-rechtsvorformen
-description: "Nutze dies bei Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht

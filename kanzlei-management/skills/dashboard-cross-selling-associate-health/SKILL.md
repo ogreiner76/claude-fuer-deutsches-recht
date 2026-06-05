@@ -1,13 +1,13 @@
 ---
 name: dashboard-cross-selling-associate-health
-description: "Nutze dies bei Cross Selling Ohne Nerven, Dashboard Associate Health, Dashboard Board Pack, Dashboard Cash Wip Ar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Cross Selling Ohne Nerven, Dashboard Associate Health, Dashboard Board Pack, Dashboard Cash Wip Ar: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Cross Selling Ohne Nerven, Dashboard Associate Health, Dashboard Board Pack, Dashboard Cash Wip Ar
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Cross Selling Ohne Nerven, Dashboard Associate Health, Dashboard Board Pack, Dashboard Cash Wip Ar** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Cross Selling Ohne Nerven, Dashboard Associate Health, Dashboard Board Pack, Dashboard Cash Wip Ar** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

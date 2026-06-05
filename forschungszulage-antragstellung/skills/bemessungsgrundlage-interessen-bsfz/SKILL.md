@@ -1,13 +1,13 @@
 ---
 name: bemessungsgrundlage-interessen-bsfz
-description: "Nutze dies bei Bemessungsgrundlage Mehrparteien Konflikt Und Interessen, Bsfz Behörden Gericht Und Registerweg, Definition Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bemessungsgrundlage Mehrparteien Konflikt Und Interessen, Bsfz Behörden Gericht Und Registerweg, Definition Abschlussprodukt Und Uebergabe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bemessungsgrundlage Mehrparteien Konflikt Und Interessen, Bsfz Behörden Gericht Und Registerweg, Definition Abschlussprodukt Und Übergabe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bemessungsgrundlage Mehrparteien Konflikt Und Interessen, Bsfz Behörden Gericht Und Registerweg, Definition Abschlussprodukt Und Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bemessungsgrundlage Mehrparteien Konflikt Und Interessen, Bsfz Behörden Gericht Und Registerweg, Definition Abschlussprodukt Und Übergabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

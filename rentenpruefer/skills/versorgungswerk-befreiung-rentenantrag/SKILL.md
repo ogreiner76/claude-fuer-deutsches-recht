@@ -1,13 +1,13 @@
 ---
 name: versorgungswerk-befreiung-rentenantrag
-description: "Nutze dies bei Versorgungswerk Befreiung 6 Sgb Vi, Versorgungswerk Rentenantrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Versorgungswerk Befreiung 6 Sgb Vi, Versorgungswerk Rentenantrag: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Versorgungswerk Befreiung 6 Sgb Vi, Versorgungswerk Rentenantrag
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Versorgungswerk Befreiung 6 Sgb Vi, Versorgungswerk Rentenantrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Versorgungswerk Befreiung 6 Sgb Vi, Versorgungswerk Rentenantrag** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

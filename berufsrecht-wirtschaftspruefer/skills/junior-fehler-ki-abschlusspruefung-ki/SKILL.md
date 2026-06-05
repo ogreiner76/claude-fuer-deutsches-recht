@@ -1,13 +1,13 @@
 ---
 name: junior-fehler-ki-abschlusspruefung-ki
-description: "Nutze dies bei Wirtschaftspruefer Junior Fehler Und Supervision Organisationsp, Wirtschaftspruefer Ki In Abschlusspruefung Kammerantwort Und Ve, Wirtschaftspruefer Ki In Abschlusspruefung Organisationspflicht, Wirtschaftspruefer Konzernabschluss Auslandskomponente Kaltstar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Junior Fehler Und Supervision Organisationsp, Wirtschaftspruefer Ki In Abschlusspruefung Kammerantwort Und Ve, Wirtschaftspruefer Ki In Abschlusspruefung Organisationspflicht, Wirtschaftspruefer Konzernabschluss Auslandskomponente Kaltstar: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Junior Fehler Und Supervision Organisationsp, Wirtschaftspruefer Ki In Abschlusspruefung Kammerantwort Und Ve, Wirtschaftspruefer Ki In Abschlusspruefung Organisationspflicht, Wirtschaftspruefer Konzernabschluss Auslandskomponente Kaltstar
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Junior Fehler Und Supervision Organisationsp, Wirtschaftspruefer Ki In Abschlusspruefung Kammerantwort Und Ve, Wirtschaftspruefer Ki In Abschlusspruefung Organisationspflicht, Wirtschaftspruefer Konzernabschluss Auslandskomponente Kaltstar** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Junior Fehler Und Supervision Organisationsp, Wirtschaftspruefer Ki In Abschlusspruefung Kammerantwort Und Ve, Wirtschaftspruefer Ki In Abschlusspruefung Organisationspflicht, Wirtschaftspruefer Konzernabschluss Auslandskomponente Kaltstar** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: voruntersuchung-wallfahrt-pilgerpastoral
-description: "Nutze dies bei Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

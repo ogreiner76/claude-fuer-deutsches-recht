@@ -1,13 +1,13 @@
 ---
 name: nationale-widerklage-neuheit-eigenart
-description: "Nutze dies bei Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

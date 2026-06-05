@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-hardening-kanzlei
-description: "Nutze dies bei Kanzlei Allgemein Qualitaetsgate Hardening, Kanzlei Allgemein Schreibcanvas: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kanzlei Allgemein Qualitaetsgate Hardening, Kanzlei Allgemein Schreibcanvas: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kanzlei Allgemein Qualitaetsgate Hardening, Kanzlei Allgemein Schreibcanvas
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Qualitaetsgate Hardening, Kanzlei Allgemein Schreibcanvas** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kanzlei Allgemein Qualitaetsgate Hardening, Kanzlei Allgemein Schreibcanvas** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

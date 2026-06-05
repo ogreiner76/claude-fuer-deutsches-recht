@@ -1,13 +1,13 @@
 ---
 name: pflicht-treuen-politische-betaetigung
-description: "Nutze dies bei Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

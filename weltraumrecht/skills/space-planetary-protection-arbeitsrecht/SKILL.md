@@ -1,13 +1,13 @@
 ---
 name: space-planetary-protection-arbeitsrecht
-description: "Nutze dies bei Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

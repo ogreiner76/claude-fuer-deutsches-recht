@@ -1,13 +1,13 @@
 ---
 name: drg-arbeitsgerichtsbarkeit-drg
-description: "Nutze dies bei Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

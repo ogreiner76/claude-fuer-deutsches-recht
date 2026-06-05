@@ -1,13 +1,13 @@
 ---
 name: evidence-map-exhibits-translation
-description: "Nutze dies bei Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

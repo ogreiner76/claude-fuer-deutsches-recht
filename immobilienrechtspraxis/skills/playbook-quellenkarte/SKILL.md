@@ -1,6 +1,6 @@
 ---
 name: playbook-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Playbook Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Playbook Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Playbook Quellenkarte

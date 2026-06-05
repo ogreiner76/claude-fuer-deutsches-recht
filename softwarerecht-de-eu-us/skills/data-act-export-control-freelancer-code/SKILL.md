@@ -1,13 +1,13 @@
 ---
 name: data-act-export-control-freelancer-code
-description: "Nutze dies bei Eu Data Act Software Data Sharing, Export Control Sanctions Software, Freelancer Code Rechteuebertragung De, Freelancer Misclassification Ip Risk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Eu Data Act Software Data Sharing, Export Control Sanctions Software, Freelancer Code Rechteuebertragung De, Freelancer Misclassification Ip Risk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Eu Data Act Software Data Sharing, Export Control Sanctions Software, Freelancer Code Rechteuebertragung De, Freelancer Misclassification Ip Risk
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Eu Data Act Software Data Sharing, Export Control Sanctions Software, Freelancer Code Rechteuebertragung De, Freelancer Misclassification Ip Risk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Eu Data Act Software Data Sharing, Export Control Sanctions Software, Freelancer Code Rechteuebertragung De, Freelancer Misclassification Ip Risk** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

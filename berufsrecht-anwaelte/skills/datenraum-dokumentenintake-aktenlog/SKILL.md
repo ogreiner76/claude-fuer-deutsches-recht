@@ -1,13 +1,13 @@
 ---
 name: datenraum-dokumentenintake-aktenlog
-description: "Nutze dies bei Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-008-erster-titel-5-vertraege-a
-description: "Nutze dies bei PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung

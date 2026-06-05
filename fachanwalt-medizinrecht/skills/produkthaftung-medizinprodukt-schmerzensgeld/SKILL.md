@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-medizinprodukt-schmerzensgeld
-description: "Nutze dies bei Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden

@@ -1,13 +1,13 @@
 ---
 name: escrow-source-ai-act-computer-programs-cyber
-description: "Nutze dies bei Escrow Source Code, Eu Ai Act Software, Eu Computer Programs Directive, Eu Cyber Resilience Act Software: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Escrow Source Code, Eu Ai Act Software, Eu Computer Programs Directive, Eu Cyber Resilience Act Software: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Escrow Source Code, Eu Ai Act Software, Eu Computer Programs Directive, Eu Cyber Resilience Act Software
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Escrow Source Code, Eu Ai Act Software, Eu Computer Programs Directive, Eu Cyber Resilience Act Software** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Escrow Source Code, Eu Ai Act Software, Eu Computer Programs Directive, Eu Cyber Resilience Act Software** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: beirat-transaktionen-ma
-description: "Nutze dies bei Beirat Transaktionen M&A: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Transaktionen M&A: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Transaktionen M&A

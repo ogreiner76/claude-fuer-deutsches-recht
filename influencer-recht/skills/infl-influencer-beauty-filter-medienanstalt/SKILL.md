@@ -1,13 +1,13 @@
 ---
 name: infl-influencer-beauty-filter-medienanstalt
-description: "Nutze dies bei Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: bankrecht-privatbuergschaft-regress-bk
-description: "Nutze dies bei Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

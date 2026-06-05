@@ -1,13 +1,13 @@
 ---
 name: handelsregisteranmeldung-integrations
-description: "Nutze dies bei Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Uebergabe, Mandat Triage Gesellschaftsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Uebergabe, Mandat Triage Gesellschaftsrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

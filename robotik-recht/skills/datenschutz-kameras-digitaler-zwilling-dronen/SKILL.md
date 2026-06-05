@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kameras-digitaler-zwilling-dronen
-description: "Nutze dies bei Datenschutz Kameras Und Sensorik, Digitaler Zwilling Und Simulation, Dronen Und Robotik Schnittstelle, Dsfa Für Robotik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenschutz Kameras Und Sensorik, Digitaler Zwilling Und Simulation, Dronen Und Robotik Schnittstelle, Dsfa Für Robotik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenschutz Kameras Und Sensorik, Digitaler Zwilling Und Simulation, Dronen Und Robotik Schnittstelle, Dsfa Für Robotik

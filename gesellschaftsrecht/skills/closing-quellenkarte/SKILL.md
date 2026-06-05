@@ -1,6 +1,6 @@
 ---
 name: closing-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Closing Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Closing Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Closing Quellenkarte

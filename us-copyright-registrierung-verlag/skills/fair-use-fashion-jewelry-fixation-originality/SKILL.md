@@ -1,13 +1,13 @@
 ---
 name: fair-use-fashion-jewelry-fixation-originality
-description: "Nutze dies bei Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

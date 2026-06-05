@@ -1,13 +1,13 @@
 ---
 name: lehrbeauftragte-status-lehrverpflichtung
-description: "Nutze dies bei Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

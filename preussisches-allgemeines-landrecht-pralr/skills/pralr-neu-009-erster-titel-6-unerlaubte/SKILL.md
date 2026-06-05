@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-009-erster-titel-6-unerlaubte
-description: "Nutze dies bei PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen

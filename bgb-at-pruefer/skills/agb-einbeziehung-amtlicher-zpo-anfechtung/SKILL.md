@@ -1,13 +1,13 @@
 ---
 name: agb-einbeziehung-amtlicher-zpo-anfechtung
-description: "Nutze dies bei Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

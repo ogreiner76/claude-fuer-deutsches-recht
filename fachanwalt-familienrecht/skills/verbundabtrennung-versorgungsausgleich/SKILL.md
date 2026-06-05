@@ -1,13 +1,13 @@
 ---
 name: verbundabtrennung-versorgungsausgleich
-description: "Nutze dies bei Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: ins-aktienr-ins-anleiheemission
-description: "Nutze dies bei Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

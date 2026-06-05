@@ -1,13 +1,13 @@
 ---
 name: inso-kongruente-deckung-rechtsfolge
-description: "Nutze dies bei Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

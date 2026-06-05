@@ -1,6 +1,6 @@
 ---
 name: beamtstg-bbg-beforderung-erprobung-begrenzte
-description: "Nutze dies bei Beamtstg Bbg Landesrecht Abgrenzung, Beforderung Und Erprobung, Begrenzte Dienstfaehigkeit 27 Bbg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beamtstg Bbg Landesrecht Abgrenzung, Beforderung Und Erprobung, Begrenzte Dienstfaehigkeit 27 Bbg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beamtstg Bbg Landesrecht Abgrenzung, Beforderung Und Erprobung, Begrenzte Dienstfaehigkeit 27 Bbg

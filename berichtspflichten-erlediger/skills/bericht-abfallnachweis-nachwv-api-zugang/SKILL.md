@@ -1,13 +1,13 @@
 ---
 name: bericht-abfallnachweis-nachwv-api-zugang
-description: "Nutze dies bei Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

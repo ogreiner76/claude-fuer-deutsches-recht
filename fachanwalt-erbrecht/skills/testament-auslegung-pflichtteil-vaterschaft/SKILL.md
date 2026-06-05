@@ -1,13 +1,13 @@
 ---
 name: testament-auslegung-pflichtteil-vaterschaft
-description: "Nutze dies bei Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

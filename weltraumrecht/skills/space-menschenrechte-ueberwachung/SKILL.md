@@ -1,13 +1,13 @@
 ---
 name: space-menschenrechte-ueberwachung
-description: "Nutze dies bei Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

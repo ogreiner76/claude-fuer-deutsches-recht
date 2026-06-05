@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrerhaftung-quellenkarte-check
-description: "Nutze dies zur Quellenprüfung bei Geschaeftsfuehrerhaftung Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Geschaeftsfuehrerhaftung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Geschaeftsfuehrerhaftung Quellenkarte Check

@@ -1,6 +1,6 @@
 ---
 name: metadaten-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Metadaten Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Metadaten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Metadaten Fehlerkatalog

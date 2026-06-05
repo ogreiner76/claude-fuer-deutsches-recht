@@ -1,13 +1,13 @@
 ---
 name: comfortletter-sonderfall-edge
-description: "Nutze dies bei Comfortletter Internationaler Bezug Und Schnittstellen, Eskalation Sonderfall Und Edge Case, Forderungsverzicht Mandantenentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Comfortletter Internationaler Bezug Und Schnittstellen, Eskalation Sonderfall Und Edge Case, Forderungsverzicht Mandantenentscheidung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Comfortletter Internationaler Bezug Und Schnittstellen, Eskalation Sonderfall Und Edge Case, Forderungsverzicht Mandantenentscheidung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Comfortletter Internationaler Bezug Und Schnittstellen, Eskalation Sonderfall Und Edge Case, Forderungsverzicht Mandantenentscheidung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Comfortletter Internationaler Bezug Und Schnittstellen, Eskalation Sonderfall Und Edge Case, Forderungsverzicht Mandantenentscheidung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

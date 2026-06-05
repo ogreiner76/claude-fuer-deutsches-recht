@@ -1,13 +1,13 @@
 ---
 name: dworkin-law-fallnarrativ-tatsachen
-description: "Nutze dies bei Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: mauergrundstueck-anspruchspfad-anfordern
-description: "Nutze dies bei Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

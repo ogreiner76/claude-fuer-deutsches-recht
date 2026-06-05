@@ -1,13 +1,13 @@
 ---
 name: btm-methadon-therapiepfad-erlaubnis-bauen
-description: "Nutze dies bei Btm 086 Methadon Therapiepfad Prüfen, Btm 087 Methadon Erlaubnis Prüfen, Btm 088 Methadon Compliance Bauen, Btm 089 Methadon Akteneinsicht Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Btm 086 Methadon Therapiepfad Prüfen, Btm 087 Methadon Erlaubnis Prüfen, Btm 088 Methadon Compliance Bauen, Btm 089 Methadon Akteneinsicht Vorbereiten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Btm 086 Methadon Therapiepfad Prüfen, Btm 087 Methadon Erlaubnis Prüfen, Btm 088 Methadon Compliance Bauen, Btm 089 Methadon Akteneinsicht Vorbereiten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Btm 086 Methadon Therapiepfad Prüfen, Btm 087 Methadon Erlaubnis Prüfen, Btm 088 Methadon Compliance Bauen, Btm 089 Methadon Akteneinsicht Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Btm 086 Methadon Therapiepfad Prüfen, Btm 087 Methadon Erlaubnis Prüfen, Btm 088 Methadon Compliance Bauen, Btm 089 Methadon Akteneinsicht Vorbereiten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

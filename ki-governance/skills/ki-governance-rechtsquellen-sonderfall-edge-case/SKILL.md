@@ -1,6 +1,6 @@
 ---
 name: ki-governance-rechtsquellen-sonderfall-edge-case
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Sonderfall und Edge-Case-Prüfung

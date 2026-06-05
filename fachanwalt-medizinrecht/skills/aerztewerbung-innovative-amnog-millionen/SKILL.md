@@ -1,6 +1,6 @@
 ---
 name: aerztewerbung-innovative-amnog-millionen
-description: "Nutze dies bei Aerztewerbung Innovative Therapie, Amnog Millionen Therapie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Aerztewerbung Innovative Therapie, Amnog Millionen Therapie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Aerztewerbung Innovative Therapie, Amnog Millionen Therapie

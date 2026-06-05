@@ -1,13 +1,13 @@
 ---
 name: neue-rueckfragen-strippen
-description: "Nutze dies bei Neue Internationaler Bezug Und Schnittstellen, Rueckfragen Compliance Dokumentation Und Akte, Strippen Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Neue Internationaler Bezug Und Schnittstellen, Rueckfragen Compliance Dokumentation Und Akte, Strippen Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Neue Internationaler Bezug Und Schnittstellen, Rueckfragen Compliance Dokumentation Und Akte, Strippen Risikoampel Und Gegenargumente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Neue Internationaler Bezug Und Schnittstellen, Rueckfragen Compliance Dokumentation Und Akte, Strippen Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Neue Internationaler Bezug Und Schnittstellen, Rueckfragen Compliance Dokumentation Und Akte, Strippen Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

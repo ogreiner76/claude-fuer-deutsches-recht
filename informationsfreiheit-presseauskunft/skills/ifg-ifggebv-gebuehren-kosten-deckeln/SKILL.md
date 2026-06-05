@@ -1,13 +1,13 @@
 ---
 name: ifg-ifggebv-gebuehren-kosten-deckeln
-description: "Nutze dies bei Ifg 047 Ifggebv Gebuehren Antrag Formulieren, Ifg 050 Ifggebv Gebuehren Kosten Deckeln, Ifg 051 Ifggebv Gebuehren Schwaerzung Angreife, Ifg 052 Ifggebv Gebuehren Drittanhoerung Begle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ifg 047 Ifggebv Gebuehren Antrag Formulieren, Ifg 050 Ifggebv Gebuehren Kosten Deckeln, Ifg 051 Ifggebv Gebuehren Schwaerzung Angreife, Ifg 052 Ifggebv Gebuehren Drittanhoerung Begle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

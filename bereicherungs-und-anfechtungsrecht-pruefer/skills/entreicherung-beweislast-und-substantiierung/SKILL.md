@@ -1,6 +1,6 @@
 ---
 name: entreicherung-beweislast-und-substantiierung
-description: "Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB."
+description: "Bei § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB."
 ---
 
 # Entreicherung: Beweislast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: mvz-investor-n-therapie-nosokomiale-infektion
-description: "Nutze dies bei Mvz Investor Compliance, N Of 1 Therapie, Nosokomiale Infektion Hygiene, Notaufnahme Triage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mvz Investor Compliance, N Of 1 Therapie, Nosokomiale Infektion Hygiene, Notaufnahme Triage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mvz Investor Compliance, N Of 1 Therapie, Nosokomiale Infektion Hygiene, Notaufnahme Triage

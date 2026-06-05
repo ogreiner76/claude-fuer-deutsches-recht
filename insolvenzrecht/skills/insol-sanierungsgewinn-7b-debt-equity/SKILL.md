@@ -1,13 +1,13 @@
 ---
 name: insol-sanierungsgewinn-7b-debt-equity
-description: "Nutze dies bei Insol Sanierungsgewinn 7b Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Insol Sanierungsgewinn 7b Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

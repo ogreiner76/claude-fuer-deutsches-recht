@@ -1,13 +1,13 @@
 ---
 name: tax-claims-title11-map-trustee-turnover
-description: "Nutze dies bei Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

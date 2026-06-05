@@ -1,13 +1,13 @@
 ---
 name: lernmodus-juristendeutsch-mehrsprachige
-description: "Nutze dies bei Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

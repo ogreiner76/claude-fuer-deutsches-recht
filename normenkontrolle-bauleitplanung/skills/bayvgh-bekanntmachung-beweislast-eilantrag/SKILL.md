@@ -1,13 +1,13 @@
 ---
 name: bayvgh-bekanntmachung-beweislast-eilantrag
-description: "Nutze dies bei Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

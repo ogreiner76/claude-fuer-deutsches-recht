@@ -1,6 +1,6 @@
 ---
 name: legw-ressort-verbaendeanhoerung
-description: "Nutze dies bei Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begruendung Allgemein Und Besonders, Europarechtskonformitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begruendung Allgemein Und Besonders, Europarechtskonformitaet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begründung Allgemein Und Besonders, Europarechtskonformitaet

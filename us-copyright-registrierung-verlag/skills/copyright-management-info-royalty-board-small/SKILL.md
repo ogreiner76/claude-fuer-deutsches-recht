@@ -1,13 +1,13 @@
 ---
 name: copyright-management-info-royalty-board-small
-description: "Nutze dies bei Copyright Management Info 1202, Copyright Royalty Board Ch8, Copyright Small Claims Ccb, Copyrightability Idea Facts Methods: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Copyright Management Info 1202, Copyright Royalty Board Ch8, Copyright Small Claims Ccb, Copyrightability Idea Facts Methods: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Copyright Management Info 1202, Copyright Royalty Board Ch8, Copyright Small Claims Ccb, Copyrightability Idea Facts Methods
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Copyright Management Info 1202, Copyright Royalty Board Ch8, Copyright Small Claims Ccb, Copyrightability Idea Facts Methods** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Copyright Management Info 1202, Copyright Royalty Board Ch8, Copyright Small Claims Ccb, Copyrightability Idea Facts Methods** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

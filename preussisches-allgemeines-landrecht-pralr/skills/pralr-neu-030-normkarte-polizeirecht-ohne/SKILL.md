@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-030-normkarte-polizeirecht-ohne
-description: "Nutze dies bei PrALR: Normkarte Polizeirecht ohne Anachronismus: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Normkarte Polizeirecht ohne Anachronismus: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Polizeirecht ohne Anachronismus

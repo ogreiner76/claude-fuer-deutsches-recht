@@ -1,6 +1,6 @@
 ---
 name: krankheitsbedingte-urlaubsuebertragung
-description: "Nutze dies bei Krankheitsbedingte Urlaubsuebertragung, Krankheitskosten Beihilfe Pkv Widerspruch, Landesrecht 16 Länder Routenplan, Laufbahnrecht Bund: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Krankheitsbedingte Urlaubsuebertragung, Krankheitskosten Beihilfe Pkv Widerspruch, Landesrecht 16 Länder Routenplan, Laufbahnrecht Bund: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Krankheitsbedingte Urlaubsuebertragung, Krankheitskosten Beihilfe Pkv Widerspruch, Landesrecht 16 Länder Routenplan, Laufbahnrecht Bund

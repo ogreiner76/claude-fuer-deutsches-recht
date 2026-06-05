@@ -1,13 +1,13 @@
 ---
 name: fernstudium-private-gruppenausarbeitung
-description: "Nutze dies bei Fernstudium Private Pruefstelle, Gruppenausarbeitung Taeuschung, Hilfsmittel Liste Prüfung, Ihk Handwerk Berufsabschluss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fernstudium Private Pruefstelle, Gruppenausarbeitung Taeuschung, Hilfsmittel Liste Prüfung, Ihk Handwerk Berufsabschluss: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fernstudium Private Pruefstelle, Gruppenausarbeitung Taeuschung, Hilfsmittel Liste Prüfung, Ihk Handwerk Berufsabschluss
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fernstudium Private Pruefstelle, Gruppenausarbeitung Taeuschung, Hilfsmittel Liste Prüfung, Ihk Handwerk Berufsabschluss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fernstudium Private Pruefstelle, Gruppenausarbeitung Taeuschung, Hilfsmittel Liste Prüfung, Ihk Handwerk Berufsabschluss** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

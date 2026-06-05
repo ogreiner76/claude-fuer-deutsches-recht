@@ -1,13 +1,13 @@
 ---
 name: bebauungsplaenen-kommunalabgaben
-description: "Nutze dies bei Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

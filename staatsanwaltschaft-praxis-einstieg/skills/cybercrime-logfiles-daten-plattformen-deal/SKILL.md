@@ -1,13 +1,13 @@
 ---
 name: cybercrime-logfiles-daten-plattformen-deal
-description: "Nutze dies bei Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257c Stpo Sta, Digitale Durchsuchung Daten Sicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257c Stpo Sta, Digitale Durchsuchung Daten Sicherung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

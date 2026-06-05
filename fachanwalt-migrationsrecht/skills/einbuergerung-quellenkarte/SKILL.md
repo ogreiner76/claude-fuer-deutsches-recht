@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Einbuergerung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Einbuergerung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Einbuergerung Quellenkarte

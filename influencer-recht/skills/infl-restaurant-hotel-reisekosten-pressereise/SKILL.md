@@ -1,13 +1,13 @@
 ---
 name: infl-restaurant-hotel-reisekosten-pressereise
-description: "Nutze dies bei Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk Verlosung Oder Behalten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk Verlosung Oder Behalten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk Verlosung Oder Behalten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk Verlosung Oder Behalten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk Verlosung Oder Behalten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

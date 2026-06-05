@@ -1,6 +1,6 @@
 ---
 name: grenzverfahren-beweislast-notfrist-verfahrens
-description: "Nutze dies bei Grenzverfahren Beweislast Und Darlegungslast, Notfrist Compliance Dokumentation Und Akte, Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Grenzverfahren Beweislast Und Darlegungslast, Notfrist Compliance Dokumentation Und Akte, Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Grenzverfahren Beweislast Und Darlegungslast, Notfrist Compliance Dokumentation Und Akte, Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten

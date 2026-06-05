@@ -1,13 +1,13 @@
 ---
 name: notare-rechtsmittel-dienstaufsicht
-description: "Nutze dies bei Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

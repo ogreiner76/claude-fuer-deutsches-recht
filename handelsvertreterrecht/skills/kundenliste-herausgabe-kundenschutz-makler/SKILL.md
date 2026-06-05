@@ -1,13 +1,13 @@
 ---
 name: kundenliste-herausgabe-kundenschutz-makler
-description: "Nutze dies bei Kundenliste Herausgabe, Kundenschutz, Makler Abgrenzung, Maturity Startup: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kundenliste Herausgabe, Kundenschutz, Makler Abgrenzung, Maturity Startup: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kundenliste Herausgabe, Kundenschutz, Makler Abgrenzung, Maturity Startup
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kundenliste Herausgabe, Kundenschutz, Makler Abgrenzung, Maturity Startup** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kundenliste Herausgabe, Kundenschutz, Makler Abgrenzung, Maturity Startup** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: plagiat-gwp-praesidium-rektorat-private
-description: "Nutze dies bei Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

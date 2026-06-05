@@ -1,13 +1,13 @@
 ---
 name: parteienprivileg-verfassung-parteigericht
-description: "Nutze dies bei Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

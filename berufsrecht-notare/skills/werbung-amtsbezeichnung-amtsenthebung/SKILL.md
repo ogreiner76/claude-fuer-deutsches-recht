@@ -1,13 +1,13 @@
 ---
 name: werbung-amtsbezeichnung-amtsenthebung
-description: "Nutze dies bei Notare Werbung Und Amtsbezeichnung Kaltstart Und Faktenmatrix, Notare Amtsenthebung Vermoegensverfall Rechtsprechungscheck Und, Notare Anderkonto Und Verwahrung Rechtsprechungscheck Und Red T, Notare Auszahlungsanweisung Konflikt Rechtsprechungscheck Und R: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Werbung Und Amtsbezeichnung Kaltstart Und Faktenmatrix, Notare Amtsenthebung Vermoegensverfall Rechtsprechungscheck Und, Notare Anderkonto Und Verwahrung Rechtsprechungscheck Und Red T, Notare Auszahlungsanweisung Konflikt Rechtsprechungscheck Und R: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Werbung Und Amtsbezeichnung Kaltstart Und Faktenmatrix, Notare Amtsenthebung Vermoegensverfall Rechtsprechungscheck Und, Notare Anderkonto Und Verwahrung Rechtsprechungscheck Und Red T, Notare Auszahlungsanweisung Konflikt Rechtsprechungscheck Und R
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Werbung Und Amtsbezeichnung Kaltstart Und Faktenmatrix, Notare Amtsenthebung Vermoegensverfall Rechtsprechungscheck Und, Notare Anderkonto Und Verwahrung Rechtsprechungscheck Und Red T, Notare Auszahlungsanweisung Konflikt Rechtsprechungscheck Und R** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Werbung Und Amtsbezeichnung Kaltstart Und Faktenmatrix, Notare Amtsenthebung Vermoegensverfall Rechtsprechungscheck Und, Notare Anderkonto Und Verwahrung Rechtsprechungscheck Und Red T, Notare Auszahlungsanweisung Konflikt Rechtsprechungscheck Und R** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

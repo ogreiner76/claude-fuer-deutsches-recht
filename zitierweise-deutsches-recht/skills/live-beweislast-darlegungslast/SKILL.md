@@ -1,6 +1,6 @@
 ---
 name: live-beweislast-darlegungslast
-description: "Nutze dies bei Live: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Live: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Live: Beweislast, Darlegungslast und Substantiierung

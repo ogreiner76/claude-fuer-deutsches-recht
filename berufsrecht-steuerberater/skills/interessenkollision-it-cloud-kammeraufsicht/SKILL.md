@@ -1,13 +1,13 @@
 ---
 name: interessenkollision-it-cloud-kammeraufsicht
-description: "Nutze dies bei Interessenkollision, It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Interessenkollision, It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Interessenkollision, It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Interessenkollision, It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Interessenkollision, It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

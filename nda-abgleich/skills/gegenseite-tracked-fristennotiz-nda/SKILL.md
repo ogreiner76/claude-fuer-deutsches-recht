@@ -1,13 +1,13 @@
 ---
 name: gegenseite-tracked-fristennotiz-nda
-description: "Nutze dies bei Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

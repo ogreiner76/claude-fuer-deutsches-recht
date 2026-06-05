@@ -1,13 +1,13 @@
 ---
 name: mobile-device-ot-industrial-admin-offboarding
-description: "Nutze dies bei Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

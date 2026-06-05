@@ -1,13 +1,13 @@
 ---
 name: soldatenversorgung-bundeswehr-duesseldorfer
-description: "Nutze dies bei Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer Abschlussprodukt Und Uebergabe, Eingetragene Mandantenkommunikation Entscheidungsvorlage, Ergaenzend Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer Abschlussprodukt Und Uebergabe, Eingetragene Mandantenkommunikation Entscheidungsvorlage, Ergaenzend Sonderfall Und Edge Case: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer Abschlussprodukt Und Übergabe, Eingetragene Mandantenkommunikation Entscheidungsvorlage, Ergaenzend Sonderfall Und Edge Case, Fachanwalt Erstpruefung Und Mandatsziel
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer Abschlussprodukt Und Übergabe, Eingetragene Mandantenkommunikation Entscheidungsvorlage, Ergaenzend Sonderfall Und Edge Case, Fachanwalt Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer Abschlussprodukt Und Übergabe, Eingetragene Mandantenkommunikation Entscheidungsvorlage, Ergaenzend Sonderfall Und Edge Case, Fachanwalt Erstpruefung Und Mandatsziel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

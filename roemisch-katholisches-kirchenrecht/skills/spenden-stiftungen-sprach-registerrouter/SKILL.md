@@ -1,13 +1,13 @@
 ---
 name: spenden-stiftungen-sprach-registerrouter
-description: "Nutze dies bei Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

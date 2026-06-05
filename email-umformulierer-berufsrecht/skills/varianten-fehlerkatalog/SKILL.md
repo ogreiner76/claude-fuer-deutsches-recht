@@ -1,6 +1,6 @@
 ---
 name: varianten-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Varianten Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Varianten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Varianten Fehlerkatalog

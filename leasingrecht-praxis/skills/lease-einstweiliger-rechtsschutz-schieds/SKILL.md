@@ -1,13 +1,13 @@
 ---
 name: lease-einstweiliger-rechtsschutz-schieds
-description: "Nutze dies bei Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

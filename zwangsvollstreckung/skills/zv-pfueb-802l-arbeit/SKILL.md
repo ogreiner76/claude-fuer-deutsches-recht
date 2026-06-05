@@ -1,13 +1,13 @@
 ---
 name: zv-pfueb-802l-arbeit
-description: "Nutze dies bei Zv Pfueb Mieter Finanzamt, 802l Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zv Pfueb Mieter Finanzamt, 802l Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zv Pfueb Mieter Finanzamt, 802L Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zv Pfueb Mieter Finanzamt, 802L Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zv Pfueb Mieter Finanzamt, 802L Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

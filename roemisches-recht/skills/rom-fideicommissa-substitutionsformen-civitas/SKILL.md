@@ -1,13 +1,13 @@
 ---
 name: rom-fideicommissa-substitutionsformen-civitas
-description: "Nutze dies bei Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

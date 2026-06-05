@@ -1,13 +1,13 @@
 ---
 name: landeshaushalt-thueringen-feststellung
-description: "Nutze dies bei Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

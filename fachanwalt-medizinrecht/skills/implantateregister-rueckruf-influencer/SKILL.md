@@ -1,6 +1,6 @@
 ---
 name: implantateregister-rueckruf-influencer
-description: "Nutze dies bei Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo

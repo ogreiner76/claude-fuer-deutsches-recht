@@ -1,13 +1,13 @@
 ---
 name: anlagenpaket-antrag-insolvenzgericht-arbeit
-description: "Nutze dies bei Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

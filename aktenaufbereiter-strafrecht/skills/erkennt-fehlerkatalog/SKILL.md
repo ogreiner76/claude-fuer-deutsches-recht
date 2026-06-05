@@ -1,6 +1,6 @@
 ---
 name: erkennt-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Erkennt Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Erkennt Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Erkennt Fehlerkatalog

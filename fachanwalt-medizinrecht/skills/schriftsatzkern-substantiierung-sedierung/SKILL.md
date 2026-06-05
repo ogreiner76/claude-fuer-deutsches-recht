@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung-sedierung
-description: "Nutze dies bei Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, 630a Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, 630a Dokumentenmatrix Und Lueckenliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, 630A Dokumentenmatrix Und Lueckenliste

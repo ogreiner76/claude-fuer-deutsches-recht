@@ -1,6 +1,6 @@
 ---
 name: beirat-satzungsgrundlage
-description: "Nutze dies bei Beirat Satzungsgrundlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Satzungsgrundlage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Satzungsgrundlage

@@ -1,13 +1,13 @@
 ---
 name: dokument-upload-dolmetscher-uebersetzung
-description: "Nutze dies bei Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

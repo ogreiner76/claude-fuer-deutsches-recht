@@ -1,6 +1,6 @@
 ---
 name: migr-asylverfahren-aufenthaltsstatus-frist
-description: "Nutze dies bei Migr Asylverfahren Anhoerung Leitfaden, Aufenthaltsstatus Frist Und Rechtsmittel, Aufenthaltstitel Fristennotiz Und Naechster Schritt, Aufenthg Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Migr Asylverfahren Anhoerung Leitfaden, Aufenthaltsstatus Frist Und Rechtsmittel, Aufenthaltstitel Fristennotiz Und Naechster Schritt, Aufenthg Fristen Form Und Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Migr Asylverfahren Anhoerung Leitfaden, Aufenthaltsstatus Frist Und Rechtsmittel, Aufenthaltstitel Fristennotiz Und Naechster Schritt, Aufenthg Fristen Form Und Zustaendigkeit

@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsplanung-export
-description: "Nutze dies bei Export: Schriftsatz-, Brief- und Memo-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Export: Schriftsatz-, Brief- und Memo-Bausteine: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Export: Schriftsatz-, Brief- und Memo-Bausteine

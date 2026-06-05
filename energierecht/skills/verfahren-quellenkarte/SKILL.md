@@ -1,6 +1,6 @@
 ---
 name: verfahren-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Verfahren Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Verfahren Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Verfahren Quellenkarte

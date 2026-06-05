@@ -1,13 +1,13 @@
 ---
 name: crypto-exchange-darlehen-finanzierung
-description: "Nutze dies bei Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

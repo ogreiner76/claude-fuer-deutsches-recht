@@ -1,6 +1,6 @@
 ---
 name: mauer-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Mauer Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Mauer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Mauer Quellenkarte

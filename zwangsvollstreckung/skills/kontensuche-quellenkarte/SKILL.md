@@ -1,6 +1,6 @@
 ---
 name: kontensuche-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Kontensuche Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Kontensuche Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Kontensuche Quellenkarte

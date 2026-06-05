@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-interne-ermittlung-junior
-description: "Nutze dies bei Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

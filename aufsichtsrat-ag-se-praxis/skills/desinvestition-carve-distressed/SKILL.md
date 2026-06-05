@@ -1,13 +1,13 @@
 ---
 name: desinvestition-carve-distressed
-description: "Nutze dies bei Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

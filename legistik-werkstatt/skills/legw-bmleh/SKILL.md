@@ -1,6 +1,6 @@
 ---
 name: legw-bmleh
-description: "Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Legw Bmleh Oekolandbau Und Pflanzenschutzrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kaltstart, Chronologie, Belegmatrix und Fristenampel, Legw Bmleh Oekolandbau Und Pflanzenschutzrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Legw Bmleh Oekolandbau Und Pflanzenschutzrecht

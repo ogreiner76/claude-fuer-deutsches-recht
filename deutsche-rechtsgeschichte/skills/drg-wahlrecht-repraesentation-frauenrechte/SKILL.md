@@ -1,13 +1,13 @@
 ---
 name: drg-wahlrecht-repraesentation-frauenrechte
-description: "Nutze dies bei Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

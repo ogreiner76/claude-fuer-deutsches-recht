@@ -1,13 +1,13 @@
 ---
 name: registerstand-aufrechterhaltung-lizenzvertrag
-description: "Nutze dies bei Registerstand Fristen Aufrechterhaltung, Lizenzvertrag Gebrauchsmuster: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Registerstand Fristen Aufrechterhaltung, Lizenzvertrag Gebrauchsmuster: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Registerstand Fristen Aufrechterhaltung, Lizenzvertrag Gebrauchsmuster
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Registerstand Fristen Aufrechterhaltung, Lizenzvertrag Gebrauchsmuster** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Registerstand Fristen Aufrechterhaltung, Lizenzvertrag Gebrauchsmuster** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: fernabsatz-lieferanten-red-team
-description: "Nutze dies bei Fernabsatz Formular Portal Und Einreichung, Lieferanten Tatbestand Beweis Und Belege, Prüfung Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fernabsatz Formular Portal Und Einreichung, Lieferanten Tatbestand Beweis Und Belege, Prüfung Red Team Und Qualitaetskontrolle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fernabsatz Formular Portal Und Einreichung, Lieferanten Tatbestand Beweis Und Belege, Prüfung Red Team Und Qualitaetskontrolle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fernabsatz Formular Portal Und Einreichung, Lieferanten Tatbestand Beweis Und Belege, Prüfung Red Team Und Qualitaetskontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fernabsatz Formular Portal Und Einreichung, Lieferanten Tatbestand Beweis Und Belege, Prüfung Red Team Und Qualitaetskontrolle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

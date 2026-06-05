@@ -1,6 +1,6 @@
 ---
 name: beirat-beschlussfassung
-description: "Nutze dies bei Beirat Beschlussfassung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Beschlussfassung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Beschlussfassung

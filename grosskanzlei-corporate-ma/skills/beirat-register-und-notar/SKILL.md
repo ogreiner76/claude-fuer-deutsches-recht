@@ -1,6 +1,6 @@
 ---
 name: beirat-register-und-notar
-description: "Nutze dies bei Beirat Register Und Notar: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Register Und Notar: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Register Und Notar

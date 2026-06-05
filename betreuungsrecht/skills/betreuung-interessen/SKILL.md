@@ -1,6 +1,6 @@
 ---
 name: betreuung-interessen
-description: "Nutze dies bei Betreuung: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Betreuung: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Betreuung: Mehrparteienkonflikt und Interessenmatrix

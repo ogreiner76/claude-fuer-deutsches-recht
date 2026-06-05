@@ -1,13 +1,13 @@
 ---
 name: equitable-subordination-estate-property
-description: "Nutze dies bei Equitable Subordination 510, Estate Property 541, Examiner 1104, Exclusivity 1121: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Equitable Subordination 510, Estate Property 541, Examiner 1104, Exclusivity 1121: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Equitable Subordination 510, Estate Property 541, Examiner 1104, Exclusivity 1121
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Equitable Subordination 510, Estate Property 541, Examiner 1104, Exclusivity 1121** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Equitable Subordination 510, Estate Property 541, Examiner 1104, Exclusivity 1121** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

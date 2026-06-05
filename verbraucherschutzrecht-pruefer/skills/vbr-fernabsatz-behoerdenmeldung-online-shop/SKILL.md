@@ -1,13 +1,13 @@
 ---
 name: vbr-fernabsatz-behoerdenmeldung-online-shop
-description: "Nutze dies bei Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

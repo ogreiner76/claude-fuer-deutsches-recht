@@ -1,13 +1,13 @@
 ---
 name: fremdgeld-anderkonto-gebuehrenunterschreitung
-description: "Nutze dies bei Anwaelte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwaelte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwaelte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwaelte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwaelte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwaelte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwaelte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

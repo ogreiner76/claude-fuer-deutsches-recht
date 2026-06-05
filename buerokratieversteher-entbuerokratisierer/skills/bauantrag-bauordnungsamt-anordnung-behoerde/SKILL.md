@@ -1,13 +1,13 @@
 ---
 name: bauantrag-bauordnungsamt-anordnung-behoerde
-description: "Nutze dies bei Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

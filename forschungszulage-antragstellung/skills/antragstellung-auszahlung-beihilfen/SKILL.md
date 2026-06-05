@@ -1,13 +1,13 @@
 ---
 name: antragstellung-auszahlung-beihilfen
-description: "Nutze dies bei Antragstellung Tatbestand Beweis Und Belege, Auszahlung Internationaler Bezug Und Schnittstellen, Beihilfen Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Antragstellung Tatbestand Beweis Und Belege, Auszahlung Internationaler Bezug Und Schnittstellen, Beihilfen Beweislast Und Darlegungslast: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Antragstellung Tatbestand Beweis Und Belege, Auszahlung Internationaler Bezug Und Schnittstellen, Beihilfen Beweislast Und Darlegungslast
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Antragstellung Tatbestand Beweis Und Belege, Auszahlung Internationaler Bezug Und Schnittstellen, Beihilfen Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Antragstellung Tatbestand Beweis Und Belege, Auszahlung Internationaler Bezug Und Schnittstellen, Beihilfen Beweislast Und Darlegungslast** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

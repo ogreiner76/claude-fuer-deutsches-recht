@@ -1,13 +1,13 @@
 ---
 name: ambulantes-operieren-arbeitszeit
-description: "Nutze dies bei Ambulantes Operieren 115b Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ambulantes Operieren 115b Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

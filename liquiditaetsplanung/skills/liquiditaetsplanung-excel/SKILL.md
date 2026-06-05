@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsplanung-excel
-description: "Nutze dies bei Excel: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Excel: Behörden-, Gerichts- oder Registerweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Excel: Behörden-, Gerichts- oder Registerweg

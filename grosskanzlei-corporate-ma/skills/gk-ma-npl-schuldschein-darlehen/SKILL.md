@@ -1,13 +1,13 @@
 ---
 name: gk-ma-npl-schuldschein-darlehen
-description: "Nutze dies bei Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3a Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3a Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

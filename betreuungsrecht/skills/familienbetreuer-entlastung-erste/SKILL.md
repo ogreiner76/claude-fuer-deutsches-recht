@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-entlastung-erste
-description: "Nutze dies bei Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

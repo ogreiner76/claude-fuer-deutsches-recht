@@ -1,13 +1,13 @@
 ---
 name: essential-facilities-eu-bekanntmachung
-description: "Nutze dies bei Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

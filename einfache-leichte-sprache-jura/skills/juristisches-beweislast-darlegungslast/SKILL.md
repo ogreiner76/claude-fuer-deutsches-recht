@@ -1,6 +1,6 @@
 ---
 name: juristisches-beweislast-darlegungslast
-description: "Nutze dies bei Juristisches: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Juristisches: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Juristisches: Beweislast, Darlegungslast und Substantiierung

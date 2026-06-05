@@ -1,13 +1,13 @@
 ---
 name: schoeffe-ermuedung-komplexverfahren
-description: "Nutze dies bei Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

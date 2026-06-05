@@ -1,13 +1,13 @@
 ---
 name: photos-stock-physischer-deposit-platform
-description: "Nutze dies bei Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: methodenwahl-offenlegen-methodischer
-description: "Nutze dies bei Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

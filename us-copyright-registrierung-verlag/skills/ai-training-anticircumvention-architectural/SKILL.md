@@ -1,13 +1,13 @@
 ---
 name: ai-training-anticircumvention-architectural
-description: "Nutze dies bei Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

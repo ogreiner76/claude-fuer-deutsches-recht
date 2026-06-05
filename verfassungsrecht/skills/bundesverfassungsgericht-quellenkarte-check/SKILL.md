@@ -1,6 +1,6 @@
 ---
 name: bundesverfassungsgericht-quellenkarte-check
-description: "Nutze dies zur Quellenprüfung bei Bundesverfassungsgericht Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Bundesverfassungsgericht Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Bundesverfassungsgericht Quellenkarte Check

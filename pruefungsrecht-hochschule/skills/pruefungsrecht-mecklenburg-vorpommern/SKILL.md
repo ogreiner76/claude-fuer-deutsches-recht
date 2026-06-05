@@ -1,13 +1,13 @@
 ---
 name: pruefungsrecht-mecklenburg-vorpommern
-description: "Nutze dies bei Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

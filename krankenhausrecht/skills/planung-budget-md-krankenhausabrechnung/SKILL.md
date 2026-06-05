@@ -1,13 +1,13 @@
 ---
 name: planung-budget-md-krankenhausabrechnung
-description: "Nutze dies bei Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

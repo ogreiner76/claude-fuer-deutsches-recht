@@ -1,13 +1,13 @@
 ---
 name: anzeige-sachbeschaedigung-anzeige-sachverhalt
-description: "Nutze dies bei Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Entscheidungsgruende Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Entscheidungsgruende Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Entscheidungsgruende Fehlerkatalog

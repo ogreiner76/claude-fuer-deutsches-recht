@@ -1,13 +1,13 @@
 ---
 name: notare-notarvertretung-notariatsverwalter
-description: "Nutze dies bei Notare Notarvertretung Und Notariatsverwalter Rechtsprechungsch, Notare Qualitaetsmanagement Im Notariat Rechtsprechungscheck Un, Notare Rechtsmittel Gegen Dienstaufsicht Rechtsprechungscheck U, Notare Share Deal Closing Notar Rechtsprechungscheck Und Red Te: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Notarvertretung Und Notariatsverwalter Rechtsprechungsch, Notare Qualitaetsmanagement Im Notariat Rechtsprechungscheck Un, Notare Rechtsmittel Gegen Dienstaufsicht Rechtsprechungscheck U, Notare Share Deal Closing Notar Rechtsprechungscheck Und Red Te: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Notarvertretung Und Notariatsverwalter Rechtsprechungsch, Notare Qualitaetsmanagement Im Notariat Rechtsprechungscheck Un, Notare Rechtsmittel Gegen Dienstaufsicht Rechtsprechungscheck U, Notare Share Deal Closing Notar Rechtsprechungscheck Und Red Te
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Notarvertretung Und Notariatsverwalter Rechtsprechungsch, Notare Qualitaetsmanagement Im Notariat Rechtsprechungscheck Un, Notare Rechtsmittel Gegen Dienstaufsicht Rechtsprechungscheck U, Notare Share Deal Closing Notar Rechtsprechungscheck Und Red Te** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Notarvertretung Und Notariatsverwalter Rechtsprechungsch, Notare Qualitaetsmanagement Im Notariat Rechtsprechungscheck Un, Notare Rechtsmittel Gegen Dienstaufsicht Rechtsprechungscheck U, Notare Share Deal Closing Notar Rechtsprechungscheck Und Red Te** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

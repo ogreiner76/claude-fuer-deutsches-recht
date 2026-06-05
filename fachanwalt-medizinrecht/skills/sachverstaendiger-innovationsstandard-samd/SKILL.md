@@ -1,6 +1,6 @@
 ---
 name: sachverstaendiger-innovationsstandard-samd
-description: "Nutze dies bei Sachverstaendiger Innovationsstandard, Samd Zweckbestimmung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sachverstaendiger Innovationsstandard, Samd Zweckbestimmung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sachverstaendiger Innovationsstandard, Samd Zweckbestimmung

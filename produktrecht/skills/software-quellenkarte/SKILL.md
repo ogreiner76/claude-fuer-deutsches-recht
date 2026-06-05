@@ -1,6 +1,6 @@
 ---
 name: software-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Software Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Software Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Software Quellenkarte

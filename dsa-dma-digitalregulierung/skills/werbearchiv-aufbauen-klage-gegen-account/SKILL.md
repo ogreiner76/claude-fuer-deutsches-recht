@@ -1,13 +1,13 @@
 ---
 name: werbearchiv-aufbauen-klage-gegen-account
-description: "Nutze dies bei Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

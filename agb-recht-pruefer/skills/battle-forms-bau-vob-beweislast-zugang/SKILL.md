@@ -1,13 +1,13 @@
 ---
 name: battle-forms-bau-vob-beweislast-zugang
-description: "Nutze dies bei Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

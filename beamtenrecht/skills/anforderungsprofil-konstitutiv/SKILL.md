@@ -1,6 +1,6 @@
 ---
 name: anforderungsprofil-konstitutiv
-description: "Nutze dies bei Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung Vs Regelbeurteilung, Anrechnung 55 Beamtvg Mehrere Renten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung Vs Regelbeurteilung, Anrechnung 55 Beamtvg Mehrere Renten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung Vs Regelbeurteilung, Anrechnung 55 Beamtvg Mehrere Renten

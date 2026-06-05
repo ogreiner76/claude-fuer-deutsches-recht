@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigen-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Sachverstaendigen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Sachverstaendigen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Sachverstaendigen Quellenkarte

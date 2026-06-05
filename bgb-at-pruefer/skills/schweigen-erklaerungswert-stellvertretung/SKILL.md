@@ -1,13 +1,13 @@
 ---
 name: schweigen-erklaerungswert-stellvertretung
-description: "Nutze dies bei Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: unparteilichkeit-familiengesellschaft
-description: "Nutze dies bei Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: adressatenwuerde-rechtssteuerung-besitz-law
-description: "Nutze dies bei Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: fran-rs-health-insolvenz-irrefuehrende
-description: "Nutze dies bei Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: dsv-kinderdaten-besondere
-description: "Nutze dies bei Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

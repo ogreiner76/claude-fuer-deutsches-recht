@@ -1,6 +1,6 @@
 ---
 name: rom-neu-003-zwoelftafelrecht-familiengewalt
-description: "Nutze dies bei Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft

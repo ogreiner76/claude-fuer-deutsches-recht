@@ -1,13 +1,13 @@
 ---
 name: umv-hafenvertiefung-monitoring-kommunikation
-description: "Nutze dies bei Umv 089 Hafenvertiefung Monitoring Planen, Umv 090 Hafenvertiefung Kommunikation Schaerfe, Umv 091 Flughafenausbau Beteiligung Prüfen, Umv 092 Flughafenausbau Einwendung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umv 089 Hafenvertiefung Monitoring Planen, Umv 090 Hafenvertiefung Kommunikation Schaerfe, Umv 091 Flughafenausbau Beteiligung Prüfen, Umv 092 Flughafenausbau Einwendung Bauen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umv 089 Hafenvertiefung Monitoring Planen, Umv 090 Hafenvertiefung Kommunikation Schaerfe, Umv 091 Flughafenausbau Beteiligung Prüfen, Umv 092 Flughafenausbau Einwendung Bauen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umv 089 Hafenvertiefung Monitoring Planen, Umv 090 Hafenvertiefung Kommunikation Schaerfe, Umv 091 Flughafenausbau Beteiligung Prüfen, Umv 092 Flughafenausbau Einwendung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umv 089 Hafenvertiefung Monitoring Planen, Umv 090 Hafenvertiefung Kommunikation Schaerfe, Umv 091 Flughafenausbau Beteiligung Prüfen, Umv 092 Flughafenausbau Einwendung Bauen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

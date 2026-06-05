@@ -1,13 +1,13 @@
 ---
 name: klageschrift-anschreiben-an-antrag-bestimmt
-description: "Nutze dies bei Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

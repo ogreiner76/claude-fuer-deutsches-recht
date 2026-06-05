@@ -1,13 +1,13 @@
 ---
 name: us-patent-us-vorbenutzungsrecht-paragraph
-description: "Nutze dies bei Us Patent Law Pto Ptab, Us Patent Litigation District Court Itc, Vorbenutzungsrecht Paragraph 12 Patg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Us Patent Law Pto Ptab, Us Patent Litigation District Court Itc, Vorbenutzungsrecht Paragraph 12 Patg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Us Patent Law Pto Ptab, Us Patent Litigation District Court Itc, Vorbenutzungsrecht Paragraph 12 Patg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Us Patent Law Pto Ptab, Us Patent Litigation District Court Itc, Vorbenutzungsrecht Paragraph 12 Patg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Us Patent Law Pto Ptab, Us Patent Litigation District Court Itc, Vorbenutzungsrecht Paragraph 12 Patg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

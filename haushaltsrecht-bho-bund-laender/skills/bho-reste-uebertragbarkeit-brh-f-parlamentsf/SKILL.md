@@ -1,13 +1,13 @@
 ---
 name: bho-reste-uebertragbarkeit-brh-f-parlamentsf
-description: "Nutze dies bei Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

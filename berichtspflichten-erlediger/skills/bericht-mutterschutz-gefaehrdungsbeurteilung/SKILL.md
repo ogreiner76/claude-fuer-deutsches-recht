@@ -1,13 +1,13 @@
 ---
 name: bericht-mutterschutz-gefaehrdungsbeurteilung
-description: "Nutze dies bei Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: mieterhoehung-mietminderung-bemessung
-description: "Nutze dies bei Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

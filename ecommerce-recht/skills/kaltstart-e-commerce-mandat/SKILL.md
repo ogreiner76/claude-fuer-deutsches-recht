@@ -1,6 +1,6 @@
 ---
 name: kaltstart-e-commerce-mandat
-description: "Nutze dies zum Einstieg in Kaltstart E-Commerce Mandat: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kaltstart E-Commerce Mandat: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart E-Commerce Mandat

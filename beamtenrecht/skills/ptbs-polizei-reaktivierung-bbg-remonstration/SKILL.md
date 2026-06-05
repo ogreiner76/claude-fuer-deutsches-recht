@@ -1,6 +1,6 @@
 ---
 name: ptbs-polizei-reaktivierung-bbg-remonstration
-description: "Nutze dies bei Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung

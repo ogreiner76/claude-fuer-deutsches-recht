@@ -1,6 +1,6 @@
 ---
 name: produktakte-gap-produktbeobachtung-field
-description: "Nutze dies bei Produktakte Gap Analyse, Produktbeobachtung Und Field Data, Produktfehler Verbrauchererwartung Robotik, Produktsicherheit Vs Betriebssicherheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Produktakte Gap Analyse, Produktbeobachtung Und Field Data, Produktfehler Verbrauchererwartung Robotik, Produktsicherheit Vs Betriebssicherheit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Produktakte Gap Analyse, Produktbeobachtung Und Field Data, Produktfehler Verbrauchererwartung Robotik, Produktsicherheit Vs Betriebssicherheit

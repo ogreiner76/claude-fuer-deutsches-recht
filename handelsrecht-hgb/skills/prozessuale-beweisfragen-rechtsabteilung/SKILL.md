@@ -1,13 +1,13 @@
 ---
 name: prozessuale-beweisfragen-rechtsabteilung
-description: "Nutze dies bei Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

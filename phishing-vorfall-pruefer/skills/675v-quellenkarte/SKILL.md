@@ -1,6 +1,6 @@
 ---
 name: 675v-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei 675v Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "675v Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # 675v Quellenkarte

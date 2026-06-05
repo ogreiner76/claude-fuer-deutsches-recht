@@ -1,6 +1,6 @@
 ---
 name: wortlaut-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Wortlaut Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wortlaut Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Wortlaut Quellenkarte

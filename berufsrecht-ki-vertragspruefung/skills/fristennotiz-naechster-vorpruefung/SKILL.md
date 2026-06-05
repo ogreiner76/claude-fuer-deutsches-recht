@@ -1,13 +1,13 @@
 ---
 name: fristennotiz-naechster-vorpruefung
-description: "Nutze dies bei Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: mutterrente-kindererziehung-nichtigkeit
-description: "Nutze dies bei Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160a Sgg, Orientierung Selbstvertreter Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160a Sgg, Orientierung Selbstvertreter Sozialgericht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

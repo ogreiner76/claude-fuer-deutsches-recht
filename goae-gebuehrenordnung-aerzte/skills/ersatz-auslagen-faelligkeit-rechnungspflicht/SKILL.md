@@ -1,13 +1,13 @@
 ---
 name: ersatz-auslagen-faelligkeit-rechnungspflicht
-description: "Nutze dies bei Goae 10 Ersatz Von Auslagen, Goae 12 Faelligkeit Und Rechnungspflicht, Goae 14 Zahlung Durch Oeffentliche Leistungstraeger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Goae 10 Ersatz Von Auslagen, Goae 12 Faelligkeit Und Rechnungspflicht, Goae 14 Zahlung Durch Oeffentliche Leistungstraeger: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Goae 10 Ersatz Von Auslagen, Goae 12 Faelligkeit Und Rechnungspflicht, Goae 14 Zahlung Durch Oeffentliche Leistungstraeger
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Goae 10 Ersatz Von Auslagen, Goae 12 Faelligkeit Und Rechnungspflicht, Goae 14 Zahlung Durch Oeffentliche Leistungstraeger** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Goae 10 Ersatz Von Auslagen, Goae 12 Faelligkeit Und Rechnungspflicht, Goae 14 Zahlung Durch Oeffentliche Leistungstraeger** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

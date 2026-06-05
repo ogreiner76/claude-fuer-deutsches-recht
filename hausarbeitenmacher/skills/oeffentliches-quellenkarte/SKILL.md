@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Oeffentliches Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Oeffentliches Quellenkarte

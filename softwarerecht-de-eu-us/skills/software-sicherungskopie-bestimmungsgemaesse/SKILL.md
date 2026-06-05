@@ -1,13 +1,13 @@
 ---
 name: software-sicherungskopie-bestimmungsgemaesse
-description: "Nutze dies bei Sicherungskopie Und Bestimmungsgemaesse Nutzung 69d, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sicherungskopie Und Bestimmungsgemaesse Nutzung 69d, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

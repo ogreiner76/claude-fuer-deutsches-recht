@@ -1,13 +1,13 @@
 ---
 name: berufswechsel-angestellte-beweisnot
-description: "Nutze dies bei Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

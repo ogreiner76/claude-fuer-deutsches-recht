@@ -1,6 +1,6 @@
 ---
 name: tatkomplexe-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Tatkomplexe Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Tatkomplexe Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Tatkomplexe Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: faktenbank-untersuchung-abfrage-ergaenzen
-description: "Nutze dies bei Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

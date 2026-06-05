@@ -1,6 +1,6 @@
 ---
 name: direktzahlungen-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Direktzahlungen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Direktzahlungen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Direktzahlungen Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-verschwiegenheit-f-e-projekten
-description: "Nutze dies bei Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

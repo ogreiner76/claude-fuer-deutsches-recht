@@ -1,13 +1,13 @@
 ---
 name: dsv-meldung-lda-ldi-nrw-lfd-niedersachsen
-description: "Nutze dies bei Dsv Meldung Lda Brandenburg, Dsv Meldung Ldi Nrw, Dsv Meldung Lfd Niedersachsen, Dsv Meldung Lfd Sachsen Anhalt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Meldung Lda Brandenburg, Dsv Meldung Ldi Nrw, Dsv Meldung Lfd Niedersachsen, Dsv Meldung Lfd Sachsen Anhalt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Meldung Lda Brandenburg, Dsv Meldung Ldi Nrw, Dsv Meldung Lfd Niedersachsen, Dsv Meldung Lfd Sachsen Anhalt, Dsv Meldung Lfdi Bremen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Meldung Lda Brandenburg, Dsv Meldung Ldi Nrw, Dsv Meldung Lfd Niedersachsen, Dsv Meldung Lfd Sachsen Anhalt, Dsv Meldung Lfdi Bremen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Meldung Lda Brandenburg, Dsv Meldung Ldi Nrw, Dsv Meldung Lfd Niedersachsen, Dsv Meldung Lfd Sachsen Anhalt, Dsv Meldung Lfdi Bremen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

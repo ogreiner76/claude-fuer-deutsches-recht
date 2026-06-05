@@ -1,13 +1,13 @@
 ---
 name: sozietaetswechsel-mandantenmitnahme
-description: "Nutze dies bei Anwaelte Sozietaetswechsel Und Mandantenmitnahme Kammerantwort, Anwaelte Sozietaetswechsel Und Mandantenmitnahme Organisationsp, Anwaelte Syndikusrechtsanwalt Abgrenzung Kammerantwort Und Verf, Anwaelte Syndikusrechtsanwalt Abgrenzung Organisationspflicht U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Sozietaetswechsel Und Mandantenmitnahme Kammerantwort, Anwaelte Sozietaetswechsel Und Mandantenmitnahme Organisationsp, Anwaelte Syndikusrechtsanwalt Abgrenzung Kammerantwort Und Verf, Anwaelte Syndikusrechtsanwalt Abgrenzung Organisationspflicht U: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Sozietaetswechsel Und Mandantenmitnahme Kammerantwort, Anwälte Sozietaetswechsel Und Mandantenmitnahme Organisationsp, Anwälte Syndikusrechtsanwalt Abgrenzung Kammerantwort Und Verf, Anwälte Syndikusrechtsanwalt Abgrenzung Organisationspflicht U, Anwälte Terminsvertreter Und Untervollmacht Kammerantwort Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Sozietaetswechsel Und Mandantenmitnahme Kammerantwort, Anwälte Sozietaetswechsel Und Mandantenmitnahme Organisationsp, Anwälte Syndikusrechtsanwalt Abgrenzung Kammerantwort Und Verf, Anwälte Syndikusrechtsanwalt Abgrenzung Organisationspflicht U, Anwälte Terminsvertreter Und Untervollmacht Kammerantwort Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Sozietaetswechsel Und Mandantenmitnahme Kammerantwort, Anwälte Sozietaetswechsel Und Mandantenmitnahme Organisationsp, Anwälte Syndikusrechtsanwalt Abgrenzung Kammerantwort Und Verf, Anwälte Syndikusrechtsanwalt Abgrenzung Organisationspflicht U, Anwälte Terminsvertreter Und Untervollmacht Kammerantwort Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

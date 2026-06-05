@@ -1,13 +1,13 @@
 ---
 name: verl-e-verl-uebersetzungsrechte
-description: "Nutze dies bei Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

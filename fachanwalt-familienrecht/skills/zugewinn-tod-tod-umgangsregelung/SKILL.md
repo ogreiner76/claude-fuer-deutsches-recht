@@ -1,13 +1,13 @@
 ---
 name: zugewinn-tod-tod-umgangsregelung
-description: "Nutze dies bei Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

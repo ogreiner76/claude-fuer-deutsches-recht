@@ -1,13 +1,13 @@
 ---
 name: dsv-risikobewertung-art-schnelltriage-risiko
-description: "Nutze dies bei Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb, Dsv Spezialfaelle Uebersicht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb, Dsv Spezialfaelle Uebersicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb, Dsv Spezialfaelle Uebersicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

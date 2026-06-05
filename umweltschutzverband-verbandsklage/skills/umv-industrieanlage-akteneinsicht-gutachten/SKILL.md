@@ -1,13 +1,13 @@
 ---
 name: umv-industrieanlage-akteneinsicht-gutachten
-description: "Nutze dies bei Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: owi-verkehrsowi-vorlage-an
-description: "Nutze dies bei Owi Verkehrsowi Fahrverbot Punkte, Owi Vorlage An Amtsgericht Sta Check, Pflichtverteidigung Aus Sta Sicht, Plaedoyer Beweiswuerdigung Strafmass: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Owi Verkehrsowi Fahrverbot Punkte, Owi Vorlage An Amtsgericht Sta Check, Pflichtverteidigung Aus Sta Sicht, Plaedoyer Beweiswuerdigung Strafmass: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Owi Verkehrsowi Fahrverbot Punkte, Owi Vorlage An Amtsgericht Sta Check, Pflichtverteidigung Aus Sta Sicht, Plaedoyer Beweiswuerdigung Strafmass, Plaedoyer Staatsanwaltschaft
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Owi Verkehrsowi Fahrverbot Punkte, Owi Vorlage An Amtsgericht Sta Check, Pflichtverteidigung Aus Sta Sicht, Plaedoyer Beweiswuerdigung Strafmass, Plaedoyer Staatsanwaltschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Owi Verkehrsowi Fahrverbot Punkte, Owi Vorlage An Amtsgericht Sta Check, Pflichtverteidigung Aus Sta Sicht, Plaedoyer Beweiswuerdigung Strafmass, Plaedoyer Staatsanwaltschaft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-011-erster-titel-8-erwerb-eigentum
-description: "Nutze dies bei PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen

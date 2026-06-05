@@ -1,6 +1,6 @@
 ---
 name: beurkundungspruefung-quellenkarte-check
-description: "Nutze dies zur Quellenprüfung bei Beurkundungspruefung Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Beurkundungspruefung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Beurkundungspruefung Quellenkarte Check

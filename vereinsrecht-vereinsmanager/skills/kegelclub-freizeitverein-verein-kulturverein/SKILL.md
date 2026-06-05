@@ -1,13 +1,13 @@
 ---
 name: kegelclub-freizeitverein-verein-kulturverein
-description: "Nutze dies bei Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

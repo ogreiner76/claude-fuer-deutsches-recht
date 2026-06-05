@@ -1,6 +1,6 @@
 ---
 name: transfer-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Transfer Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Transfer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Transfer Quellenkarte

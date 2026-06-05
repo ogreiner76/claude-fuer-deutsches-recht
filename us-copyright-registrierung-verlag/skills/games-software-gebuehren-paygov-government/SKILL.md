@@ -1,13 +1,13 @@
 ---
 name: games-software-gebuehren-paygov-government
-description: "Nutze dies bei Games Software Av Assets, Gebuehren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Games Software Av Assets, Gebuehren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

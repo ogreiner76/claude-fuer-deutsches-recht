@@ -1,13 +1,13 @@
 ---
 name: selbstaendig-vs-side-letter
-description: "Nutze dies bei Selbstaendig Vs Angestellt, Side Letter, Sozialversicherung Status, Statuscheck Paragraf84: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Selbstaendig Vs Angestellt, Side Letter, Sozialversicherung Status, Statuscheck Paragraf84: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Selbstaendig Vs Angestellt, Side Letter, Sozialversicherung Status, Statuscheck Paragraf84
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Selbstaendig Vs Angestellt, Side Letter, Sozialversicherung Status, Statuscheck Paragraf84** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Selbstaendig Vs Angestellt, Side Letter, Sozialversicherung Status, Statuscheck Paragraf84** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: verdachtsvertraege
-description: "Nutze dies bei Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg

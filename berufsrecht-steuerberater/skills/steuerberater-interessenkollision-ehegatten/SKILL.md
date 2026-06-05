@@ -1,13 +1,13 @@
 ---
 name: steuerberater-interessenkollision-ehegatten
-description: "Nutze dies bei Steuerberater Interessenkollision Ehegatten Und Gesellschafter, Steuerberater Jahresabschluss Verantwortung Kammerantwort Und V, Steuerberater Jahresabschluss Verantwortung Organisationspflich, Steuerberater Kammerbeschwerde Steuerberater Kammerantwort Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Interessenkollision Ehegatten Und Gesellschafter, Steuerberater Jahresabschluss Verantwortung Kammerantwort Und V, Steuerberater Jahresabschluss Verantwortung Organisationspflich, Steuerberater Kammerbeschwerde Steuerberater Kammerantwort Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Interessenkollision Ehegatten Und Gesellschafter, Steuerberater Jahresabschluss Verantwortung Kammerantwort Und V, Steuerberater Jahresabschluss Verantwortung Organisationspflich, Steuerberater Kammerbeschwerde Steuerberater Kammerantwort Und
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Interessenkollision Ehegatten Und Gesellschafter, Steuerberater Jahresabschluss Verantwortung Kammerantwort Und V, Steuerberater Jahresabschluss Verantwortung Organisationspflich, Steuerberater Kammerbeschwerde Steuerberater Kammerantwort Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Interessenkollision Ehegatten Und Gesellschafter, Steuerberater Jahresabschluss Verantwortung Kammerantwort Und V, Steuerberater Jahresabschluss Verantwortung Organisationspflich, Steuerberater Kammerbeschwerde Steuerberater Kammerantwort Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

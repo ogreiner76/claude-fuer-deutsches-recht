@@ -1,6 +1,6 @@
 ---
 name: rueckrufpflicht-safety-safety-gate
-description: "Nutze dies bei Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung

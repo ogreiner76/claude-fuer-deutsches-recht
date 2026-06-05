@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate
-description: "Nutze dies als Fehlerbremse bei Qualitaetsgate: Formular, Portal und Einreichungslogik: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Qualitaetsgate: Fehlerbremse; Formular, Portal und Einreichungslogik: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Qualitaetsgate: Formular, Portal und Einreichungslogik

@@ -1,13 +1,13 @@
 ---
 name: fortbildung-geldwaesche-kyc-homeoffice
-description: "Nutze dies bei Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebuehren Verguetung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebuehren Verguetung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung, Interessenkollision
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung, Interessenkollision** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung, Interessenkollision** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

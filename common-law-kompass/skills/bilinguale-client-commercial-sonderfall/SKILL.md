@@ -1,13 +1,13 @@
 ---
 name: bilinguale-client-commercial-sonderfall
-description: "Nutze dies bei Bilinguale Compliance Dokumentation Und Akte, Client Mandantenkommunikation Entscheidungsvorlage, Commercial Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bilinguale Compliance Dokumentation Und Akte, Client Mandantenkommunikation Entscheidungsvorlage, Commercial Sonderfall Und Edge Case: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bilinguale Compliance Dokumentation Und Akte, Client Mandantenkommunikation Entscheidungsvorlage, Commercial Sonderfall Und Edge Case
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bilinguale Compliance Dokumentation Und Akte, Client Mandantenkommunikation Entscheidungsvorlage, Commercial Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bilinguale Compliance Dokumentation Und Akte, Client Mandantenkommunikation Entscheidungsvorlage, Commercial Sonderfall Und Edge Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

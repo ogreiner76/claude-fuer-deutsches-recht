@@ -1,13 +1,13 @@
 ---
 name: stand-technik-patr2-anmeldeverfahren
-description: "Nutze dies bei Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

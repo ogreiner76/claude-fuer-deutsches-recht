@@ -1,13 +1,13 @@
 ---
 name: bezirksprovision-bezirksvertreter-bonus
-description: "Nutze dies bei Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

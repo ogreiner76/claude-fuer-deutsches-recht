@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Haftpflicht Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Haftpflicht Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Haftpflicht Quellenkarte

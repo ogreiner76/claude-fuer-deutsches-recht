@@ -1,13 +1,13 @@
 ---
 name: verl-autorenkuendigung-verl-verlagsagentur
-description: "Nutze dies bei Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

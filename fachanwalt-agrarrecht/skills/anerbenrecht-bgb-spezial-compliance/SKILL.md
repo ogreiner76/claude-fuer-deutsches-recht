@@ -1,13 +1,13 @@
 ---
 name: anerbenrecht-bgb-spezial-compliance
-description: "Nutze dies bei Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

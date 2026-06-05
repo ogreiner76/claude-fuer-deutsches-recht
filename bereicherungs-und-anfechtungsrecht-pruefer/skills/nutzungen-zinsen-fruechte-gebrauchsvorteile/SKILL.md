@@ -1,6 +1,6 @@
 ---
 name: nutzungen-zinsen-fruechte-gebrauchsvorteile
-description: "Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB."
+description: "Bei nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB."
 ---
 
 # Nutzungen, Zinsen, Früchte und Gebrauchsvorteile

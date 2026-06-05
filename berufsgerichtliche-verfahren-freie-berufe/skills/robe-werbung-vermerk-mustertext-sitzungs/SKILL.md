@@ -1,13 +1,13 @@
 ---
 name: robe-werbung-vermerk-mustertext-sitzungs
-description: "Nutze dies bei Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

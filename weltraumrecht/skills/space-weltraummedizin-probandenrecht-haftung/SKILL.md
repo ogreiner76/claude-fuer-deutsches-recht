@@ -1,13 +1,13 @@
 ---
 name: space-weltraummedizin-probandenrecht-haftung
-description: "Nutze dies bei Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

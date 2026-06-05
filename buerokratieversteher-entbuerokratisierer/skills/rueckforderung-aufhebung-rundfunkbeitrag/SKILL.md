@@ -1,13 +1,13 @@
 ---
 name: rueckforderung-aufhebung-rundfunkbeitrag
-description: "Nutze dies bei Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

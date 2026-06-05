@@ -1,6 +1,6 @@
 ---
 name: dienstvergehen-ausser-agg-gleichstellung
-description: "Nutze dies bei Dienstvergehen Ausser Dienst 47 Beamtstg, Agg Gleichstellung Und Frauenvertretung, Altersteilzeit 93 Bbg Blockmodell: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dienstvergehen Ausser Dienst 47 Beamtstg, Agg Gleichstellung Und Frauenvertretung, Altersteilzeit 93 Bbg Blockmodell: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dienstvergehen Ausser Dienst 47 Beamtstg, Agg Gleichstellung Und Frauenvertretung, Altersteilzeit 93 Bbg Blockmodell

@@ -1,13 +1,13 @@
 ---
 name: crossborder-us-ksv-abgabe-kuenstler-ksvg
-description: "Nutze dies bei Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

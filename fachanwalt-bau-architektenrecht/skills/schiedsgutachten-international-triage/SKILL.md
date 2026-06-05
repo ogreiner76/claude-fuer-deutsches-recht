@@ -1,13 +1,13 @@
 ---
 name: schiedsgutachten-international-triage
-description: "Nutze dies bei Schiedsgutachten International Schnittstellen, Schnittstellen Compliance Dokumentation Und Akte, Triage Beweislast Und Darlegungslast, Vergaberecht Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schiedsgutachten International Schnittstellen, Schnittstellen Compliance Dokumentation Und Akte, Triage Beweislast Und Darlegungslast, Vergaberecht Zahlen Schwellen Und Berechnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schiedsgutachten International Schnittstellen, Schnittstellen Compliance Dokumentation Und Akte, Triage Beweislast Und Darlegungslast, Vergaberecht Zahlen Schwellen Und Berechnung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schiedsgutachten International Schnittstellen, Schnittstellen Compliance Dokumentation Und Akte, Triage Beweislast Und Darlegungslast, Vergaberecht Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schiedsgutachten International Schnittstellen, Schnittstellen Compliance Dokumentation Und Akte, Triage Beweislast Und Darlegungslast, Vergaberecht Zahlen Schwellen Und Berechnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

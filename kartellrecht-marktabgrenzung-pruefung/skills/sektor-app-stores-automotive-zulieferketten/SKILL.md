@@ -1,13 +1,13 @@
 ---
 name: sektor-app-stores-automotive-zulieferketten
-description: "Nutze dies bei Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

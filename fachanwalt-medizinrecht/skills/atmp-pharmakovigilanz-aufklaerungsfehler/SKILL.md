@@ -1,6 +1,6 @@
 ---
 name: atmp-pharmakovigilanz-aufklaerungsfehler
-description: "Nutze dies bei Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundherausgabe Epa Akte, Behandlungsfehler Anspruch Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundherausgabe Epa Akte, Behandlungsfehler Anspruch Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundherausgabe Epa Akte, Behandlungsfehler Anspruch Prüfen

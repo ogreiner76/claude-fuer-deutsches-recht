@@ -1,13 +1,13 @@
 ---
 name: infl-steuerpruefung-creator-buchhaltung-datev
-description: "Nutze dies bei Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

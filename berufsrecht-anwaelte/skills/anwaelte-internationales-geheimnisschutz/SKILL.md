@@ -1,13 +1,13 @@
 ---
 name: anwaelte-internationales-geheimnisschutz
-description: "Nutze dies bei Anwaelte Internationales Mandat Und Geheimnisschutz Organisatio, Anwaelte Internationales Mandat Und Geheimnisschutz Rechtsprech, Anwaelte Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver, Anwaelte Kanzleinachfolge Und Aktenarchiv Organisationspflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Internationales Mandat Und Geheimnisschutz Organisatio, Anwaelte Internationales Mandat Und Geheimnisschutz Rechtsprech, Anwaelte Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver, Anwaelte Kanzleinachfolge Und Aktenarchiv Organisationspflicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Internationales Mandat Und Geheimnisschutz Organisatio, Anwälte Internationales Mandat Und Geheimnisschutz Rechtsprech, Anwälte Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver, Anwälte Kanzleinachfolge Und Aktenarchiv Organisationspflicht, Anwälte Kanzleisitz Und Zweigstelle Kammerantwort Und Verfahre und 4 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Internationales Mandat Und Geheimnisschutz Organisatio, Anwälte Internationales Mandat Und Geheimnisschutz Rechtsprech, Anwälte Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver, Anwälte Kanzleinachfolge Und Aktenarchiv Organisationspflicht, Anwälte Kanzleisitz Und Zweigstelle Kammerantwort Und Verfahre und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Internationales Mandat Und Geheimnisschutz Organisatio, Anwälte Internationales Mandat Und Geheimnisschutz Rechtsprech, Anwälte Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver, Anwälte Kanzleinachfolge Und Aktenarchiv Organisationspflicht, Anwälte Kanzleisitz Und Zweigstelle Kammerantwort Und Verfahre und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

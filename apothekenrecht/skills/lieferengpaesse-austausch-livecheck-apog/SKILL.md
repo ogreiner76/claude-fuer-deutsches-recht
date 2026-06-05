@@ -1,13 +1,13 @@
 ---
 name: lieferengpaesse-austausch-livecheck-apog
-description: "Nutze dies bei Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

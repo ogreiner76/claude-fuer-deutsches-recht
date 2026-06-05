@@ -17,3 +17,10 @@ Dieser Skill verhindert, dass im Zivilrecht ein guter Gedanke als geltendes Rech
 
 ## Output
 Normstufenkarte und knapper Gutachtenabschnitt, der Wertung und Geltung sauber trennt.
+
+## Powersprint-Vertiefung
+
+- **Argumentationsdisziplin:** Bei `Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung` positive Normbindung, Präjudizien, Prinzipien, institutionelle Kompetenz und rechtspolitische Wertung getrennt halten.
+- **Methodischer Streit:** Gesetzespositivistische, prinzipienorientierte, systematische, historische und realistische Lesarten als Alternativen sichtbar machen; keine Methode als Zauberformel ausgeben.
+- **Fehlerbremse:** Keine bloße Berufung auf „objektive Auslegung“, „Ausnahme eng“ oder „Natur der Sache“, ohne zu zeigen, wer dadurch Kompetenz gewinnt und welche Normbindung bleibt.
+- **Output:** Thesenpapier, Schriftsatzargument, Gegenargument-Matrix und Grenze richterlicher Rechtsfortbildung.

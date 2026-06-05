@@ -1,13 +1,13 @@
 ---
 name: erfinderkommunikation-konzern
-description: "Nutze dies bei Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

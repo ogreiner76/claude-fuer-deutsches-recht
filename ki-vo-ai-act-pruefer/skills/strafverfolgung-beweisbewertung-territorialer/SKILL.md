@@ -1,13 +1,13 @@
 ---
 name: strafverfolgung-beweisbewertung-territorialer
-description: "Nutze dies bei Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

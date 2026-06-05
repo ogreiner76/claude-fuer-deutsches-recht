@@ -1,13 +1,13 @@
 ---
 name: subsumtion-schritt-verfassungsrecht
-description: "Nutze dies bei Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

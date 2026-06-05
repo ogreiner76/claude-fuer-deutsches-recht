@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-sonderfall-edge-case
-description: "Nutze dies bei Kaltstart: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Kaltstart: Sonderfall und Edge-Case-Prüfung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Kaltstart: Sonderfall und Edge-Case-Prüfung

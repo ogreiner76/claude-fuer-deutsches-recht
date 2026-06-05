@@ -1,6 +1,6 @@
 ---
 name: starug-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Starug Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Starug Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Starug Quellenkarte

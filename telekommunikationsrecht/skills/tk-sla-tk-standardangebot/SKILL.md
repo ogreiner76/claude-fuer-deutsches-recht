@@ -1,13 +1,13 @@
 ---
 name: tk-sla-tk-standardangebot
-description: "Nutze dies bei Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tk Sla Business Kunden Ausfall, Tk Standardangebot Reference Offer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-goae-rechnung-pruefen
-description: "Nutze dies zum Einstieg in Kaltstart GOÄ Rechnung prüfen: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kaltstart GOÄ Rechnung prüfen: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart GOÄ Rechnung prüfen

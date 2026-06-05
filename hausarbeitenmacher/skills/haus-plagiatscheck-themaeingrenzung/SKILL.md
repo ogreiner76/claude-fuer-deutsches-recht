@@ -1,13 +1,13 @@
 ---
 name: haus-plagiatscheck-themaeingrenzung
-description: "Nutze dies bei Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

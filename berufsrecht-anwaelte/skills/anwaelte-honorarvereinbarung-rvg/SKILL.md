@@ -1,13 +1,13 @@
 ---
 name: anwaelte-honorarvereinbarung-rvg
-description: "Nutze dies bei Anwaelte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwaelte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwaelte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwaelte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwaelte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwaelte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwaelte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

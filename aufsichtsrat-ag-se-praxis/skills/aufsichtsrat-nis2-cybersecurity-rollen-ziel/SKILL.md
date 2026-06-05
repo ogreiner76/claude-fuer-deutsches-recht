@@ -1,13 +1,13 @@
 ---
 name: aufsichtsrat-nis2-cybersecurity-rollen-ziel
-description: "Nutze dies bei Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

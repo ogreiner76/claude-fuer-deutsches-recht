@@ -1,13 +1,13 @@
 ---
 name: aussergewoehnliche-distanz-interessen
-description: "Nutze dies bei Aussergewoehnliche Zahlen Schwellen Und Berechnung, Distanz Mehrparteien Konflikt Und Interessen, Erfassen Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Aussergewoehnliche Zahlen Schwellen Und Berechnung, Distanz Mehrparteien Konflikt Und Interessen, Erfassen Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Aussergewoehnliche Zahlen Schwellen Und Berechnung, Distanz Mehrparteien Konflikt Und Interessen, Erfassen Behörden Gericht Und Registerweg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Aussergewoehnliche Zahlen Schwellen Und Berechnung, Distanz Mehrparteien Konflikt Und Interessen, Erfassen Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Aussergewoehnliche Zahlen Schwellen Und Berechnung, Distanz Mehrparteien Konflikt Und Interessen, Erfassen Behörden Gericht Und Registerweg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

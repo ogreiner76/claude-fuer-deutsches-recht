@@ -32,3 +32,10 @@ description: "Art. 50 KI-VO fuer Chatbots, Deepfakes und synthetische Inhalte: N
 ## Grundsatz
 
 Kennzeichnung soll informieren, nicht stigmatisieren. Der Hinweis muss dort stehen, wo er für Betroffene wirklich wahrnehmbar ist.
+
+## Powersprint-Vertiefung
+
+- **AI-Act-Pfad:** Bei `Art. 50 KI-VO: Transparenz, Deepfakes, synthetische Inhalte` Art. 3 KI-VO, Zweckbestimmung, Anbieter-/Betreiberrolle, Art. 6 Abs. 2 mit Anhang III, Transparenzpflichten und Sanktionen getrennt prüfen.
+- **Dokumentationslogik:** Schreibe nicht nur ein Ergebnis, sondern eine auditfähige Begründung mit Systembeschreibung, Datenfluss, Risiko, Governance, menschlicher Aufsicht und Restunsicherheit.
+- **Quellenbremse:** Normtext, Leitlinien, harmonisierte Normen und Behördenpraxis nur mit Datum/Quelle; ISO-/DIN-Bezüge als Prüfauftrag kennzeichnen, wenn nicht im Mandat belegt.
+- **Output:** KI-System-Check, Hochrisiko-Matrix, Grundrechte-/Transparenznotiz oder Behördenkommunikation.

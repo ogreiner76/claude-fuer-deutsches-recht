@@ -1,13 +1,13 @@
 ---
 name: antikorruption-crm-datenschutz-cross-selling
-description: "Nutze dies bei Compliance Antikorruption, Crm Und Datenschutz, Cross Selling, Datentraeger Rueckgabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Compliance Antikorruption, Crm Und Datenschutz, Cross Selling, Datentraeger Rueckgabe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Compliance Antikorruption, Crm Und Datenschutz, Cross Selling, Datentraeger Rueckgabe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Compliance Antikorruption, Crm Und Datenschutz, Cross Selling, Datentraeger Rueckgabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Compliance Antikorruption, Crm Und Datenschutz, Cross Selling, Datentraeger Rueckgabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

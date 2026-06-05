@@ -1,13 +1,13 @@
 ---
 name: veroeffentlichung-bussgeldentscheidungen
-description: "Nutze dies bei Veroeffentlichung Von Bussgeldentscheidungen, Anwesenheit 73 Owig Vertretung, One Stop Shop Art 56 60, Akteneinsicht 49 Owig 147 Stpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Veroeffentlichung Von Bussgeldentscheidungen, Anwesenheit 73 Owig Vertretung, One Stop Shop Art 56 60, Akteneinsicht 49 Owig 147 Stpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Veroeffentlichung Von Bussgeldentscheidungen, Anwesenheit 73 Owig Vertretung, One Stop Shop Art 56 60, Akteneinsicht 49 Owig 147 Stpo
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Veroeffentlichung Von Bussgeldentscheidungen, Anwesenheit 73 Owig Vertretung, One Stop Shop Art 56 60, Akteneinsicht 49 Owig 147 Stpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Veroeffentlichung Von Bussgeldentscheidungen, Anwesenheit 73 Owig Vertretung, One Stop Shop Art 56 60, Akteneinsicht 49 Owig 147 Stpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

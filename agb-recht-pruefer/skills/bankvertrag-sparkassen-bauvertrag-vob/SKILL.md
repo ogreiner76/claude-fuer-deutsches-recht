@@ -1,6 +1,6 @@
 ---
 name: bankvertrag-sparkassen-bauvertrag-vob
-description: "Nutze dies bei Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Im Bankvertrag Sparkassen Und Banken, Agb Im Bauvertrag Vob B 2024

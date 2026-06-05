@@ -1,13 +1,13 @@
 ---
 name: umwandlung-verschmelzung-kapitalerhoehung
-description: "Nutze dies bei Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: aufklaerungsfehler-behandlungsfehler
-description: "Nutze dies bei Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behandlungsfehler Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behandlungsfehler Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behandlungsfehler Prüfen

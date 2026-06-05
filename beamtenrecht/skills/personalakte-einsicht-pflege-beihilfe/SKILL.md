@@ -1,6 +1,6 @@
 ---
 name: personalakte-einsicht-pflege-beihilfe
-description: "Nutze dies bei Personalakte Einsicht Datenschutz, Pflege Beihilfe Pflegeversicherung Beamte, Plausibilisierung Gleicher Gesamtnoten, Politische Maessigung 60 Bbg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Personalakte Einsicht Datenschutz, Pflege Beihilfe Pflegeversicherung Beamte, Plausibilisierung Gleicher Gesamtnoten, Politische Maessigung 60 Bbg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Personalakte Einsicht Datenschutz, Pflege Beihilfe Pflegeversicherung Beamte, Plausibilisierung Gleicher Gesamtnoten, Politische Maessigung 60 Bbg

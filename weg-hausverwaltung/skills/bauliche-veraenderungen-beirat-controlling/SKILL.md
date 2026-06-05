@@ -1,13 +1,13 @@
 ---
 name: bauliche-veraenderungen-beirat-controlling
-description: "Nutze dies bei Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

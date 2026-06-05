@@ -1,13 +1,13 @@
 ---
 name: mandanten-beteiligtenkommunikation-notar
-description: "Nutze dies bei Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mandanten Oder Beteiligtenkommunikation, Notar Disziplinar Bnoto, Patentanwalt Berufsgericht Pao, Protokoll Und Nachbereitung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

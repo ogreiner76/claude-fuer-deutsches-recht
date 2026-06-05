@@ -1,13 +1,13 @@
 ---
 name: drafting-interessen-explainer-beweislast
-description: "Nutze dies bei Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

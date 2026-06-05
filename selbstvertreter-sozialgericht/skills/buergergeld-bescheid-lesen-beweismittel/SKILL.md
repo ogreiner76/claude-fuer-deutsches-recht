@@ -1,13 +1,13 @@
 ---
 name: buergergeld-bescheid-lesen-beweismittel
-description: "Nutze dies bei Bescheid Lesen Tenor Begruendung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Bürgergeld Jobcenter Sgb Ii, Bürgergeld Kosten Der Unterkunft 22 Sgb Ii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bescheid Lesen Tenor Begruendung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Bürgergeld Jobcenter Sgb Ii, Bürgergeld Kosten Der Unterkunft 22 Sgb Ii: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

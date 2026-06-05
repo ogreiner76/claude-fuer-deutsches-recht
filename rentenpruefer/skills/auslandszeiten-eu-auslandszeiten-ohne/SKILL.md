@@ -1,13 +1,13 @@
 ---
 name: auslandszeiten-eu-auslandszeiten-ohne
-description: "Nutze dies bei Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

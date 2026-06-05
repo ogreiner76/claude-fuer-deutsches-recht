@@ -1,13 +1,13 @@
 ---
 name: pfarrbrief-katechetisch-pfarrei-pfarrer
-description: "Nutze dies bei Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

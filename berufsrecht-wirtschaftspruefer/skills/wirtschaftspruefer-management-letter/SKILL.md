@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-management-letter
-description: "Nutze dies bei Wirtschaftspruefer Management Letter Formulierung Rechtsprechun, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kammerantwort, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Organisations, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Rechtsprechun: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Management Letter Formulierung Rechtsprechun, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kammerantwort, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Organisations, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Rechtsprechun: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Management Letter Formulierung Rechtsprechun, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kammerantwort, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Organisations, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Rechtsprechun
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Management Letter Formulierung Rechtsprechun, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kammerantwort, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Organisations, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Rechtsprechun** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Management Letter Formulierung Rechtsprechun, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kammerantwort, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Organisations, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Rechtsprechun** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

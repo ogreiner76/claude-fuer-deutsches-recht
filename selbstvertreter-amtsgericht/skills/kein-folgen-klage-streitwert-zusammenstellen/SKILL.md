@@ -1,13 +1,13 @@
 ---
 name: kein-folgen-klage-streitwert-zusammenstellen
-description: "Nutze dies bei Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

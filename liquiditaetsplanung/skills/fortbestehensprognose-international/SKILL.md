@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-international
-description: "Nutze dies bei Fortbestehensprognose: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Fortbestehensprognose: Internationaler Bezug und Schnittstellen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Fortbestehensprognose: Internationaler Bezug und Schnittstellen

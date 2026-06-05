@@ -1,6 +1,6 @@
 ---
 name: datenverlust-digitaler-deliktische-haftung
-description: "Nutze dies bei Datenverlust Und Digitaler Schaden, Deliktische Haftung Paragraph 823 Bgb, Haftung Arzt Klinik Hersteller, Schadensberechnung Produktionsausfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenverlust Und Digitaler Schaden, Deliktische Haftung Paragraph 823 Bgb, Haftung Arzt Klinik Hersteller, Schadensberechnung Produktionsausfall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenverlust Und Digitaler Schaden, Deliktische Haftung Paragraph 823 Bgb, Haftung Arzt Klinik Hersteller, Schadensberechnung Produktionsausfall

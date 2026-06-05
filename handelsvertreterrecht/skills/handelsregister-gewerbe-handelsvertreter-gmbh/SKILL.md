@@ -1,13 +1,13 @@
 ---
 name: handelsregister-gewerbe-handelsvertreter-gmbh
-description: "Nutze dies bei Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

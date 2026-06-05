@@ -1,6 +1,6 @@
 ---
 name: apothekenrecht-interessen-aufklaerung
-description: "Nutze dies bei Apothekenrecht Mehrparteien Konflikt Und Interessen, Aufklaerung Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Apothekenrecht Mehrparteien Konflikt Und Interessen, Aufklaerung Beweislast Und Darlegungslast: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Apothekenrecht Mehrparteien Konflikt Und Interessen, Aufklaerung Beweislast Und Darlegungslast

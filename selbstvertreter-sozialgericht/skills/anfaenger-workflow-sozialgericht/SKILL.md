@@ -1,6 +1,6 @@
 ---
 name: anfaenger-workflow-sozialgericht
-description: "Nutze dies bei Anfänger-Sozialgericht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Anfänger-Sozialgericht: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Anfänger-Sozialgericht

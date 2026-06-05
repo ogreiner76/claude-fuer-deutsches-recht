@@ -1,6 +1,6 @@
 ---
 name: hochschule-professoren-kommunalbeamte
-description: "Nutze dies bei Hochschule Professoren W Besoldung, Kommunalbeamte Und Wahlbeamte, Konkurrentenklage Einstweiliger Rechtsschutz, Konkurrentenschutz Auswahlvermerk Und Akteneinsicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Hochschule Professoren W Besoldung, Kommunalbeamte Und Wahlbeamte, Konkurrentenklage Einstweiliger Rechtsschutz, Konkurrentenschutz Auswahlvermerk Und Akteneinsicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Hochschule Professoren W Besoldung, Kommunalbeamte Und Wahlbeamte, Konkurrentenklage Einstweiliger Rechtsschutz, Konkurrentenschutz Auswahlvermerk Und Akteneinsicht

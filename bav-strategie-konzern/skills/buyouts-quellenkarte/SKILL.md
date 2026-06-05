@@ -1,6 +1,6 @@
 ---
 name: buyouts-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Buyouts Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Buyouts Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Buyouts Quellenkarte

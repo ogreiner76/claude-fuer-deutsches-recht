@@ -1,13 +1,13 @@
 ---
 name: krankenkassen-hilfsmittel-leistungsablehnung
-description: "Nutze dies bei Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

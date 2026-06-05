@@ -1,13 +1,13 @@
 ---
 name: holle-umkehr-italienische-kurienkommunikation
-description: "Nutze dies bei Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

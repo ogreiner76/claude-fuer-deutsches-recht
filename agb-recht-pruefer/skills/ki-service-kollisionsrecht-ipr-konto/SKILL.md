@@ -1,13 +1,13 @@
 ---
 name: ki-service-kollisionsrecht-ipr-konto
-description: "Nutze dies bei Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

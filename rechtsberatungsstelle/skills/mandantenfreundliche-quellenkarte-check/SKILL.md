@@ -1,6 +1,6 @@
 ---
 name: mandantenfreundliche-quellenkarte-check
-description: "Nutze dies zur Quellenprüfung bei Mandantenfreundliche Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Mandantenfreundliche Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Mandantenfreundliche Quellenkarte Check

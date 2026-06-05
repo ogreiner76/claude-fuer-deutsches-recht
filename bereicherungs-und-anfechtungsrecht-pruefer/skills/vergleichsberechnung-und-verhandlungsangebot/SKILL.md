@@ -1,6 +1,6 @@
 ---
 name: vergleichsberechnung-und-verhandlungsangebot
-description: "Nutze diesen Skill, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung."
+description: "Bei bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung."
 ---
 
 # Vergleichsberechnung und Verhandlungsangebot

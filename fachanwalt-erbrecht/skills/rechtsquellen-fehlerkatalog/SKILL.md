@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-fehlerkatalog
-description: "Nutze dies zur Quellenprüfung bei Rechtsquellen Fehlerkatalog: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen Fehlerkatalog: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen Fehlerkatalog

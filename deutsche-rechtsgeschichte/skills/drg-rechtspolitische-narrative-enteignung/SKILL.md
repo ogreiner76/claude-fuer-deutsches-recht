@@ -1,13 +1,13 @@
 ---
 name: drg-rechtspolitische-narrative-enteignung
-description: "Nutze dies bei Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

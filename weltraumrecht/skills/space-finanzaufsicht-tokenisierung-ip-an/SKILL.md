@@ -1,13 +1,13 @@
 ---
 name: space-finanzaufsicht-tokenisierung-ip-an
-description: "Nutze dies bei Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen, Space 082 Ip An Weltraumerfindungen An Bord, Space 083 Universitaet Industrie Spin Off Raumfahrt, Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen, Space 082 Ip An Weltraumerfindungen An Bord, Space 083 Universitaet Industrie Spin Off Raumfahrt, Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen, Space 082 Ip An Weltraumerfindungen An Bord, Space 083 Universitaet Industrie Spin Off Raumfahrt, Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen, Space 082 Ip An Weltraumerfindungen An Bord, Space 083 Universitaet Industrie Spin Off Raumfahrt, Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen, Space 082 Ip An Weltraumerfindungen An Bord, Space 083 Universitaet Industrie Spin Off Raumfahrt, Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

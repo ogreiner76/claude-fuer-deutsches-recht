@@ -1,13 +1,13 @@
 ---
 name: ifg-ifggebv-gebuehren-klage-vorbereiten
-description: "Nutze dies bei Ifg 053 Ifggebv Gebuehren Widerspruch Bauen, Ifg 054 Ifggebv Gebuehren Klage Vorbereiten, Ifg 055 Ifggebv Gebuehren Presseantwort Nachfa, Ifg 056 Ifggebv Gebuehren Tracking Aktualisier: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ifg 053 Ifggebv Gebuehren Widerspruch Bauen, Ifg 054 Ifggebv Gebuehren Klage Vorbereiten, Ifg 055 Ifggebv Gebuehren Presseantwort Nachfa, Ifg 056 Ifggebv Gebuehren Tracking Aktualisier: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

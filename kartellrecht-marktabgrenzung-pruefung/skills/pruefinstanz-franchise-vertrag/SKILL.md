@@ -1,6 +1,6 @@
 ---
 name: pruefinstanz-franchise-vertrag
-description: "Nutze dies bei Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht

@@ -1,13 +1,13 @@
 ---
 name: sportr-stadionverbot-verbandsstrafe
-description: "Nutze dies bei Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

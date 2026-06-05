@@ -1,6 +1,6 @@
 ---
 name: vergabesenat-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Vergabesenat Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Vergabesenat Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Vergabesenat Quellenkarte

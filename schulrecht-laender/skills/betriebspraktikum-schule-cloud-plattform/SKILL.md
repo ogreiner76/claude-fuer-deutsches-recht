@@ -1,13 +1,13 @@
 ---
 name: betriebspraktikum-schule-cloud-plattform
-description: "Nutze dies bei Betriebspraktikum Schule, Cloud Plattform Schule M365, Cybermobbing Schule, Datenschutz Schule: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betriebspraktikum Schule, Cloud Plattform Schule M365, Cybermobbing Schule, Datenschutz Schule: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betriebspraktikum Schule, Cloud Plattform Schule M365, Cybermobbing Schule, Datenschutz Schule
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betriebspraktikum Schule, Cloud Plattform Schule M365, Cybermobbing Schule, Datenschutz Schule** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betriebspraktikum Schule, Cloud Plattform Schule M365, Cybermobbing Schule, Datenschutz Schule** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

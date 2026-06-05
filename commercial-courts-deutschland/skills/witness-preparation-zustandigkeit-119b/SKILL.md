@@ -1,13 +1,13 @@
 ---
 name: witness-preparation-zustandigkeit-119b
-description: "Nutze dies bei Witness Preparation English Zpo, Zustandigkeit 119b Gvg Check: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Witness Preparation English Zpo, Zustandigkeit 119b Gvg Check: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Witness Preparation English Zpo, Zustandigkeit 119B Gvg Check
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Witness Preparation English Zpo, Zustandigkeit 119B Gvg Check** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Witness Preparation English Zpo, Zustandigkeit 119B Gvg Check** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

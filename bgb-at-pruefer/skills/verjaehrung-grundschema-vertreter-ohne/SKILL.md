@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-grundschema-vertreter-ohne
-description: "Nutze dies bei Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

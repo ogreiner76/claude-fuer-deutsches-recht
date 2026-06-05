@@ -1,6 +1,6 @@
 ---
 name: gentherapie-dossier-gentherapie-langzeit
-description: "Nutze dies bei Gentherapie Dossier Gmp, Gentherapie Langzeit Followup: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gentherapie Dossier Gmp, Gentherapie Langzeit Followup: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gentherapie Dossier Gmp, Gentherapie Langzeit Followup

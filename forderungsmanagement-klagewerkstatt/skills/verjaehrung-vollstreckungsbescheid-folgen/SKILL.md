@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-vollstreckungsbescheid-folgen
-description: "Nutze dies bei Verjaehrung Prüfen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verjaehrung Prüfen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verjaehrung Prüfen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Verjaehrung Prüfen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Verjaehrung Prüfen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

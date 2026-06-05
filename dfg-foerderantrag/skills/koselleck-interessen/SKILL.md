@@ -1,6 +1,6 @@
 ---
 name: koselleck-interessen
-description: "Nutze dies bei Koselleck: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Koselleck: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Koselleck: Mehrparteienkonflikt und Interessenmatrix

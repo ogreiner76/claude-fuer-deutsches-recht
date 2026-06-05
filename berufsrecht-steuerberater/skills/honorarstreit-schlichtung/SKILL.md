@@ -1,13 +1,13 @@
 ---
 name: honorarstreit-schlichtung
-description: "Nutze dies bei Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 4
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 4** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 4** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

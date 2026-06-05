@@ -1,13 +1,13 @@
 ---
 name: vbr-digitale-inhalte-saas-verbraucher
-description: "Nutze dies bei Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

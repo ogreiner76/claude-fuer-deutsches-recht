@@ -1,6 +1,6 @@
 ---
 name: orientierung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Orientierung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Orientierung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Orientierung Fehlerkatalog

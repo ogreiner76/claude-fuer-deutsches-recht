@@ -1,13 +1,13 @@
 ---
 name: datenschutz-datenpanne-art-erstgespraech
-description: "Nutze dies bei Datenschutz Datenpanne Art 33 34 72h Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenschutz Datenpanne Art 33 34 72h Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

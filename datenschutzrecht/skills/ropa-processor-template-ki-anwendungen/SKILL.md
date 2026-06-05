@@ -1,13 +1,13 @@
 ---
 name: ropa-processor-template-ki-anwendungen
-description: "Nutze dies bei Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

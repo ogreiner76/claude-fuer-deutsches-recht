@@ -1,6 +1,6 @@
 ---
 name: anlage-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Anlage Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Anlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Anlage Fehlerkatalog

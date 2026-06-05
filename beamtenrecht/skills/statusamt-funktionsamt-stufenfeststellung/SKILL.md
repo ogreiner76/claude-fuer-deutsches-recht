@@ -1,6 +1,6 @@
 ---
 name: statusamt-funktionsamt-stufenfeststellung
-description: "Nutze dies bei Statusamt Funktionsamt Dienstposten, Stufenfeststellung Besoldung 27 Bbesg, Suspendierung 38 Bdg 63 Bdg Eilrechtsschutz, Tarifbeschaeftigte Abgrenzung Tv L: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Statusamt Funktionsamt Dienstposten, Stufenfeststellung Besoldung 27 Bbesg, Suspendierung 38 Bdg 63 Bdg Eilrechtsschutz, Tarifbeschaeftigte Abgrenzung Tv L: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Statusamt Funktionsamt Dienstposten, Stufenfeststellung Besoldung 27 Bbesg, Suspendierung 38 Bdg 63 Bdg Eilrechtsschutz, Tarifbeschaeftigte Abgrenzung Tv L

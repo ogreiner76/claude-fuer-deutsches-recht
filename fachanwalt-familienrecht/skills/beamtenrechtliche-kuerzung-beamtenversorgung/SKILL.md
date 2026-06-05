@@ -1,13 +1,13 @@
 ---
 name: beamtenrechtliche-kuerzung-beamtenversorgung
-description: "Nutze dies bei Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

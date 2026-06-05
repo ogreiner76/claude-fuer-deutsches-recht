@@ -1,13 +1,13 @@
 ---
 name: strong-arm-structured-finance-subchapter-v-v
-description: "Nutze dies bei Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

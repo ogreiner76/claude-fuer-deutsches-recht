@@ -1,13 +1,13 @@
 ---
 name: dsv-kein-risiko-kinderdaten-besondere
-description: "Nutze dies bei Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

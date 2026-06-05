@@ -1,6 +1,6 @@
 ---
 name: art-aeuv-auswirkungen-marktanteile
-description: "Nutze dies bei Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung

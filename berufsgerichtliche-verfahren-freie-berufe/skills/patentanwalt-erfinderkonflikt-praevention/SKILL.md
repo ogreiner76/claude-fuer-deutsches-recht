@@ -1,13 +1,13 @@
 ---
 name: patentanwalt-erfinderkonflikt-praevention
-description: "Nutze dies bei Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

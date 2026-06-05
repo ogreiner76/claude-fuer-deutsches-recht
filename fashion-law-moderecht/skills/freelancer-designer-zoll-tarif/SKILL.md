@@ -1,13 +1,13 @@
 ---
 name: freelancer-designer-zoll-tarif
-description: "Nutze dies bei Freelancer Designer Ip, Zoll Tarif Ursprung Mode: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Freelancer Designer Ip, Zoll Tarif Ursprung Mode: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Freelancer Designer Ip, Zoll Tarif Ursprung Mode
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Freelancer Designer Ip, Zoll Tarif Ursprung Mode** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Freelancer Designer Ip, Zoll Tarif Ursprung Mode** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

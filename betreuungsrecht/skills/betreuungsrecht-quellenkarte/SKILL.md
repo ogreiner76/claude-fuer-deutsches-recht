@@ -1,6 +1,6 @@
 ---
 name: betreuungsrecht-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Betreuungsrecht Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Betreuungsrecht Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Betreuungsrecht Quellenkarte

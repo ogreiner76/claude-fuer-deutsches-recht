@@ -1,13 +1,13 @@
 ---
 name: anwaltsschriftsatz-beweislast-beweismittel
-description: "Nutze dies bei Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-qualitaetskontrolle
-description: "Nutze dies bei Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

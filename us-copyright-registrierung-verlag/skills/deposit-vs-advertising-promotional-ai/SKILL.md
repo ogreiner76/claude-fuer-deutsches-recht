@@ -1,13 +1,13 @@
 ---
 name: deposit-vs-advertising-promotional-ai
-description: "Nutze dies bei Deposit Vs Registration 407 408, Advertising Promotional Campaigns, Ai Contract Disclosure, Ai Generated Material Disclosure: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Deposit Vs Registration 407 408, Advertising Promotional Campaigns, Ai Contract Disclosure, Ai Generated Material Disclosure: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Deposit Vs Registration 407 408, Advertising Promotional Campaigns, Ai Contract Disclosure, Ai Generated Material Disclosure
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Deposit Vs Registration 407 408, Advertising Promotional Campaigns, Ai Contract Disclosure, Ai Generated Material Disclosure** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Deposit Vs Registration 407 408, Advertising Promotional Campaigns, Ai Contract Disclosure, Ai Generated Material Disclosure** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

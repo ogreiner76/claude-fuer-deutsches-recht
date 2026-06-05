@@ -1,13 +1,13 @@
 ---
 name: ihl-praeferenzursprung-ihl-exportkontrolle
-description: "Nutze dies bei Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

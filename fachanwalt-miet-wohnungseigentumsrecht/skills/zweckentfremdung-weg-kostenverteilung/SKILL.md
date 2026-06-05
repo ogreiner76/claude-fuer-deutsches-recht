@@ -1,6 +1,6 @@
 ---
 name: zweckentfremdung-weg-kostenverteilung
-description: "Nutze dies bei Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse

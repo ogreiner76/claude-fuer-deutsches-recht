@@ -1,6 +1,6 @@
 ---
 name: beirat-zustimmungsvorbehalte
-description: "Nutze dies bei Beirat Zustimmungsvorbehalte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Zustimmungsvorbehalte: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Zustimmungsvorbehalte

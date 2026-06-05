@@ -1,13 +1,13 @@
 ---
 name: oew-autobahnprojekt-oew
-description: "Nutze dies bei Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

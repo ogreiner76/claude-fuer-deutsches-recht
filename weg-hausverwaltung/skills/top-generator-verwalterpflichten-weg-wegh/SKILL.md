@@ -1,13 +1,13 @@
 ---
 name: top-generator-verwalterpflichten-weg-wegh
-description: "Nutze dies bei Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

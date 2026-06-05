@@ -1,13 +1,13 @@
 ---
 name: europarecht-delegierte-durchfuehrungsakte
-description: "Nutze dies bei Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

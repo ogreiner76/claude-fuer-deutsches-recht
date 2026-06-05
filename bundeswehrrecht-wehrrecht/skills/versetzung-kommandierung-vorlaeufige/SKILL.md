@@ -1,13 +1,13 @@
 ---
 name: versetzung-kommandierung-vorlaeufige
-description: "Nutze dies bei Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

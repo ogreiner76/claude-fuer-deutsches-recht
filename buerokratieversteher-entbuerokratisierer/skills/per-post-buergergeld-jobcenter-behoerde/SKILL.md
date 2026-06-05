@@ -1,13 +1,13 @@
 ---
 name: per-post-buergergeld-jobcenter-behoerde
-description: "Nutze dies bei Brief Per Post Und Einschreiben, Bürgergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Brief Per Post Und Einschreiben, Bürgergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

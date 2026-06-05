@@ -1,13 +1,13 @@
 ---
 name: grundrente-zuschlaege-hinterbliebenenrente
-description: "Nutze dies bei Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

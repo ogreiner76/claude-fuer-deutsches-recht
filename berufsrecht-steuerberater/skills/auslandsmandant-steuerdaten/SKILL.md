@@ -1,13 +1,13 @@
 ---
 name: auslandsmandant-steuerdaten
-description: "Nutze dies bei Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

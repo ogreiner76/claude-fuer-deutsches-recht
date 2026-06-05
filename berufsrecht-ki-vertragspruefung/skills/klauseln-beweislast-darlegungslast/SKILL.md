@@ -1,6 +1,6 @@
 ---
 name: klauseln-beweislast-darlegungslast
-description: "Nutze dies bei Klauseln: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Klauseln: Beweislast, Darlegungslast und Substantiierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung

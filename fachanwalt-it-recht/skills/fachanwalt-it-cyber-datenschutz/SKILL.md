@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-it-cyber-datenschutz
-description: "Nutze dies bei Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

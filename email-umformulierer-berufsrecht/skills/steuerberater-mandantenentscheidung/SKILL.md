@@ -1,6 +1,6 @@
 ---
 name: steuerberater-mandantenentscheidung
-description: "Nutze dies bei Steuerberater: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Steuerberater: Mandantenkommunikation und Entscheidungsvorlage

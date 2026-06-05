@@ -1,13 +1,13 @@
 ---
 name: bescheinigung-inso-datenschutz-schamfreie
-description: "Nutze dies bei Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

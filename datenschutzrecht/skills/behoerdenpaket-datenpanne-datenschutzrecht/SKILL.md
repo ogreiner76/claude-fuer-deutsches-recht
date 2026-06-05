@@ -1,13 +1,13 @@
 ---
 name: behoerdenpaket-datenpanne-datenschutzrecht
-description: "Nutze dies bei Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste, Drittlandstransfer Verhandlung Vergleich Und Eskalation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste, Drittlandstransfer Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste, Drittlandstransfer Verhandlung Vergleich Und Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

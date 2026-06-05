@@ -1,13 +1,13 @@
 ---
 name: infl-minderjaehrige-creator-gewinnspiel
-description: "Nutze dies bei Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

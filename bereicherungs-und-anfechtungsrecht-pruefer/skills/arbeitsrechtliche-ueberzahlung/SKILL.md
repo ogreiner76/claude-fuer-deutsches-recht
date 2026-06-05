@@ -1,6 +1,6 @@
 ---
 name: arbeitsrechtliche-ueberzahlung
-description: "Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB."
+description: "Bei arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB."
 ---
 
 # Arbeitsrechtliche Überzahlung

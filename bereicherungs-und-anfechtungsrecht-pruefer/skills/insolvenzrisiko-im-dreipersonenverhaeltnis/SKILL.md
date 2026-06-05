@@ -1,6 +1,6 @@
 ---
 name: insolvenzrisiko-im-dreipersonenverhaeltnis
-description: "Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO."
+description: "Bei ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO."
 ---
 
 # Insolvenzrisiko im Dreipersonenverhältnis

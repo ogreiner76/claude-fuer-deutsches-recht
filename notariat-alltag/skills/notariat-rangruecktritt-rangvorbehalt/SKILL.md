@@ -1,13 +1,13 @@
 ---
 name: notariat-rangruecktritt-rangvorbehalt
-description: "Nutze dies bei Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

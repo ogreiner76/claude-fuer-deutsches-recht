@@ -1,13 +1,13 @@
 ---
 name: pralr-unterricht-seminar-mueller-arnold
-description: "Nutze dies bei Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

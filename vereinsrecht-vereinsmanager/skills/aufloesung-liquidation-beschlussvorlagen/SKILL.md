@@ -1,13 +1,13 @@
 ---
 name: aufloesung-liquidation-beschlussvorlagen
-description: "Nutze dies bei Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-musterprotokoll-vs
-description: "Nutze dies bei Gesellschaftsgruender Musterprotokoll Vs Satzung, Gesellschaftsgruender Notar Vorbereitung, Gesellschaftsgruender Notarbriefing Onepager, Gesellschaftsgruender One Page Roadmap: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftsgruender Musterprotokoll Vs Satzung, Gesellschaftsgruender Notar Vorbereitung, Gesellschaftsgruender Notarbriefing Onepager, Gesellschaftsgruender One Page Roadmap: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

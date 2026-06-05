@@ -1,13 +1,13 @@
 ---
 name: folgenorientierte-auslegung-formale
-description: "Nutze dies bei Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

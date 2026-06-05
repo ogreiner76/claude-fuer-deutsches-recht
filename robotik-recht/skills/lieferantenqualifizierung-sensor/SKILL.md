@@ -1,6 +1,6 @@
 ---
 name: lieferantenqualifizierung-sensor
-description: "Nutze dies bei Lieferantenqualifizierung Sensor Cloud, Lieferantenregress Und Indemnity: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lieferantenqualifizierung Sensor Cloud, Lieferantenregress Und Indemnity: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lieferantenqualifizierung Sensor Cloud, Lieferantenregress Und Indemnity

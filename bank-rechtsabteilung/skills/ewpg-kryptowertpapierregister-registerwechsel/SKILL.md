@@ -1,13 +1,13 @@
 ---
 name: ewpg-kryptowertpapierregister-registerwechsel
-description: "Nutze dies bei Ewpg Kryptowertpapierregister Erlaubnis, Ewpg Registerwechsel Registerfehler, Fit Proper Eignungsmatrix Deep Dive, Fit Proper Organe Mitarbeiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ewpg Kryptowertpapierregister Erlaubnis, Ewpg Registerwechsel Registerfehler, Fit Proper Eignungsmatrix Deep Dive, Fit Proper Organe Mitarbeiter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ewpg Kryptowertpapierregister Erlaubnis, Ewpg Registerwechsel Registerfehler, Fit Proper Eignungsmatrix Deep Dive, Fit Proper Organe Mitarbeiter, Forbearance Npe Risikoklassifizierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ewpg Kryptowertpapierregister Erlaubnis, Ewpg Registerwechsel Registerfehler, Fit Proper Eignungsmatrix Deep Dive, Fit Proper Organe Mitarbeiter, Forbearance Npe Risikoklassifizierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ewpg Kryptowertpapierregister Erlaubnis, Ewpg Registerwechsel Registerfehler, Fit Proper Eignungsmatrix Deep Dive, Fit Proper Organe Mitarbeiter, Forbearance Npe Risikoklassifizierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

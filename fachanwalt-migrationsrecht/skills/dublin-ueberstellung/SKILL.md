@@ -1,6 +1,6 @@
 ---
 name: dublin-ueberstellung
-description: "Nutze dies bei Dublin Fristen Ueberstellung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dublin Fristen Ueberstellung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dublin Fristen Ueberstellung

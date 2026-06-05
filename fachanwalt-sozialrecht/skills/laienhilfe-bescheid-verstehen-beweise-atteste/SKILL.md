@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-bescheid-verstehen-beweise-atteste
-description: "Nutze dies bei Laienhilfe Bescheid Verstehen, Laienhilfe Beweise Atteste, Laienhilfe Bürgergeld Bedarf, Laienhilfe Checkliste Vor Absenden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laienhilfe Bescheid Verstehen, Laienhilfe Beweise Atteste, Laienhilfe Bürgergeld Bedarf, Laienhilfe Checkliste Vor Absenden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laienhilfe Bescheid Verstehen, Laienhilfe Beweise Atteste, Laienhilfe Buergergeld Bedarf, Laienhilfe Checkliste Vor Absenden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Bescheid Verstehen, Laienhilfe Beweise Atteste, Laienhilfe Buergergeld Bedarf, Laienhilfe Checkliste Vor Absenden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Laienhilfe Bescheid Verstehen, Laienhilfe Beweise Atteste, Laienhilfe Buergergeld Bedarf, Laienhilfe Checkliste Vor Absenden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

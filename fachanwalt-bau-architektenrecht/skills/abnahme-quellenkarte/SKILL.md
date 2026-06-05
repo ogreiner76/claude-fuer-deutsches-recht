@@ -1,6 +1,6 @@
 ---
 name: abnahme-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Abnahme Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Abnahme Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Abnahme Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: dma-gatekeeper-einkaufskooperation
-description: "Nutze dies bei Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: avv-haftung-datenschutz-schadensersatz-dsfa
-description: "Nutze dies bei Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

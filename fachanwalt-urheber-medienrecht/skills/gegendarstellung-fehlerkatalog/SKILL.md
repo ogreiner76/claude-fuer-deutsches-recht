@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Gegendarstellung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Gegendarstellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Gegendarstellung Fehlerkatalog

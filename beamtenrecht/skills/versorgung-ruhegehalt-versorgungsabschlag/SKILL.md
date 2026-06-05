@@ -1,6 +1,6 @@
 ---
 name: versorgung-ruhegehalt-versorgungsabschlag
-description: "Nutze dies bei Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107b Beamtvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107b Beamtvg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107B Beamtvg

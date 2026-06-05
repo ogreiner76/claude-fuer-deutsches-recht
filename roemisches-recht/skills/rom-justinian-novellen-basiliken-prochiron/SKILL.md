@@ -1,13 +1,13 @@
 ---
 name: rom-justinian-novellen-basiliken-prochiron
-description: "Nutze dies bei Rom 105 Justinian Novellen Und Griechische Rechtskultur, Rom 106 Basiliken Prochiron Ecloga, Rom 107 Byzantinisches Kirchenrecht Und Familienrecht, Rom 108 Byzantinische Rezeption Und Osteuropa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rom 105 Justinian Novellen Und Griechische Rechtskultur, Rom 106 Basiliken Prochiron Ecloga, Rom 107 Byzantinisches Kirchenrecht Und Familienrecht, Rom 108 Byzantinische Rezeption Und Osteuropa: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rom 105 Justinian Novellen Und Griechische Rechtskultur, Rom 106 Basiliken Prochiron Ecloga, Rom 107 Byzantinisches Kirchenrecht Und Familienrecht, Rom 108 Byzantinische Rezeption Und Osteuropa, Rom 109 Romanisch Byzantinische Synopse und 3 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rom 105 Justinian Novellen Und Griechische Rechtskultur, Rom 106 Basiliken Prochiron Ecloga, Rom 107 Byzantinisches Kirchenrecht Und Familienrecht, Rom 108 Byzantinische Rezeption Und Osteuropa, Rom 109 Romanisch Byzantinische Synopse und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rom 105 Justinian Novellen Und Griechische Rechtskultur, Rom 106 Basiliken Prochiron Ecloga, Rom 107 Byzantinisches Kirchenrecht Und Familienrecht, Rom 108 Byzantinische Rezeption Und Osteuropa, Rom 109 Romanisch Byzantinische Synopse und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

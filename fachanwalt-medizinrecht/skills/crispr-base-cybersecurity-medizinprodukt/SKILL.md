@@ -1,6 +1,6 @@
 ---
 name: crispr-base-cybersecurity-medizinprodukt
-description: "Nutze dies bei Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt

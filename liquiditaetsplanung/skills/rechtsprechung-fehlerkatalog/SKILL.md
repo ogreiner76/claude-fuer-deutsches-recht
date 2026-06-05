@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Rechtsprechung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Rechtsprechung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Rechtsprechung Fehlerkatalog

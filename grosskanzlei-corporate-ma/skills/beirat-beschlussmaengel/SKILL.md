@@ -1,6 +1,6 @@
 ---
 name: beirat-beschlussmaengel
-description: "Nutze dies bei Beirat Beschlussmaengel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Beschlussmaengel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Beschlussmaengel

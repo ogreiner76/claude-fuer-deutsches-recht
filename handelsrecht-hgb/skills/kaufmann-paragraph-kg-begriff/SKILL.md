@@ -1,13 +1,13 @@
 ---
 name: kaufmann-paragraph-kg-begriff
-description: "Nutze dies bei Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

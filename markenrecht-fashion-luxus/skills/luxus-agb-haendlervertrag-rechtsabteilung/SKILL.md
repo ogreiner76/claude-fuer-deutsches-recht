@@ -1,13 +1,13 @@
 ---
 name: luxus-agb-haendlervertrag-rechtsabteilung
-description: "Nutze dies bei Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

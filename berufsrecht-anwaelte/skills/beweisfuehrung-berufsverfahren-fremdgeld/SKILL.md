@@ -1,13 +1,13 @@
 ---
 name: beweisfuehrung-berufsverfahren-fremdgeld
-description: "Nutze dies bei Anwaelte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwaelte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwaelte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwaelte Fristversaeumnis Und Wiedereinsetzung Organisationspfl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwaelte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwaelte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwaelte Fristversaeumnis Und Wiedereinsetzung Organisationspfl: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

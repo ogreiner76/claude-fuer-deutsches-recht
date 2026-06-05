@@ -1,6 +1,6 @@
 ---
 name: kaltstart-apothekenrecht
-description: "Nutze dies zum Einstieg in Kaltstart Apothekenrecht: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kaltstart Apothekenrecht: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart Apothekenrecht

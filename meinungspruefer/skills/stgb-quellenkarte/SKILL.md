@@ -1,6 +1,6 @@
 ---
 name: stgb-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Stgb Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Stgb Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Stgb Quellenkarte

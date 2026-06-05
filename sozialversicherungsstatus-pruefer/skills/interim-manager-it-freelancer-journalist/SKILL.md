@@ -1,13 +1,13 @@
 ---
 name: interim-manager-it-freelancer-journalist
-description: "Nutze dies bei Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

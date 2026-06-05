@@ -1,13 +1,13 @@
 ---
 name: beschwerde-bpatg-besichtigung-beschlagnahme
-description: "Nutze dies bei Beschwerde Bpatg, Besichtigung Beschlagnahme Und Beweissicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beschwerde Bpatg, Besichtigung Beschlagnahme Und Beweissicherung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beschwerde Bpatg, Besichtigung Beschlagnahme Und Beweissicherung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beschwerde Bpatg, Besichtigung Beschlagnahme Und Beweissicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beschwerde Bpatg, Besichtigung Beschlagnahme Und Beweissicherung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

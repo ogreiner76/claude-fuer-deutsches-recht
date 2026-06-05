@@ -1,13 +1,13 @@
 ---
 name: lessons-learned-litigation-settlement-ma
-description: "Nutze dies bei Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

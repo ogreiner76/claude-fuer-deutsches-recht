@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Schnittstelle Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Schnittstelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Schnittstelle Fehlerkatalog

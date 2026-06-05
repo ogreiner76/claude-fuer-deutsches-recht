@@ -1,6 +1,6 @@
 ---
 name: eingehenden-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Eingehenden Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Eingehenden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Eingehenden Quellenkarte

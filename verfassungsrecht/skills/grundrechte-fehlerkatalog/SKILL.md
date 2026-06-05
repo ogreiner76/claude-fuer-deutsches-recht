@@ -1,6 +1,6 @@
 ---
 name: grundrechte-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Grundrechte Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Grundrechte Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Grundrechte Fehlerkatalog

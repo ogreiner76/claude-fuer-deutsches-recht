@@ -1,13 +1,13 @@
 ---
 name: gesetzesverbot-sittenwidrigkeit-gutachtenstil
-description: "Nutze dies bei Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

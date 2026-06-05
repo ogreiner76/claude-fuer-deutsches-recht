@@ -1,6 +1,6 @@
 ---
 name: rom-neu-007-faliskische-spuren-sprache
-description: "Nutze dies bei Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt

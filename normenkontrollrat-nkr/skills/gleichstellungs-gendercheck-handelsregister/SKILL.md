@@ -1,13 +1,13 @@
 ---
 name: gleichstellungs-gendercheck-handelsregister
-description: "Nutze dies bei Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

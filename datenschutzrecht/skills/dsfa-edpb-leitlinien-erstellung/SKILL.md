@@ -1,13 +1,13 @@
 ---
 name: dsfa-edpb-leitlinien-erstellung
-description: "Nutze dies bei Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

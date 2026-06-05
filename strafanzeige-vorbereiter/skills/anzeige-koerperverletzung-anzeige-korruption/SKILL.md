@@ -1,13 +1,13 @@
 ---
 name: anzeige-koerperverletzung-anzeige-korruption
-description: "Nutze dies bei Anzeige Koerperverletzung 223 230, Anzeige Korruption 299 331ff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Koerperverletzung 223 230, Anzeige Korruption 299 331ff: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Koerperverletzung 223 230, Anzeige Korruption 299 331Ff
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Koerperverletzung 223 230, Anzeige Korruption 299 331Ff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Koerperverletzung 223 230, Anzeige Korruption 299 331Ff** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

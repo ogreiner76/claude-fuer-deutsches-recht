@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-003-einleitung-normkarte-allgemeine
-description: "Nutze dies bei PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze

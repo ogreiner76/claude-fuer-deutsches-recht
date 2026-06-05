@@ -1,13 +1,13 @@
 ---
 name: schulung-urteilsbauer-aktenintake-beschluss
-description: "Nutze dies bei Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

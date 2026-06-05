@@ -1,13 +1,13 @@
 ---
 name: vermoegensverfall-zulassungswiderruf
-description: "Nutze dies bei Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

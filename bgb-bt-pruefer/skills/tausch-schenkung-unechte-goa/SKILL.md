@@ -1,13 +1,13 @@
 ---
 name: tausch-schenkung-unechte-goa
-description: "Nutze dies bei Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

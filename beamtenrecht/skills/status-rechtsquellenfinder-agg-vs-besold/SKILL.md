@@ -1,6 +1,6 @@
 ---
 name: status-rechtsquellenfinder-agg-vs-besold
-description: "Nutze dies bei Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besoldung Dienstunfall Unfallausgleich Heilverfahren, Besoldung Musterverfahren Ruhen Verjaehrung Nachzahlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besoldung Dienstunfall Unfallausgleich Heilverfahren, Besoldung Musterverfahren Ruhen Verjaehrung Nachzahlung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besold Dienstunfall Unfallausgleich Heilverfahren, Besold Musterverfahren Ruhen Verjaehrung Nachzahlung

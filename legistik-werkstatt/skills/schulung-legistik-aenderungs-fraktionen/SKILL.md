@@ -1,6 +1,6 @@
 ---
 name: schulung-legistik-aenderungs-fraktionen
-description: "Nutze dies bei Schulung Legistik, Aenderungs Formular Portal Und Einreichung, Fraktionen Dokumentenmatrix Und Lueckenliste, Kabinettsentwuerfe Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schulung Legistik, Aenderungs Formular Portal Und Einreichung, Fraktionen Dokumentenmatrix Und Lueckenliste, Kabinettsentwuerfe Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schulung Legistik, Aenderungs Formular Portal Und Einreichung, Fraktionen Dokumentenmatrix Und Lueckenliste, Kabinettsentwuerfe Compliance Dokumentation Und Akte

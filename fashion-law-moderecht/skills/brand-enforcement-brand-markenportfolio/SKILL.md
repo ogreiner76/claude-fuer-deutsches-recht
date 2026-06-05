@@ -1,13 +1,13 @@
 ---
 name: brand-enforcement-brand-markenportfolio
-description: "Nutze dies bei Brand Enforcement Abmahnung, Brand Und Markenportfolio: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Brand Enforcement Abmahnung, Brand Und Markenportfolio: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Brand Enforcement Abmahnung, Brand Und Markenportfolio
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Brand Enforcement Abmahnung, Brand Und Markenportfolio** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Brand Enforcement Abmahnung, Brand Und Markenportfolio** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

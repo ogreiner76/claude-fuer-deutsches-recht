@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Aktenanlage Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Aktenanlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Aktenanlage Fehlerkatalog

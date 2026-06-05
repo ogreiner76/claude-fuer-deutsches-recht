@@ -1,6 +1,6 @@
 ---
 name: gesundheitsdatenpanne-klinik-goae-analog
-description: "Nutze dies bei Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt

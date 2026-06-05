@@ -1,6 +1,6 @@
 ---
 name: gegen-dokumentenmatrix-und-lueckenliste
-description: "Nutze dies für Unterlagen zu Gegen: Dokumentenmatrix, Lückenliste und Nachforderung: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Gegen: Dokumentenmatrix, Lückenliste und Nachforderung

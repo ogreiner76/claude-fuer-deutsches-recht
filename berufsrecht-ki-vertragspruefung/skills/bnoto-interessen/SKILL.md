@@ -1,6 +1,6 @@
 ---
 name: bnoto-interessen
-description: "Nutze dies bei Bnoto: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Bnoto: Mehrparteienkonflikt und Interessenmatrix

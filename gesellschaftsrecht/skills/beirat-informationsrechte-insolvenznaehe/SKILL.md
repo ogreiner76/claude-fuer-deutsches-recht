@@ -1,13 +1,13 @@
 ---
 name: beirat-informationsrechte-insolvenznaehe
-description: "Nutze dies bei Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte, Beirat Katalog Wesentlicher Geschaefte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte, Beirat Katalog Wesentlicher Geschaefte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte, Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte, Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte, Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

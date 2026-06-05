@@ -1,13 +1,13 @@
 ---
 name: entfristung-klageschrift-anwalt-laie
-description: "Nutze dies bei Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

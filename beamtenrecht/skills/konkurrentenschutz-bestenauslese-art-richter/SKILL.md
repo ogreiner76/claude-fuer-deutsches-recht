@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Nutze dies bei Konkurrentenschutz Bestenauslese Art 33 Ii Gg, Konkurrentenschutz Richter Professoren Fuehrungsaemter, Konkurrentenschutz Sofortprogramm Einzelgerechtigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Konkurrentenschutz Bestenauslese Art 33 Ii Gg, Konkurrentenschutz Richter Professoren Fuehrungsaemter, Konkurrentenschutz Sofortprogramm Einzelgerechtigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Konkurrentenschutz Bestenauslese Art 33 Ii Gg, Konkurrentenschutz Richter Professoren Fuehrungsaemter, Konkurrentenschutz Sofortprogramm Einzelgerechtigkeit

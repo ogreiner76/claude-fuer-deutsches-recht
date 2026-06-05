@@ -1,13 +1,13 @@
 ---
 name: infl-einkommensteuer-betriebseinnahme
-description: "Nutze dies bei Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

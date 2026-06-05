@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflichten
-description: "Nutze dies bei Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung

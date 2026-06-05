@@ -1,6 +1,6 @@
 ---
 name: kanzlei-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Kanzlei Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Kanzlei Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Kanzlei Quellenkarte

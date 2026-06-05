@@ -1,13 +1,13 @@
 ---
 name: kodifikationsalterung-lueckendisziplin
-description: "Nutze dies bei Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

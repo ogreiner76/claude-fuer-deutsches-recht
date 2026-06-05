@@ -1,6 +1,6 @@
 ---
 name: doping-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Doping Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Doping Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Doping Quellenkarte

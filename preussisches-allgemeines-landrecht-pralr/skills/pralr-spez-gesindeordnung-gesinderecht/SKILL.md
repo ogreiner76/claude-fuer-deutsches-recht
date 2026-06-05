@@ -1,13 +1,13 @@
 ---
 name: pralr-spez-gesindeordnung-gesinderecht
-description: "Nutze dies bei Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

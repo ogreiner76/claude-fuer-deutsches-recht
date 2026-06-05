@@ -1,6 +1,6 @@
 ---
 name: elternzeit-versorgungsanwartschaft-entfernung
-description: "Nutze dies bei Elternzeit Versorgungsanwartschaft, Entfernung Aus Dem Beamtenverhaeltnis Unterhalt, Entlassung Und Statusbeendigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Elternzeit Versorgungsanwartschaft, Entfernung Aus Dem Beamtenverhaeltnis Unterhalt, Entlassung Und Statusbeendigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Elternzeit Versorgungsanwartschaft, Entfernung Aus Dem Beamtenverhaeltnis Unterhalt, Entlassung Und Statusbeendigung

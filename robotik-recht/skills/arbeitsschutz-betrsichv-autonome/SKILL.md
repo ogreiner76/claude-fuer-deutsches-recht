@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-betrsichv-autonome
-description: "Nutze dies bei Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum

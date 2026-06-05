@@ -1,13 +1,13 @@
 ---
 name: interessenkollision-beratung-interne
-description: "Nutze dies bei Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Re, Wirtschaftspruefer Interne Ermittlung Und Reporting Kammerantwo, Wirtschaftspruefer Interne Ermittlung Und Reporting Organisatio, Wirtschaftspruefer Interne Ermittlung Und Reporting Rechtsprech: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Re, Wirtschaftspruefer Interne Ermittlung Und Reporting Kammerantwo, Wirtschaftspruefer Interne Ermittlung Und Reporting Organisatio, Wirtschaftspruefer Interne Ermittlung Und Reporting Rechtsprech: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Re, Wirtschaftspruefer Interne Ermittlung Und Reporting Kammerantwo, Wirtschaftspruefer Interne Ermittlung Und Reporting Organisatio, Wirtschaftspruefer Interne Ermittlung Und Reporting Rechtsprech, Wirtschaftspruefer Junior Fehler Und Supervision Kammerantwort
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Re, Wirtschaftspruefer Interne Ermittlung Und Reporting Kammerantwo, Wirtschaftspruefer Interne Ermittlung Und Reporting Organisatio, Wirtschaftspruefer Interne Ermittlung Und Reporting Rechtsprech, Wirtschaftspruefer Junior Fehler Und Supervision Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Re, Wirtschaftspruefer Interne Ermittlung Und Reporting Kammerantwo, Wirtschaftspruefer Interne Ermittlung Und Reporting Organisatio, Wirtschaftspruefer Interne Ermittlung Und Reporting Rechtsprech, Wirtschaftspruefer Junior Fehler Und Supervision Kammerantwort** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

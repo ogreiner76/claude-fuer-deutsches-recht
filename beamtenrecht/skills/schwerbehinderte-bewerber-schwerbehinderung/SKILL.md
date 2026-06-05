@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderte-bewerber-schwerbehinderung
-description: "Nutze dies bei Schwerbehinderte Bewerber 165 Sgb 9, Schwerbehinderung Bem Gleichstellung, Soldaten Und Beamte Abgrenzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schwerbehinderte Bewerber 165 Sgb 9, Schwerbehinderung Bem Gleichstellung, Soldaten Und Beamte Abgrenzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schwerbehinderte Bewerber 165 Sgb 9, Schwerbehinderung Bem Gleichstellung, Soldaten Und Beamte Abgrenzung

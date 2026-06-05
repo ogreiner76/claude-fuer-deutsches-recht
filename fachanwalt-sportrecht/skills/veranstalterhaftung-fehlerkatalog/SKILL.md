@@ -1,6 +1,6 @@
 ---
 name: veranstalterhaftung-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Veranstalterhaftung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Veranstalterhaftung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Veranstalterhaftung Fehlerkatalog

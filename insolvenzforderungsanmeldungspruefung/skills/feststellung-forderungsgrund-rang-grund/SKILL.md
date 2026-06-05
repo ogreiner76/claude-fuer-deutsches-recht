@@ -1,13 +1,13 @@
 ---
 name: feststellung-forderungsgrund-rang-grund
-description: "Nutze dies bei Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

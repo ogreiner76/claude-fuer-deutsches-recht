@@ -1,6 +1,6 @@
 ---
 name: anfechtung-142-und-rueckabwicklung
-description: "Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB."
+description: "Bei eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB."
 ---
 
 # Anfechtung nach § 142 BGB und Rückabwicklung

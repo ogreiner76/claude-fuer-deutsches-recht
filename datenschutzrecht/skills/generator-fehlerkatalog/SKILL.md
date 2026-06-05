@@ -1,6 +1,6 @@
 ---
 name: generator-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Generator Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Generator Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Generator Fehlerkatalog

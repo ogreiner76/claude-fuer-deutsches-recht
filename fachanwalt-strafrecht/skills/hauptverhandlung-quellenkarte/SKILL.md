@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Hauptverhandlung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Hauptverhandlung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Hauptverhandlung Quellenkarte

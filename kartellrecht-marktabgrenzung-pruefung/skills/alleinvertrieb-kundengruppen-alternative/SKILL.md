@@ -1,6 +1,6 @@
 ---
 name: alleinvertrieb-kundengruppen-alternative
-description: "Nutze dies bei Alleinvertrieb Kundengruppen Gebietsschutz, Alternative Marktdefinition Eng, Alternative Marktdefinition Weit, Anmeldepflicht Joint Venture: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Alleinvertrieb Kundengruppen Gebietsschutz, Alternative Marktdefinition Eng, Alternative Marktdefinition Weit, Anmeldepflicht Joint Venture: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Alleinvertrieb Kundengruppen Gebietsschutz, Alternative Marktdefinition Eng, Alternative Marktdefinition Weit, Anmeldepflicht Joint Venture

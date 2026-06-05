@@ -1,13 +1,13 @@
 ---
 name: fachbezeichnung-fortbildung-geldwaesche-kyc
-description: "Nutze dies bei Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

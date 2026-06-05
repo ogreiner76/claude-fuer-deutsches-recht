@@ -1,13 +1,13 @@
 ---
 name: bautraeger-weg-weg-erstgespraech
-description: "Nutze dies bei Bautraeger Weg Instandhaltungsruecklage Uebergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bautraeger Weg Instandhaltungsruecklage Uebergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

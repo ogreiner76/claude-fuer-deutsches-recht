@@ -1,6 +1,6 @@
 ---
 name: plattformnutzung-app-vereinen-verbaenden
-description: "Nutze dies bei Agb Bei Plattformnutzung App Stores, Agb Bei Vereinen Und Verbaenden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Bei Plattformnutzung App Stores, Agb Bei Vereinen Und Verbaenden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Bei Plattformnutzung App Stores, Agb Bei Vereinen Und Verbaenden

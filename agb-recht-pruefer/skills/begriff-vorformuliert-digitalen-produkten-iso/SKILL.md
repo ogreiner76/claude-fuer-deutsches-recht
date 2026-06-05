@@ -1,6 +1,6 @@
 ---
 name: begriff-vorformuliert-digitalen-produkten-iso
-description: "Nutze dies bei Agb Begriff Vorformuliert 305, Agb Bei Digitalen Produkten 327f Update, Agb Bei Iso Vertraegen International, Agb Bei Kreditvertraegen Verbraucherdarlehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Agb Begriff Vorformuliert 305, Agb Bei Digitalen Produkten 327f Update, Agb Bei Iso Vertraegen International, Agb Bei Kreditvertraegen Verbraucherdarlehen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Agb Begriff Vorformuliert 305, Agb Bei Digitalen Produkten 327F Update, Agb Bei Iso Vertraegen International, Agb Bei Kreditvertraegen Verbraucherdarlehen

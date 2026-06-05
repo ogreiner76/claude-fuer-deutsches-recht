@@ -1,13 +1,13 @@
 ---
 name: lease-qualitaetsgate-leasingakte-lessons
-description: "Nutze dies bei Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

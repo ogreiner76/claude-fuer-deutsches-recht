@@ -1,13 +1,13 @@
 ---
 name: due-diligence-ergebnis-handlungsempfehlung
-description: "Nutze dies bei Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Für Mandant Vs Intern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Für Mandant Vs Intern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Für Mandant Vs Intern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Für Mandant Vs Intern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Für Mandant Vs Intern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

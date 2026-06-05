@@ -1,13 +1,13 @@
 ---
 name: lease-leasingportfolio-due-npl
-description: "Nutze dies bei Lease 029 Leasingportfolio Due Diligence, Lease 030 Npl Leasingforderungen Verkauf, Lease 031 Versicherung Objekt Untergang Und Ersatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 029 Leasingportfolio Due Diligence, Lease 030 Npl Leasingforderungen Verkauf, Lease 031 Versicherung Objekt Untergang Und Ersatz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 029 Leasingportfolio Due Diligence, Lease 030 Npl Leasingforderungen Verkauf, Lease 031 Versicherung Objekt Untergang Und Ersatz
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 029 Leasingportfolio Due Diligence, Lease 030 Npl Leasingforderungen Verkauf, Lease 031 Versicherung Objekt Untergang Und Ersatz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 029 Leasingportfolio Due Diligence, Lease 030 Npl Leasingforderungen Verkauf, Lease 031 Versicherung Objekt Untergang Und Ersatz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

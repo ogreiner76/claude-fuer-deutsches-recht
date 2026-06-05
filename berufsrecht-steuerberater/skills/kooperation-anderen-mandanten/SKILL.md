@@ -1,13 +1,13 @@
 ---
 name: kooperation-anderen-mandanten
-description: "Nutze dies bei Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

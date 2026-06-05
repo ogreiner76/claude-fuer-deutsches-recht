@@ -1,13 +1,13 @@
 ---
 name: anfg-einreden-verteidigung-grundtatbestand
-description: "Nutze dies bei Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

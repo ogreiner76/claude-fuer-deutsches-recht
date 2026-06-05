@@ -1,6 +1,6 @@
 ---
 name: patentscreening-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Patentscreening Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Patentscreening Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Patentscreening Quellenkarte

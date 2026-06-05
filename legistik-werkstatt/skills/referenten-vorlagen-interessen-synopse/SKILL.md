@@ -1,6 +1,6 @@
 ---
 name: referenten-vorlagen-interessen-synopse
-description: "Nutze dies bei Referenten Zahlen Schwellen Und Berechnung, Vorlagen Mehrparteien Konflikt Und Interessen, Synopse Erstellen, Terminologie Konsistenz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Referenten Zahlen Schwellen Und Berechnung, Vorlagen Mehrparteien Konflikt Und Interessen, Synopse Erstellen, Terminologie Konsistenz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Referenten Zahlen Schwellen Und Berechnung, Vorlagen Mehrparteien Konflikt Und Interessen, Synopse Erstellen, Terminologie Konsistenz

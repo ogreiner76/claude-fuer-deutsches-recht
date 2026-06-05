@@ -1,13 +1,13 @@
 ---
 name: ausgruendung-transferstelle-bafoeg
-description: "Nutze dies bei Ausgruendung Transferstelle, Bafoeg Und Hochschulstatus, Barrierefreiheit Campus Digital, Berufungsvereinbarung Ausstattung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ausgruendung Transferstelle, Bafoeg Und Hochschulstatus, Barrierefreiheit Campus Digital, Berufungsvereinbarung Ausstattung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ausgruendung Transferstelle, Bafoeg Und Hochschulstatus, Barrierefreiheit Campus Digital, Berufungsvereinbarung Ausstattung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ausgruendung Transferstelle, Bafoeg Und Hochschulstatus, Barrierefreiheit Campus Digital, Berufungsvereinbarung Ausstattung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ausgruendung Transferstelle, Bafoeg Und Hochschulstatus, Barrierefreiheit Campus Digital, Berufungsvereinbarung Ausstattung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

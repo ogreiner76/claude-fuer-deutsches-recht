@@ -1,13 +1,13 @@
 ---
 name: space-mondvertrag-ressourcen
-description: "Nutze dies bei Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: standardvertragsklauseln-mehrparteienkonflikt
-description: "Nutze dies bei Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix

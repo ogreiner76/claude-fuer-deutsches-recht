@@ -1,6 +1,6 @@
 ---
 name: beirat-beratungsfunktion
-description: "Nutze dies bei Beirat Beratungsfunktion: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Beratungsfunktion: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Beratungsfunktion

@@ -1,13 +1,13 @@
 ---
 name: discounter-graumarkt-dpma-bpatg-widerspruch
-description: "Nutze dies bei Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

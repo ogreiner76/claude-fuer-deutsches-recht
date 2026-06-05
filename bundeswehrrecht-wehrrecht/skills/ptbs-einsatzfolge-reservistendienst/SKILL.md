@@ -1,13 +1,13 @@
 ---
 name: ptbs-einsatzfolge-reservistendienst
-description: "Nutze dies bei Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

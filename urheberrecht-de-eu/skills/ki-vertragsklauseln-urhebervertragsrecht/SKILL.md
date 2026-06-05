@@ -1,13 +1,13 @@
 ---
 name: ki-vertragsklauseln-urhebervertragsrecht
-description: "Nutze dies bei Ki Vertragsklauseln Rechte, Urhebervertragsrecht Verguetung, Vertragsgenerator Musik Release: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ki Vertragsklauseln Rechte, Urhebervertragsrecht Verguetung, Vertragsgenerator Musik Release: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

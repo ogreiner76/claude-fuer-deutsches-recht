@@ -1,13 +1,13 @@
 ---
 name: pflegekasse-verhinderungs-pkh
-description: "Nutze dies bei Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73a Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73a Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

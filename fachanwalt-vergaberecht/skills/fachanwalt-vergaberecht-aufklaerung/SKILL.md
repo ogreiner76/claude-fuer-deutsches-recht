@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-vergaberecht-aufklaerung
-description: "Nutze dies bei Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

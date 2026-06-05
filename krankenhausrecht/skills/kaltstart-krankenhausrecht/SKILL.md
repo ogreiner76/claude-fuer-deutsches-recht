@@ -1,6 +1,6 @@
 ---
 name: kaltstart-krankenhausrecht
-description: "Nutze dies zum Einstieg in Kaltstart Krankenhausrecht: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kaltstart Krankenhausrecht: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart Krankenhausrecht

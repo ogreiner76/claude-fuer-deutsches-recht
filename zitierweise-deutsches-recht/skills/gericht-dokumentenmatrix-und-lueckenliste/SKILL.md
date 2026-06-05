@@ -1,6 +1,6 @@
 ---
 name: gericht-dokumentenmatrix-und-lueckenliste
-description: "Nutze dies für Unterlagen zu Gericht: Dokumentenmatrix, Lückenliste und Nachforderung: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Gericht: Dokumentenmatrix, Lückenliste und Nachforderung

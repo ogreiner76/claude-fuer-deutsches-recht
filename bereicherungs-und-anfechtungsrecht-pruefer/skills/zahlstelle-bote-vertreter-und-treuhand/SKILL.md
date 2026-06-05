@@ -1,6 +1,6 @@
 ---
 name: zahlstelle-bote-vertreter-und-treuhand
-description: "Nutze diesen Skill, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zurechnungsanalyse Bote/Vertreter/Treuhand mit Anspruchsgegner. Abgrenzung: nicht direkte Bereicherungsklage gegen Mittelsperson."
+description: "Bei eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zurechnungsanalyse Bote/Vertreter/Treuhand mit Anspruchsgegner. Abgrenzung: nicht direkte Bereicherungsklage gegen Mittelsperson."
 ---
 
 # Zahlstelle, Bote, Vertreter und Treuhand

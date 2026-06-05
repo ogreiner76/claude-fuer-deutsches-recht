@@ -1,13 +1,13 @@
 ---
 name: arbeitsvertrag-abmahnung-entwurf-englisch
-description: "Nutze dies bei Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

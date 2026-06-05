@@ -1,13 +1,13 @@
 ---
 name: technische-organisatorische-uk
-description: "Nutze dies bei Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

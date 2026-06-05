@@ -1,13 +1,13 @@
 ---
 name: betriebsrat-ladung-betriebsuebergang-613a
-description: "Nutze dies bei Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613a Prüfen, Einstellungspruefung, Expansion Aktualisierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613a Prüfen, Einstellungspruefung, Expansion Aktualisierung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: pflegegeld-pflegegrad-mds-gutachten-streit
-description: "Nutze dies bei Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

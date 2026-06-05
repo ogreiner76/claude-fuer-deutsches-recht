@@ -1,13 +1,13 @@
 ---
 name: nkr-digital-anschlussfaehigkeit-digitalcheck
-description: "Nutze dies bei Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

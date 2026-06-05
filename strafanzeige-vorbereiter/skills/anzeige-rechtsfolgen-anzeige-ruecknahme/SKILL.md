@@ -1,13 +1,13 @@
 ---
 name: anzeige-rechtsfolgen-anzeige-ruecknahme
-description: "Nutze dies bei Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Ruecknahme Einstellung 170 153: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Ruecknahme Einstellung 170 153: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

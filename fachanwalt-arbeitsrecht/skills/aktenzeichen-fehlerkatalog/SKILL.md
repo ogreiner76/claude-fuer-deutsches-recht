@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Aktenzeichen Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Aktenzeichen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Aktenzeichen Fehlerkatalog

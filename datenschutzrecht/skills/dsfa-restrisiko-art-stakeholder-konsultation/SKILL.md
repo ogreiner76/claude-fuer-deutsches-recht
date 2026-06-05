@@ -1,13 +1,13 @@
 ---
 name: dsfa-restrisiko-art-stakeholder-konsultation
-description: "Nutze dies bei Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

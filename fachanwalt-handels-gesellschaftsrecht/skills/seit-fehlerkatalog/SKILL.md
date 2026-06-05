@@ -1,6 +1,6 @@
 ---
 name: seit-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Seit Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Seit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Seit Fehlerkatalog

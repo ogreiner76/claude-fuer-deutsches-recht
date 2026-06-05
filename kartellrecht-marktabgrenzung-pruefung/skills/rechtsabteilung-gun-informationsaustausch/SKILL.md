@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-gun-informationsaustausch
-description: "Nutze dies bei Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

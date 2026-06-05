@@ -1,13 +1,13 @@
 ---
 name: chapter9-municipal-plan-chapter11-dip
-description: "Nutze dies bei Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

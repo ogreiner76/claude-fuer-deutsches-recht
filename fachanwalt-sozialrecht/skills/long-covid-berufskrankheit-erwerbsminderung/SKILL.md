@@ -1,13 +1,13 @@
 ---
 name: long-covid-berufskrankheit-erwerbsminderung
-description: "Nutze dies bei Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

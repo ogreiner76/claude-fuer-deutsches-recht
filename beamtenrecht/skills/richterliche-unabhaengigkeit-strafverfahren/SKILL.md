@@ -1,6 +1,6 @@
 ---
 name: richterliche-unabhaengigkeit-strafverfahren
-description: "Nutze dies bei Richterliche Unabhaengigkeit Drig 26 Pruefungsverfahren, Strafverfahren Und Disziplinarverfahren, Konkurrentenschutz Nach Ernennung Schadensersatz, Schadensersatz Nichtbefoerderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Richterliche Unabhaengigkeit Drig 26 Pruefungsverfahren, Strafverfahren Und Disziplinarverfahren, Konkurrentenschutz Nach Ernennung Schadensersatz, Schadensersatz Nichtbefoerderung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Richterliche Unabhaengigkeit Drig 26 Pruefungsverfahren, Strafverfahren Und Disziplinarverfahren, Konkurrentenschutz Nach Ernennung Schadensersatz, Schadensersatz Nichtbefoerderung

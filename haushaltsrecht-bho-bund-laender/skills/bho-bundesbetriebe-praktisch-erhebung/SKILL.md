@@ -1,13 +1,13 @@
 ---
 name: bho-bundesbetriebe-praktisch-erhebung
-description: "Nutze dies bei Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

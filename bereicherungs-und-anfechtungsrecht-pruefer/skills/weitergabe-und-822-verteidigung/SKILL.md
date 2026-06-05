@@ -1,6 +1,6 @@
 ---
 name: weitergabe-und-822-verteidigung
-description: "Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB."
+description: "Bei ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB."
 ---
 
 # Weitergabe und § 822 BGB Verteidigung

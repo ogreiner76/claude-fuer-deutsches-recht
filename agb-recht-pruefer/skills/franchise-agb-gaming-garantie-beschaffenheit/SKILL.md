@@ -1,13 +1,13 @@
 ---
 name: franchise-agb-gaming-garantie-beschaffenheit
-description: "Nutze dies bei Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

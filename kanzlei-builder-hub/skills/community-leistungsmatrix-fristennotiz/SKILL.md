@@ -1,13 +1,13 @@
 ---
 name: community-leistungsmatrix-fristennotiz
-description: "Nutze dies bei Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

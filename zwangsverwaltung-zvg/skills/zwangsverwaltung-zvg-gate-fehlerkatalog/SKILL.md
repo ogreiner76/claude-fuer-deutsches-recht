@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-zvg-gate-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Gate Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Gate Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Gate Fehlerkatalog

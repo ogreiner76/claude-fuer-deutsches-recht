@@ -1,6 +1,6 @@
 ---
 name: freigegeben-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Freigegeben Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Freigegeben Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Freigegeben Fehlerkatalog

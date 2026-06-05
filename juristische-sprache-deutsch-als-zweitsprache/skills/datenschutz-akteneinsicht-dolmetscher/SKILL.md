@@ -1,13 +1,13 @@
 ---
 name: datenschutz-akteneinsicht-dolmetscher
-description: "Nutze dies bei Datenschutz Und Akteneinsicht, Dolmetscher Und Uebersetzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenschutz Und Akteneinsicht, Dolmetscher Und Uebersetzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenschutz Und Akteneinsicht, Dolmetscher Und Uebersetzung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Und Akteneinsicht, Dolmetscher Und Uebersetzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Datenschutz Und Akteneinsicht, Dolmetscher Und Uebersetzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

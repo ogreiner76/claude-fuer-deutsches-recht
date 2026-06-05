@@ -1,13 +1,13 @@
 ---
 name: rechtshilfe-international-ristbv-finden
-description: "Nutze dies bei Rechtshilfe International, Ristbv Finden Anwenden, Ristbv Verfuegungstechnik Standard, Sachverstaendige Beauftragen Und Befragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtshilfe International, Ristbv Finden Anwenden, Ristbv Verfuegungstechnik Standard, Sachverstaendige Beauftragen Und Befragen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtshilfe International, Ristbv Finden Anwenden, Ristbv Verfuegungstechnik Standard, Sachverstaendige Beauftragen Und Befragen, Schoeffen Befangenheit Und Mitwirkung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtshilfe International, Ristbv Finden Anwenden, Ristbv Verfuegungstechnik Standard, Sachverstaendige Beauftragen Und Befragen, Schoeffen Befangenheit Und Mitwirkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtshilfe International, Ristbv Finden Anwenden, Ristbv Verfuegungstechnik Standard, Sachverstaendige Beauftragen Und Befragen, Schoeffen Befangenheit Und Mitwirkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

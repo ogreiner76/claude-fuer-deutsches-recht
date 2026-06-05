@@ -1,13 +1,13 @@
 ---
 name: effective-date-eligibility-credit-employee
-description: "Nutze dies bei Effective Date Closing, Eligibility 109 Credit, Employee Wages Benefits Warn, Environmental Claims: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Effective Date Closing, Eligibility 109 Credit, Employee Wages Benefits Warn, Environmental Claims: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Effective Date Closing, Eligibility 109 Credit, Employee Wages Benefits Warn, Environmental Claims
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Effective Date Closing, Eligibility 109 Credit, Employee Wages Benefits Warn, Environmental Claims** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Effective Date Closing, Eligibility 109 Credit, Employee Wages Benefits Warn, Environmental Claims** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

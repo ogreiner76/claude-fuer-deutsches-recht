@@ -1,6 +1,6 @@
 ---
 name: rom-neu-014-novellen-justinians
-description: "Nutze dies bei Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche

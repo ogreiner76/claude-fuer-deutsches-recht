@@ -1,6 +1,6 @@
 ---
 name: versr-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Versr Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Versr Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Versr Fehlerkatalog

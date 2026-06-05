@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-026-zweiter-strafrecht-20-titel
-description: "Nutze dies bei PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch

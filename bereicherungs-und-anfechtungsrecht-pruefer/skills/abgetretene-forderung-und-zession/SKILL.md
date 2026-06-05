@@ -1,6 +1,6 @@
 ---
 name: abgetretene-forderung-und-zession
-description: "Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO."
+description: "Bei abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO."
 ---
 
 # Abgetretene Forderung und Zession

@@ -36,3 +36,10 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 ## Qualitätsregel
 
 Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.
+
+## Powersprint-Vertiefung
+
+- **Konkreter Arbeitsauftrag:** `Statistik-Anfrage Red-Team` immer als eigenes Fachproblem behandeln: Rolle, Ziel, Frist, Zuständigkeit, Beleglage und gewünschten Output trennen.
+- **Normen- und Quellenradar:** Tragende Normen, Behördenpraxis und Rechtsprechung nur verwenden, wenn sie aus der Akte, amtlicher Quelle oder frei prüfbarer Quelle belastbar sind.
+- **Fehlerbremse:** Keine allgemeinen Einstiegssätze, wenn schon ein Spezialproblem vorliegt; stattdessen direkt mit Matrix `Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` arbeiten.
+- **Output:** Kurzmemo, Prüfraster, Dokumententwurf, Fristenliste oder Rückfragenliste mit höchstens einer wirklich entscheidenden Rückfrage.

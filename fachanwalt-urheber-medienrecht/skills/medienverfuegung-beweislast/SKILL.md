@@ -1,13 +1,13 @@
 ---
 name: medienverfuegung-beweislast
-description: "Nutze dies bei Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

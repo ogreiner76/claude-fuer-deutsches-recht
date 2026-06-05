@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Insolvenzlage Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Insolvenzlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Insolvenzlage Fehlerkatalog

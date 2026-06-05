@@ -1,6 +1,6 @@
 ---
 name: epa-befuellpflicht-impfschaden-arzthaftung
-description: "Nutze dies bei Epa Befuellpflicht Haftung, Impfschaden Arzthaftung, Medr Arzthaftung Checkliste, Palliativmedizin Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Epa Befuellpflicht Haftung, Impfschaden Arzthaftung, Medr Arzthaftung Checkliste, Palliativmedizin Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Epa Befuellpflicht Haftung, Impfschaden Arzthaftung, Medr Arzthaftung Checkliste, Palliativmedizin Haftung

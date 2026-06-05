@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-sozialrecht-sgb-sg
-description: "Nutze dies bei Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

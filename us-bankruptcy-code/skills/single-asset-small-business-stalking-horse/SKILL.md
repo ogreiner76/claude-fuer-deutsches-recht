@@ -1,13 +1,13 @@
 ---
 name: single-asset-small-business-stalking-horse
-description: "Nutze dies bei Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362d: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362d: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-human-oversight
-description: "Nutze dies bei Harmonisierte Normen Iso Ts 15066, Human Oversight In Physischer Robotik, Importeur Haendler Fulfilment Robotik, Ki Training Mit Roboterdaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Harmonisierte Normen Iso Ts 15066, Human Oversight In Physischer Robotik, Importeur Haendler Fulfilment Robotik, Ki Training Mit Roboterdaten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Harmonisierte Normen Iso Ts 15066, Human Oversight In Physischer Robotik, Importeur Haendler Fulfilment Robotik, Ki Training Mit Roboterdaten

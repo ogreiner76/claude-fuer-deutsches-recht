@@ -1,6 +1,6 @@
 ---
 name: beirat-bank-und-sanierung
-description: "Nutze dies bei Beirat Bank Und Sanierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Bank Und Sanierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Bank Und Sanierung

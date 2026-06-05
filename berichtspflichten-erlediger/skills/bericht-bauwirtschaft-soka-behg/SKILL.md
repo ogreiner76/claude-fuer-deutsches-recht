@@ -1,13 +1,13 @@
 ---
 name: bericht-bauwirtschaft-soka-behg
-description: "Nutze dies bei Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

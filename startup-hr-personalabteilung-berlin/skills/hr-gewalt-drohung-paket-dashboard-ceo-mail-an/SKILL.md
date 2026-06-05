@@ -1,13 +1,13 @@
 ---
 name: hr-gewalt-drohung-paket-dashboard-ceo-mail-an
-description: "Nutze dies bei Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

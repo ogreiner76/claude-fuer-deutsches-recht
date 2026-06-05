@@ -1,6 +1,6 @@
 ---
 name: urlaub-erkrankung-verfassungstreue-bbg
-description: "Nutze dies bei Urlaub Erkrankung Und Verfall, Verfassungstreue 7 Bbg Reichsbuerger, Verfassungstreue Extremismus Chatgruppen Disziplinarrecht, Versetzung Gegen Willen 28 Bbg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Urlaub Erkrankung Und Verfall, Verfassungstreue 7 Bbg Reichsbuerger, Verfassungstreue Extremismus Chatgruppen Disziplinarrecht, Versetzung Gegen Willen 28 Bbg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Urlaub Erkrankung Und Verfall, Verfassungstreue 7 Bbg Reichsbuerger, Verfassungstreue Extremismus Chatgruppen Disziplinarrecht, Versetzung Gegen Willen 28 Bbg

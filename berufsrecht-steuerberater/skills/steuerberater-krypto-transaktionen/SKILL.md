@@ -1,13 +1,13 @@
 ---
 name: steuerberater-krypto-transaktionen
-description: "Nutze dies bei Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: pruefen-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Prüfen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Prüfen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Prüfen Quellenkarte

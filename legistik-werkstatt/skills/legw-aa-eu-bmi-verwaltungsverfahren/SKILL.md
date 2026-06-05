@@ -1,6 +1,6 @@
 ---
 name: legw-aa-eu-bmi-verwaltungsverfahren
-description: "Nutze dies bei Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Bundestag Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Bundestag Fristen Form Und Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Bundestag Fristen Form Und Zustaendigkeit

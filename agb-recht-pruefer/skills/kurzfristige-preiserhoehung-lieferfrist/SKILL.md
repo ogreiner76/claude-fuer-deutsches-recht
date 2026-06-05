@@ -1,6 +1,6 @@
 ---
 name: kurzfristige-preiserhoehung-lieferfrist
-description: "Nutze dies bei Kurzfristige Preiserhoehung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kurzfristige Preiserhoehung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kurzfristige Preiserhöhung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft

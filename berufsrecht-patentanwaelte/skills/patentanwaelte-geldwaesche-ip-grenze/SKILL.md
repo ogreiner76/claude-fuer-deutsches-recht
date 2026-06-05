@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-geldwaesche-ip-grenze
-description: "Nutze dies bei Patentanwaelte Geldwaesche Bei Ip Transaktionen Kaltstart Und F, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kaltstart Und F, Patentanwaelte Hochschul Erfindung Und Ip Policy Kaltstart Und, Patentanwaelte International Filing Und Local Counsel Kaltstart: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Geldwaesche Bei Ip Transaktionen Kaltstart Und F, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kaltstart Und F, Patentanwaelte Hochschul Erfindung Und Ip Policy Kaltstart Und, Patentanwaelte International Filing Und Local Counsel Kaltstart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Geldwaesche Bei Ip Transaktionen Kaltstart Und F, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kaltstart Und F, Patentanwaelte Hochschul Erfindung Und Ip Policy Kaltstart Und, Patentanwaelte International Filing Und Local Counsel Kaltstart
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Geldwaesche Bei Ip Transaktionen Kaltstart Und F, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kaltstart Und F, Patentanwaelte Hochschul Erfindung Und Ip Policy Kaltstart Und, Patentanwaelte International Filing Und Local Counsel Kaltstart** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Geldwaesche Bei Ip Transaktionen Kaltstart Und F, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kaltstart Und F, Patentanwaelte Hochschul Erfindung Und Ip Policy Kaltstart Und, Patentanwaelte International Filing Und Local Counsel Kaltstart** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

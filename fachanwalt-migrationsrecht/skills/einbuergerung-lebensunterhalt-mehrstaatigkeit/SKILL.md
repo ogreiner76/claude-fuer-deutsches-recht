@@ -1,13 +1,13 @@
 ---
 name: einbuergerung-lebensunterhalt-mehrstaatigkeit
-description: "Nutze dies bei Einbuergerung Lebensunterhalt, Einbuergerung Mehrstaatigkeit, Einbuergerung Strafen, Einreise Und Aufenthaltsverbot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Einbuergerung Lebensunterhalt, Einbuergerung Mehrstaatigkeit, Einbuergerung Strafen, Einreise Und Aufenthaltsverbot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Einbuergerung Lebensunterhalt, Einbuergerung Mehrstaatigkeit, Einbuergerung Strafen, Einreise Und Aufenthaltsverbot, Elternnachzug
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Einbuergerung Lebensunterhalt, Einbuergerung Mehrstaatigkeit, Einbuergerung Strafen, Einreise Und Aufenthaltsverbot, Elternnachzug** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Einbuergerung Lebensunterhalt, Einbuergerung Mehrstaatigkeit, Einbuergerung Strafen, Einreise Und Aufenthaltsverbot, Elternnachzug** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

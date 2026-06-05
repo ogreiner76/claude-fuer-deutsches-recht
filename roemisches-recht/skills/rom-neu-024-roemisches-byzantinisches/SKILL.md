@@ -1,6 +1,6 @@
 ---
 name: rom-neu-024-roemisches-byzantinisches
-description: "Nutze dies bei Römisches Recht: Römisches Recht und byzantinisches Sachenrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Römisches Recht und byzantinisches Sachenrecht: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römisches Recht und byzantinisches Sachenrecht

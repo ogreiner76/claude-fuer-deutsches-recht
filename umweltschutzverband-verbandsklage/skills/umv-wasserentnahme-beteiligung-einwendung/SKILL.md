@@ -1,13 +1,13 @@
 ---
 name: umv-wasserentnahme-beteiligung-einwendung
-description: "Nutze dies bei Umv 071 Wasserentnahme Beteiligung Prüfen, Umv 072 Wasserentnahme Einwendung Bauen, Umv 073 Wasserentnahme Akteneinsicht Erzwingen, Umv 074 Wasserentnahme Gutachten Zerlegen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Umv 071 Wasserentnahme Beteiligung Prüfen, Umv 072 Wasserentnahme Einwendung Bauen, Umv 073 Wasserentnahme Akteneinsicht Erzwingen, Umv 074 Wasserentnahme Gutachten Zerlegen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Umv 071 Wasserentnahme Beteiligung Prüfen, Umv 072 Wasserentnahme Einwendung Bauen, Umv 073 Wasserentnahme Akteneinsicht Erzwingen, Umv 074 Wasserentnahme Gutachten Zerlegen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Umv 071 Wasserentnahme Beteiligung Prüfen, Umv 072 Wasserentnahme Einwendung Bauen, Umv 073 Wasserentnahme Akteneinsicht Erzwingen, Umv 074 Wasserentnahme Gutachten Zerlegen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Umv 071 Wasserentnahme Beteiligung Prüfen, Umv 072 Wasserentnahme Einwendung Bauen, Umv 073 Wasserentnahme Akteneinsicht Erzwingen, Umv 074 Wasserentnahme Gutachten Zerlegen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

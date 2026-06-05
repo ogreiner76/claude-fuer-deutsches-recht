@@ -1,13 +1,13 @@
 ---
 name: arbeitsbereich-mandantenentscheidung
-description: "Nutze dies bei Arbeitsbereich Mandantenentscheidung, Checklists Zahlen Schwellen Und Berechnung, Compliance Compliance Dokumentation Und Akte, Datenraum Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Arbeitsbereich Mandantenentscheidung, Checklists Zahlen Schwellen Und Berechnung, Compliance Compliance Dokumentation Und Akte, Datenraum Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Arbeitsbereich Mandantenentscheidung, Checklists Zahlen Schwellen Und Berechnung, Compliance Compliance Dokumentation Und Akte, Datenraum Behörden Gericht Und Registerweg, Diligence Dokumentenmatrix Und Lueckenliste
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsbereich Mandantenentscheidung, Checklists Zahlen Schwellen Und Berechnung, Compliance Compliance Dokumentation Und Akte, Datenraum Behörden Gericht Und Registerweg, Diligence Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Arbeitsbereich Mandantenentscheidung, Checklists Zahlen Schwellen Und Berechnung, Compliance Compliance Dokumentation Und Akte, Datenraum Behörden Gericht Und Registerweg, Diligence Dokumentenmatrix Und Lueckenliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

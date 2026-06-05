@@ -1,13 +1,13 @@
 ---
 name: kirchensteuer-staatskirchenrecht
-description: "Nutze dies bei Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

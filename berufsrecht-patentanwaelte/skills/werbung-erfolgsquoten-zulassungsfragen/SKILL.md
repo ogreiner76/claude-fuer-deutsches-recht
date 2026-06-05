@@ -1,13 +1,13 @@
 ---
 name: werbung-erfolgsquoten-zulassungsfragen
-description: "Nutze dies bei Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

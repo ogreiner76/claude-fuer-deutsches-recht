@@ -1,13 +1,13 @@
 ---
 name: papst-primat-papsttreue-kommunikation
-description: "Nutze dies bei Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

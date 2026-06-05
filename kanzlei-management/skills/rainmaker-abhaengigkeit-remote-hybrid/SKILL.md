@@ -1,13 +1,13 @@
 ---
 name: rainmaker-abhaengigkeit-remote-hybrid
-description: "Nutze dies bei Rainmaker Abhaengigkeit, Remote Hybrid Rules, Reputation Risk, Rvg Und Honorarvereinbarung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rainmaker Abhaengigkeit, Remote Hybrid Rules, Reputation Risk, Rvg Und Honorarvereinbarung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rainmaker Abhaengigkeit, Remote Hybrid Rules, Reputation Risk, Rvg Und Honorarvereinbarung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rainmaker Abhaengigkeit, Remote Hybrid Rules, Reputation Risk, Rvg Und Honorarvereinbarung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rainmaker Abhaengigkeit, Remote Hybrid Rules, Reputation Risk, Rvg Und Honorarvereinbarung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

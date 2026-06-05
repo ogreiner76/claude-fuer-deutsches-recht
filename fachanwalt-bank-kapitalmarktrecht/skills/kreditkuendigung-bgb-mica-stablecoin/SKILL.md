@@ -1,13 +1,13 @@
 ---
 name: kreditkuendigung-bgb-mica-stablecoin
-description: "Nutze dies bei Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

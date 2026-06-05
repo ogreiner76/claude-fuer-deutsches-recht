@@ -1,13 +1,13 @@
 ---
 name: geringfuegigkeit-versausglg-gesetzliche
-description: "Nutze dies bei Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

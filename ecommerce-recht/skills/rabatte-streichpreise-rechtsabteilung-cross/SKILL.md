@@ -1,13 +1,13 @@
 ---
 name: rabatte-streichpreise-rechtsabteilung-cross
-description: "Nutze dies bei Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

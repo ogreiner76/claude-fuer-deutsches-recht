@@ -1,6 +1,6 @@
 ---
 name: portal-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Portal Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Portal Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Portal Quellenkarte

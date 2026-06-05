@@ -1,13 +1,13 @@
 ---
 name: infl-unterlassungserklaerung-influencer
-description: "Nutze dies bei Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

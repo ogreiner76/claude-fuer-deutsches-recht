@@ -1,6 +1,6 @@
 ---
 name: dienstgericht-richter-dienstliche-beurteilung
-description: "Nutze dies bei Dienstgericht Richter Disziplinar 63 Drig, Dienstliche Beurteilung Angriff, Dienstpflichten Treue Maessigung Neutralitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dienstgericht Richter Disziplinar 63 Drig, Dienstliche Beurteilung Angriff, Dienstpflichten Treue Maessigung Neutralitaet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dienstgericht Richter Disziplinar 63 Drig, Dienstliche Beurteilung Angriff, Dienstpflichten Treue Maessigung Neutralitaet

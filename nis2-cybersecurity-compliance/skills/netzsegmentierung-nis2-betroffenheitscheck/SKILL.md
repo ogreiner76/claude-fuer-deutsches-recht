@@ -1,13 +1,13 @@
 ---
 name: netzsegmentierung-nis2-betroffenheitscheck
-description: "Nutze dies bei Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

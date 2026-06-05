@@ -1,13 +1,13 @@
 ---
 name: liquiditaetsvorschau-schreibcanvas
-description: "Nutze dies bei Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

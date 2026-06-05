@@ -1,13 +1,13 @@
 ---
 name: leniency-marker-margin-squeeze-telekom
-description: "Nutze dies bei Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

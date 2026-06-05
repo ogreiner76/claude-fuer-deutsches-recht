@@ -1,6 +1,6 @@
 ---
 name: rom-neu-015-byzantinisches-prozessrecht
-description: "Nutze dies bei Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition

@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-mandatsannahme-kollidierenden
-description: "Nutze dies bei Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

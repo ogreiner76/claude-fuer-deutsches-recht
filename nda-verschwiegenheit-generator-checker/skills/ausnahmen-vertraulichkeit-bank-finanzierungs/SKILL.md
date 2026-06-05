@@ -1,13 +1,13 @@
 ---
 name: ausnahmen-vertraulichkeit-bank-finanzierungs
-description: "Nutze dies bei Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

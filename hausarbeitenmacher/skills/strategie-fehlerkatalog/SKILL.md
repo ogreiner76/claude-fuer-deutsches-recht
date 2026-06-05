@@ -1,6 +1,6 @@
 ---
 name: strategie-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Strategie Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Strategie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Strategie Fehlerkatalog

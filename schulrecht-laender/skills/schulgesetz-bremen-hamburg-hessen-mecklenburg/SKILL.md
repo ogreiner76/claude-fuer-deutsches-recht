@@ -1,13 +1,13 @@
 ---
 name: schulgesetz-bremen-hamburg-hessen-mecklenburg
-description: "Nutze dies bei Schulgesetz Bremen, Schulgesetz Hamburg, Schulgesetz Hessen, Schulgesetz Mecklenburg Vorpommern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Schulgesetz Bremen, Schulgesetz Hamburg, Schulgesetz Hessen, Schulgesetz Mecklenburg Vorpommern: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Schulgesetz Bremen, Schulgesetz Hamburg, Schulgesetz Hessen, Schulgesetz Mecklenburg Vorpommern
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Schulgesetz Bremen, Schulgesetz Hamburg, Schulgesetz Hessen, Schulgesetz Mecklenburg Vorpommern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Schulgesetz Bremen, Schulgesetz Hamburg, Schulgesetz Hessen, Schulgesetz Mecklenburg Vorpommern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

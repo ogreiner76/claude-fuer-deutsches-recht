@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-002-textzeugenvergleich-1794-1804
-description: "Nutze dies bei PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR

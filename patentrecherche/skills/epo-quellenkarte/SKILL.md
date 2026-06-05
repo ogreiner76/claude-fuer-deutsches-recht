@@ -1,6 +1,6 @@
 ---
 name: epo-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Epo Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Epo Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Epo Quellenkarte

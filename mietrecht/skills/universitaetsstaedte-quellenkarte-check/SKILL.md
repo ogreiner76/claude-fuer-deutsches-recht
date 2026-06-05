@@ -1,6 +1,6 @@
 ---
 name: universitaetsstaedte-quellenkarte-check
-description: "Nutze dies zur Quellenprüfung bei Universitaetsstaedte Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Universitaetsstaedte Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Universitaetsstaedte Quellenkarte Check

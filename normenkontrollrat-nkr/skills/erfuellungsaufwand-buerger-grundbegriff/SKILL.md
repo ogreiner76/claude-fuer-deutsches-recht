@@ -1,13 +1,13 @@
 ---
 name: erfuellungsaufwand-buerger-grundbegriff
-description: "Nutze dies bei Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

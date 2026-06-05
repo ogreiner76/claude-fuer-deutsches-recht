@@ -1,13 +1,13 @@
 ---
 name: space-bodensegment-teleport-exportkontrolle
-description: "Nutze dies bei Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

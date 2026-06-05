@@ -1,13 +1,13 @@
 ---
 name: nyc-korrespondenz-plattform-piraterie
-description: "Nutze dies bei Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

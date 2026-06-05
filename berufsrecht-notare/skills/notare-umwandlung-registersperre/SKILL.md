@@ -1,13 +1,13 @@
 ---
 name: notare-umwandlung-registersperre
-description: "Nutze dies bei Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

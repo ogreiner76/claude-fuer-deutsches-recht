@@ -1,6 +1,6 @@
 ---
 name: rom-neu-012-byzantinisches-theodosianus
-description: "Nutze dies bei Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken

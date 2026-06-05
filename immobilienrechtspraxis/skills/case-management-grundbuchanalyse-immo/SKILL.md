@@ -1,13 +1,13 @@
 ---
 name: case-management-grundbuchanalyse-immo
-description: "Nutze dies bei Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

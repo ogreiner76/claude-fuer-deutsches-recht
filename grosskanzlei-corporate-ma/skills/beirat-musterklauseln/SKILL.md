@@ -1,6 +1,6 @@
 ---
 name: beirat-musterklauseln
-description: "Nutze dies bei Beirat Musterklauseln: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Musterklauseln: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Musterklauseln

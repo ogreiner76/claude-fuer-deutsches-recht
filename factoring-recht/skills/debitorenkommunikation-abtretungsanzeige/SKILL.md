@@ -1,13 +1,13 @@
 ---
 name: debitorenkommunikation-abtretungsanzeige
-description: "Nutze dies bei Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: oew-wohnungsbau-vertrag-breitband-scopen
-description: "Nutze dies bei Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

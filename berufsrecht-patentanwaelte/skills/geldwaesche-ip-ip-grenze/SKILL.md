@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-ip-ip-grenze
-description: "Nutze dies bei Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

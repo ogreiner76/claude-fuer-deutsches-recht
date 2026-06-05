@@ -1,13 +1,13 @@
 ---
 name: berufsgericht-disziplinarverfahren-frist
-description: "Nutze dies bei Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Wirtschaftspruefer Apas Verfahren Antwortstrategie Kammerantwor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Wirtschaftspruefer Apas Verfahren Antwortstrategie Kammerantwor: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Wirtschaftspruefer Apas Verfahren Antwortstrategie Kammerantwor, Wirtschaftspruefer Apas Verfahren Antwortstrategie Organisation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Wirtschaftspruefer Apas Verfahren Antwortstrategie Kammerantwor, Wirtschaftspruefer Apas Verfahren Antwortstrategie Organisation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Wirtschaftspruefer Apas Verfahren Antwortstrategie Kammerantwor, Wirtschaftspruefer Apas Verfahren Antwortstrategie Organisation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

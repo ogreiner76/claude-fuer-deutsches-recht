@@ -1,6 +1,6 @@
 ---
 name: abstand-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Abstand Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Abstand Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Abstand Quellenkarte

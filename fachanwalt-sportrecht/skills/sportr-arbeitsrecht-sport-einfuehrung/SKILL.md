@@ -1,13 +1,13 @@
 ---
 name: sportr-arbeitsrecht-sport-einfuehrung
-description: "Nutze dies bei Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-marktabgrenzung-pruefung-anschluss
-description: "Nutze dies bei Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, Fristen Und Risikoampel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, Fristen Und Risikoampel

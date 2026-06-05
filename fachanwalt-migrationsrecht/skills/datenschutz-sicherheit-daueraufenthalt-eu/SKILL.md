@@ -1,13 +1,13 @@
 ---
 name: datenschutz-sicherheit-daueraufenthalt-eu
-description: "Nutze dies bei Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente, Duldung 60A
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente, Duldung 60A** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente, Duldung 60A** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

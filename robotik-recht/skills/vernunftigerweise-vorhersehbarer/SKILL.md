@@ -1,6 +1,6 @@
 ---
 name: vernunftigerweise-vorhersehbarer
-description: "Nutze dies bei Vernunftigerweise Vorhersehbarer Gebrauch, Versicherungsdeckung Robotik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vernunftigerweise Vorhersehbarer Gebrauch, Versicherungsdeckung Robotik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vernunftigerweise Vorhersehbarer Gebrauch, Versicherungsdeckung Robotik

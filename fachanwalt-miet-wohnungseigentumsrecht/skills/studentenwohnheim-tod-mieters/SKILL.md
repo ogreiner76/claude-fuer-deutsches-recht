@@ -1,13 +1,13 @@
 ---
 name: studentenwohnheim-tod-mieters
-description: "Nutze dies bei Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

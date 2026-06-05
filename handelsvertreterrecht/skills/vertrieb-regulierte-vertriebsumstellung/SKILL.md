@@ -1,13 +1,13 @@
 ---
 name: vertrieb-regulierte-vertriebsumstellung
-description: "Nutze dies bei Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

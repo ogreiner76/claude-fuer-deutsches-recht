@@ -1,6 +1,6 @@
 ---
 name: nachforderungen-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Nachforderungen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Nachforderungen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Nachforderungen Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: infl-werbekennzeichnung-instagram
-description: "Nutze dies bei Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: abschlusspruefer-steuerung-aufsichtsrat
-description: "Nutze dies bei Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

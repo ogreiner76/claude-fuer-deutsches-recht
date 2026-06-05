@@ -1,13 +1,13 @@
 ---
 name: ki-steuerkanzlei-kooperation-rechtsanwalt
-description: "Nutze dies bei Steuerberater Ki In Der Steuerkanzlei Kaltstart Und Faktenmatri, Steuerberater Kooperation Mit Rechtsanwalt Kaltstart Und Fakten, Steuerberater Lohnbuchhaltung Fristenversaeumnis Kaltstart Und, Steuerberater Mandant Verlangt Aggressive Gestaltung Kaltstart: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Steuerberater Ki In Der Steuerkanzlei Kaltstart Und Faktenmatri, Steuerberater Kooperation Mit Rechtsanwalt Kaltstart Und Fakten, Steuerberater Lohnbuchhaltung Fristenversaeumnis Kaltstart Und, Steuerberater Mandant Verlangt Aggressive Gestaltung Kaltstart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Steuerberater Ki In Der Steuerkanzlei Kaltstart Und Faktenmatri, Steuerberater Kooperation Mit Rechtsanwalt Kaltstart Und Fakten, Steuerberater Lohnbuchhaltung Fristenversaeumnis Kaltstart Und, Steuerberater Mandant Verlangt Aggressive Gestaltung Kaltstart, Steuerberater Mandat Aus Krypto Transaktionen Kaltstart Und Fak
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Ki In Der Steuerkanzlei Kaltstart Und Faktenmatri, Steuerberater Kooperation Mit Rechtsanwalt Kaltstart Und Fakten, Steuerberater Lohnbuchhaltung Fristenversaeumnis Kaltstart Und, Steuerberater Mandant Verlangt Aggressive Gestaltung Kaltstart, Steuerberater Mandat Aus Krypto Transaktionen Kaltstart Und Fak** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Steuerberater Ki In Der Steuerkanzlei Kaltstart Und Faktenmatri, Steuerberater Kooperation Mit Rechtsanwalt Kaltstart Und Fakten, Steuerberater Lohnbuchhaltung Fristenversaeumnis Kaltstart Und, Steuerberater Mandant Verlangt Aggressive Gestaltung Kaltstart, Steuerberater Mandat Aus Krypto Transaktionen Kaltstart Und Fak** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

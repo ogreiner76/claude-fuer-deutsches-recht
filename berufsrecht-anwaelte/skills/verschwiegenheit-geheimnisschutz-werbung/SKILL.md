@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-geheimnisschutz-werbung
-description: "Nutze dies bei Verschwiegenheit Und Geheimnisschutz, Werbung Und Aussenauftritt, Zulassung Bestellung Und Register: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Verschwiegenheit Und Geheimnisschutz, Werbung Und Aussenauftritt, Zulassung Bestellung Und Register: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Verschwiegenheit Und Geheimnisschutz, Werbung Und Aussenauftritt, Zulassung Bestellung Und Register

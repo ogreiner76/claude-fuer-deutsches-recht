@@ -1,13 +1,13 @@
 ---
 name: ki-notariat-kollegialitaet-kammerantwort
-description: "Nutze dies bei Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

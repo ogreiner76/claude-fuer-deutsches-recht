@@ -1,13 +1,13 @@
 ---
 name: support-response-telekommunikation-agb
-description: "Nutze dies bei Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

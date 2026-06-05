@@ -1,13 +1,13 @@
 ---
 name: iv-anfechtung-iv-arbeitsrecht
-description: "Nutze dies bei Iv Anfechtung 129ff, Iv Arbeitsrecht Insolvenzgeld: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Iv Anfechtung 129ff, Iv Arbeitsrecht Insolvenzgeld: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Iv Anfechtung 129Ff, Iv Arbeitsrecht Insolvenzgeld
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Iv Anfechtung 129Ff, Iv Arbeitsrecht Insolvenzgeld** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Iv Anfechtung 129Ff, Iv Arbeitsrecht Insolvenzgeld** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

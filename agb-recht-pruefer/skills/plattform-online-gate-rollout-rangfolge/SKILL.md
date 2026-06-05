@@ -1,13 +1,13 @@
 ---
 name: plattform-online-gate-rollout-rangfolge
-description: "Nutze dies bei Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

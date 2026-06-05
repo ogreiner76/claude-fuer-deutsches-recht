@@ -1,13 +1,13 @@
 ---
 name: dealteam-zusammenfassung
-description: "Nutze dies bei Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

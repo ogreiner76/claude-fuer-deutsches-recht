@@ -1,13 +1,13 @@
 ---
 name: ki-tool-legal-tech-mandatskuendigung-unzeit
-description: "Nutze dies bei Anwaelte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwaelte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwaelte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwaelte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwaelte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwaelte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwaelte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

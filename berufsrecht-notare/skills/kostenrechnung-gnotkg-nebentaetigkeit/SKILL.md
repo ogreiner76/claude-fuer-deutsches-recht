@@ -1,13 +1,13 @@
 ---
 name: kostenrechnung-gnotkg-nebentaetigkeit
-description: "Nutze dies bei Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und, Notare Notarkammer Anfrage Rechtsprechungscheck Und Red Team
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und, Notare Notarkammer Anfrage Rechtsprechungscheck Und Red Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und, Notare Notarkammer Anfrage Rechtsprechungscheck Und Red Team** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-029-normkarte-nachbarrecht-heutiger
-description: "Nutze dies bei PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck

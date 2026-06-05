@@ -1,13 +1,13 @@
 ---
 name: ad-hoc-typ-kleine-aktienrueckkauf
-description: "Nutze dies bei Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

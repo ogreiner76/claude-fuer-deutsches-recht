@@ -1,13 +1,13 @@
 ---
 name: versr-d-o-spezialfall-deckungsklage-leitfaden
-description: "Nutze dies bei Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

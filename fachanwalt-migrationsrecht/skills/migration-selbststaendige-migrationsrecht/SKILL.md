@@ -1,13 +1,13 @@
 ---
 name: migration-selbststaendige-migrationsrecht
-description: "Nutze dies bei Migration Selbststaendige, Migrationsrecht Tatbestand Beweis Und Belege, Minderjaehrige Unbegleitet, Niederlassungserlaubnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Migration Selbststaendige, Migrationsrecht Tatbestand Beweis Und Belege, Minderjaehrige Unbegleitet, Niederlassungserlaubnis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Migration Selbststaendige, Migrationsrecht Tatbestand Beweis Und Belege, Minderjaehrige Unbegleitet, Niederlassungserlaubnis, Opfer Zeugen Menschenhandel
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Migration Selbststaendige, Migrationsrecht Tatbestand Beweis Und Belege, Minderjaehrige Unbegleitet, Niederlassungserlaubnis, Opfer Zeugen Menschenhandel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Migration Selbststaendige, Migrationsrecht Tatbestand Beweis Und Belege, Minderjaehrige Unbegleitet, Niederlassungserlaubnis, Opfer Zeugen Menschenhandel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

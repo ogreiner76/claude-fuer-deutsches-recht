@@ -1,13 +1,13 @@
 ---
 name: se-risikomanagement-beteiligungsvereinbarung
-description: "Nutze dies bei Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

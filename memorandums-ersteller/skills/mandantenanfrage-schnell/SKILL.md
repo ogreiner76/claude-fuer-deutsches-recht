@@ -1,13 +1,13 @@
 ---
 name: mandantenanfrage-schnell
-description: "Nutze dies bei Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: notarielle-niederschrift-organrollen-vorstand
-description: "Nutze dies bei Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

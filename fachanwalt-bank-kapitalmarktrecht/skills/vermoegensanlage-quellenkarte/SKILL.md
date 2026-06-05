@@ -1,6 +1,6 @@
 ---
 name: vermoegensanlage-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Vermoegensanlage Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Vermoegensanlage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Vermoegensanlage Quellenkarte

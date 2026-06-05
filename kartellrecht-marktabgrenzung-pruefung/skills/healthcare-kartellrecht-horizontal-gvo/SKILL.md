@@ -1,13 +1,13 @@
 ---
 name: healthcare-kartellrecht-horizontal-gvo
-description: "Nutze dies bei Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

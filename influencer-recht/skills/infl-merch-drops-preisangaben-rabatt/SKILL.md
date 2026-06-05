@@ -1,13 +1,13 @@
 ---
 name: infl-merch-drops-preisangaben-rabatt
-description: "Nutze dies bei Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

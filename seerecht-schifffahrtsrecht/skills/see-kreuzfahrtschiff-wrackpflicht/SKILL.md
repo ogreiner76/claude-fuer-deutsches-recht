@@ -1,13 +1,13 @@
 ---
 name: see-kreuzfahrtschiff-wrackpflicht
-description: "Nutze dies bei See 095 Kreuzfahrtschiff Wrackpflicht Prüfen, See 096 Kreuzfahrtschiff Versicherung Melden, See 097 Kreuzfahrtschiff Local Counsel Instrui, See 098 Kreuzfahrtschiff Closing Planen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "See 095 Kreuzfahrtschiff Wrackpflicht Prüfen, See 096 Kreuzfahrtschiff Versicherung Melden, See 097 Kreuzfahrtschiff Local Counsel Instrui, See 098 Kreuzfahrtschiff Closing Planen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # See 095 Kreuzfahrtschiff Wrackpflicht Prüfen, See 096 Kreuzfahrtschiff Versicherung Melden, See 097 Kreuzfahrtschiff Local Counsel Instrui, See 098 Kreuzfahrtschiff Closing Planen, See 099 Kreuzfahrtschiff Klagepfad Waehlen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **See 095 Kreuzfahrtschiff Wrackpflicht Prüfen, See 096 Kreuzfahrtschiff Versicherung Melden, See 097 Kreuzfahrtschiff Local Counsel Instrui, See 098 Kreuzfahrtschiff Closing Planen, See 099 Kreuzfahrtschiff Klagepfad Waehlen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **See 095 Kreuzfahrtschiff Wrackpflicht Prüfen, See 096 Kreuzfahrtschiff Versicherung Melden, See 097 Kreuzfahrtschiff Local Counsel Instrui, See 098 Kreuzfahrtschiff Closing Planen, See 099 Kreuzfahrtschiff Klagepfad Waehlen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

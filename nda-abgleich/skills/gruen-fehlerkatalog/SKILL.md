@@ -1,6 +1,6 @@
 ---
 name: gruen-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Gruen Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Gruen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Gruen Fehlerkatalog

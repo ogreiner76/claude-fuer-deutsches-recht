@@ -1,13 +1,13 @@
 ---
 name: fran-streitbeilegung-mediation-einstweilige
-description: "Nutze dies bei Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

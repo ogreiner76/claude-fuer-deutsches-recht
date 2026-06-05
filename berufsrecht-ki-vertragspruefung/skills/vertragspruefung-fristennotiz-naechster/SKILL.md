@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-fristennotiz-naechster
-description: "Nutze dies bei Vertragspruefung: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Vertragspruefung: Fristennotiz und nächster Schritt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

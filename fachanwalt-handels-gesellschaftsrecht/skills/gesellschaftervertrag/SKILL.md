@@ -1,13 +1,13 @@
 ---
 name: gesellschaftervertrag
-description: "Nutze dies bei Gesellschaftervertrag Abschlussprodukt Und Uebergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gesellschaftervertrag Abschlussprodukt Und Uebergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

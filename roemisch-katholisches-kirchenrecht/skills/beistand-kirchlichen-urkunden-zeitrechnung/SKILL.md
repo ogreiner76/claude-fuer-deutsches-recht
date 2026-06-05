@@ -1,13 +1,13 @@
 ---
 name: beistand-kirchlichen-urkunden-zeitrechnung
-description: "Nutze dies bei Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: output-waehlen-workflow-redteam-interessen
-description: "Nutze dies bei Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt, Personengesellschaften Fristen Form Und Zustaendigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt, Personengesellschaften Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt, Personengesellschaften Fristen Form Und Zustaendigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

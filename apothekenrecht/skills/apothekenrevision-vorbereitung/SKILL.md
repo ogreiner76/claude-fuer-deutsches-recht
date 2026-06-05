@@ -1,13 +1,13 @@
 ---
 name: apothekenrevision-vorbereitung
-description: "Nutze dies bei Apothekenrevision Vorbereitung Antwort, Apothekenuebliche Waren Abgrenzung, Arzneimittelpruefung Ausgangsstoffe Pruefprotokoll: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Apothekenrevision Vorbereitung Antwort, Apothekenuebliche Waren Abgrenzung, Arzneimittelpruefung Ausgangsstoffe Pruefprotokoll: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Apothekenrevision Vorbereitung Antwort, Apothekenuebliche Waren Abgrenzung, Arzneimittelpruefung Ausgangsstoffe Pruefprotokoll
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Apothekenrevision Vorbereitung Antwort, Apothekenuebliche Waren Abgrenzung, Arzneimittelpruefung Ausgangsstoffe Pruefprotokoll** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Apothekenrevision Vorbereitung Antwort, Apothekenuebliche Waren Abgrenzung, Arzneimittelpruefung Ausgangsstoffe Pruefprotokoll** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

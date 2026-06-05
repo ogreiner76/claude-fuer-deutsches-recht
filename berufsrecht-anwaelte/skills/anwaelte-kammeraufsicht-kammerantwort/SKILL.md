@@ -1,13 +1,13 @@
 ---
 name: anwaelte-kammeraufsicht-kammerantwort
-description: "Nutze dies bei Anwaelte Vergleich Mit Kammeraufsicht Kammerantwort Und Verfahr, Anwaelte Vergleich Mit Kammeraufsicht Organisationspflicht Und, Anwaelte Vermoegensverfall Und Zulassungswiderruf Kammerantwort, Anwaelte Vermoegensverfall Und Zulassungswiderruf Organisations: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Vergleich Mit Kammeraufsicht Kammerantwort Und Verfahr, Anwaelte Vergleich Mit Kammeraufsicht Organisationspflicht Und, Anwaelte Vermoegensverfall Und Zulassungswiderruf Kammerantwort, Anwaelte Vermoegensverfall Und Zulassungswiderruf Organisations: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Vergleich Mit Kammeraufsicht Kammerantwort Und Verfahr, Anwälte Vergleich Mit Kammeraufsicht Organisationspflicht Und, Anwälte Vermoegensverfall Und Zulassungswiderruf Kammerantwort, Anwälte Vermoegensverfall Und Zulassungswiderruf Organisations, Anwälte Vermoegensverfall Und Zulassungswiderruf Rechtsprechun
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Vergleich Mit Kammeraufsicht Kammerantwort Und Verfahr, Anwälte Vergleich Mit Kammeraufsicht Organisationspflicht Und, Anwälte Vermoegensverfall Und Zulassungswiderruf Kammerantwort, Anwälte Vermoegensverfall Und Zulassungswiderruf Organisations, Anwälte Vermoegensverfall Und Zulassungswiderruf Rechtsprechun** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Vergleich Mit Kammeraufsicht Kammerantwort Und Verfahr, Anwälte Vergleich Mit Kammeraufsicht Organisationspflicht Und, Anwälte Vermoegensverfall Und Zulassungswiderruf Kammerantwort, Anwälte Vermoegensverfall Und Zulassungswiderruf Organisations, Anwälte Vermoegensverfall Und Zulassungswiderruf Rechtsprechun** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

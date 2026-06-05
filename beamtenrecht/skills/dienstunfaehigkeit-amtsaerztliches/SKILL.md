@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-amtsaerztliches
-description: "Nutze dies bei Dienstunfaehigkeit Amtsaerztliches Gutachten, Dienstunfaehigkeit Zurruhesetzung, Dienstunfall Anerkennung, Dienstunfall Anerkennung 45 Beamtvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dienstunfaehigkeit Amtsaerztliches Gutachten, Dienstunfaehigkeit Zurruhesetzung, Dienstunfall Anerkennung, Dienstunfall Anerkennung 45 Beamtvg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dienstunfaehigkeit Amtsaerztliches Gutachten, Dienstunfaehigkeit Zurruhesetzung, Dienstunfall Anerkennung, Dienstunfall Anerkennung 45 Beamtvg

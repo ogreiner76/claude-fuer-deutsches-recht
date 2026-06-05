@@ -1,13 +1,13 @@
 ---
 name: dsv-rechtsprechung-saas-vertrag-fristennotiz
-description: "Nutze dies bei Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

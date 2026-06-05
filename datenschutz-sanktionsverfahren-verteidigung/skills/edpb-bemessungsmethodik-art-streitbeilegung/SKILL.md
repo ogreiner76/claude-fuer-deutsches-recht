@@ -1,13 +1,13 @@
 ---
 name: edpb-bemessungsmethodik-art-streitbeilegung
-description: "Nutze dies bei Edpb 04 2022 Bemessungsmethodik, Edpb Art 65 Streitbeilegung, Edsa Und Dsk Praxis Livecheck, Einstellung Anregen Vor Bescheid: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Edpb 04 2022 Bemessungsmethodik, Edpb Art 65 Streitbeilegung, Edsa Und Dsk Praxis Livecheck, Einstellung Anregen Vor Bescheid: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Edpb 04 2022 Bemessungsmethodik, Edpb Art 65 Streitbeilegung, Edsa Und Dsk Praxis Livecheck, Einstellung Anregen Vor Bescheid
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Edpb 04 2022 Bemessungsmethodik, Edpb Art 65 Streitbeilegung, Edsa Und Dsk Praxis Livecheck, Einstellung Anregen Vor Bescheid** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Edpb 04 2022 Bemessungsmethodik, Edpb Art 65 Streitbeilegung, Edsa Und Dsk Praxis Livecheck, Einstellung Anregen Vor Bescheid** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

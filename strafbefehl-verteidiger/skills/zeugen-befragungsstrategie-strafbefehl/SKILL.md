@@ -1,13 +1,13 @@
 ---
 name: zeugen-befragungsstrategie-strafbefehl
-description: "Nutze dies bei Strafbefehl Zeugen Befragungsstrategie, Strafbefehl Zulaessigkeit 407: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Strafbefehl Zeugen Befragungsstrategie, Strafbefehl Zulaessigkeit 407: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Strafbefehl Zeugen Befragungsstrategie, Strafbefehl Zulässigkeit 407
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Zeugen Befragungsstrategie, Strafbefehl Zulässigkeit 407** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Strafbefehl Zeugen Befragungsstrategie, Strafbefehl Zulässigkeit 407** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

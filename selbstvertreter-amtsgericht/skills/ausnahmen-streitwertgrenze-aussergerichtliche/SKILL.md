@@ -1,13 +1,13 @@
 ---
 name: ausnahmen-streitwertgrenze-aussergerichtliche
-description: "Nutze dies bei Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

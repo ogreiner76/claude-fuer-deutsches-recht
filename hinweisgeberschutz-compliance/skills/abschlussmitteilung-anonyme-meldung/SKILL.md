@@ -1,13 +1,13 @@
 ---
 name: abschlussmitteilung-anonyme-meldung
-description: "Nutze dies bei Abschlussmitteilung, Anonyme Meldung, Antwortschreiben Hinweisgeber, Anwaltliche Meldestelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Abschlussmitteilung, Anonyme Meldung, Antwortschreiben Hinweisgeber, Anwaltliche Meldestelle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Abschlussmitteilung, Anonyme Meldung, Antwortschreiben Hinweisgeber, Anwaltliche Meldestelle
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Abschlussmitteilung, Anonyme Meldung, Antwortschreiben Hinweisgeber, Anwaltliche Meldestelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Abschlussmitteilung, Anonyme Meldung, Antwortschreiben Hinweisgeber, Anwaltliche Meldestelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

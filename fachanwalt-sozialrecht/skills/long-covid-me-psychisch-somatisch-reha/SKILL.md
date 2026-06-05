@@ -1,13 +1,13 @@
 ---
 name: long-covid-me-psychisch-somatisch-reha
-description: "Nutze dies bei Long Covid Me Cfs Pem Beweis, Long Covid Psychisch Oder Somatisch, Long Covid Reha Und Teilhabe, Mandanten Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Long Covid Me Cfs Pem Beweis, Long Covid Psychisch Oder Somatisch, Long Covid Reha Und Teilhabe, Mandanten Intake: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Long Covid Me Cfs Pem Beweis, Long Covid Psychisch Oder Somatisch, Long Covid Reha Und Teilhabe, Mandanten Intake
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Long Covid Me Cfs Pem Beweis, Long Covid Psychisch Oder Somatisch, Long Covid Reha Und Teilhabe, Mandanten Intake** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Long Covid Me Cfs Pem Beweis, Long Covid Psychisch Oder Somatisch, Long Covid Reha Und Teilhabe, Mandanten Intake** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: gc-dashboard-handover-kanzleiwechsel-inhouse
-description: "Nutze dies bei Gc Dashboard, Handover Kanzleiwechsel, Inhouse Counsel Ethics, Inhouse Legal Triage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Gc Dashboard, Handover Kanzleiwechsel, Inhouse Counsel Ethics, Inhouse Legal Triage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Gc Dashboard, Handover Kanzleiwechsel, Inhouse Counsel Ethics, Inhouse Legal Triage, Injunction Sprint
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Gc Dashboard, Handover Kanzleiwechsel, Inhouse Counsel Ethics, Inhouse Legal Triage, Injunction Sprint** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Gc Dashboard, Handover Kanzleiwechsel, Inhouse Counsel Ethics, Inhouse Legal Triage, Injunction Sprint** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

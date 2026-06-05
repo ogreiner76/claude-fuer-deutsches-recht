@@ -1,6 +1,6 @@
 ---
 name: orphan-atmp-pathologie-probenverwechslung
-description: "Nutze dies bei Orphan Atmp Zugang, Pathologie Probenverwechslung, Patientenverfuegung Klinik, Praediktive Genetik Familie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Orphan Atmp Zugang, Pathologie Probenverwechslung, Patientenverfuegung Klinik, Praediktive Genetik Familie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Orphan Atmp Zugang, Pathologie Probenverwechslung, Patientenverfuegung Klinik, Praediktive Genetik Familie

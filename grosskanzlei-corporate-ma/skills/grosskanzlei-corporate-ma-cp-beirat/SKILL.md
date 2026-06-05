@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-cp-beirat
-description: "Nutze dies bei Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8c Iv Kstg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8c Iv Kstg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8C Iv Kstg

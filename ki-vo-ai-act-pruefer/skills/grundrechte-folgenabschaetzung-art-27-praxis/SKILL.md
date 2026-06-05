@@ -32,3 +32,10 @@ Erzeuge:
 ## Qualitätsregel
 
 Grundrechte nicht ornamental nennen. Immer erklären, welche konkrete Systemfunktion welches konkrete Recht wie berührt.
+
+## Powersprint-Vertiefung
+
+- **AI-Act-Pfad:** Bei `Grundrechte-Folgenabschätzung nach Art. 27 KI-VO` Art. 3 KI-VO, Zweckbestimmung, Anbieter-/Betreiberrolle, Art. 6 Abs. 2 mit Anhang III, Transparenzpflichten und Sanktionen getrennt prüfen.
+- **Dokumentationslogik:** Schreibe nicht nur ein Ergebnis, sondern eine auditfähige Begründung mit Systembeschreibung, Datenfluss, Risiko, Governance, menschlicher Aufsicht und Restunsicherheit.
+- **Quellenbremse:** Normtext, Leitlinien, harmonisierte Normen und Behördenpraxis nur mit Datum/Quelle; ISO-/DIN-Bezüge als Prüfauftrag kennzeichnen, wenn nicht im Mandat belegt.
+- **Output:** KI-System-Check, Hochrisiko-Matrix, Grundrechte-/Transparenznotiz oder Behördenkommunikation.

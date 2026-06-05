@@ -1,13 +1,13 @@
 ---
 name: condictio-causa-data-indebiti-bgb-ob-causam
-description: "Nutze dies bei Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

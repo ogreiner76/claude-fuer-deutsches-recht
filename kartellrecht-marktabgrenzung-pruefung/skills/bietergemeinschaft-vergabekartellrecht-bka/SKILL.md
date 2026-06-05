@@ -1,13 +1,13 @@
 ---
 name: bietergemeinschaft-vergabekartellrecht-bka
-description: "Nutze dies bei Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

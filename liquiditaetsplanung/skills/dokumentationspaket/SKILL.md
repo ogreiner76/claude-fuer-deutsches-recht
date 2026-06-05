@@ -1,6 +1,6 @@
 ---
 name: dokumentationspaket
-description: "Nutze dies für Unterlagen zu Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk

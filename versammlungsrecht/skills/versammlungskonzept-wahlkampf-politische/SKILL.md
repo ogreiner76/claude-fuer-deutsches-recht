@@ -1,13 +1,13 @@
 ---
 name: versammlungskonzept-wahlkampf-politische
-description: "Nutze dies bei Versammlungskonzept, Wahlkampf Und Politische Kundgebung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Versammlungskonzept, Wahlkampf Und Politische Kundgebung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Versammlungskonzept, Wahlkampf Und Politische Kundgebung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Versammlungskonzept, Wahlkampf Und Politische Kundgebung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Versammlungskonzept, Wahlkampf Und Politische Kundgebung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

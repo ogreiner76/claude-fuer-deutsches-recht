@@ -1,6 +1,6 @@
 ---
 name: wohngemeinschaft-mieterwechsel-wohnraummiete
-description: "Nutze dies bei Wohngemeinschaft Mieterwechsel, Wohnraummiete Behörden Gericht Und Registerweg, Zwangsversteigerung Mietrecht, Zwangsverwaltung Mietrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Wohngemeinschaft Mieterwechsel, Wohnraummiete Behörden Gericht Und Registerweg, Zwangsversteigerung Mietrecht, Zwangsverwaltung Mietrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Wohngemeinschaft Mieterwechsel, Wohnraummiete Behörden Gericht Und Registerweg, Zwangsversteigerung Mietrecht, Zwangsverwaltung Mietrecht

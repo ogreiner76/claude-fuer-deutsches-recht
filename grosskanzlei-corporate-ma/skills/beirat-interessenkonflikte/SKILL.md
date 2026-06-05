@@ -1,6 +1,6 @@
 ---
 name: beirat-interessenkonflikte
-description: "Nutze dies bei Beirat Interessenkonflikte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Interessenkonflikte: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Interessenkonflikte

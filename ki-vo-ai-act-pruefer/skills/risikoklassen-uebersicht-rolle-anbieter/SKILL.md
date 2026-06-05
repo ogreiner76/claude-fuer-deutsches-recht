@@ -1,13 +1,13 @@
 ---
 name: risikoklassen-uebersicht-rolle-anbieter
-description: "Nutze dies bei Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

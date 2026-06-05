@@ -1,13 +1,13 @@
 ---
 name: freedom-to-public-disclosure-need-to-no
-description: "Nutze dies bei Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-zimbabwe-zypern-competition-eu
-description: "Nutze dies bei Jurisdiktion Zimbabwe Competition Authority, Jurisdiktion Zypern Competition Authority, Eu Fusionskontrolle Fkvo Zustaendigkeit, Schiedsverfahren Kartellrecht Einwand Nichtigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Jurisdiktion Zimbabwe Competition Authority, Jurisdiktion Zypern Competition Authority, Eu Fusionskontrolle Fkvo Zustaendigkeit, Schiedsverfahren Kartellrecht Einwand Nichtigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Jurisdiktion Zimbabwe Competition Authority, Jurisdiktion Zypern Competition Authority, Eu Fusionskontrolle Fkvo Zustaendigkeit, Schiedsverfahren Kartellrecht Einwand Nichtigkeit

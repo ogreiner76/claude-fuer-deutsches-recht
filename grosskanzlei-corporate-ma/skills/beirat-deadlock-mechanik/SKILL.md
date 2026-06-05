@@ -1,6 +1,6 @@
 ---
 name: beirat-deadlock-mechanik
-description: "Nutze dies bei Beirat Deadlock Mechanik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Deadlock Mechanik: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Deadlock Mechanik

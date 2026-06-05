@@ -1,13 +1,13 @@
 ---
 name: lease-leasing-abrechnung-inkasso
-description: "Nutze dies bei Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

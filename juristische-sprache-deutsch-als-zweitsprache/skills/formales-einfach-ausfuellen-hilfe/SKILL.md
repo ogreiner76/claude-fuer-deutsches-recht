@@ -1,13 +1,13 @@
 ---
 name: formales-einfach-ausfuellen-hilfe
-description: "Nutze dies bei Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

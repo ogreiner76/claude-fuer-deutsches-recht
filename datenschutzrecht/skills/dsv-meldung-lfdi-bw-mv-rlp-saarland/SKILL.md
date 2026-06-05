@@ -1,13 +1,13 @@
 ---
 name: dsv-meldung-lfdi-bw-mv-rlp-saarland
-description: "Nutze dies bei Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

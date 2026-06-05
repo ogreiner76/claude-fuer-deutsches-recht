@@ -1,13 +1,13 @@
 ---
 name: bfsg-hausverwalter-datenschutz
-description: "Nutze dies bei Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72h: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72h: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

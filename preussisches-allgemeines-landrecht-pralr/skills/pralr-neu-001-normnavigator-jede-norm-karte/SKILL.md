@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-001-normnavigator-jede-norm-karte
-description: "Nutze dies bei PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # PrALR: Normnavigator jede PrALR-Norm als Karte erschließen

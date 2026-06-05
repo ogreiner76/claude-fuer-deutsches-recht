@@ -1,13 +1,13 @@
 ---
 name: btm-methadon-mandantenbrief-medizinalcannabis
-description: "Nutze dies bei Btm 090 Methadon Mandantenbrief Schreiben, Btm 091 Medizinalcannabis Stoff Prüfen, Btm 092 Medizinalcannabis Menge Einordnen, Btm 093 Medizinalcannabis Strafrahmen Routen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Btm 090 Methadon Mandantenbrief Schreiben, Btm 091 Medizinalcannabis Stoff Prüfen, Btm 092 Medizinalcannabis Menge Einordnen, Btm 093 Medizinalcannabis Strafrahmen Routen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Btm 090 Methadon Mandantenbrief Schreiben, Btm 091 Medizinalcannabis Stoff Prüfen, Btm 092 Medizinalcannabis Menge Einordnen, Btm 093 Medizinalcannabis Strafrahmen Routen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Btm 090 Methadon Mandantenbrief Schreiben, Btm 091 Medizinalcannabis Stoff Prüfen, Btm 092 Medizinalcannabis Menge Einordnen, Btm 093 Medizinalcannabis Strafrahmen Routen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Btm 090 Methadon Mandantenbrief Schreiben, Btm 091 Medizinalcannabis Stoff Prüfen, Btm 092 Medizinalcannabis Menge Einordnen, Btm 093 Medizinalcannabis Strafrahmen Routen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

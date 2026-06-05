@@ -1,13 +1,13 @@
 ---
 name: rechtsmonitoring-bank-regress
-description: "Nutze dies bei Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

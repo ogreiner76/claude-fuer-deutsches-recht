@@ -1,13 +1,13 @@
 ---
 name: audit-response-trail-logs-authority-matrix
-description: "Nutze dies bei Audit Response Legal, Audit Trail And Logs, Authority Matrix, Bad News Memo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Audit Response Legal, Audit Trail And Logs, Authority Matrix, Bad News Memo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Audit Response Legal, Audit Trail And Logs, Authority Matrix, Bad News Memo, Beauty Contest Scoring
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Audit Response Legal, Audit Trail And Logs, Authority Matrix, Bad News Memo, Beauty Contest Scoring** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Audit Response Legal, Audit Trail And Logs, Authority Matrix, Bad News Memo, Beauty Contest Scoring** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

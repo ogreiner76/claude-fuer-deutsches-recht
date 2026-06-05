@@ -1,6 +1,6 @@
 ---
 name: generator-beamtenrecht-fuersorgepflicht
-description: "Nutze dies bei Formular Generator Beamtenrecht, Fuersorgepflicht Mobbing Konflikt, Geschaeftsverteilung Richter 21e Gvg, Geschenke Korruption Compliance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Formular Generator Beamtenrecht, Fuersorgepflicht Mobbing Konflikt, Geschaeftsverteilung Richter 21e Gvg, Geschenke Korruption Compliance: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Formular Generator Beamtenrecht, Fuersorgepflicht Mobbing Konflikt, Geschaeftsverteilung Richter 21E Gvg, Geschenke Korruption Compliance

@@ -1,13 +1,13 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Nutze dies bei Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

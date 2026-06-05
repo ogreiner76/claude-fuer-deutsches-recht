@@ -1,6 +1,6 @@
 ---
 name: nachfrage-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Nachfrage Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Nachfrage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Nachfrage Quellenkarte

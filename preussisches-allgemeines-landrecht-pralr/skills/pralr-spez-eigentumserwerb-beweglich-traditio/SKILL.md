@@ -45,3 +45,10 @@ description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill b
 
 - Quellenmatrix.
 - Synopse zum BGB-Abstraktionsprinzip.
+
+## Powersprint-Vertiefung
+
+- **Quellenarbeit:** Vor einer Aussage die betroffene ALR-Stelle mit Teil, Titel und Paragraph aus der 1794er oder 1804er Fassung festhalten; Abweichungen zwischen Fassungen nur behaupten, wenn sie am Text belegt sind.
+- **Historische Funktion:** Erkläre, ob `Pralr Eigentumserwerb Beweglich Traditio` eher ständische Ordnung, Kameralstaat, Privatrechtsdogmatik, Polizeirecht oder frühe Verfahrensrationalisierung abbildet.
+- **Moderner Vergleich:** Stelle die heutige Parallele nur als Vergleich daneben, etwa BGB, ZPO, FamFG, StGB/StPO oder öffentliches Recht; niemals so tun, als gelte ALR-Recht noch unmittelbar.
+- **Output:** Liefere eine Mini-Synopse `ALR-Regel / historisches Problem / heutige Vergleichsnorm / didaktischer Nutzen / offene Quellenprüfung`.

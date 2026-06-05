@@ -1,6 +1,6 @@
 ---
 name: zeugenstrategie-fehlerkatalog
-description: "Nutze dies als Fehlerbremse bei Zeugenstrategie Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Zeugenstrategie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Zeugenstrategie Fehlerkatalog

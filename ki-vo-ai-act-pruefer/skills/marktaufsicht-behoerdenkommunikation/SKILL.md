@@ -1,13 +1,13 @@
 ---
 name: marktaufsicht-behoerdenkommunikation
-description: "Nutze dies bei Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

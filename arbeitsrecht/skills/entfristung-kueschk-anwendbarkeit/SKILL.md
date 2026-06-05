@@ -1,13 +1,13 @@
 ---
 name: entfristung-kueschk-anwendbarkeit
-description: "Nutze dies bei Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

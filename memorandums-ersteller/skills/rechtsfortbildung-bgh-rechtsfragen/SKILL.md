@@ -1,13 +1,13 @@
 ---
 name: rechtsfortbildung-bgh-rechtsfragen
-description: "Nutze dies bei Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: anwaelte-geldwaesche-risikoanalyse
-description: "Nutze dies bei Anwaelte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwaelte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwaelte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwaelte Honorarvereinbarung Und Rvg Transparenz Kammerantwort: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Anwaelte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwaelte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwaelte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwaelte Honorarvereinbarung Und Rvg Transparenz Kammerantwort: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

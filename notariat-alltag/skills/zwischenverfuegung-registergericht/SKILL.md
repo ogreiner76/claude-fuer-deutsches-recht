@@ -1,13 +1,13 @@
 ---
 name: zwischenverfuegung-registergericht
-description: "Nutze dies bei Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

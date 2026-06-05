@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Nutze dies bei Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

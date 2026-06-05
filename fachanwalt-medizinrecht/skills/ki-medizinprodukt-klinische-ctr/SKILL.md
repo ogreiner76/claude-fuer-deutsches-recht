@@ -1,6 +1,6 @@
 ---
 name: ki-medizinprodukt-klinische-ctr
-description: "Nutze dies bei Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg

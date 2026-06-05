@@ -1,13 +1,13 @@
 ---
 name: whistleblower-meldung-wpueg-uebernahmeangebot
-description: "Nutze dies bei Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

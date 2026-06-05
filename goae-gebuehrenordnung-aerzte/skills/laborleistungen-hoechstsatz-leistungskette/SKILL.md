@@ -1,13 +1,13 @@
 ---
 name: laborleistungen-hoechstsatz-leistungskette
-description: "Nutze dies bei Laborleistungen Und Hoechstsatz Besonderheiten, Leistungskette Zielleistung Keine Aufspaltung, Livecheck Goae Text Und Reformstand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laborleistungen Und Hoechstsatz Besonderheiten, Leistungskette Zielleistung Keine Aufspaltung, Livecheck Goae Text Und Reformstand: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laborleistungen Und Hoechstsatz Besonderheiten, Leistungskette Zielleistung Keine Aufspaltung, Livecheck Goae Text Und Reformstand
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Laborleistungen Und Hoechstsatz Besonderheiten, Leistungskette Zielleistung Keine Aufspaltung, Livecheck Goae Text Und Reformstand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Laborleistungen Und Hoechstsatz Besonderheiten, Leistungskette Zielleistung Keine Aufspaltung, Livecheck Goae Text Und Reformstand** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

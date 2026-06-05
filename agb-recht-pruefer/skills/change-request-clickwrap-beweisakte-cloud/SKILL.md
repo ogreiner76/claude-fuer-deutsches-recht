@@ -1,13 +1,13 @@
 ---
 name: change-request-clickwrap-beweisakte-cloud
-description: "Nutze dies bei Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: band-titel-rechtsfortwirkung-praxis
-description: "Nutze dies bei Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

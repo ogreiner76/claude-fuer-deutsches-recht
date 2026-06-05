@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-em-rente-erwerbsminderungsrente
-description: "Nutze dies bei Laienhilfe Em Rente Gutachten, Laienhilfe Erwerbsminderungsrente Antrag, Laienhilfe Fehlervermeidung Sozialrecht, Laienhilfe Gutachten Fehler Finden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Laienhilfe Em Rente Gutachten, Laienhilfe Erwerbsminderungsrente Antrag, Laienhilfe Fehlervermeidung Sozialrecht, Laienhilfe Gutachten Fehler Finden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Laienhilfe Em Rente Gutachten, Laienhilfe Erwerbsminderungsrente Antrag, Laienhilfe Fehlervermeidung Sozialrecht, Laienhilfe Gutachten Fehler Finden
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Em Rente Gutachten, Laienhilfe Erwerbsminderungsrente Antrag, Laienhilfe Fehlervermeidung Sozialrecht, Laienhilfe Gutachten Fehler Finden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Laienhilfe Em Rente Gutachten, Laienhilfe Erwerbsminderungsrente Antrag, Laienhilfe Fehlervermeidung Sozialrecht, Laienhilfe Gutachten Fehler Finden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

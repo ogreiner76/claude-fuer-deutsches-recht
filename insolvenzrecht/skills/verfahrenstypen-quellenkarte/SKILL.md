@@ -1,6 +1,6 @@
 ---
 name: verfahrenstypen-quellenkarte
-description: "Nutze dies zur Quellenprüfung bei Verfahrenstypen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Verfahrenstypen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Verfahrenstypen Quellenkarte

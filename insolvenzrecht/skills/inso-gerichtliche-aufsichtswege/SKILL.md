@@ -1,13 +1,13 @@
 ---
 name: inso-gerichtliche-aufsichtswege
-description: "Nutze dies bei Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
+description: "Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
 ---
 
 # Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die Teilfragen zu **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: beirat-datenschutz-und-ki
-description: "Nutze dies bei Beirat Datenschutz Und KI: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "Beirat Datenschutz Und KI: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # Beirat Datenschutz Und KI

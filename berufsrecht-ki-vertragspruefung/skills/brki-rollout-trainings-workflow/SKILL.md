@@ -1,6 +1,6 @@
 ---
 name: brki-rollout-trainings-workflow
-description: "Nutze dies bei BRKI: Rollout-Trainings: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
+description: "BRKI: Rollout-Trainings: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
 ---
 
 # BRKI: Rollout-Trainings
