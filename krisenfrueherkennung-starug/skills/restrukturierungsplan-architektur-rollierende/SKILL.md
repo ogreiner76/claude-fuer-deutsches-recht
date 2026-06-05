@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-architektur-rollierende
-description: "Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast: Restrukturierungsplan Architektur Paragraph 7Ff Starug; Rollierende Liquiditaetsplanung 24 Monate Template; Spezial Ampelsystem Beweislast Und Darlegungslast. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rollierende-liquiditaetsplanung-24-monate-template` | Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, Maßnahmenbrücke, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform. |
 | `spezial-ampelsystem-beweislast-und-darlegungslast` | Ampelsystem: Beweislast, Darlegungslast und Substantiierung im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

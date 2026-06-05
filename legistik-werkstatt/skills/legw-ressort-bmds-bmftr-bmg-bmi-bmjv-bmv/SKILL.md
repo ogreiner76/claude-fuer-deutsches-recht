@@ -1,6 +1,6 @@
 ---
 name: legw-ressort-bmds-bmftr-bmg-bmi-bmjv-bmv
-description: "Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen: Legw Ressort Bmds; Legw Ressort Bmftr; Legw Ressort Bmg; Legw Ressort Bmi; Legw Ressort Bmjv; ...; Legw Ressort Bmv. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen
@@ -22,12 +22,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `legw-ressort-bmukn` | Heranfuehrung Ressort BMUKN (Bundesministerium fuer Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit). Schwerpunkt: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares. Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG. Fuenf Spezialfelder: immissionsschutz-und-bimschg; wasser-und-bodenschutzrecht; abfall-und-kreislaufwirtschaftsrecht; naturschutz-und-artenschutzrecht; atom-und-strahlenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmukn und legw-bmukn-Themenslug. |
 | `legw-ressort-bmv` | Heranfuehrung Ressort BMV (Bundesministerium fuer Verkehr). Schwerpunkt: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein. Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG. Fuenf Spezialfelder: strassenverkehrsrecht-und-stvg-stvo; schienen-und-bahnregulierung-aeg; luft-und-luftverkehrsrecht; schifffahrts-und-seeverkehrsrecht; mobilitaets-und-fuehrerscheinrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmv und legw-bmv-Themenslug. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

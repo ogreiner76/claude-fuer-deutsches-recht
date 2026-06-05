@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg: Spezial Krisenstadien Fristennotiz Und Naechster Schritt; Spezial Starug Fristen Form Und Zustaendigkeit; Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-starug-fristen-form-und-zustaendigkeit` | StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` | Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

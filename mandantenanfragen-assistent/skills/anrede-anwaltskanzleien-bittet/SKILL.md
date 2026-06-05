@@ -1,6 +1,6 @@
 ---
 name: anrede-anwaltskanzleien-bittet
-description: "Spezial Anrede Verhandlung Vergleich Und Eskalation, Spezial Anwaltskanzleien Erstpruefung Und Mandatsziel, Spezial Bittet Internationaler Bezug Und Schnittstellen: Spezial Anrede Verhandlung Vergleich Und Eskalation; Spezial Anwaltskanzleien Erstpruefung Und Mandatsziel; Spezial Bittet Internationaler Bezug Und Schnittstellen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Anrede Verhandlung Vergleich Und Eskalation, Spezial Anwaltskanzleien Erstpruefung Und Mandatsziel, Spezial Bittet Internationaler Bezug Und Schnittstellen im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Spezial Anrede Verhandlung Vergleich Und Eskalation, Spezial Anwaltskanzleien Erstpruefung Und Mandatsziel, Spezial Bittet Internationaler Bezug Und Schnittstellen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-anwaltskanzleien-erstpruefung-und-mandatsziel` | Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bittet-internationaler-bezug-und-schnittstellen` | Bittet: Internationaler Bezug und Schnittstellen im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Anrede Verhandlung Vergleich Und Eskalation, Spezial Anwaltskanzleien Erstpruefung Und Mandatsziel, Spezial Bittet Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

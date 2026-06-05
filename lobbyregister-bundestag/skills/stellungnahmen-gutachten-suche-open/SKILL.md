@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-gutachten-suche-open
-description: "Stellungnahmen Gutachten Upload, Suche Open Data Monitor: Stellungnahmen Gutachten Upload; Suche Open Data Monitor. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Stellungnahmen Gutachten Upload, Suche Open Data Monitor im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Stellungnahmen Gutachten Upload, Suche Open Data Monitor prüfen.; Erstelle eine Arbeitsfassung zu Stellungnahmen Gutachten Upload, Suche Open Data Monitor.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Stellungnahmen Gutachten Upload, Suche Open Data Monitor
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stellungnahmen-gutachten-upload` | Prüft Bereitstellungspflicht für grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben und Quartalsfrist. Norm § 3 LobbyRG. Output Upload-Log. |
 | `suche-open-data-monitor` | Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienprüfung. Output Monitoring-Report. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Stellungnahmen Gutachten Upload, Suche Open Data Monitor** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

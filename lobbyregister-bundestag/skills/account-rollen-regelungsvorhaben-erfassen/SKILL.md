@@ -1,6 +1,6 @@
 ---
 name: account-rollen-regelungsvorhaben-erfassen
-description: "Portal Account Rollen, Regelungsvorhaben Erfassen: Portal Account Rollen; Regelungsvorhaben Erfassen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Portal Account Rollen, Regelungsvorhaben Erfassen im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Portal Account Rollen, Regelungsvorhaben Erfassen prüfen.; Erstelle eine Arbeitsfassung zu Portal Account Rollen, Regelungsvorhaben Erfassen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Portal Account Rollen, Regelungsvorhaben Erfassen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `portal-account-rollen` | Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-Freigabe und Passwortmanager für das Lobbyregisterportal. Output Account-Konzept. |
 | `regelungsvorhaben-erfassen` | Erfasst konkrete aktuelle, geplante oder angestrebte Regelungsvorhaben, auch ohne vorhandenen Referentenentwurf oder Drucksache. Output Regelungsvorhaben-Karte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Portal Account Rollen, Regelungsvorhaben Erfassen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

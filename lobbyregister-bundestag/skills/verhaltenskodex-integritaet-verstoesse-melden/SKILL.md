@@ -1,6 +1,6 @@
 ---
 name: verhaltenskodex-integritaet-verstoesse-melden
-description: "Verhaltenskodex Integritaet, Verstoesse Melden: Verhaltenskodex Integritaet; Verstoesse Melden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verhaltenskodex Integritaet, Verstoesse Melden im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Verhaltenskodex Integritaet, Verstoesse Melden prüfen.; Erstelle eine Arbeitsfassung zu Verhaltenskodex Integritaet, Verstoesse Melden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verhaltenskodex Integritaet, Verstoesse Melden
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verhaltenskodex-integritaet` | Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check. |
 | `verstoesse-melden` | Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verhaltenskodex Integritaet, Verstoesse Melden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

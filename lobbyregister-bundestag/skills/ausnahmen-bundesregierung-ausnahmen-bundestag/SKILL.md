@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-bundesregierung-ausnahmen-bundestag
-description: "Ausnahmen Bundesregierung, Ausnahmen Bundestag: Ausnahmen Bundesregierung; Ausnahmen Bundestag. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ausnahmen Bundesregierung, Ausnahmen Bundestag im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Ausnahmen Bundesregierung, Ausnahmen Bundestag prüfen.; Erstelle eine Arbeitsfassung zu Ausnahmen Bundesregierung, Ausnahmen Bundestag.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ausnahmen Bundesregierung, Ausnahmen Bundestag
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ausnahmen-bundesregierung` | Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung. |
 | `ausnahmen-bundestag` | Prüft die Ausnahmen von der Registrierungspflicht bei Interessenvertretung gegenüber Bundestagsadressaten nach § 2 Abs. 2 LobbyRG. Output Ausnahmegutachten kurz mit Restpflichten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ausnahmen Bundesregierung, Ausnahmen Bundestag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

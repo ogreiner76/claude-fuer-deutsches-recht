@@ -1,6 +1,6 @@
 ---
 name: intake-mandat-lobbyregister
-description: "Lobbyregister Intake Mandat, Lobbyregister Kommandocenter: Lobbyregister Intake Mandat; Lobbyregister Kommandocenter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Lobbyregister Intake Mandat, Lobbyregister Kommandocenter im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Lobbyregister Intake Mandat, Lobbyregister Kommandocenter
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `lobbyregister-intake-mandat` | Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfung. Nutzt LobbyRG §§ 1 bis 5 und Bundestags-Handbuch. Output Intake-Protokoll und Dokumentenliste. |
 | `lobbyregister-kommandocenter` | Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktualisierung, Verhaltenskodex, Meldung, Sanktion, Unterlagen und naechster Skill. Normen LobbyRG §§ 1 bis 7. Output Mandatskarte, Routing und Qualitaetsgate. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Lobbyregister Intake Mandat, Lobbyregister Kommandocenter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

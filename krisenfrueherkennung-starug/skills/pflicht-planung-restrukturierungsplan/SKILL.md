@@ -1,6 +1,6 @@
 ---
 name: pflicht-planung-restrukturierungsplan
-description: "Spezial Pflicht Dokumentenmatrix Und Lueckenliste, Spezial Planung Internationaler Bezug Und Schnittstellen, Spezial Restrukturierungsplan Formular Portal Und Einreichung: Spezial Pflicht Dokumentenmatrix Und Lueckenliste; Spezial Planung Internationaler Bezug Und Schnittstellen; Spezial Restrukturierungsplan Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Pflicht Dokumentenmatrix Und Lueckenliste, Spezial Planung Internationaler Bezug Und Schnittstellen, Spezial Restrukturierungsplan Formular Portal Und Einreichung im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pflicht Dokumentenmatrix Und Lueckenliste, Spezial Planung Internationaler Bezug Und Schnittstellen, Spezial Restrukturierungsplan Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pflicht Dokumentenmatrix Und Lueckenliste, Spezial Planung Internationaler Bezug Und Schnittstellen, Spezial Restrukturierungsplan Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Pflicht Dokumentenmatrix Und Lueckenliste, Spezial Planung Internationaler Bezug Und Schnittstellen, Spezial Restrukturierungsplan Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-planung-internationaler-bezug-und-schnittstellen` | Planung: Internationaler Bezug und Schnittstellen im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-restrukturierungsplan-formular-portal-und-einreichung` | Restrukturierungsplan: Formular, Portal und Einreichungslogik im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Pflicht Dokumentenmatrix Und Lueckenliste, Spezial Planung Internationaler Bezug Und Schnittstellen, Spezial Restrukturierungsplan Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

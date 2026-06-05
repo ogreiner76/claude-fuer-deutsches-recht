@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Vertraulichkeit Erinnerung: Vertraulichkeit Erinnerung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vertraulichkeit Erinnerung im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Vertraulichkeit Erinnerung prüfen.; Erstelle eine Arbeitsfassung zu Vertraulichkeit Erinnerung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vertraulichkeit Erinnerung
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `vertraulichkeit-erinnerung` | Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt. § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Übergangs-Instruktion Sekretariat. Output: Instruktionshinweis Schweigepflicht. Abgrenzung zu konfliktcheck-vorab (vor Mandatsannahme) und mandatsverhältnis-hinweis (Haftung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vertraulichkeit Erinnerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

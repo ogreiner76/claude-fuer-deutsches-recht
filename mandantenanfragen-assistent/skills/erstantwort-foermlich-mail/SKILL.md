@@ -1,6 +1,6 @@
 ---
 name: erstantwort-foermlich-mail
-description: "Spezial Erstantwort Tatbestand Beweis Und Belege, Spezial Foermlich Behörden Gericht Und Registerweg, Spezial Mail Dokumentenmatrix Und Lueckenliste: Spezial Erstantwort Tatbestand Beweis Und Belege; Spezial Foermlich Behörden Gericht Und Registerweg; Spezial Mail Dokumentenmatrix Und Lueckenliste. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Erstantwort Tatbestand Beweis Und Belege, Spezial Foermlich Behörden Gericht Und Registerweg, Spezial Mail Dokumentenmatrix Und Lueckenliste im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Spezial Erstantwort Tatbestand Beweis Und Belege, Spezial Foermlich Behörden Gericht Und Registerweg, Spezial Mail Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Erstantwort Tatbestand Beweis Und Belege, Spezial Foermlich Behörden Gericht Und Registerweg, Spezial Mail Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Erstantwort Tatbestand Beweis Und Belege, Spezial Foermlich Behörden Gericht Und Registerweg, Spezial Mail Dokumentenmatrix Und Lueckenliste
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-foermlich-behoerden-gericht-und-registerweg` | Foermlich: Behörden-, Gerichts- oder Registerweg im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-mail-dokumentenmatrix-und-lueckenliste` | Mail: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Erstantwort Tatbestand Beweis Und Belege, Spezial Foermlich Behörden Gericht Und Registerweg, Spezial Mail Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

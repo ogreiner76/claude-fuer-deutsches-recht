@@ -1,0 +1,39 @@
+---
+name: eingehenden-quellenkarte
+description: "Nutze dies, wenn Eingehenden Quellenkarte im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+---
+
+# Eingehenden Quellenkarte
+
+## Einsatzlage
+
+Nutze diese Quellenkarte, wenn im Bereich **Mandantenanfragen Assistent** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+
+## Suchraster
+
+- `allgemein-workflow-chronologie-workflow-fristen`
+- `anrede-anwaltskanzleien-bittet`
+- `dankt-dsgvo-sonderfall-e-mail`
+- `dringlichkeitsmarker-einwilligung-hinweis-erstantwort-generator`
+- `erstantwort-foermlich-mail`
+- `folgekorrespondenz-vorbereiten-konfliktcheck-vorab-ma`
+- `ma-einfuehrung-ma-erstvermerk-ma-konfliktcheck`
+- `ma-mandant-manda-erstgespraechsleitfaden-manda-erstkontakt`
+- `manda-mandatsablehnung-rechtsschutz-eintrittsanfrage`
+- `mandantenanfragen-anfrage-eingang-anrede-uebernehmen`
+- `mehrsprachige-antwort-muster-erstantwort-spam-massen`
+- `nennt-sachverhalt-telefon`
+
+## Prüfroute
+
+1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
+2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
+3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
+4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+
+## Fehlerbremse
+
+- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
+- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
+- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.

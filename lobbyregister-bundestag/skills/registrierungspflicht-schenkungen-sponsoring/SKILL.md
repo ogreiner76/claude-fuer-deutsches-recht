@@ -1,6 +1,6 @@
 ---
 name: registrierungspflicht-schenkungen-sponsoring
-description: "Registrierungspflicht Schwellen, Schenkungen Sponsoring: Registrierungspflicht Schwellen; Schenkungen Sponsoring. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Registrierungspflicht Schwellen, Schenkungen Sponsoring im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Registrierungspflicht Schwellen, Schenkungen Sponsoring prüfen.; Erstelle eine Arbeitsfassung zu Registrierungspflicht Schwellen, Schenkungen Sponsoring.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Registrierungspflicht Schwellen, Schenkungen Sponsoring
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `registrierungspflicht-schwellen` | Prüft § 2 Abs. 1 LobbyRG: regelmäßig, auf Dauer, geschäftsmäßig für Dritte, mehr als 30 Kontakte in drei Monaten, Gegenleistung oder Auftrag. Output Pflichtampel. |
 | `schenkungen-sponsoring` | Prüft Schenkungen und sonstige lebzeitige Zuwendungen Dritter, Gesamtstufe, Einzelangaben, Zustimmung und Altfall-Anonymisierung. Output Sponsoring-Check. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Registrierungspflicht Schwellen, Schenkungen Sponsoring** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

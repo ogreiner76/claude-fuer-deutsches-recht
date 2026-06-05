@@ -1,6 +1,6 @@
 ---
 name: end-to-erstkontakt-offenlegung
-description: "End To End Registrierungswizard, Erstkontakt Offenlegung: End To End Registrierungswizard; Erstkontakt Offenlegung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn End To End Registrierungswizard, Erstkontakt Offenlegung im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte End To End Registrierungswizard, Erstkontakt Offenlegung prüfen.; Erstelle eine Arbeitsfassung zu End To End Registrierungswizard, Erstkontakt Offenlegung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # End To End Registrierungswizard, Erstkontakt Offenlegung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `end-to-end-registrierungswizard` | Geführter Gesamtworkflow mit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe. |
 | `erstkontakt-offenlegung` | Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **End To End Registrierungswizard, Erstkontakt Offenlegung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `lobbyregister-bundestag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

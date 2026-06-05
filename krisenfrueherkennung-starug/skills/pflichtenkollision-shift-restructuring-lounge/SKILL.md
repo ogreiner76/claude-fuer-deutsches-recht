@@ -1,6 +1,6 @@
 ---
 name: pflichtenkollision-shift-restructuring-lounge
-description: "Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter: Pflichtenkollision Und Shift Of Fiduciary Duties; Restructuring Lounge Impulsvortrag Toolkit; Restrukturierungsbeauftragter Und Sachwalter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter prüfen.; Erstelle eine Arbeitsfassung zu Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `restructuring-lounge-impulsvortrag-toolkit` | Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate. |
 | `restrukturierungsbeauftragter-und-sachwalter` | Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

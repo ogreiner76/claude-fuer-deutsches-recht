@@ -1,6 +1,6 @@
 ---
 name: stabilisierungsanordnung-vollstreckungssperre
-description: "Stabilisierungsanordnung Und Vollstreckungssperre: Stabilisierungsanordnung Und Vollstreckungssperre. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Stabilisierungsanordnung Und Vollstreckungssperre im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Stabilisierungsanordnung Und Vollstreckungssperre prüfen.; Erstelle eine Arbeitsfassung zu Stabilisierungsanordnung Und Vollstreckungssperre.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Stabilisierungsanordnung Und Vollstreckungssperre
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `stabilisierungsanordnung-und-vollstreckungssperre` | Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorlaeufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Stabilisierungsanordnung Und Vollstreckungssperre** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
