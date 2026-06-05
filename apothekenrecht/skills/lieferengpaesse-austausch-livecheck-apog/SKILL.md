@@ -31,7 +31,7 @@ Für **Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notf
 # Lieferengpässe Austausch Dokumentation
 
 ## Fachkern: Lieferengpässe Austausch Dokumentation
-- **Spezialgegenstand:** Lieferengpässe Austausch Dokumentation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Lieferengpässe Austausch Dokumentation. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notf
 
 Lieferengpässe bei rezeptpflichtigen oder apothekenpflichtigen Arzneimitteln treten häufig auf — Hersteller-Probleme, Marktrückzug, Brexit-Effekte, Sanktionen. Apotheken können nach § 17 Abs. 5 ApBetrO und gesonderten Vereinbarungen (§ 129 SGB V) gleichwertige Präparate austauschen. Dokumentation entscheidet über Retax-Sicherheit. ALBVVG (Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetz 2023) hat den Apotheken erweiterten Spielraum eingeräumt (vom Anwender zu verifizieren — Aktualität).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Patient bringt Rezept, das verordnete Präparat ist nicht lieferbar.
 - Bundesweiter Engpass bei Antibiotikum oder Kinder-Fiebersaft.
@@ -142,14 +142,14 @@ Eingaben:
 # Livecheck ApoG ApBetrO AMG
 
 ## Fachkern: Livecheck ApoG ApBetrO AMG
-- **Spezialgegenstand:** Livecheck ApoG ApBetrO AMG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Livecheck ApoG ApBetrO AMG. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Livecheck ApoG ApBetrO AMG** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 
@@ -187,14 +187,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Notfallkontrazeption Beratung
 
 ## Fachkern: Notfallkontrazeption Beratung
-- **Spezialgegenstand:** Notfallkontrazeption Beratung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Notfallkontrazeption Beratung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Notfallkontrazeption Beratung** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 

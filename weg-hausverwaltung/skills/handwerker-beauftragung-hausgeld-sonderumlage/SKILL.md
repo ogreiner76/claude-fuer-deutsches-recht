@@ -246,7 +246,7 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill für die kleinen Dinge, die eine WEG zuverlässig groß machen: Tauben auf Balkonen, Fahrradchaos, Fahrraddiebstahl, kinderfeindliche Beschwerden, Hofnutzung, unsicherer Weihnachtsbaum, Fluchtwege und Gemeinschaftsflächen.
+Dieses Fachmodul prüft die kleinen Dinge, die eine WEG zuverlässig groß machen: Tauben auf Balkonen, Fahrradchaos, Fahrraddiebstahl, kinderfeindliche Beschwerden, Hofnutzung, unsicherer Weihnachtsbaum, Fluchtwege und Gemeinschaftsflächen.
 
 ## Leitlinie
 

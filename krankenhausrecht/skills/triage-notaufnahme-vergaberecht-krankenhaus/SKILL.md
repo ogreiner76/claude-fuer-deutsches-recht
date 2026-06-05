@@ -31,7 +31,7 @@ Für **Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus E
 # Triage Notaufnahme Ueberlastung Dokumentation
 
 ## Fachkern: Triage Notaufnahme Ueberlastung Dokumentation
-- **Spezialgegenstand:** Triage Notaufnahme Ueberlastung Dokumentation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Triage Notaufnahme Ueberlastung Dokumentation. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus E
 ## Worum geht es konkret
 Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
 - Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
 - Liegen Dokumentationsstandards, Schulungsnachweise vor?
@@ -115,14 +115,14 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 # Vergaberecht Krankenhaus Einkauf Bau IT
 
 ## Fachkern: Vergaberecht Krankenhaus Einkauf Bau IT
-- **Spezialgegenstand:** Vergaberecht Krankenhaus Einkauf Bau IT; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vergaberecht Krankenhaus Einkauf Bau IT. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Vergaberecht Krankenhaus Einkauf Bau IT** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -160,7 +160,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Vorhalteverguetung Leistungsgruppen Krankenhausreform
 
 ## Fachkern: Vorhalteverguetung Leistungsgruppen Krankenhausreform
-- **Spezialgegenstand:** Vorhalteverguetung Leistungsgruppen Krankenhausreform; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vorhalteverguetung Leistungsgruppen Krankenhausreform. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -169,7 +169,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendiger DRG-Finanzierung erhaelt jedes Plankrankenhaus kuenftig einen mengenunabhaengigen Vorhalteanteil (Zielmarke 60 %), der je Leistungsgruppe ausgereicht wird. Konvergenzphase 2025-2027.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegen LG-Zuweisungen des Landes vor?
 - Wie ist die Casemix-Historie der vergangenen drei Jahre?
 - Welche Vorhalteanteile sind fuer welche LG aktuell relevant?

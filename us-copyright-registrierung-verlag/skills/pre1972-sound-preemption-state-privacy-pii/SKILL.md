@@ -32,7 +32,7 @@ Für **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Remo
 # Pre-1972 Sound Recordings § 1401
 
 ## Fachkern: Pre-1972 Sound Recordings § 1401
-- **Spezialgegenstand:** Pre-1972 Sound Recordings § 1401; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pre-1972 Sound Recordings § 1401. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -100,7 +100,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Preemption § 301 und State Law
 
 ## Fachkern: Preemption § 301 und State Law
-- **Spezialgegenstand:** Preemption § 301 und State Law; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Preemption § 301 und State Law. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -168,7 +168,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Privacy, PII Removal und Public Records
 
 ## Fachkern: Privacy, PII Removal und Public Records
-- **Spezialgegenstand:** Privacy, PII Removal und Public Records; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Privacy, PII Removal und Public Records. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -212,7 +212,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Public Domain und Orphan Risk
 
 ## Fachkern: Public Domain und Orphan Risk
-- **Spezialgegenstand:** Public Domain und Orphan Risk; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Public Domain und Orphan Risk. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

@@ -42,7 +42,7 @@ Für **Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex
 
 
 ## Fachkern: Mandats-Workspace
-- **Spezialgegenstand:** Mandats-Workspace; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mandats-Workspace. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -493,7 +493,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -555,7 +555,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -617,7 +617,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -639,7 +639,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 
 ## Fachkern: GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag
-- **Spezialgegenstand:** GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

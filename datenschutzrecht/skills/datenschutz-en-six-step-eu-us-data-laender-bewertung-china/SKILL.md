@@ -217,7 +217,7 @@ Re-assess on triggers:
 
 Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien fuer die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Pruefung, ob fuer einen US-Importeur ein TIA noch erforderlich ist.
 - Dokumentation des DPF-Listings im RoPA / TIA.
@@ -347,7 +347,7 @@ Hinweisbaustein im TIA-Schritt 2:
 
 Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung fuer das Transferinstrument.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernweite TIA-Updates mit nicht-amerikanischen Tochtergesellschaften.
 - Outsourcing nach Indien (BPO, IT, Software-Entwicklung).
@@ -462,7 +462,7 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 
 Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2020) ein und erlaeutert, warum daraus die Pflicht zur Durchfuehrung eines Transfer Impact Assessment (TIA) folgt. Er ist der Einstieg in das TIA-Toolset im Datenschutzrecht-Plugin.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant fragt: "Warum brauchen wir ein TIA?"
 - Aufsichtsbehoerde verlangt Nachweis, dass die Schrems-II-Folgen geprueft wurden.
@@ -563,7 +563,7 @@ Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachun
 
 Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practice) geprueft. Nach Inkrafttreten der Executive Order **14086** vom 07.10.2022 (Grundlage des EU-US DPF) sind zudem die Reformen zu wuerdigen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - TIA fuer US-Cloud-/SaaS-Anbieter.
 - Diskussion mit Anbieter, ob er als ECSP gilt.

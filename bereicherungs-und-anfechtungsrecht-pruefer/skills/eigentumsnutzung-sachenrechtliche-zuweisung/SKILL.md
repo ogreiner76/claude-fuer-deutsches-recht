@@ -7,7 +7,7 @@ description: "Bei fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

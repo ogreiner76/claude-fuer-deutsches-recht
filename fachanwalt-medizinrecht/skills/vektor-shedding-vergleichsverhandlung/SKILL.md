@@ -38,7 +38,7 @@ Für **Vektor Shedding Umweltrisiko, Vergleichsverhandlung Strategie** zuerst da
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Vektor-Shedding und Umweltrisiko** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten.
 
@@ -94,7 +94,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Arzthaftungs-, Berufs- und Vertragsarztrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Aussergerichtlicher Vergleich Behandlungsfehler, KV-Streit.

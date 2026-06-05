@@ -403,7 +403,7 @@ VI. NAECHSTE SCHRITTE
 
 # Erstgespraech und Mandatsannahme im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

@@ -41,7 +41,7 @@ Für **Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwert
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** § 15a InsO, §§ 283 ff. StGB, Zahlungsunfähigkeit, Buchführung und Vermögensverschiebung
 
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Internationaler Beweisimport und Verwertung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Auslandsdaten, Rechtshilfeweg, Authentizität, Verteidigungsrechte und Übersetzung
 
@@ -139,7 +139,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** JGG, Diversion, Jugendgerichtshilfe, Weisungen und Hauptverhandlung
 
@@ -188,7 +188,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Jugendstrafrecht für Staatsanwälte** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Erziehungsgedanke, Jugendgerichtshilfe, Diversion, Anklage und Sitzungsdienst abstimmen
 
@@ -238,7 +238,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Körperverletzung und Strafantrag nach § 230 StGB** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** einfache und gefährliche Körperverletzung, Strafantrag, besonderes öffentliches Interesse und Vergleichsdruck
 

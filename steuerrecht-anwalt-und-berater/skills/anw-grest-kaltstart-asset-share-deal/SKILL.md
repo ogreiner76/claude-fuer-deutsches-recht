@@ -16,7 +16,7 @@ description: "Grunderwerbsteuer-Kaltstart fuer Immobilien-Transaktionen: Asset D
 
 ## Aufgabe
 
-Nutze diesen Skill am Anfang jeder Immobilien- oder M&A-Transaktion mit inländischem Grundbesitz. Ziel: Tatbestand, Zeitachse, Steuerschuldner, Anzeige und Streitpunkte schnell sortieren.
+Dieser Startcheck greift am Anfang jeder Immobilien- oder M&A-Transaktion mit inländischem Grundbesitz. Ziel: Tatbestand, Zeitachse, Steuerschuldner, Anzeige und Streitpunkte schnell sortieren.
 
 ## Rückfragen
 

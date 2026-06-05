@@ -7,7 +7,7 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 ## Einsatzlage
 
-Nutze diesen Skill, wenn im Bereich **Fachanwalt Arbeitsrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+Dieser Quellen-Livecheck für **Fachanwalt Arbeitsrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,5 +42,5 @@ Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Beh�
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

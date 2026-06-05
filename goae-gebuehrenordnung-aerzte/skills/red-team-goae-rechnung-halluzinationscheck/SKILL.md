@@ -13,7 +13,7 @@ description: "Red-Team GOÄ Rechnung Halluzinationscheck: prüft die einschlägi
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **GOÄ Gebührenordnung für Ärzte**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Red-Team GOÄ Rechnung Halluzinationscheck** im Bereich **GOÄ Gebührenordnung für Ärzte**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Gebührenordnung für Ärzte mit Schwellenwerten, Steigerungssätzen, Analogabrechnung, Zielleistungsprinzip, Auslagen, Wahlleistungen, PKV/Beihilfe und Honorarstreit.
 

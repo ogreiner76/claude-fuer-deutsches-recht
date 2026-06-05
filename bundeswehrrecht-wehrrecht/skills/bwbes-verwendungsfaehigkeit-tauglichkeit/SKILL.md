@@ -31,7 +31,7 @@ Für **Bwbes Verwendungsfaehigkeit Tauglichkeit Und Finanzielle, Bwbes Auslandse
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
 
 ## Fachkern: Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
-- **Spezialgegenstand:** Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -53,7 +53,7 @@ Die Versorgungsfolgen sind erheblich: Ruhegehalt, Übergangsgebührnisse, WDB-Zu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -137,7 +137,7 @@ Vor Ausgabe prüfen:
 # Auslandseinsatz: Anerkennung und Nachweise
 
 ## Fachkern: Auslandseinsatz: Anerkennung und Nachweise
-- **Spezialgegenstand:** Auslandseinsatz: Anerkennung und Nachweise; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Auslandseinsatz: Anerkennung und Nachweise. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -159,7 +159,7 @@ Häufige Probleme: fehlende Einsatzbescheinigungen, nachträgliche PTBS-Anerkenn
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -246,7 +246,7 @@ Vor Ausgabe prüfen:
 # Ruhensregelungen: Versorgung und Erwerbseinkommen
 
 ## Fachkern: Ruhensregelungen: Versorgung und Erwerbseinkommen
-- **Spezialgegenstand:** Ruhensregelungen: Versorgung und Erwerbseinkommen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Ruhensregelungen: Versorgung und Erwerbseinkommen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -268,7 +268,7 @@ Berufssoldaten im Ruhestand, die eine Erwerbstätigkeit aufnehmen, müssen Anrec
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

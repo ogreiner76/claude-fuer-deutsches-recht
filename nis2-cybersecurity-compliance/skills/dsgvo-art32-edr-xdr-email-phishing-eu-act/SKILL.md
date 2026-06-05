@@ -31,7 +31,7 @@ Für **Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Awareness, Eu Cybersec
 
 # DSGVO Art32 Schnittstelle
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 TOMs, DSFA, Datenpannen, Logdaten, Beschäftigtendaten und Meldedopplungen ordnen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # EDR XDR
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Agent-Abdeckung, Ausschlüsse, Datenschutz, Alarmqualität, Response-Rechte und Betriebsrat.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Email Phishing Awareness
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 SPF/DKIM/DMARC, Awareness, Simulationen, BEC, Quarantäne, Reporting Button und Response.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # EU Cybersecurity Act Certification
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 EUCC/EUCS, BSI-Rolle, Zertifikate, Beschaffung, Produktaussagen und Nachweisketten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

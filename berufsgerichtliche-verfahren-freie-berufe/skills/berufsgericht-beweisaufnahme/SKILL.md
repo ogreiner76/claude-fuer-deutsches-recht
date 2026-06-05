@@ -40,7 +40,7 @@ Für **Berufsgericht Beweisaufnahme Praevention, Berufsgericht Beweisaufnahme Ve
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Berufsgericht Beweisaufnahme: Präventions- und Organisationspaket** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren - Präventions- und Organisationspaket
 
@@ -94,7 +94,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren - Verteidigungs- und Kammerantwort
 
@@ -148,7 +148,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Berufsgesellschaft Compliance: Präventions- und Organisationspaket** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht - Präventions- und Organisationspaket
 
@@ -202,7 +202,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Berufsgesellschaft Compliance: Verteidigungs- und Kammerantwort** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht - Verteidigungs- und Kammerantwort
 

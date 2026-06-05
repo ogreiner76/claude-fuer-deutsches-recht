@@ -31,7 +31,7 @@ Für **Konzernmeldestelle, Kündigung Nach Meldung, Länder Meldestellen, Legal 
 
 # Konzernmeldestelle
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zentrale Ressourcen, lokale Folgemaßnahmen, Sprache, Vertraulichkeit und Datenflüsse.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Kuendigung Nach Meldung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zeitachse, Kündigungsgrund, Anhörung, Betriebsrat, Repressalie, Vergleichsrisiko.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Laender Meldestellen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Bund/Land, Fachaufsicht, Finanzaufsicht, Datenschutz, Arbeitsschutz und Kommunalbereich.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Legal Hold
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Adressaten, Scope, Dauer, Aufhebung, Kontrolle, Sanktionen und technische Umsetzung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

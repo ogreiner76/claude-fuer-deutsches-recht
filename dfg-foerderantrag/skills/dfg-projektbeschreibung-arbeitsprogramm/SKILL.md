@@ -11,7 +11,7 @@ Die Projektbeschreibung ist das **Herzstück** jedes DFG-Antrags. Sie entscheide
 
 **Alte-Hasen-Faustregel:** Wer in der Einleitung keine prüfbare Hypothese hat, ist verloren. Wer in den Vorarbeiten keine drei referierten Volltexte zur Forschungsfrage hat, ist verloren. Wer im Arbeitsprogramm fünf Arbeitspakete und 18 Meilensteine in 30 Monaten unterbringen will, ist verloren. **Drei Mal verloren ergibt ablehnen.**
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Dieser Skill kommt zum Einsatz, wenn die Programmschiene feststeht und die eigentliche Textarbeit beginnt — oder wenn ein Entwurf vorliegt, der überarbeitet werden muss.
 

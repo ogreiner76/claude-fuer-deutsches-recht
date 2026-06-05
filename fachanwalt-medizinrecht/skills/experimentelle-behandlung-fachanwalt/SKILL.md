@@ -41,7 +41,7 @@ Für **Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsver
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Experimentelle Behandlung Vertrag** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch.
 

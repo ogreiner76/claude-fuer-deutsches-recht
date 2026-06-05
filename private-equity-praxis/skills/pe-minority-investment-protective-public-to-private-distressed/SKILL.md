@@ -38,7 +38,7 @@ Für **Minority Investment Protective Rights / Public To Private / Distressed Ma
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill trennt legitime Schutzrechte von kontrollrelevanten Rechten.
 
@@ -79,7 +79,7 @@ GmbHG/AktG, Kartellkontrolle/Kontrollerwerb, KAGB, SPA/SHA.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE-Sponsor, Angebotsunterlage, Insiderrecht und Post-Offer-Struktur.
 
@@ -120,7 +120,7 @@ WpÜG, WpHG/MAR, AktG, Börsenrecht, Kartell/FDI.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill bearbeitet PE-Speed mit insolvenzrechtlicher Vorsicht.
 
@@ -161,7 +161,7 @@ InsO, StaRUG, BGB, § 613a BGB, Steuer, Sicherheiten, Gläubigerausschuss.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht DD-Findings operationalisierbar.
 

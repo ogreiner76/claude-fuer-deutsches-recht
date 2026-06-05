@@ -32,7 +32,7 @@ Für **Satellite Cable Licenses, Security Interests Copyright Assets, Semiconduc
 # Cable und Satellite Licenses
 
 ## Fachkern: Cable und Satellite Licenses
-- **Spezialgegenstand:** Cable und Satellite Licenses; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Cable und Satellite Licenses. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -100,7 +100,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Security Interests in Copyright Assets
 
 ## Fachkern: Security Interests in Copyright Assets
-- **Spezialgegenstand:** Security Interests in Copyright Assets; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Security Interests in Copyright Assets. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -168,7 +168,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Semiconductor Chip Protection
 
 ## Fachkern: Semiconductor Chip Protection
-- **Spezialgegenstand:** Semiconductor Chip Protection; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Semiconductor Chip Protection. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -236,7 +236,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Serials, Newsletter und Datenbankupdates
 
 ## Fachkern: Serials, Newsletter und Datenbankupdates
-- **Spezialgegenstand:** Serials, Newsletter und Datenbankupdates; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Serials, Newsletter und Datenbankupdates. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

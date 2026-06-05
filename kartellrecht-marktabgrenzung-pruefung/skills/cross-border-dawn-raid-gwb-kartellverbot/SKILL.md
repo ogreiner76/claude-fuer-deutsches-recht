@@ -32,7 +32,7 @@ Für **Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellve
 # Cross-Border Evidence Sharing
 
 ## Fachkern: Cross-Border Evidence Sharing
-- **Spezialgegenstand:** Cross-Border Evidence Sharing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Cross-Border Evidence Sharing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellve
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Kartellrecht Global Competition Law**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Cross-Border Evidence Sharing** im Bereich **Kartellrecht Global Competition Law**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Global Dawn Raid War Room
 
 ## Fachkern: Global Dawn Raid War Room
-- **Spezialgegenstand:** Global Dawn Raid War Room; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Global Dawn Raid War Room. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Kartellrecht Global Competition Law**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Global Dawn Raid War Room** im Bereich **Kartellrecht Global Competition Law**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern
 
@@ -132,14 +132,14 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # § 1 GWB Kartellverbot nationale Prüfung
 
 ## Fachkern: § 1 GWB Kartellverbot nationale Prüfung
-- **Spezialgegenstand:** § 1 GWB Kartellverbot nationale Prüfung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** § 1 GWB Kartellverbot nationale Prüfung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: § 1 GWB Kartellverbot nationale Prüfung** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 
@@ -177,14 +177,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # § 19 GWB Behinderungs Ausbeutungsmissbrauch
 
 ## Fachkern: § 19 GWB Behinderungs Ausbeutungsmissbrauch
-- **Spezialgegenstand:** § 19 GWB Behinderungs Ausbeutungsmissbrauch; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** § 19 GWB Behinderungs Ausbeutungsmissbrauch. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: § 19 GWB Behinderungs Ausbeutungsmissbrauch** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 

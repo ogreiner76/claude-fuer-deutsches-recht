@@ -7,7 +7,7 @@ description: "Bei ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutave
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

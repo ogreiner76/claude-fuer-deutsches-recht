@@ -7,7 +7,7 @@ description: "Bei darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

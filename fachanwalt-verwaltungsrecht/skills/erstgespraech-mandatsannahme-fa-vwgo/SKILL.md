@@ -30,7 +30,7 @@ Für **Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oe
 
 # Erstgespraech und Mandatsannahme im Allgemeines Verwaltungs- und Bauplanungsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Allgemeines Verwaltungs- und Bauplanungsrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

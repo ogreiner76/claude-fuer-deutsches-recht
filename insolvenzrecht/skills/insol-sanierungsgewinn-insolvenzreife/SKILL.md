@@ -51,7 +51,7 @@ Wenn der Insolvenzplan Forderungsverzichte vorsieht und der bestaetigte Plan rec
 
 Dieser Skill arbeitet die Buchung Schritt fuer Schritt und liefert Pruefvermerke. Adressat: StB des Schuldners, IV/Sachwalter und ggf. Wirtschaftspruefer.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan ist bestaetigt; Bilanz fuer das Sanierungsjahr aufzustellen.
 - Wirtschaftspruefer fragt im Vorfeld der Pruefung an, welche Buchungen anstehen.
@@ -262,7 +262,7 @@ Der Insolvenzplan (Paragraphen 217 ff. InsO) ist das in der Praxis wichtigste In
 
 Dieser Skill arbeitet die Pruefung des Sanierungsertrags im Plan-Kontext durch: vier materielle Voraussetzungen, Verrechnungsreihenfolge, Antrag, Plan-Texte. Adressat ist der Plan-Anwalt, der Insolvenzverwalter und der StB.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Insolvenzplan wird ausgearbeitet, Forderungsverzicht der Glaeubiger ist Kerngegenstand.
 - Plan ist eingereicht oder steht vor Einreichung — Steuerteil muss geschrieben werden.
@@ -481,7 +481,7 @@ Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) ermoeglic
 
 Dieser Skill arbeitet die Besonderheiten der StaRUG-Variante heraus: keine Masseverwaltung, kein gerichtlich bestellter Verwalter, statt dessen Restrukturierungsbeauftragter und ggf. Sanierungsmoderator; engere zeitliche Fenster; schwierigere Dokumentation der Sanierungsabsicht der Glaeubiger.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - StaRUG-Verfahren ist angezeigt oder Restrukturierungsplan ist in Vorbereitung.
 - Sie sind Restrukturierungsbeauftragter, Sanierungsmoderator, Plan-Anwalt oder StB des Schuldners.

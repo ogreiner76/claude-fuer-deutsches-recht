@@ -16,7 +16,7 @@ description: "Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenkl�
 
 Einstiegsskill für das Plugin `robotik-recht`. Robotik-Mandate sind regelmäßig Querschnitts-Mandate: ein einziger Roboter berührt MaschinenVO, KI-VO, CRA, ProdHaftG, DSGVO, Arbeitsschutz und je nach Einsatzgebiet Spezialrecht (MPDG, StVG, BetrSichV). Dieser Kompass klärt die Mandatsstruktur in 10 Minuten, ordnet das Produkt rechtlich ein und verweist auf die passenden Fachmodule.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Anbieter (provider KI-VO), Integrator (System-Integrator als möglicher "Hersteller" im Maschinenrecht), Importeur, Händler, Betreiber (deployer), Wartung, Versicherer, Behörde, Geschädigte Person.
 2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, OP-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer-, Inspektions- oder Sonderrobotik.

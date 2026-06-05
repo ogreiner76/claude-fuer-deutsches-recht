@@ -46,7 +46,7 @@ Mit Paragraph 7b GewStG wurde die Steuerfreiheit des Sanierungsertrags auf die G
 
 Dieser Skill arbeitet die Parallel-Mechanik durch. Adressat: StB des Schuldners, IV/Sachwalter, Plan-Anwalt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan loest Sanierungsertrag aus, GewSt-Schiene muss parallel bearbeitet werden.
 - Gemeinde-Finanzamt kommuniziert separat vom Landesfinanzamt.
@@ -223,7 +223,7 @@ Beim Debt-Equity-Swap (DES) tauscht ein Glaeubiger seine Forderung gegen Anteile
 
 Dieser Skill arbeitet die KStG-, EStG- und GewStG-Folgen heraus. Adressat ist Plan-Anwalt, IV/Sachwalter und der StB des Schuldners.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan sieht eine Forderungsumwandlung in Eigenkapital vor.
 - Investor uebernimmt im Rahmen des Plans Anteile gegen Einbringung der Forderung.
@@ -399,7 +399,7 @@ In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt.
 
 Dieser Skill ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer in Eigenverwaltung, CRO, Sachwalter, StB.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Eigenverwaltung ist angeordnet (Paragraph 270 InsO).
 - CRO ist bestellt oder soll bestellt werden.
@@ -575,7 +575,7 @@ Dieser Skill liefert die Zeitachse: Welche steuerliche Vorarbeit gehoert in welc
 
 Adressat: Insolvenzverwalter, Sachwalter, Eigenverwalter, CRO, Geschaeftsleitung in der Krise und ihre Steuerberater.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Mandant ist Schuldnerunternehmen in der Krise, denkt ueber Insolvenzantrag oder StaRUG-Anzeige nach.
 - Insolvenzverwalter wurde gerade bestellt und der Plan wird in den naechsten drei bis sechs Monaten vorbereitet.

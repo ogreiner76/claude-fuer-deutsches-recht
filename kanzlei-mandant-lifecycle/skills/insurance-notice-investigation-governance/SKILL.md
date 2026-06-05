@@ -41,7 +41,7 @@ Für **Insurance Notice, Investigation Governance, Invoice Review Narratives, Jo
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Insurance Notice** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** D&O, Rechtsschutz, Cyber, Produkthaftpflicht und Deckungsmeldung im Mandat koordinieren
 
@@ -99,7 +99,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Investigation Governance** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** interne Untersuchung, Upjohn-Warnung, Interviewplan, Dokumentensicherung und Reporting
 
@@ -157,7 +157,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Invoice Review Narratives** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Stundenbeschreibungen auf Verständlichkeit, Doppelerfassung, Blockbilling und OCG-Konformität prüfen
 
@@ -215,7 +215,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Gemeinsamer KI-Workspace** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Kanzlei und Mandant arbeiten in einem KI-System mit getrennten Rollen, Logs und Freigaben
 
@@ -273,7 +273,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: KI-Tool und Mandanteneinwilligung** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** KI-Einsatz im Mandat offenlegen, absichern, begrenzen und dokumentieren
 

@@ -31,7 +31,7 @@ Für **Security Procurement Tender, Security Training Management, Sektor Und Gro
 
 # Security Procurement Tender
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill macht IT-Sicherheit beschaffbar: Er übersetzt NIS-2-/BSIG-, BSI-, Datenschutz- und Betriebsanforderungen in Vergabeunterlagen, RFPs, Leistungsverzeichnisse, Bewertungsmatrizen und Vertragsklauseln. Er ist besonders nützlich, wenn Einkauf schnell einen Anbieter beauftragen will und Legal/CISO verhindern müssen, dass Security erst nach dem Signing diskutiert wird.
 
@@ -68,7 +68,7 @@ Erzeuge eine RFP-/Tender-Matrix mit Muss-Kriterien, Bewertungspunkten, Nachweisf
 
 # Security Training Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Pflichtschulungen, Rollenmodule, Vorstandstraining, Nachweise, Wirksamkeit und Sanktionen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -116,7 +116,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Sektor Und Groessencheck
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Mehrspartenunternehmen, Konzernservice, kritische Zulieferer, IT-Dienstleister und Mischbetriebe sauber trennen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -164,7 +164,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Software SBOM
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Komponenten, Versionen, CVEs, Lizenzen, Kundenanforderungen, CRA-Schnittstelle und Nachverfolgung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

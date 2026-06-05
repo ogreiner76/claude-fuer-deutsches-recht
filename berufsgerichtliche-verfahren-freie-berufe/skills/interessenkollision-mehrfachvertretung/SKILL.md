@@ -40,7 +40,7 @@ Für **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision M
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Interessenkollision Mehrfachvertretung: Präventions- und Organisationspaket** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung - Präventions- und Organisationspaket
 
@@ -94,7 +94,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Interessenkollision Mehrfachvertretung: Verteidigungs- und Kammerantwort** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung - Verteidigungs- und Kammerantwort
 
@@ -148,7 +148,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Kanzleisitz und Erreichbarkeit: Präventions- und Organisationspaket** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation - Präventions- und Organisationspaket
 
@@ -202,7 +202,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Kanzleisitz und Erreichbarkeit: Verteidigungs- und Kammerantwort** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation - Verteidigungs- und Kammerantwort
 

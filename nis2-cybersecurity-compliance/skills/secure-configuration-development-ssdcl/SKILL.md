@@ -31,7 +31,7 @@ Für **Secure Configuration Hardening, Secure Development Ssdcl, Security Govern
 
 # Secure Configuration Hardening
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Baseline, CIS Benchmarks, lokale Admins, Makros, RDP, Firewall, Browser und Drift.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Secure Development Ssdcl
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Threat Modeling, Code Review, SAST/DAST, Secrets, Releases, Security Gates und Dokumentation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Security Governance ISMS
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Policies, Rollen, Risikomanagement, Audits, Abweichungen und Nachweise so strukturieren, dass sie im Verfahren halten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Security Kpis Board Report
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Risiko, Trends, offene Findings, Patch-SLA, MFA, Backup-Tests, Incident-Lage und Budget.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

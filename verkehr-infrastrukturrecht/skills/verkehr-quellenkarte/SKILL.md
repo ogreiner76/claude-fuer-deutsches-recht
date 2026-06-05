@@ -7,7 +7,7 @@ description: "Verkehr Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Verkehr Infrastrukturrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Verkehr Infrastrukturrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

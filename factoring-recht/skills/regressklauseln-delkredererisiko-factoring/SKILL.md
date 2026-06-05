@@ -31,14 +31,14 @@ Für **Regressklauseln Delkredererisiko Rueckbelastung, Factoring Für Rechtsanw
 # Regressklauseln Delkredererisiko Rückbelastung
 
 ## Fachkern: Regressklauseln Delkredererisiko Rückbelastung
-- **Spezialgegenstand:** Regressklauseln Delkredererisiko Rückbelastung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Regressklauseln Delkredererisiko Rückbelastung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Regressklauseln Delkredererisiko Rückbelastung** im Bereich **Factoring-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
 
@@ -76,14 +76,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Factoring für Rechtsanwälte Steuerberater Berufsrecht
 
 ## Fachkern: Factoring für Rechtsanwälte Steuerberater Berufsrecht
-- **Spezialgegenstand:** Factoring für Rechtsanwälte Steuerberater Berufsrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Factoring für Rechtsanwälte Steuerberater Berufsrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Factoring für Rechtsanwälte Steuerberater Berufsrecht** im Bereich **Factoring-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
 
@@ -121,14 +121,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf
 
 ## Fachkern: Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf
-- **Spezialgegenstand:** Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf** im Bereich **Factoring-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
 

@@ -40,7 +40,7 @@ Für **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs U
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Robe, Werbung und Sachlichkeit** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Werberecht, Sachlichkeitsgebot, Auftritt vor Gericht und Berufsbild
 
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Schriftsatz, Vermerk und Mustertext** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** liefert einen belastbaren ersten Entwurf mit offenen Punkten
 
@@ -140,7 +140,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Sitzungs- und Terminvorbereitung** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor
 
@@ -190,7 +190,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Vermögensverfall und Zulassungswiderruf** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Gefährdung der Rechtsuchenden, Sanierungsnachweise, Sofortvollzug und Klage
 

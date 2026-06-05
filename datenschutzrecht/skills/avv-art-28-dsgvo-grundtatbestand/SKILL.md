@@ -9,7 +9,7 @@ description: "Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaer
 
 Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO unterfaellt und damit ein Auftragsverarbeitungsvertrag (AVV / Data Processing Agreement, DPA) abzuschliessen ist. Purpose (EN): Determine whether a contractual relationship triggers Art. 28 GDPR data processing on behalf of a controller and therefore requires a DPA.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant bezieht einen IT-/Cloud-/SaaS-Dienst und ist unsicher, ob AVV erforderlich ist.
 - Mandant ist Anbieter und prueft, ob er als Auftragsverarbeiter einzustufen ist.

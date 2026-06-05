@@ -32,13 +32,13 @@ Für **Staatsexamen Schnittstelle, Taeuschung Und Plagiat, Technische Stoerung U
 # Staatsexamen Schnittstelle
 
 ## Fachkern: Staatsexamen Schnittstelle
-- **Spezialgegenstand:** Staatsexamen Schnittstelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Staatsexamen Schnittstelle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Jura, Lehramt, Medizin, Pharmazie: Landesprüfungsamt, Hochschulanteil, Rechtsweg und Fristen.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Staatsexamen-Routing. Am Ende immer drei Zeilen: **Frist**, *
 # Taeuschung Und Plagiat
 
 ## Fachkern: Taeuschung Und Plagiat
-- **Spezialgegenstand:** Taeuschung Und Plagiat; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Taeuschung Und Plagiat. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Beweis, Anhörung, Zitierfehler, Eigenständigkeit, Verhältnismäßigkeit, Wiederholung und Akteneinsicht.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Täuschungsabwehr. Am Ende immer drei Zeilen: **Frist**, **fe
 # Technische Störung beim Upload
 
 ## Fachkern: Technische Störung beim Upload
-- **Spezialgegenstand:** Technische Störung beim Upload; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Technische Störung beim Upload. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -227,13 +227,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 # Toilettengang und Aufsicht
 
 ## Fachkern: Toilettengang und Aufsicht
-- **Spezialgegenstand:** Toilettengang und Aufsicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Toilettengang und Aufsicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

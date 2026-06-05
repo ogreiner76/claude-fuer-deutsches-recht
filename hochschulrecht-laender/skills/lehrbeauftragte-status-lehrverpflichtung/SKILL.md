@@ -32,13 +32,13 @@ Für **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Pr
 # Lehrbeauftragte Und Status
 
 ## Fachkern: Lehrbeauftragte Und Status
-- **Spezialgegenstand:** Lehrbeauftragte Und Status; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Lehrbeauftragte Und Status. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Selbständigkeit, Deputat, Vergütung, Weisungen, Sozialversicherung und Hochschulrecht.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Lehrauftragscheck. Am Ende immer drei Zeilen: **Frist**, **fe
 # Lehrverpflichtung und Deputat
 
 ## Fachkern: Lehrverpflichtung und Deputat
-- **Spezialgegenstand:** Lehrverpflichtung und Deputat; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Lehrverpflichtung und Deputat. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -160,13 +160,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Nebentätigkeit Professorinnen und Professoren
 
 ## Fachkern: Nebentätigkeit Professorinnen und Professoren
-- **Spezialgegenstand:** Nebentätigkeit Professorinnen und Professoren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Nebentätigkeit Professorinnen und Professoren. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -221,13 +221,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Open Access Hochschule
 
 ## Fachkern: Open Access Hochschule
-- **Spezialgegenstand:** Open Access Hochschule; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Open Access Hochschule. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

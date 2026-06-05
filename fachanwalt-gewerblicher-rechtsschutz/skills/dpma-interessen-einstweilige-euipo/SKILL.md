@@ -147,7 +147,7 @@ Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Beurteilung ohne Kenntnis der konkreten Marken und Registerauszüge.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -286,7 +286,7 @@ Wir empfehlen [Option] weil [Begründung].
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Kostenberechnung ohne vollständige Daten.
 - Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.
 
@@ -412,6 +412,6 @@ Gültig in allen 27 EU-Mitgliedstaaten
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine länderspezifische IP-Beratung für Nicht-EU-Länder ohne Quellenverifizierung.
 - Kein Ersatz für vollständige Mandantenberatung.

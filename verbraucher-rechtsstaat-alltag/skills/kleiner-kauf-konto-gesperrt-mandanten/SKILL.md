@@ -31,7 +31,7 @@ Für **Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligt
 # Kleiner Kauf und Mängelrechte
 
 ## Fachkern: Kleiner Kauf und Mängelrechte
-- **Spezialgegenstand:** Kleiner Kauf und Mängelrechte; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kleiner Kauf und Mängelrechte. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligt
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Kleiner Kauf und Mängelrechte** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Konto gesperrt durch Bank
 
 ## Fachkern: Konto gesperrt durch Bank
-- **Spezialgegenstand:** Konto gesperrt durch Bank; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Konto gesperrt durch Bank. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -89,7 +89,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Konto gesperrt durch Bank** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung.
 
@@ -134,7 +134,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Beteiligtenkommunikation
 
 ## Fachkern: Beteiligtenkommunikation
-- **Spezialgegenstand:** Beteiligtenkommunikation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Beteiligtenkommunikation. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -142,7 +142,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Beteiligtenkommunikation** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** übersetzt das Ergebnis in klare, taktisch sichere Kommunikation
 

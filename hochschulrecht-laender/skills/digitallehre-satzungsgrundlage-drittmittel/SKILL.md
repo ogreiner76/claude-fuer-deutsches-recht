@@ -32,13 +32,13 @@ Für **Digitallehre Und Satzungsgrundlage, Drittmittel Overhead Und Ip, Drittmit
 # Digitallehre und Satzungsgrundlage
 
 ## Fachkern: Digitallehre und Satzungsgrundlage
-- **Spezialgegenstand:** Digitallehre und Satzungsgrundlage; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Digitallehre und Satzungsgrundlage. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -93,13 +93,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Drittmittel, Overhead und IP
 
 ## Fachkern: Drittmittel, Overhead und IP
-- **Spezialgegenstand:** Drittmittel, Overhead und IP; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Drittmittel, Overhead und IP. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -154,13 +154,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Drittmittel Und Industriekooperation
 
 ## Fachkern: Drittmittel Und Industriekooperation
-- **Spezialgegenstand:** Drittmittel Und Industriekooperation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Drittmittel Und Industriekooperation. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Annahme, Anzeige, Ethik, Publikationsfreiheit, IP, Geheimhaltung, Korruption und Compliance.
 
@@ -221,13 +221,13 @@ Erzeuge bevorzugt: Drittmittel-Review. Am Ende immer drei Zeilen: **Frist**, **f
 # Duale Hochschule und Praxispartner
 
 ## Fachkern: Duale Hochschule und Praxispartner
-- **Spezialgegenstand:** Duale Hochschule und Praxispartner; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Duale Hochschule und Praxispartner. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

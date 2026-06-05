@@ -58,7 +58,7 @@ Für **Inso P223A Gruppeninterne Drittsicherheiten, Inso P224 Rechte Der Insolve
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 223a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 223a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 223a InsO**
@@ -113,7 +113,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 224 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 224 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 224 InsO**
@@ -168,7 +168,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 225 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 225 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 225 InsO**
@@ -223,7 +223,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 225a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 225a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 225a InsO**
@@ -278,7 +278,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 226 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 226 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 226 InsO**
@@ -333,7 +333,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 228 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 228 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 228 InsO**
@@ -388,7 +388,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 229 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 229 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 229 InsO**
@@ -443,7 +443,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 230 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 230 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 230 InsO**
@@ -498,7 +498,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 231 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 231 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 231 InsO**
@@ -553,7 +553,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 232 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 232 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 232 InsO**
@@ -608,7 +608,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 233 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 233 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 233 InsO**
@@ -663,7 +663,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 234 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 234 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 234 InsO**
@@ -718,7 +718,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 235 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 235 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 235 InsO**
@@ -773,7 +773,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 236 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 236 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 236 InsO**
@@ -828,7 +828,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 237 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 237 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 237 InsO**
@@ -883,7 +883,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 238 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 238 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 238 InsO**
@@ -938,7 +938,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 238a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 238a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 238a InsO**
@@ -993,7 +993,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 238b InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 238b InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 238b InsO**
@@ -1048,7 +1048,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 239 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 239 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 239 InsO**
@@ -1103,7 +1103,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 240 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 240 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 240 InsO**
@@ -1158,7 +1158,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 241 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 241 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 241 InsO**

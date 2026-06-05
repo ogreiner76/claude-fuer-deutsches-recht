@@ -31,7 +31,7 @@ Für **Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit E
 # Dokumentation Aufbewahrung Beweislast
 
 ## Fachkern: Dokumentation Aufbewahrung Beweislast
-- **Spezialgegenstand:** Dokumentation Aufbewahrung Beweislast; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Dokumentation Aufbewahrung Beweislast. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit E
 ## Worum geht es konkret
 Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsgrundlage (MD-Pruefung), Compliance-Schutz und im Streit oft die einzige Verteidigung. Aufbewahrungsfristen liegen zwischen 10 Jahren (Standard) und 30 Jahren (Strahlentherapie, Bluttransfusion), je nach Materie.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Doku-Pflicht ist betroffen (Aerztlich, Pflege, Aufklaerung, Strahlentherapie, Blut)?
 - Ist analog/digital gefuehrt? Liegen Manipulationssicherung und Versionierung vor?
 - Welche Aufbewahrungsfrist gilt (10, 15, 30 Jahre)?
@@ -120,14 +120,14 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 # DORA und IT-Dienstleister soweit einschlägig
 
 ## Fachkern: DORA und IT-Dienstleister soweit einschlägig
-- **Spezialgegenstand:** DORA und IT-Dienstleister soweit einschlägig; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** DORA und IT-Dienstleister soweit einschlägig. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: DORA und IT-Dienstleister soweit einschlägig** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -165,7 +165,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Entlassmanagement § 39 Abs. 1a SGB V
 
 ## Fachkern: Entlassmanagement § 39 Abs. 1a SGB V
-- **Spezialgegenstand:** Entlassmanagement § 39 Abs. 1a SGB V; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Entlassmanagement § 39 Abs. 1a SGB V. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -174,7 +174,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussversorgung sichern — § 39 Abs. 1a SGB V. Kernelemente: schriftliche Patienteneinwilligung, Entlassmanagementplan, befristete Verordnungsbefugnis fuer Arzneimittel, Heil-/Hilfsmittel, Soziotherapie, AU-Bescheinigung; Uebergabe an Vertragsarzt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt schriftliche Patienteneinwilligung vor (Modul der Aufnahme oder gesondert)?
 - Welche Anschlussversorgung wird benoetigt (Pflege, Reha, ambulante Therapie, Hilfsmittel)?
 - Sind Verordnungen ausgestellt (Arzneimittel max. 7 Tage Wirkdauer, Heilmittel max. 7 Tage, AU max. 7 Tage)?

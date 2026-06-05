@@ -39,7 +39,7 @@ Für **Tumorboard Onkologiepflicht, Unregulierte Zelltherapie Abwehr** zuerst da
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Tumorboard und Onkologiepflicht** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen.
 
@@ -100,7 +100,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Unregulierte Zelltherapie abwehren** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz.
 

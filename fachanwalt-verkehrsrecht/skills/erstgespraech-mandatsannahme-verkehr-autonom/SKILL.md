@@ -30,7 +30,7 @@ Für **Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1D Stvg, Fachanw
 
 # Erstgespraech und Mandatsannahme im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht) (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

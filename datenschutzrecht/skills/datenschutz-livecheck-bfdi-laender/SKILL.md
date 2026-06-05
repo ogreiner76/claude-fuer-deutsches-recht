@@ -9,7 +9,7 @@ description: "Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesd
 
 Dieser Skill stellt sicher, dass vor jeder Mandantenkommunikation oder Stellungnahme zu Aufsichtsbehoerden die aktuelle Rechts- und Aufsichtspraxis verifiziert wird. Datenschutzrecht aendert sich rasant durch EuGH-Vorabentscheidungen, EDSA-Leitlinien und nationale Aufsichts-Praxis. Modellwissen ist nicht ausreichend.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill **vor jeder** Mandantenkommunikation in einem datenschutzrechtlichen Verfahren, insbesondere:
 

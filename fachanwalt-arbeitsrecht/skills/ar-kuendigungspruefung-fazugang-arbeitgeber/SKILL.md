@@ -81,7 +81,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** `skill-name` — [warum dieser Arbeitsgang hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -314,7 +314,7 @@ Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BG
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate.
 - Annahmen explizit markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Prozessprognose ohne konkrete Tatsachenbasis.
 
@@ -441,6 +441,6 @@ Keine Kündigung ohne behördliche Zustimmung oder (bei BR-Mitglied) BR-Beschlus
 - Keine modellwissensbasierten Zustellstandards ohne Verifikation.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für individuelle Prüfung bei Sonderkündigungsschutz.
 - Keine Garantie für rechtssichere Zustellung in allen Einzelfällen; Einzelfallprüfung bleibt notwendig.

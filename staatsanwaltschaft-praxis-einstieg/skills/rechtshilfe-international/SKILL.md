@@ -14,7 +14,7 @@ description: "Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte 
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Internationale Rechtshilfe** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren
 

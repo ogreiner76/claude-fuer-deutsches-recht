@@ -9,7 +9,7 @@ description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Be
 
 Bei EU-Richtlinienumsetzung gilt das Prinzip der **1:1-Umsetzung** als Leitlinie der Bundesregierung. **Goldplating** (nationale Verschaerfung ueber EU-Vorgabe hinaus) erzeugt zusaetzlichen Erfuellungsaufwand und ist nur mit qualifizierter Begruendung zulaessig. Der NKR prueft das systematisch.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben setzt eine EU-Richtlinie um
 - Vorhaben geht ueber die EU-Vorgabe hinaus

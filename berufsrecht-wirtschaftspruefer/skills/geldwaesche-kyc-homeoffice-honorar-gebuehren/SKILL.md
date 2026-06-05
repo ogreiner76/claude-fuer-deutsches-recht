@@ -40,7 +40,7 @@ Für **Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung, Interessen
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Geldwäsche und KYC** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation
 
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Homeoffice** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Homeoffice im Berufsrecht für Wirtschaftsprüfer
 
@@ -140,7 +140,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Honorar, Gebühren und Vergütung** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Vergütungsvereinbarung, Gebührenrecht, Vorschuss, Erfolgshonorargrenzen und Rechnung
 
@@ -190,7 +190,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Interessenkollision** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Konfliktprüfung, Mandatsannahme, Sozietätswechsel und Tätigkeitsverbote
 

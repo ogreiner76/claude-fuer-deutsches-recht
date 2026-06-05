@@ -9,7 +9,7 @@ description: "Forschungszulage beim Finanzamt beantragen, festsetzen und auszahl
 
 Nach Erhalt der BSFZ-Bescheinigung beginnt die zweite Stufe: der eigentliche Antrag auf Forschungszulage beim Finanzamt. Der Antrag wird elektronisch über ELSTER eingereicht, die Festsetzung erfolgt durch einen gesonderten Forschungszulagenbescheid. Der Betrag wird auf die nächste Einkommen- oder Körperschaftsteuerfestsetzung angerechnet; ein Überschuss wird ausgezahlt (§ 10 FZulG).
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sobald die BSFZ-Bescheinigung vorliegt.
 - Bei der Liquiditätsplanung: wann fließt die Zulage?

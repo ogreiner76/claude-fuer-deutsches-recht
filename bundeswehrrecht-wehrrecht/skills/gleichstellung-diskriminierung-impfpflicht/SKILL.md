@@ -31,7 +31,7 @@ Für **Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglich
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten
 
 ## Fachkern: Gleichstellung und Diskriminierung Soldatinnen/Soldaten
-- **Spezialgegenstand:** Gleichstellung und Diskriminierung Soldatinnen/Soldaten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gleichstellung und Diskriminierung Soldatinnen/Soldaten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -54,7 +54,7 @@ Das AGG gilt ergänzend. BVerwG: Diskriminierungsverbote gelten auch bei militä
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -141,7 +141,7 @@ Vor Ausgabe prüfen:
 # Impfpflicht, Tauglichkeit und Musterung
 
 ## Fachkern: Impfpflicht, Tauglichkeit und Musterung
-- **Spezialgegenstand:** Impfpflicht, Tauglichkeit und Musterung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Impfpflicht, Tauglichkeit und Musterung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -163,7 +163,7 @@ Die Musterung (Tauglichkeitsfeststellung) ist nach Aussetzung der allgemeinen We
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -250,7 +250,7 @@ Vor Ausgabe prüfen:
 # Kameradschaft, Achtungs- und Vertrauenspflicht
 
 ## Fachkern: Kameradschaft, Achtungs- und Vertrauenspflicht
-- **Spezialgegenstand:** Kameradschaft, Achtungs- und Vertrauenspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kameradschaft, Achtungs- und Vertrauenspflicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -272,7 +272,7 @@ Verstöße können disziplinarrechtliche Konsequenzen für den Täter und WBO-Be
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

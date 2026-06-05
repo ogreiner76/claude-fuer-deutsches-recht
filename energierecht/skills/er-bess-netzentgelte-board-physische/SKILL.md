@@ -31,7 +31,7 @@ Für **Er Bess Netzentgelte Und Abgaben, Er Bess Output Board Paper, Er Bess Phy
 
 # Netzentgelte, Umlagen, Speicherprivilegien
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf die Frage, ob der Speicher als Letztverbraucher, Erzeuger, Speicher oder Mischrolle behandelt wird.
 
@@ -64,7 +64,7 @@ EnWG, StromNEV, EEG, KWKG, StromStG/EnergieStG nur als Schnittstelle, BNetzA-Pra
 
 # Board Paper Batteriespeicher
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Business Judgment und dokumentierte Informationsgrundlage.
 
@@ -97,7 +97,7 @@ Business Judgment, GmbHG/AktG, EnWG/Bau/BImSchG, Finanzierung, Cyber/KRITIS.
 
 # Physische Sicherheit, Sabotage und Terrorrisiko
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht Sicherheitsanforderungen dokumentierbar ohne Panik-Sprache.
 
@@ -130,7 +130,7 @@ BSIG/KRITIS, Bauordnungsrecht, Datenschutz bei Video, Versicherungsauflagen.
 
 # Power Quality, EMV und Netzrückwirkungen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill übersetzt diffuse Sorgen vor 'Stromverseuchung' in prüfbare technische und rechtliche Punkte.
 

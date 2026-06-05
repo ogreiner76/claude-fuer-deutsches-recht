@@ -41,7 +41,7 @@ Für **Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediat
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Redaction und Confidentiality** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern
 
@@ -99,7 +99,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Regulatory Matter Command** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Behördenverfahren mit Kanzlei und Inhouse steuern: Auskunft, Akteneinsicht, Frist, Ton
 
@@ -157,7 +157,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Regulatory Remediation Plan** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** nach Auflage/Bußgeld/Prüfung Maßnahmenplan, Owner, Nachweis und Kanzleirolle steuern
 
@@ -215,7 +215,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Relationship Red Flags** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Warnzeichen: Funkstille, Überraschungsrechnung, Scope-Unklarheit, Strategiedrift, Fristdruck
 
@@ -273,7 +273,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Relationship Renewal** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise
 

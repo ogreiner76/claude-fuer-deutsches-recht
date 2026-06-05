@@ -16,7 +16,7 @@ description: "Prüft Batterie, Ladeinfrastruktur, Brandschutz, Transport, Lageru
 
 Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend mit Lithium-Ionen-Akkus betrieben. Die Folge: erhebliche Anforderungen aus der Batterie-VO (EU) 2023/1542, dem Gefahrgutrecht (ADR/UN 38.3), dem vorbeugenden Brandschutz (Landesbauordnungen, Sachversicherer-Bedingungen VdS), der ProdSG/MaschinenVO sowie spezifische Pflichten bei Rückruf und Versicherung. Dieser Skill ordnet die Schichten und gibt praxisnahe Vorlagen für Lagerkonzept und Rückruf.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Importeur, Distributor, Betreiber, Versicherer, Feuerwehr, Berufsgenossenschaft.
 2. **Zellchemie:** Li-Ion (NMC, LFP), Festkörper, Bleisäure, NiMH; Spannung, Kapazität (kWh)?

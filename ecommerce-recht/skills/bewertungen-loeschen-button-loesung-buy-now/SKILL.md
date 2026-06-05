@@ -38,7 +38,7 @@ Für **Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later V
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Bewertungen löschen lassen** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -86,7 +86,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 § 312j III BGB verpflichtet Unternehmer im elektronischen Geschäftsverkehr mit Verbrauchern, den Bestell-Button eindeutig und gut lesbar mit den Worten "zahlungspflichtig bestellen" oder einer entsprechenden eindeutigen Formulierung zu beschriften. § 312j II BGB verlangt die hervorgehobene Anzeige wesentlicher Vertragsdaten unmittelbar vor Abgabe der Bestellung. Verstoß: kein wirksamer Vertragsschluss (§ 312j IV BGB). Der Skill ordnet die Voraussetzungen für die wirksame Online-Bestellung und führt durch typische Fehler.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Wie lautet der aktuelle Buttontext?
 - Welche Informationen sind unmittelbar vor dem Button sichtbar?
@@ -188,7 +188,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Buy now pay later Verbraucherkredit** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 

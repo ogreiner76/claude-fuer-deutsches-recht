@@ -33,7 +33,7 @@ Für **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Un
 # Sektor App-Stores und mobile Ökosysteme
 
 ## Fachkern: Sektor App-Stores und mobile Ökosysteme
-- **Spezialgegenstand:** Sektor App-Stores und mobile Ökosysteme; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor App-Stores und mobile Ökosysteme. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Un
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** App Stores, Payment Steering, Sideloading, Self-Preferencing, DMA-Schnittstelle und Entwicklerbeschränkungen
 
@@ -76,7 +76,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Automotive, Zulieferketten und OEMs
 
 ## Fachkern: Sektor Automotive, Zulieferketten und OEMs
-- **Spezialgegenstand:** Sektor Automotive, Zulieferketten und OEMs; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Automotive, Zulieferketten und OEMs. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** OEM-/Tier-Strukturen, Plattformen, Standardisierung, Datenzugang, Ersatzteile und Einkaufsmacht
 
@@ -119,7 +119,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Cloud-Infrastruktur und Hyperscaler
 
 ## Fachkern: Sektor Cloud-Infrastruktur und Hyperscaler
-- **Spezialgegenstand:** Sektor Cloud-Infrastruktur und Hyperscaler; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Cloud-Infrastruktur und Hyperscaler. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -127,7 +127,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Cloud-IaaS/PaaS, Egress Fees, Interoperabilität, Datenportabilität, Bündelung und Zugang zu kritischer Infrastruktur
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Energie, Speicher, Regelenergie und Netz
 
 ## Fachkern: Sektor Energie, Speicher, Regelenergie und Netz
-- **Spezialgegenstand:** Sektor Energie, Speicher, Regelenergie und Netz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Energie, Speicher, Regelenergie und Netz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -170,7 +170,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Stromspeicher, Regelenergie, Netzanschluss, Kapazitätsmärkte, Missbrauch von Engpassmacht und Beihilfeschnittstelle
 
@@ -205,7 +205,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor KI-Foundation-Models, Compute und Daten
 
 ## Fachkern: Sektor KI-Foundation-Models, Compute und Daten
-- **Spezialgegenstand:** Sektor KI-Foundation-Models, Compute und Daten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor KI-Foundation-Models, Compute und Daten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -213,7 +213,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Foundation Models, GPU-/Cloud-Zugang, Trainingsdaten, exklusive Partnerschaften, Talentmärkte und Innovationswettbewerb
 

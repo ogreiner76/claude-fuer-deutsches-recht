@@ -86,7 +86,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erk
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Wohnraum-, Gewerberaum- und WEG-Recht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

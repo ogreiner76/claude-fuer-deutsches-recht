@@ -33,14 +33,14 @@ Für **Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Eins
 # Arbeitsmarkt No-Poach Wage-Fixing
 
 ## Fachkern: Arbeitsmarkt No-Poach Wage-Fixing
-- **Spezialgegenstand:** Arbeitsmarkt No-Poach Wage-Fixing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Arbeitsmarkt No-Poach Wage-Fixing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Arbeitsmarkt No-Poach Wage-Fixing** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 
@@ -79,14 +79,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Art 101 AEUV Kooperationsprüfung Einstieg
 
 ## Fachkern: Art 101 AEUV Kooperationsprüfung Einstieg
-- **Spezialgegenstand:** Art 101 AEUV Kooperationsprüfung Einstieg; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Art 101 AEUV Kooperationsprüfung Einstieg. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Art 101 AEUV Kooperationsprüfung Einstieg** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 
@@ -125,14 +125,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise
 
 ## Fachkern: Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise
-- **Spezialgegenstand:** Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 
@@ -171,14 +171,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Art 102 AEUV Marktbeherrschung Missbrauch
 
 ## Fachkern: Art 102 AEUV Marktbeherrschung Missbrauch
-- **Spezialgegenstand:** Art 102 AEUV Marktbeherrschung Missbrauch; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Art 102 AEUV Marktbeherrschung Missbrauch. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Art 102 AEUV Marktbeherrschung Missbrauch** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 

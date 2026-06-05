@@ -411,6 +411,6 @@ Wenn ein Sachverhalt vorliegt, zuerst die Zeitachse klären:
 - Keine modellwissensbasierten Fristen ohne Verifikation.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatisierte Fristenberechnung; Einzelfallprüfung bleibt notwendig.
 - Keine Berücksichtigung abweichender tariflicher oder vertraglicher Fristen ohne konkrete Vorlage.

@@ -81,7 +81,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -142,7 +142,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -204,7 +204,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -226,14 +226,14 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 
 ## Fachkern: Fehlerhafte Auskunft Versorgungsträger
-- **Spezialgegenstand:** Fehlerhafte Auskunft Versorgungsträger; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Fehlerhafte Auskunft Versorgungsträger. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Fachanwalt Familienrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Fehlerhafte Auskunft Versorgungsträger** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -280,14 +280,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Fachkern: Fragebogen Versorgungsausgleich ausfüllen
-- **Spezialgegenstand:** Fragebogen Versorgungsausgleich ausfüllen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Fragebogen Versorgungsausgleich ausfüllen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Fachanwalt Familienrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Fragebogen Versorgungsausgleich ausfüllen** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 

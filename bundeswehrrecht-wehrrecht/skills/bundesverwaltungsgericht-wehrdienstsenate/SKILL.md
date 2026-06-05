@@ -31,7 +31,7 @@ Für **Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Soldatenbesoldung Grundg
 # Bundesverwaltungsgericht – Wehrdienstsenate
 
 ## Fachkern: Bundesverwaltungsgericht – Wehrdienstsenate
-- **Spezialgegenstand:** Bundesverwaltungsgericht – Wehrdienstsenate; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Bundesverwaltungsgericht – Wehrdienstsenate. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Soldatenbesoldung Grundg
 
 Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Rechtsmittel aus WDO und WBO sowie über erstinstanzliche Anträge in eng begrenzten Fällen (insbesondere Konkurrentenstreit gegen Maßnahmen höherer Vorgesetzter, § 21 WBO). Sie sind die höchste Instanz im Wehrdienstrecht und legen die Auslegung von SG, WBO, WDO maßgebend fest. Der Skill ordnet ein, wann das BVerwG Wehrdienstsenat zuständig ist und wie das Verfahren abläuft.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Liegt eine Entscheidung des Truppendienstgerichts vor? Berufung oder Revision?
 - Geht es um eine Maßnahme eines höheren Vorgesetzten (BMVg, Inspekteur, Kommandeur höherer Ebene) – § 21 WBO erste Instanz?
@@ -128,7 +128,7 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 # Soldatenbesoldung: Grundgehalt und Dienstgrad
 
 ## Fachkern: Soldatenbesoldung: Grundgehalt und Dienstgrad
-- **Spezialgegenstand:** Soldatenbesoldung: Grundgehalt und Dienstgrad; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Soldatenbesoldung: Grundgehalt und Dienstgrad. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -151,7 +151,7 @@ Beförderungen lösen sofortigen Besoldungsgruppenwechsel aus. Fehler bei Stufen
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -236,7 +236,7 @@ Vor Ausgabe prüfen:
 # Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung
 
 ## Fachkern: Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung
-- **Spezialgegenstand:** Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -258,7 +258,7 @@ Schnittstellen mit Sozialrecht (SGB II/III, GRV) sind komplex; FWD-Zeiten zähle
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

@@ -32,13 +32,13 @@ Für **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, 
 # Plagiat und GWP an Hochschulen
 
 ## Fachkern: Plagiat und GWP an Hochschulen
-- **Spezialgegenstand:** Plagiat und GWP an Hochschulen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Plagiat und GWP an Hochschulen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -93,13 +93,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Praesidium Rektorat Kanzler
 
 ## Fachkern: Praesidium Rektorat Kanzler
-- **Spezialgegenstand:** Praesidium Rektorat Kanzler; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Praesidium Rektorat Kanzler. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Wer darf entscheiden, wer muss beteiligt werden, welche Eilkompetenz besteht.
 
@@ -160,13 +160,13 @@ Erzeuge bevorzugt: Organvermerk. Am Ende immer drei Zeilen: **Frist**, **fehlend
 # Private Hochschule
 
 ## Fachkern: Private Hochschule
-- **Spezialgegenstand:** Private Hochschule; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Private Hochschule. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Anerkennung, Akkreditierung, Studienvertrag, Gebühren, Prüfungen, Verbraucherschutz und Aufsicht.
 
@@ -227,13 +227,13 @@ Erzeuge bevorzugt: Privathochschulcheck. Am Ende immer drei Zeilen: **Frist**, *
 # Private Hochschule und Anerkennung
 
 ## Fachkern: Private Hochschule und Anerkennung
-- **Spezialgegenstand:** Private Hochschule und Anerkennung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Private Hochschule und Anerkennung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

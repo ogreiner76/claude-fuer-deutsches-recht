@@ -15,7 +15,7 @@ description: "Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmens
 
 § 3a EStG befreit Erträge aus einer unternehmensbezogenen Sanierung von der Einkommensteuer (und über § 8 Abs. 1 KStG von der Körperschaftsteuer). Voraussetzung ist, dass die Sanierung kumulativ vier Merkmale erfüllt. Dieser Skill zerlegt die Norm in ihre Tatbestandsmerkmale und arbeitet Subsumtionspunkte heraus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Liegt eine Sanierung (Schuldenerlass / Verzicht) tatsächlich vor — oder nur Forderungsausfall?
 2. Hat das Unternehmen einen begünstigten Sanierungsertrag im Sinne § 3a EStG?

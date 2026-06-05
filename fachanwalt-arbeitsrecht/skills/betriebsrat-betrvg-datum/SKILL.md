@@ -159,7 +159,7 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 - Leiharbeitnehmer-Zählungsfragen: aktuelle BAG-Linie live prüfen.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu Betriebsverfassungsrechtsverstößen im konkreten Einzelfall ohne vollständige Sachverhaltskenntnis.
 - Keine Berechnung von Wahlresultaten oder Sitzzuteilung.
 
@@ -291,7 +291,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu europäischen Betriebsräten oder internationalem Betriebsverfassungsrecht.
 - Keine abschließende Prüfung der Beteiligtenstellung ohne vollständige Sachverhaltskenntnis.
 
@@ -406,6 +406,6 @@ Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzei
 - beA-Anforderungen: [brak.de](https://www.brak.de) live prüfen; Anforderungen können sich ändern.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine technische Hilfe für beA-Einrichtung oder -Betrieb.
 - Keine Garantie für Aktualität von Formularversionen; stets aktuelle Version beim zuständigen Portal prüfen.

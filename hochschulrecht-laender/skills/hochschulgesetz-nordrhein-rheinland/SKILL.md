@@ -32,13 +32,13 @@ Für **Hochschulgesetz Nordrhein Westfalen, Hochschulgesetz Rheinland Pfalz, Hoc
 # Hochschulgesetz Nordrhein Westfalen
 
 ## Fachkern: Hochschulgesetz Nordrhein Westfalen
-- **Spezialgegenstand:** Hochschulgesetz Nordrhein Westfalen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Nordrhein Westfalen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Nordrhein-Westfalen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 # Hochschulgesetz Rheinland Pfalz
 
 ## Fachkern: Hochschulgesetz Rheinland Pfalz
-- **Spezialgegenstand:** Hochschulgesetz Rheinland Pfalz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Rheinland Pfalz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Rheinland-Pfalz: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 # Hochschulgesetz Saarland
 
 ## Fachkern: Hochschulgesetz Saarland
-- **Spezialgegenstand:** Hochschulgesetz Saarland; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Saarland. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Saarland: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 
@@ -233,13 +233,13 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 # Hochschulgesetz Sachsen
 
 ## Fachkern: Hochschulgesetz Sachsen
-- **Spezialgegenstand:** Hochschulgesetz Sachsen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Sachsen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Sachsen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 

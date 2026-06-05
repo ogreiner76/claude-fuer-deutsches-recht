@@ -9,7 +9,7 @@ description: "Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach A
 
 Dieser Skill ordnet das Verzeichnis von Verarbeitungstaetigkeiten (Records of Processing Activities, kurz RoPA) nach Art. 30 DSGVO ein. Er erklaert Pflichtige, Inhalte, Form und Verhaeltnis zu anderen Dokumentationspflichten (DSFA, AVV, RoPA), damit Kanzleien und Datenschutzbeauftragte das richtige Werkzeug fuer das richtige Dokument waehlen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant fragt: "Brauchen wir ein Verarbeitungsverzeichnis?"
 - Aufsichtsbehoerde verlangt nach Art. 30 Abs. 4 DSGVO Vorlage des Verzeichnisses.

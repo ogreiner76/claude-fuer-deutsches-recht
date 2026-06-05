@@ -6,7 +6,7 @@ description: "Dokumentenintake und Aktenlog: erklärt ordnet Uploads, Eingangspo
 # Dokumentenintake und Aktenlog
 
 ## Fachkern: Dokumentenintake und Aktenlog
-- **Spezialgegenstand:** Dokumentenintake und Aktenlog; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Dokumentenintake und Aktenlog. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -14,7 +14,7 @@ description: "Dokumentenintake und Aktenlog: erklärt ordnet Uploads, Eingangspo
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Dokumentenintake und Aktenlog** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen
 

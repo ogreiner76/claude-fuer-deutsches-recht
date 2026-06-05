@@ -39,7 +39,7 @@ Für **Car T Haftung Klinik, Diga Hersteller Arzt Haftung** zuerst das tragende 
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: CAR-T-Behandlung: Klinikhaftung** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation.
 
@@ -101,7 +101,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: DiGA: Hersteller, Arzt und Haftung** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen.
 

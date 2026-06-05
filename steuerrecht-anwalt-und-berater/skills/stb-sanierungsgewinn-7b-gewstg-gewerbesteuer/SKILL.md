@@ -15,7 +15,7 @@ description: "§ 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von
 
 § 7b GewStG ist die gewerbesteuerliche Schwesternorm zu § 3a EStG. Der Sanierungsertrag wird auch von der Gewerbesteuer befreit — aber nur, wenn ein eigener Antrag mit der Gewerbesteuererklärung gestellt wird. Wer nur § 3a Abs. 4 EStG beantragt, bleibt auf der Gewerbesteuer sitzen. Die GewSt-Belastung des Sanierungsertrags ist bei einem Hebesatz von 400 % rund 14 % — das ist nicht unerheblich.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist die Mandantin gewerbesteuerpflichtig (Gewerbebetrieb)?
 2. Welcher Hebesatz gilt am Sitz / der Betriebsstätte?

@@ -7,7 +7,7 @@ description: "Varianten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigk
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Email Umformulierer Berufsrecht** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Email Umformulierer Berufsrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

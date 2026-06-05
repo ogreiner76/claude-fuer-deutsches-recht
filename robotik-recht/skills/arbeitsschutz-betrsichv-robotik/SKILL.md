@@ -16,7 +16,7 @@ description: "Prüft Arbeitsschutz und Betriebssicherheit bei Robotern im Betrie
 
 Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbeitgeber treffen Pflichten zur Gefährdungsbeurteilung (§ 3 BetrSichV), zu Schutzmaßnahmen, Unterweisung (§ 12 ArbSchG), wiederkehrenden Prüfungen (§ 14 BetrSichV) und zur Erstellung einer Betriebsanweisung. Bei Cobots, autonomen Transportrobotern (AMR) und Service-Robotern entstehen typische Risiken: Quetschung, Stoß, Sturz nach Kollision, psychische Belastung. Dieser Skill leitet durch die Pflichten und liefert Vorlagen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Arbeitgeber/Betreiber, Sicherheitsfachkraft (Sifa), Sicherheitsbeauftragter, Betriebsrat, Berufsgenossenschaft.
 2. **Robotertyp:** Industrieroboter mit Zaun, Cobot ohne Zaun, AMR/AGV mit Personen im Verkehrsraum, Service-Roboter in Mischarbeit.

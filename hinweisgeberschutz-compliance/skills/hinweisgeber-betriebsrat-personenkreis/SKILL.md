@@ -31,7 +31,7 @@ Für **Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis, International Su
 
 # Hinweisgeber Im Betriebsrat
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Betriebsratsamt, Geheimnisse, Sonderkündigungsschutz, Interessenkonflikt und Gremium.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Hinweisgeber Personenkreis
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beschäftigte, Bewerber, ehemalige Beschäftigte, Lieferanten, Praktikanten, Organe und Unterstützer.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # International Subsidiaries
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Lokales Recht, EU-Mindestschutz, Datenfluss, Sprache, Kultur, Konzernreporting.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Jahresbericht Compliance
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Fallzahlen, Kategorien, Maßnahmen, Zeiten, Lessons Learned und Board-Ampel anonymisiert.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

@@ -9,7 +9,7 @@ description: "Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach 
 
 Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerweise mehrstufiger Kette: Anbieter (Tier 1), Hyperscaler (Tier 2), Drittland-Support (Tier 3). Purpose (EN): Sub-processing under Article 28 (2) and (4) GDPR in cloud and SaaS deployment chains.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - SaaS-/Cloud-Anbieter wird beauftragt und nutzt selbst Hyperscaler-Infrastruktur (AWS, Azure, Google Cloud).
 - Es ist die Liste der Sub-AV zu pruefen oder zu erstellen.

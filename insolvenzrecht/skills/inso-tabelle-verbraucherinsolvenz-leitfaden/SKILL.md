@@ -80,7 +80,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -142,7 +142,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -169,7 +169,7 @@ Der **qualifizierte Rangruecktritt** ist eine Alternative oder Ergaenzung zum Fo
 
 Dieser Skill zeigt die Mechanik und grenzt sie zum Forderungsverzicht ab. Adressat: Plan-Anwalt, IV/Sachwalter, StB.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan sieht statt Verzicht eine Rangruecktrittsvereinbarung vor.
 - Glaeubiger will nicht endgueltig verzichten, aber bilanziell Erleichterung verschaffen.

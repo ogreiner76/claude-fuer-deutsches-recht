@@ -41,7 +41,7 @@ Für **Meeting Cadence, Monthly Business Review, Multi Client Matter, Narrative 
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Meeting Cadence** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten
 
@@ -99,7 +99,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Monthly Business Review** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Monatsreview Kanzlei/Rechtsabteilung: Kosten, Matters, Learnings, Forecast und Beziehung
 
@@ -157,7 +157,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Mehrere Mandanten in einer Sache** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Joint Defense, gleichlaufende Interessen, Kostenteilung, Konfliktumschlag und Information
 
@@ -215,7 +215,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Narrative Value Writing** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Tätigkeitsbeschreibungen so schreiben, dass der Mandant Wert und Zweck erkennt
 
@@ -273,7 +273,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Outside Counsel Guidelines** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** OCG des Unternehmens in alltagstaugliche Kanzlei-Pflichten, Eskalationen und Abrechnungsregeln übersetzen
 

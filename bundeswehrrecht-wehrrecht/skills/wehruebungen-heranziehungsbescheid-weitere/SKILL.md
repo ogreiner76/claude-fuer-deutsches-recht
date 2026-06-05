@@ -31,7 +31,7 @@ Für **Wehruebungen Heranziehungsbescheid, Weitere Beschwerde Und Gerichtlicher 
 # Wehrübungen und Heranziehungsbescheid
 
 ## Fachkern: Wehrübungen und Heranziehungsbescheid
-- **Spezialgegenstand:** Wehrübungen und Heranziehungsbescheid; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrübungen und Heranziehungsbescheid. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -53,7 +53,7 @@ Härtegründe (persönliche Notsituation, berufliche Unabkömmlichkeit) können 
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -142,7 +142,7 @@ Vor Ausgabe prüfen:
 # Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
 
 ## Fachkern: Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
-- **Spezialgegenstand:** Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -164,7 +164,7 @@ Das Truppendienstgericht (TDG) entscheidet über WBO-Anträge. BVerwG-Wehrdienst
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -252,7 +252,7 @@ Vor Ausgabe prüfen:
 # Widerruf der Ernennung wegen arglistiger Täuschung
 
 ## Fachkern: Widerruf der Ernennung wegen arglistiger Täuschung
-- **Spezialgegenstand:** Widerruf der Ernennung wegen arglistiger Täuschung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Widerruf der Ernennung wegen arglistiger Täuschung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -274,7 +274,7 @@ Folgen: Entlassung, Rückforderung von Bezügen und Ausbildungskosten. Der Solda
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

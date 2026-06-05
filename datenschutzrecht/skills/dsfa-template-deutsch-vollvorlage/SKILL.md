@@ -9,7 +9,7 @@ description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuell
 
 Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35 Abs. 7 DSGVO. Alle sechs Pflichtsektionen sind enthalten und mit Platzhaltern vorausgefuellt, so dass eine Kanzlei oder ein Unternehmen die DSFA direkt befuellen und der Aufsicht oder dem DSB vorlegen kann. Die Vorlage folgt der methodischen Struktur Beschreibung, Verhaeltnismaessigkeit, Risiken, Massnahmen, Restrisiko, Freigabe.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Wenn die Trigger-Pruefung ergeben hat, dass eine DSFA durchzufuehren ist
 - Wenn ein Hausformat fehlt und ein kanzleitaugliches Standardformat benoetigt wird

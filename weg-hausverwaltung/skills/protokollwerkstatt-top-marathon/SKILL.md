@@ -18,7 +18,7 @@ description: "Erstellt und prüft Protokolle für lange Eigentümerversammlungen
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill, wenn eine Eigentümerversammlung viele Tagesordnungspunkte hat und das Protokoll später anfechtungsfest, verständlich und verwaltbar sein muss.
+Dieses Fachmodul greift, wenn eine Eigentümerversammlung viele Tagesordnungspunkte hat und das Protokoll später anfechtungsfest, verständlich und verwaltbar sein muss.
 
 ## Pro TOP erfassen
 

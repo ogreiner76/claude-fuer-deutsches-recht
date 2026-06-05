@@ -73,7 +73,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -179,7 +179,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -232,7 +232,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -245,7 +245,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 # Kartellverbot — Modus
 
 ## Fachkern: Kartellverbot — Modus
-- **Spezialgegenstand:** Kartellverbot — Modus; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kartellverbot — Modus. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

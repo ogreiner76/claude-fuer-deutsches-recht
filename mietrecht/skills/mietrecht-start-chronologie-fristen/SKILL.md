@@ -81,7 +81,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** `skill-name` — [warum dieser Arbeitsgang hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -157,7 +157,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `mietkaution-rueckforderung` | Strukturierte Prüfung Mietkaution-Rückforderung nach Auszug. Hoechstgrenze drei Monatsmieten netto kalt § 551 BGB. Anlage-Pflicht Vermieter getrennt insolvenzgesichert Zinsen mit Kontoführungs-Spareinlage § 551 Abs. 3… |
 | `mietpreisueberhoehung-wistrg-1954-mietwucher` | Dreistufige Prüfung überhöhter Wohnraummiete: Mietpreisbremse, § 5 WiStrG 1954 als Ordnungswidrigkeit und § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rückforderungs- und Behördenpfad. |
 | `mietsenkungsverlangen` | Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 und § 291 StGB. Erzeugt eine… |
-| `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die… |
+| `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Dieses Fachmodul, wenn für eine konkrete Adresse die… |
 | `nebenkostenabrechnung-erstellen` | Vermieter- und Hausverwaltungssicht — für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefähigkeit Verteilerschluessel… |
 | `nebenkostenabrechnung-pruefen` | Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische… |
 | `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für aktuelle Mietrechts- und WEG-Fragen: Mietpreisbremse, Modernisierung, Steckersolargeräte, virtuelle Eigentümerversammlung, Verwalterabberufung, bauliche Veränderungen und BGH-/Normquellen. |

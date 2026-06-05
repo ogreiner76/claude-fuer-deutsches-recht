@@ -9,7 +9,7 @@ description: "Fachmodul fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. L
 
 Empfehlung einer Evaluationsklausel ist eine der haeufigsten konkreten Empfehlungen des NKR. Dieser Skill liefert die Standardformulierungen, Indikatorenkataloge und Begruendungsbausteine.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben ohne Evaluationsklausel
 - Vorhaben mit unzureichender Klausel

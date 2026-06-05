@@ -7,7 +7,7 @@ description: "Training generativer Modelle mit Text, Bild, Musik, Code und Daten
 
 ## Einsatz
 
-Nutze diesen Skill, wenn ein Modell mit fremden Werken, Datenbanken, Bildern, Musik, Code oder Texten trainiert wurde oder wenn ein Unternehmen ein Modell einkauft und die Trainingsdatenrisiken verstehen muss.
+Dieses Fachmodul greift, wenn ein Modell mit fremden Werken, Datenbanken, Bildern, Musik, Code oder Texten trainiert wurde oder wenn ein Unternehmen ein Modell einkauft und die Trainingsdatenrisiken verstehen muss.
 
 ## Prüffragen
 

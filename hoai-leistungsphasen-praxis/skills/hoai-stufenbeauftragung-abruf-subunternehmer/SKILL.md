@@ -34,7 +34,7 @@ Für **Hoai Stufenbeauftragung Abruf Nichtabruf, Hoai Subunternehmer Perspektive
 
 ## Einsatz
 
-Nutze diesen Skill bei Verträgen, in denen LPH 1-2, 1-4 oder 1-5 fest beauftragt sind und weitere LPH nur optional abgerufen werden.
+Dieses Fachmodul bei Verträgen, in denen LPH 1-2, 1-4 oder 1-5 fest beauftragt sind und weitere LPH nur optional abgerufen werden.
 
 ## Prüffragen
 
@@ -121,7 +121,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Teilabnahme ab letzter Unternehmer
 
 ## Einsatz
 
-Nutze diesen Skill, wenn im Bestand geplant wird und unklar ist, ob Neubau-, Umbau-, Modernisierungs-, Instandsetzungs- oder Instandhaltungslogik gilt. Gerade hier entstehen Honorar- und Haftungsfehler.
+Dieses Fachmodul greift, wenn im Bestand geplant wird und unklar ist, ob Neubau-, Umbau-, Modernisierungs-, Instandsetzungs- oder Instandhaltungslogik gilt. Gerade hier entstehen Honorar- und Haftungsfehler.
 
 ## Normanker
 
@@ -150,7 +150,7 @@ Eine Bestand-Honorar-Notiz mit Maßnahmenkategorie, Belegen, Honorarfolge, Zusat
 
 ## Einsatz
 
-Nutze diesen Skill bei privaten Bauherren, Einfamilienhaus, Sanierung, Innenausbau oder kleinen WEG-/Vereinsprojekten, wenn die Honorarvereinbarung unklar ist.
+Dieses Fachmodul bei privaten Bauherren, Einfamilienhaus, Sanierung, Innenausbau oder kleinen WEG-/Vereinsprojekten, wenn die Honorarvereinbarung unklar ist.
 
 ## Normanker
 

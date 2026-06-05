@@ -34,7 +34,7 @@ Für **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaer
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Ausschreibungsunterlagen unklar sind, Mengen fehlen, Schnittstellen doppelt oder gar nicht ausgeschrieben sind oder Bieterfragen eine Vergabe zerlegen.
+Dieses Fachmodul greift, wenn Ausschreibungsunterlagen unklar sind, Mengen fehlen, Schnittstellen doppelt oder gar nicht ausgeschrieben sind oder Bieterfragen eine Vergabe zerlegen.
 
 ## Normanker
 
@@ -61,7 +61,7 @@ LV-Red-Team-Tabelle mit Position, Problem, Nachtragsrisiko, Bieterfrage, Korrekt
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der günstigste Bieter auffällig ist, der Bieterspiegel schöngerechnet wirkt oder nach Zuschlag Nachträge drohen.
+Dieses Fachmodul greift, wenn der günstigste Bieter auffällig ist, der Bieterspiegel schöngerechnet wirkt oder nach Zuschlag Nachträge drohen.
 
 ## Normanker
 
@@ -92,7 +92,7 @@ Bieterspiegel mit Ampel, Aufklärungsfragen, Vergabeempfehlung, Vorbehalten und 
 
 ## Einsatz
 
-Nutze diesen Skill kurz vor Abnahme oder wenn Bauherr, Planer und Unternehmer über Restmängel, Bezugsfähigkeit, Sicherheitsabzug oder Abnahmeverweigerung streiten.
+Dieses Fachmodul kurz vor Abnahme oder wenn Bauherr, Planer und Unternehmer über Restmängel, Bezugsfähigkeit, Sicherheitsabzug oder Abnahmeverweigerung streiten.
 
 ## Normanker
 
@@ -124,7 +124,7 @@ Abnahmefahrplan mit Mängelliste, Verantwortlichen, Fristen, rechtlicher Einordn
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Abschlagsrechnungen, Schlussrechnungen, Aufmaß oder Nachträge der Unternehmer geprüft werden müssen und der Planer nicht zum Zahlmeister werden darf.
+Dieses Fachmodul greift, wenn Abschlagsrechnungen, Schlussrechnungen, Aufmaß oder Nachträge der Unternehmer geprüft werden müssen und der Planer nicht zum Zahlmeister werden darf.
 
 ## Normanker
 
@@ -152,7 +152,7 @@ Rechnungsprüfvermerk mit freizugebenem Betrag, Kürzung, Nachforderungsunterlag
 
 ## Einsatz
 
-Nutze diesen Skill, wenn behauptet wird, der Architekt/Bauüberwacher hätte ständig auf der Baustelle sein müssen oder habe kritische Arbeiten zu wenig kontrolliert.
+Dieses Fachmodul greift, wenn behauptet wird, der Architekt/Bauüberwacher hätte ständig auf der Baustelle sein müssen oder habe kritische Arbeiten zu wenig kontrolliert.
 
 ## Normanker
 

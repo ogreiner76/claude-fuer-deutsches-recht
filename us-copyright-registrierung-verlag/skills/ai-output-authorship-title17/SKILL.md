@@ -6,7 +6,7 @@ description: "Prueft generative AI outputs nach USCO-Policy: human authorship, s
 # AI Output und Copyrightability
 
 ## Fachkern: AI Output und Copyrightability
-- **Spezialgegenstand:** AI Output und Copyrightability; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** AI Output und Copyrightability. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

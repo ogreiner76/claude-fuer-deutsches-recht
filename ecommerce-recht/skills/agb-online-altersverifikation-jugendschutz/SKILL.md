@@ -41,7 +41,7 @@ Für **Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz,
 
 Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie wirksam einbezogen wurden (§ 305 II BGB) und einer Inhaltskontrolle (§§ 307 ff. BGB) standhalten. Im Online-Shop entscheidet die Einbeziehung über die gesamte Vertragsgrundlage (Lieferung, Mängelhaftung, Eigentumsvorbehalt, Streitbeilegung). Der Skill ordnet Einbeziehung, Klauseltypen und Inhaltskontrolle.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Wo sind die AGB im Bestellprozess platziert?
 - Wird vor Bestellabgabe ausdrücklich auf die AGB hingewiesen?
@@ -159,7 +159,7 @@ Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie 
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Altersverifikation Jugendschutz** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -204,7 +204,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: App-Commerce In-App-Käufe** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 

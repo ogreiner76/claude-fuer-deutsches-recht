@@ -7,7 +7,7 @@ description: "Rechtsquellen Fehlerkatalog: Quellenprüfung; Normenstand, Rechtsp
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Fachanwalt Erbrecht** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Erbrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

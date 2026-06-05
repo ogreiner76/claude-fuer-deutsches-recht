@@ -41,7 +41,7 @@ Für **Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Verein
 
 § 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern. GKV-Leistungen sind nicht von der GOÄ erfasst (EBM, § 87 SGB V). Abgrenzung: nichtärztliche Leistungen, IGel, Wahlleistungen Krankenhaus, telemedizinische Leistungen — alle haben ihre eigenen Spezialregeln, gehen aber im Grundsatz auf § 1 GOÄ zurück.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Erstellung einer Privatrechnung — Anwendungsbereich vorab klären.
 - Streit, ob eine Leistung überhaupt nach GOÄ abrechenbar ist (z. B. IGel, Wahlleistung, Gutachten).
@@ -157,7 +157,7 @@ Eingaben:
 
 § 2 GOÄ erlaubt eine vom Regelfall abweichende Honorarvereinbarung — typischer Anwendungsfall: Steigerungsfaktor über dem Schwellenwert (3,5-fach für persönliche, 2,5-fach für technische, 1,3-fach für Labor). Strikte Formvorgaben: vor Behandlungsbeginn, schriftlich, persönlich vom Patienten unterzeichnet, mit Hinweis auf abweichende Vereinbarung. Verstösse machen die Vereinbarung unwirksam — Erstattung durch PKV oder Beihilfe meist verweigert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Praxis will Honorarvereinbarung über Schwellenwert hinaus treffen.
 - PKV verweigert Erstattung wegen "fehlender Schriftform" der Vereinbarung.
@@ -266,7 +266,7 @@ Eingaben:
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **GOÄ Gebührenordnung für Ärzte**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen** im Bereich **GOÄ Gebührenordnung für Ärzte**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Gebührenordnung für Ärzte mit Schwellenwerten, Steigerungssätzen, Analogabrechnung, Zielleistungsprinzip, Auslagen, Wahlleistungen, PKV/Beihilfe und Honorarstreit.
 

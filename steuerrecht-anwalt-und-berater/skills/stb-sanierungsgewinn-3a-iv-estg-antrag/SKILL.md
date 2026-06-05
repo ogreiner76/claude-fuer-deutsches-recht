@@ -15,7 +15,7 @@ description: "Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungsw
 
 § 3a Abs. 4 EStG macht die Steuerbefreiung vom ausdrücklichen Antrag abhängig. Der Antrag wirkt bindend: Nach Feststellung des Sanierungserfolgs kann er nicht mehr zurückgenommen werden. Die Folge ist endgültig — alle steuerlichen Wahlrechte zu Verlustverbrauch und Aufwandsabzug sind dann gesetzt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Soll der Antrag tatsächlich gestellt werden — oder reicht der Verlustvortrag (Sanity-Check)?
 2. Wann ist der späteste Zeitpunkt für den Antrag?

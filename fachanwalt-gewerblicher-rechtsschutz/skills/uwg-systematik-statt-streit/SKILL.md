@@ -151,7 +151,7 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `gr-mitbewerberabmahnung-aktivlegitim
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Einzelfallbewertung ohne vollständige Sachverhaltskenntnis.
 
@@ -292,7 +292,7 @@ von EUR [Betrag] für jeden Fall der Zuwiderhandlung (Hamburger Brauch).
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Wertermittlung von Schutzrechten.
 - Kein Ersatz für vollständige Mandantenberatung und Vertragsgestaltung durch Anwalt.
 

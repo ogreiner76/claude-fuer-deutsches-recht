@@ -31,7 +31,7 @@ Für **Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeu
 # Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.
 
 ## Fachkern: Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.
-- **Spezialgegenstand:** Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO § 305; ZPO-Fristen analog über InsO § 4. Entscheidend ist immer der aktu
 # Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.
 
 ## Fachkern: Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.
-- **Spezialgegenstand:** Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO §§ 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, die a
 # Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.
 
 ## Fachkern: Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.
-- **Spezialgegenstand:** Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

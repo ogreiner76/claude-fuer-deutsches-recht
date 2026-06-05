@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 # Vergleichsverhandlung und Einigung im Bank-, Kapitalmarkt- und Wertpapierrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Bank-, Kapitalmarkt- und Wertpapierrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Rueckabwicklung Anlageberatung, Phishing/Online-Banking-Streit.

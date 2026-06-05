@@ -9,7 +9,7 @@ description: "Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des
 
 Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet fuer Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Auftragsverarbeiter baut sein RoPA erstmalig auf.
 - Kanzlei taetigt fuer Mandanten Datenverarbeitung im Auftrag (z. B. Lohnbuchhaltung, IT-Outsourcing) und ist insoweit Processor.

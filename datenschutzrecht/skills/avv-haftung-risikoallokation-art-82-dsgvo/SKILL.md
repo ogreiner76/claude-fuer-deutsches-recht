@@ -9,7 +9,7 @@ description: "Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lic
 
 Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverarbeiter; Trennung von Aussenhaftung gegenueber Betroffenen und Innenregress; Grenzen vertraglicher Haftungsbegrenzungen. Purpose (EN): Liability allocation between controller and processor under Article 82 GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Haftungscaps im AVV werden verhandelt.
 - Mandant hat Schadensersatzanspruch gegen den Vertragspartner zu pruefen.

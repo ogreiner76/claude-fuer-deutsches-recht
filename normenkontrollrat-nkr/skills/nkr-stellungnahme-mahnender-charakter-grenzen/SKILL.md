@@ -9,7 +9,7 @@ description: "Beschaeftigt sich mit dem mahnenden Charakter der NKR-Stellungnahm
 
 Der NKR ist Beratungs- und Kontrollgremium. Seine Stellungnahme darf mahnen — aber nicht politisch werten. Dieser Skill markiert die rote Linie und zeigt das Stufenvokabular vom konstruktiven Hinweis bis zur nachdruecklichen Mahnung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Politisch sensible Stellungnahme
 - Wiederholungsfall (Ressort hat frueheren Hinweis ignoriert)

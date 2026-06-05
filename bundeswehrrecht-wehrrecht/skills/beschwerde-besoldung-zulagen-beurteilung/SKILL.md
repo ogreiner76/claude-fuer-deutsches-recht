@@ -31,7 +31,7 @@ Für **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung
 
 ## Fachkern: Beschwerde gegen Beurteilung und Laufbahnentscheidung
-- **Spezialgegenstand:** Beschwerde gegen Beurteilung und Laufbahnentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Beschwerde gegen Beurteilung und Laufbahnentscheidung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen 
 
 Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte Laufbahnentscheidung (Beförderung, Verwendungsentscheidung, Auswahlentscheidung) sind die Grundlage der Karriere des Soldaten. Beide sind im WBO-Weg anfechtbar (§ 1 WBO). Der Skill ordnet Beurteilungssystematik, Beschwerdegegenstände und Eilrechtsschutz im Konkurrentenstreit.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Beurteilung (planmäßig, Anlass, Probezeit)?
 - Welcher Beurteiler (erster, zweiter, Höher- oder Endbeurteiler)?
@@ -134,7 +134,7 @@ Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte L
 # Besoldung, Zulagen und Auslandsverwendungszuschlag
 
 ## Fachkern: Besoldung, Zulagen und Auslandsverwendungszuschlag
-- **Spezialgegenstand:** Besoldung, Zulagen und Auslandsverwendungszuschlag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Besoldung, Zulagen und Auslandsverwendungszuschlag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -157,7 +157,7 @@ Häufige Fehler: Fehlberechnungen beim AVZ, nicht ausgezahlte Erschwerniszulagen
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -253,7 +253,7 @@ Vor Ausgabe prüfen:
 # Beurteilung, Konkurrentenstreit und Auswahlentscheidung
 
 ## Fachkern: Beurteilung, Konkurrentenstreit und Auswahlentscheidung
-- **Spezialgegenstand:** Beurteilung, Konkurrentenstreit und Auswahlentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Beurteilung, Konkurrentenstreit und Auswahlentscheidung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -276,7 +276,7 @@ Typische Fehler: unzuständiger Beurteiler, fehlende Begründung, Nichtberücksi
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

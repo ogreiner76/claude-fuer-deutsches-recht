@@ -119,7 +119,7 @@ Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, ab
 
 ## Einsatz
 
-Nutze diesen Skill, wenn eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
+Dieses Fachmodul greift, wenn eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
 
 ## Acht Prüfsteine
 

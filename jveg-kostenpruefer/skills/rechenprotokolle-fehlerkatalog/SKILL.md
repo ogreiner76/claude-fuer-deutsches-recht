@@ -7,7 +7,7 @@ description: "Rechenprotokolle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zust
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Jveg Kostenpruefer** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Jveg Kostenpruefer** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

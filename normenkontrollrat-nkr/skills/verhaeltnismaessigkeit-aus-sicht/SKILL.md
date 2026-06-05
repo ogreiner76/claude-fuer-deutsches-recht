@@ -9,7 +9,7 @@ description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefu
 
 Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne prueft das BMJ und ggf. das BVerfG. Der NKR prueft Verhaeltnismaessigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand fuer das adressierte Problem **angemessen**?
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben ist erforderlich, Ausgestaltung wirkt jedoch ueberzogen
 - Eingriffstiefe wirkt unverhaeltnismaessig

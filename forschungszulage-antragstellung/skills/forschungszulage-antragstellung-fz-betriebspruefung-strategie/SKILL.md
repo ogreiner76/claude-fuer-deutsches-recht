@@ -70,7 +70,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -86,7 +86,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 Nach Erhalt der BSFZ-Bescheinigung beginnt die zweite Stufe: der eigentliche Antrag auf Forschungszulage beim Finanzamt. Der Antrag wird elektronisch über ELSTER eingereicht, die Festsetzung erfolgt durch einen gesonderten Forschungszulagenbescheid. Der Betrag wird auf die nächste Einkommen- oder Körperschaftsteuerfestsetzung angerechnet; ein Überschuss wird ausgezahlt (§ 10 FZulG).
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sobald die BSFZ-Bescheinigung vorliegt.
 - Bei der Liquiditätsplanung: wann fließt die Zulage?
@@ -264,7 +264,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

@@ -185,7 +185,7 @@ VI. Empfehlung
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine technische Verletzungsanalyse ohne Patentschrift und Produktbeschreibung.
 - Kein Ersatz für vollständige Mandantenberatung und Patentanwaltsbegutachtung.
 
@@ -317,7 +317,7 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Bewertung der Dringlichkeit ohne Kenntnis des konkreten Kenntnisdatums.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -437,6 +437,6 @@ Handlungen, die **ausschließlich** Versuchszwecken dienen, sind keine Verletzun
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine vollständige technische Verletzungsanalyse ohne Sachverständigen.
 - Kein Ersatz für vollständige Mandantenberatung.

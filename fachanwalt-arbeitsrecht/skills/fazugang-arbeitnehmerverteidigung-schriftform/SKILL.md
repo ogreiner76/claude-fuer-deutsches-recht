@@ -129,7 +129,7 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 - Keine modellwissensbasierten Urteile ohne Verifikation.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu falschen Tatsachenbehauptungen.
 - Keine Prognose über das Ergebnis der Beweiswürdigung im konkreten Einzelfall.
 
@@ -248,7 +248,7 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 - Fax-Streitstand: aktuelle BAG-Linie live prüfen.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Prognose über Zurückweisungsrecht bei konkretem Fall ohne vollständige Sachverhaltskenntnis.
 - Keine Aussage zu internationalen Schriftformerfordernissen.
 

@@ -31,7 +31,7 @@ Für **Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsman
 
 # Tabletop Exercise
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Szenario, Rollen, Injects, Entscheidungen, Beobachter, Lessons Learned und Maßnahmen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Third Party Remote Maintenance
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zeitfenster, MFA, Jump Host, Session Recording, Geheimnisse, Subunternehmer und Notfallzugang.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # TLS PKI Zertifikatsmanagement
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Wildcard-Zertifikate, interne CAs, Ablaufwarnungen, Schlüsselrotation, ACME und Incident-Szenarien.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # USB Wechseldatentraeger
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sperren, Ausnahmen, Verschlüsselung, Produktionsdaten, Kanzleiakten, Beweisdatenträger und Malware.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

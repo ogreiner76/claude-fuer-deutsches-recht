@@ -24,7 +24,7 @@ Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der 
 
 Dieser Skill bearbeitet die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sanierungstransaktion mit einem oder mehreren Hauptgläubigern, die als neue Gesellschafter einsteigen.
 - StaRUG-Plan oder Insolvenzplan mit DES als zentralem Sanierungselement.

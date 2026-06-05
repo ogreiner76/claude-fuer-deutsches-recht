@@ -16,7 +16,7 @@ description: "Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäfti
 
 Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit der DSGVO. Art. 5 Abs. 1 KI-VO untersagt seit 02.02.2025 u. a. Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen (Art. 5 Abs. 1 lit. f), Social Scoring (lit. c) sowie – mit engen Ausnahmen – biometrische Echtzeit-Fernidentifizierung im öffentlich zugänglichen Raum zu Strafverfolgungszwecken (lit. h). Biometrische Daten sind besondere Kategorie (Art. 9 DSGVO). Dieser Skill prüft, welches Verfahren im konkreten Roboter zulässig ist und welche Transparenz-/Konformitätspflichten greifen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Betreiber, Datenschutzbehörde, Betriebsrat, betroffene Person.
 2. **Funktion:** reine Personenanwesenheit (Anonyme Detection), Personenwiedererkennung (Tracking ohne Identität), Identifikation (1:N Match), Verifikation (1:1 Match), Emotionserkennung, Sentiment-Analyse.

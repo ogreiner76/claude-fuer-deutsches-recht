@@ -31,7 +31,7 @@ Für **Er Bess Epc O And M Vertraege, Er Bess Fca Agnes Bnetza, Er Bess Finanzie
 
 # EPC, O&M und Herstellerverträge
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Batteriespeicher-spezifische Vertragsrisiken.
 
@@ -64,7 +64,7 @@ BGB Werk-/Kaufrecht, Produktsicherheit, Garantie, Datenschutz/Cyber, Exportkontr
 
 # FCA/AgNes: Netzanschluss-Regelwerk lesen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill arbeitet mit hochgeladenem Netzanschlussvertrag oder Entwurf und erzeugt eine Red-Flag-Liste.
 
@@ -97,7 +97,7 @@ BNetzA-Festlegungen, EnWG, Netzanschlussbedingungen, keine Vertragsstandards ohn
 
 # Finanzierung und Bankability
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erzeugt Bank-DD-Fragen und Lender-Risk-Matrix.
 
@@ -130,7 +130,7 @@ BGB, Sicherheitenrecht, EnWG/EEG, Versicherungen, Bauvertrag, Finanzierungsvertr
 
 # Kapazitätsmechanismen, Grundlast und politische Aussagen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erklärt, warum Batteriespeicher nicht automatisch Grundlastkraftwerk sind, aber systemdienliche Flexibilität liefern können.
 

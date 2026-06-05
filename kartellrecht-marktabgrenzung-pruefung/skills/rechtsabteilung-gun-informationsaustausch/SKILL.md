@@ -33,7 +33,7 @@ Für **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilun
 # Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster
 
 ## Fachkern: Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster
-- **Spezialgegenstand:** Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -80,7 +80,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: Informationsaustausch im Branchenverband
 
 ## Fachkern: Rechtsabteilung: Informationsaustausch im Branchenverband
-- **Spezialgegenstand:** Rechtsabteilung: Informationsaustausch im Branchenverband; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Informationsaustausch im Branchenverband. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -127,7 +127,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle
 
 ## Fachkern: Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle
-- **Spezialgegenstand:** Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -174,7 +174,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
 
 ## Fachkern: Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
-- **Spezialgegenstand:** Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -221,7 +221,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Red-Flag-Checkliste — Marktabgrenzung
 
 ## Fachkern: Red-Flag-Checkliste — Marktabgrenzung
-- **Spezialgegenstand:** Red-Flag-Checkliste — Marktabgrenzung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Red-Flag-Checkliste — Marktabgrenzung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

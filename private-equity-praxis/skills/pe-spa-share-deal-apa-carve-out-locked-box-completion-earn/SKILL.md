@@ -38,7 +38,7 @@ Für **Spa Share Deal / Apa Carve Out / Locked Box Completion Accounts / Earn Ou
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill baut eine Issues List mit Verhandlungsposition nach Buy-side oder Sell-side.
 
@@ -79,7 +79,7 @@ BGB Kaufrecht, GmbHG/Management, Kartell/FDI, Steuer, W&I, Closing Conditions.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE-Carve-out aus Konzern oder Insolvenz.
 
@@ -120,7 +120,7 @@ BGB, HGB, § 613a BGB, UmwG, Datenschutz, IP, Steuern.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht aus Zahlenmodell und SPA-Klausel eine konsistente Verhandlungslogik.
 
@@ -161,7 +161,7 @@ BGB, SPA, Accounting Policies, Expert Determination, Disclosure.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Besonders wichtig bei Management-Beteiligung, unsicherer Planung und Liquiditätsknappheit.
 

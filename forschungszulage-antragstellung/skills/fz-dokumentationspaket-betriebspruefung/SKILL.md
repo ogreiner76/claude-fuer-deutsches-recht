@@ -9,7 +9,7 @@ description: "Dokumentationspaket Forschungszulage prüfungsfest aufbauen: Proje
 
 Die Forschungszulage wird auf Antrag festgesetzt; sie steht aber unter dem ständigen Risiko einer Außenprüfung beim Finanzamt. Wer die Belege erst bei Prüfungsankündigung zusammensucht, verliert Diskussionen. Dieser Skill liefert das prüfungsfeste Belegset, die Stundenaufzeichnungslogik, die GoBD-konforme Ablage und die Stichprobenstrategie.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Beim Erstantrag, parallel zur BSFZ-Vorbereitung.
 - Bei jeder Folge-Beantragung.

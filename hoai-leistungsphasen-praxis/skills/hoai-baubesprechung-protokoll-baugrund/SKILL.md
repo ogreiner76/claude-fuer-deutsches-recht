@@ -64,7 +64,7 @@ Dieser Querschnitts-Skill bearbeitet **erstellt präzises Protokoll mit Verantwo
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Baugrundgutachten fehlt, Schadstoffe im Bestand auftauchen, Altlasten Kosten sprengen oder der Planer Untersuchungsbedarf übersehen haben soll.
+Dieses Fachmodul greift, wenn Baugrundgutachten fehlt, Schadstoffe im Bestand auftauchen, Altlasten Kosten sprengen oder der Planer Untersuchungsbedarf übersehen haben soll.
 
 ## Normanker
 

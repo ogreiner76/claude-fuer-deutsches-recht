@@ -5,7 +5,7 @@ description: "Kanzlei oder Behoerde will juristischen Text für normale Buerger 
 
 # Einfache Sprache
 
-Nutze diesen Skill, wenn ein juristischer Text für ein allgemeines Publikum
+Dieses Fachmodul, wenn ein juristischer Text für ein allgemeines Publikum
 verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 
 

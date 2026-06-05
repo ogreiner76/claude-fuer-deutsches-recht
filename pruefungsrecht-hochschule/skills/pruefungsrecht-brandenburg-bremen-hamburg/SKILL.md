@@ -32,13 +32,13 @@ Für **Pruefungsrecht Brandenburg, Pruefungsrecht Bremen, Pruefungsrecht Hamburg
 # Pruefungsrecht Brandenburg
 
 ## Fachkern: Pruefungsrecht Brandenburg
-- **Spezialgegenstand:** Pruefungsrecht Brandenburg; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Brandenburg. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Brandenburg: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Bremen
 
 ## Fachkern: Pruefungsrecht Bremen
-- **Spezialgegenstand:** Pruefungsrecht Bremen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Bremen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Bremen: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Hamburg
 
 ## Fachkern: Pruefungsrecht Hamburg
-- **Spezialgegenstand:** Pruefungsrecht Hamburg; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Hamburg. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Hamburg: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -233,13 +233,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Hessen
 
 ## Fachkern: Pruefungsrecht Hessen
-- **Spezialgegenstand:** Pruefungsrecht Hessen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Hessen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Hessen: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 

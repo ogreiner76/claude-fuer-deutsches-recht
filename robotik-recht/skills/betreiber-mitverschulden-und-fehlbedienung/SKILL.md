@@ -16,7 +16,7 @@ description: "Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende W
 
 Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich davon ab, ob der Betreiber die Anleitung beachtet, Wartung dokumentiert, Schutzfunktionen aktiv gelassen und Personal geschult hat. Aus Sicht des Herstellers ist Mitverschulden des Betreibers oft die einzige Möglichkeit, der vollen ProdHaftG-Haftung zu entgehen. Aus Sicht des Betreibers (oder seines Geschädigten) wird umgekehrt geprüft, ob der Hersteller seinen Pflichten zur "vernünftigerweise vorhersehbaren Fehlanwendung" (Art. 6 MaschinenVO; § 3 ProdSG; Art. 9 KI-VO) genügt hat. Dieser Skill liefert das Prüfschema, eine Indizienliste und Vorlagen für Schriftsätze.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller-Verteidigung, Betreiber-Anspruchsdurchsetzung, Versicherer, Geschädigter, Sachverständiger.
 2. **Vorfall:** Personenschaden, Sachschaden, Produktionsausfall, Datenpanne durch Fehlbedienung.

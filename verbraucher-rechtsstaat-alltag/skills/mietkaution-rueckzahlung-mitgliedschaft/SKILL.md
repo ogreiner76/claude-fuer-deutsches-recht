@@ -31,7 +31,7 @@ Für **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkostenabrech
 # Mietkaution Rückzahlung
 
 ## Fachkern: Mietkaution Rückzahlung
-- **Spezialgegenstand:** Mietkaution Rückzahlung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mietkaution Rückzahlung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkostenabrech
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Mietkaution Rückzahlung** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Kaution nach Auszug, Abrechnungsfrist, Gegenforderungen und Nebenkostenreserve.
 
@@ -84,7 +84,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Mitgliedschaft im Verein Streit
 
 ## Fachkern: Mitgliedschaft im Verein Streit
-- **Spezialgegenstand:** Mitgliedschaft im Verein Streit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mitgliedschaft im Verein Streit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -92,7 +92,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Mitgliedschaft im Verein Streit** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Beitrag, Ausschluss, Hausverbot, Mitgliederversammlung und vereinsinterne Rechtsmittel.
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Nebenkostenabrechnung Verbraucher
 
 ## Fachkern: Nebenkostenabrechnung Verbraucher
-- **Spezialgegenstand:** Nebenkostenabrechnung Verbraucher; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Nebenkostenabrechnung Verbraucher. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -145,7 +145,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Nebenkostenabrechnung Verbraucher** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Betriebskostenabrechnung verstehen, Fristen, Umlageschlüssel, Belegeinsicht und Nachzahlung.
 

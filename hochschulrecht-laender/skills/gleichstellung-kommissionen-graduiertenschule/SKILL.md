@@ -32,13 +32,13 @@ Für **Gleichstellung Kommissionen, Graduiertenschule Zulassung, Grundordnung Un
 # Gleichstellung in Kommissionen
 
 ## Fachkern: Gleichstellung in Kommissionen
-- **Spezialgegenstand:** Gleichstellung in Kommissionen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gleichstellung in Kommissionen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -93,13 +93,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Graduiertenschule Zulassung
 
 ## Fachkern: Graduiertenschule Zulassung
-- **Spezialgegenstand:** Graduiertenschule Zulassung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Graduiertenschule Zulassung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -154,13 +154,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Grundordnung Und Satzung
 
 ## Fachkern: Grundordnung Und Satzung
-- **Spezialgegenstand:** Grundordnung Und Satzung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Grundordnung Und Satzung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Ermächtigungsgrundlage, Organbeschluss, Genehmigung, Veröffentlichung und Übergangsrecht.
 
@@ -221,13 +221,13 @@ Erzeuge bevorzugt: Satzungscheck. Am Ende immer drei Zeilen: **Frist**, **fehlen
 # Gute Wissenschaftliche Praxis
 
 ## Fachkern: Gute Wissenschaftliche Praxis
-- **Spezialgegenstand:** Gute Wissenschaftliche Praxis; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gute Wissenschaftliche Praxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Plagiat, Datenmanipulation, Autorschaft, Anhörung, Sanktion und Forschungsförderer.
 

@@ -31,7 +31,7 @@ Für **Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskun
 # Behördenformular verstehen
 
 ## Fachkern: Behördenformular verstehen
-- **Spezialgegenstand:** Behördenformular verstehen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Behördenformular verstehen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskun
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Behördenformular verstehen** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie.
 
@@ -84,7 +84,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Bescheid oder Brief verstehen
 
 ## Fachkern: Bescheid oder Brief verstehen
-- **Spezialgegenstand:** Bescheid oder Brief verstehen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Bescheid oder Brief verstehen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -92,7 +92,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Bescheid oder Brief verstehen** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** erkennen, ob es Rechnung, Mahnung, Bescheid, Klage, Vollstreckung, Anhörung oder Werbung ist
 
@@ -134,7 +134,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Datenschutz Auskunft und Löschung
 
 ## Fachkern: Datenschutz Auskunft und Löschung
-- **Spezialgegenstand:** Datenschutz Auskunft und Löschung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Datenschutz Auskunft und Löschung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -142,7 +142,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Datenschutz Auskunft und Löschung** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde.
 

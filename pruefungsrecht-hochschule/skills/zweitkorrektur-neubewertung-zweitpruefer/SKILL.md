@@ -30,13 +30,13 @@ Für **Zweitkorrektur Und Neubewertung, Zweitpruefer Befangenheit** zuerst das t
 # Zweitkorrektur Und Neubewertung
 
 ## Fachkern: Zweitkorrektur Und Neubewertung
-- **Spezialgegenstand:** Zweitkorrektur Und Neubewertung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Zweitkorrektur Und Neubewertung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Wer darf neu bewerten, Bindung an Rügen, Verschlechterungsverbot, Begründung und Verfahren.
 
@@ -97,13 +97,13 @@ Erzeuge bevorzugt: Neubewertungsmemo. Am Ende immer drei Zeilen: **Frist**, **fe
 # Zweitprüfer und Befangenheit
 
 ## Fachkern: Zweitprüfer und Befangenheit
-- **Spezialgegenstand:** Zweitprüfer und Befangenheit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Zweitprüfer und Befangenheit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

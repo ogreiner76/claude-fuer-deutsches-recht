@@ -31,7 +31,7 @@ Für **Ecommerce Kauf Widerruf, Entscheidungsvorlage, Fahrradreparatur Dienstlei
 # E-Commerce Kauf und Widerruf
 
 ## Fachkern: E-Commerce Kauf und Widerruf
-- **Spezialgegenstand:** E-Commerce Kauf und Widerruf; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** E-Commerce Kauf und Widerruf. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Ecommerce Kauf Widerruf, Entscheidungsvorlage, Fahrradreparatur Dienstlei
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: E-Commerce Kauf und Widerruf** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Widerruf, Rücksendung, Gewährleistung, Garantie, Plattformstreit und Zahlungsdienstleister
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Entscheidungsvorlage
 
 ## Fachkern: Entscheidungsvorlage
-- **Spezialgegenstand:** Entscheidungsvorlage; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Entscheidungsvorlage. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -89,7 +89,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Entscheidungsvorlage** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung
 
@@ -131,7 +131,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Fahrradreparatur und kleine Dienstleistungen
 
 ## Fachkern: Fahrradreparatur und kleine Dienstleistungen
-- **Spezialgegenstand:** Fahrradreparatur und kleine Dienstleistungen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Fahrradreparatur und kleine Dienstleistungen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -139,7 +139,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Fahrradreparatur und kleine Dienstleistungen** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Werkvertrag, Kostenvoranschlag, Abnahme, Mangel und Rechnung
 

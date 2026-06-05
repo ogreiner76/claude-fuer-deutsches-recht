@@ -32,7 +32,7 @@ Für **Mechanical Licensing Collective, Motion Picture Audiovisual, Music Videos
 # Mechanical Licensing Collective MLC
 
 ## Fachkern: Mechanical Licensing Collective MLC
-- **Spezialgegenstand:** Mechanical Licensing Collective MLC; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mechanical Licensing Collective MLC. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -100,7 +100,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Motion Pictures und Audiovisual Works
 
 ## Fachkern: Motion Pictures und Audiovisual Works
-- **Spezialgegenstand:** Motion Pictures und Audiovisual Works; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Motion Pictures und Audiovisual Works. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -168,7 +168,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Music Videos Chapter 11 Title 17
 
 ## Fachkern: Music Videos Chapter 11 Title 17
-- **Spezialgegenstand:** Music Videos Chapter 11 Title 17; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Music Videos Chapter 11 Title 17. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -236,7 +236,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Musical Works Compulsory License § 115
 
 ## Fachkern: Musical Works Compulsory License § 115
-- **Spezialgegenstand:** Musical Works Compulsory License § 115; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Musical Works Compulsory License § 115. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

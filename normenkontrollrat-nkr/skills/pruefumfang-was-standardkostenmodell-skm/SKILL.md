@@ -33,7 +33,7 @@ Für **Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm** 
 
 Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwechslung der Rollen Bundesrechnungshof, BVerfG, Wissenschaftlicher Dienst, BMJ-Rechtsabteilung, NKR.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Pruefkern faellt
 - Ressort moechte den NKR "instrumentalisieren" fuer politische Argumente
@@ -132,7 +132,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 Das Standardkostenmodell (SKM) ist die in Deutschland (und mehreren EU-Mitgliedstaaten) etablierte Methodik zur Quantifizierung von Erfuellungsaufwand. Der NKR hat das SKM 2006/2007 als methodische Grundlage uebernommen und im Leitfaden BMI/NKR weiterentwickelt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme prueft Methodenanwendung
 - Ressort wendet abweichende Methodik an

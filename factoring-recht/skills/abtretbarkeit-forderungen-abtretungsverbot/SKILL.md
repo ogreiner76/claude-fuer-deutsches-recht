@@ -31,7 +31,7 @@ Für **Abtretbarkeit Forderungen 398 Bgb Und Abtretungsverbote, Abtretungsverbot
 # Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote
 
 ## Fachkern: Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote
-- **Spezialgegenstand:** Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -43,7 +43,7 @@ Im Factoring lebt das ganze Geschäftsmodell davon, dass eine Forderung **wirksa
 
 Dieser Skill prüft die **vier Wirksamkeitsstufen**: (1) Bestand der Forderung, (2) Bestimmbarkeit, (3) freie Verfügungsbefugnis (kein Verbot, keine Vorabtretung), (4) wirksame Einigung. Erst wenn alle vier Stufen stehen, kann der Factor sich auf Eigentum berufen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren einen Factoringvertrag und müssen die Globalabtretung künftiger Forderungen wirksam fassen.
 - Eine angekaufte Forderung wird vom Debitor mit Hinweis auf ein vertragliches Abtretungsverbot bestritten.
@@ -148,7 +148,7 @@ Fragen zum Einstieg:
 # Abtretungsverbot § 354a HGB Handelsgeschäft
 
 ## Fachkern: Abtretungsverbot § 354a HGB Handelsgeschäft
-- **Spezialgegenstand:** Abtretungsverbot § 354a HGB Handelsgeschäft; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Abtretungsverbot § 354a HGB Handelsgeschäft. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -162,7 +162,7 @@ Viele Lieferanten- und Werkverträge enthalten in den AGB der großen Abnehmer e
 
 Dieser Skill prüft, wann § 354a HGB greift, was er bewirkt und was er gerade nicht heilt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Der Factor will Forderungen aus Zulieferverträgen ankaufen, die Abnehmer-AGB enthalten Abtretungsverbote.
 - Eine angekaufte Forderung wird vom Debitor bestritten unter Hinweis auf § 7 seiner Einkaufs-AGB.
@@ -268,7 +268,7 @@ Fragen zum Einstieg:
 # Auditrechte Stichproben Forderungsprüfung
 
 ## Fachkern: Auditrechte Stichproben Forderungsprüfung
-- **Spezialgegenstand:** Auditrechte Stichproben Forderungsprüfung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Auditrechte Stichproben Forderungsprüfung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -280,7 +280,7 @@ Der Factor kauft Forderungen, ohne sie einzeln im Ankaufzeitpunkt vollständig p
 
 Dieser Skill konstruiert das Auditrecht so, dass es **wirklich funktioniert**: Ankündigungsfristen, Stichprobenumfang, Konsequenzen bei Auffälligkeiten, Kostenverteilung. Im Streitfall steht und fällt das Factoring mit der Beweisbarkeit des Forderungsbestands – das Auditrecht ist die operative Vorbereitung dieses Beweises.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren das Audit-Regime in einem neuen Factoring-Rahmenvertrag.
 - Bei einem Kunden mehren sich Reklamationen, Sie planen ein außerordentliches Audit.

@@ -32,13 +32,13 @@ Für **Hochschuldisziplinarrecht, Hochschulerfindungen Und Ip, Hochschulfusion N
 # Hochschuldisziplinarrecht
 
 ## Fachkern: Hochschuldisziplinarrecht
-- **Spezialgegenstand:** Hochschuldisziplinarrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschuldisziplinarrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Hausrecht, Störung, Gewalt, Täuschung, Anhörung, Verhältnismäßigkeit und Rechtsschutz.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Ordnungsmaßnahmencheck. Am Ende immer drei Zeilen: **Frist**
 # Hochschulerfindungen Und Ip
 
 ## Fachkern: Hochschulerfindungen Und Ip
-- **Spezialgegenstand:** Hochschulerfindungen Und Ip; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulerfindungen Und Ip. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 ArbEG, § 69b UrhG, Drittmittelvertrag, Spin-off, Beteiligung und Publikationsrecht.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: IP-Schnittstellenmemo. Am Ende immer drei Zeilen: **Frist**, 
 # Hochschulfusion und Neugliederung
 
 ## Fachkern: Hochschulfusion und Neugliederung
-- **Spezialgegenstand:** Hochschulfusion und Neugliederung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulfusion und Neugliederung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -227,13 +227,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 # Hochschulgesetz Baden Wuerttemberg
 
 ## Fachkern: Hochschulgesetz Baden Wuerttemberg
-- **Spezialgegenstand:** Hochschulgesetz Baden Wuerttemberg; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Baden Wuerttemberg. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Baden-Württemberg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 

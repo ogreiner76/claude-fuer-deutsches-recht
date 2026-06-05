@@ -36,7 +36,7 @@ Für **Verl Rueckruf Fehlerbeitrag Spaet Erkannt, Verl Screenshot Pdf Ocr Redakt
 
 Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Angabe mit Rufschaden, unzutreffender Tatsachenbericht ueber einen Verfahrensbeteiligten, fehlerhafte Rechtsanwendung, die in der Praxis Schaden anrichtet. Der Skill schluesselt drei Ebenen auf: (1) tatsaechliche Rueckholaktion, (2) Richtigstellung und (3) Schadensbegrenzung; mit Eskalationsplan und Mustertexten.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Fehlertyp (falsche Tatsache, fehlerhafte Norm, Persoenlichkeitsverletzung, Plagiat, Bildrechtsverletzung)?
 2. Welcher Mediumtyp (Heft im Versand, Heft im Buchhandel, Online-Datenbank, Loseblattlieferung)?
@@ -203,7 +203,7 @@ Mit freundlichen Gruessen
 
 Autorinnen, Mandantinnen oder Fremdmaterial liegen oft als gescannte PDFs oder als Screenshots vor: alte Festschriftsbeitraege, Bescheidkopien, ausgedruckte und wieder eingescannte Aufsaetze. OCR ist Pflicht, aber OCR-Ergebnisse sind nie sauber. Dieser Skill fuehrt durch den vollstaendigen OCR-inklusive Fehlerquoten-Stichprobe.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, sobald eine Bildquelle (Scan, Screenshot, fotografierte Seite) zum durchsuchbaren Text werden muss. Klaeren Sie:
 
@@ -298,7 +298,7 @@ Status: redaktionsreif nach Lektoratspruefung
 
 Verlage juristischer Fachzeitschriften bauen Social-Media-Praesenz auf, um Aufsatzhighlights, Heftankuendigungen und Veranstaltungen zu bewerben. LinkedIn ist Hauptkanal in der Anwaltschaft; Bluesky und Mastodon wachsen in der Wissenschafts-Community; X nur noch defensiv. Der Skill liefert Konzept, Texttemplates und rechtliche Leitplanken (Werbekennzeichnung, Urheberrecht an Visuals, Impressumspflicht).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Anlass (Heftankuendigung, Highlight-Aufsatz, Webinar, BGH-Entscheidung)?
 2. Welcher Kanal (LinkedIn primaer, Bluesky, Mastodon, Threads, X)?
@@ -435,7 +435,7 @@ Pressekontakt: [Link]
 
 Verlagsleitung verlangt einen klaren, kurzen Bericht, der die Ampel zeigt: laeuft, klemmt, eskaliert. Der Skill liefert ein Format, das in fuenf Minuten les- und entscheidbar ist. Anwendungsfaelle: Monats- oder Quartalsreporting der Redaktion, Ad-hoc-Alarm bei Auflagenrutsch, Honorarstreit oder Manuskriptverzug, Lagebericht vor Verlagskonferenz.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Anlass: Routine-Reporting oder Eskalation?
 2. Adressat: Geschaeftsfuehrung, Programmleitung, Lektoratsleitung, Aufsichtsrat?
@@ -561,7 +561,7 @@ Mit freundlichen Gruessen
 
 Ein Fachaufsatz hat einen bestimmten Stilraum: Gutachten- oder Urteilsstil, klare Begrifflichkeit, knappe Argumentation. Stilbrueche sind, wenn die Autorin plotzlich umgangssprachlich, marketingsprachlich oder ironisch wird - oder wenn KI-typische Floskeln ("in der Regel", "es ist hervorzuheben") den Text fluten. Dieser Skill ist die Stilbruch-Detektion.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 

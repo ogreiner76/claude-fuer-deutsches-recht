@@ -16,7 +16,7 @@ description: "Prüft Genauigkeit, Robustheit und Cybersicherheit von KI-Funktion
 
 Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskomponenten von Maschinen, Medizin-, Verkehrsrobotik) müssen ein "angemessenes Maß" an Genauigkeit, Robustheit und Cybersicherheit aufweisen, Art. 15 VO (EU) 2024/1689 (KI-VO). Dieser Skill operationalisiert diese drei Anforderungen für Roboter: vom Performance-Test (Accuracy) über Stresstests gegen Drift, Sensorrauschen und Adversarial Inputs (Robustness) bis zu Härtung gegen Manipulation der Trainingsdaten (Data Poisoning), des Modells (Model Evasion) oder der Inferenz (Prompt-Injection bei GenAI-Robotik). Schnittstellen zum Cyber Resilience Act (VO (EU) 2024/2847, CRA) und zur MaschinenVO VO (EU) 2023/1230 müssen mitgedacht werden.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Anbieter (provider) i. S. d. Art. 3 Nr. 3 KI-VO, Betreiber (deployer), Hersteller, Importeur, Integrator, Marktüberwachungsbehörde oder Geschädigter.
 2. **Robotertyp:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, OP-, autonomer Liefer- oder Sicherheitsroboter.

@@ -41,7 +41,7 @@ Für **Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, B
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Berufung der Staatsanwaltschaft einlegen und begrenzen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Beschwer, Ziel, Beschränkung, Frist und Sitzungsstrategie
 
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Beweisanträge nach § 244 StPO: Reaktion der StA** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Ablehnungsgründe, Amtsaufklärung, Verfahrensfairness und Protokollkontrolle
 
@@ -139,7 +139,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Beweisverwertungsverbote aus Sicht der StA** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** mögliche Fehler früh erkennen, heilen, offenlegen oder verfahrensstrategisch berücksichtigen
 
@@ -189,7 +189,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Cannabis, Betäubungsmittel, Wirkstoffgutachten, minder schwere Fälle und Einziehung
 
@@ -238,7 +238,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: BtMG/KCanG im Sitzungsdienst** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Substanz, Menge, Wirkstoff, Eigenverbrauch, Handeltreiben und Strafzumessung in typischen Akten prüfen
 

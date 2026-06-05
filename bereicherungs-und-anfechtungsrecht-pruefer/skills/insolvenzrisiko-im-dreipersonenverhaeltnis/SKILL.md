@@ -7,7 +7,7 @@ description: "Bei ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko ver
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

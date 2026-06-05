@@ -11,7 +11,7 @@ description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buerger
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Du bewertest eine bürgerlich-rechtliche Frage und musst eine Anspruchsgrundlage prüfen.
 - Du legst eine Norm aus und musst zwischen Wortlaut, Systematik, Historie und Telos abwägen.

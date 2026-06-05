@@ -24,7 +24,7 @@ Verlustvorträge sind in Distressed-Transaktionen kein Buchungsposten, sondern V
 
 Dieser Skill liefert das Modul, das dem Käufer und dem Sell-side-Team zeigt, **wie viel vom Verlustvortrag nach Restrukturierung tatsächlich übrig bleibt**.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Buy-side-DD eines Targets mit erheblichen kumulierten Verlustvorträgen und absehbarem Sanierungsbedarf.
 - Sell-side-DD bzw. Vendor-DD für einen Verkäufer, der mit dem Argument „Verlustvortrag = 200 Mio. EUR" in die Verhandlung geht.

@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 # Kontodaten- und Vertragsverdacht-Prüfung
 
-Nutze diesen Skill, wenn in einer Betreuung Kontoauszüge, Vertragsunterlagen,
+Dieses Fachmodul greift in der Betreuung, wenn Kontoauszüge, Vertragsunterlagen,
 Rechnungen oder Belege darauf geprüft werden sollen, ob Geldabflüsse,
 Dauerverträge, Anlagegeschäfte oder sonstige Rechtsgeschäfte für die betreute
 Person auffällig, schädlich oder betreuungsgerichtlich relevant sind.
@@ -300,7 +300,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

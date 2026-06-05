@@ -18,7 +18,7 @@ description: "Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt 
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill, wenn Jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
+Dieses Fachmodul greift, wenn Jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
 
 ## Kerntrennung
 

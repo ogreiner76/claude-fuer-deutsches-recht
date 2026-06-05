@@ -41,7 +41,7 @@ Für **Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorprue
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -99,7 +99,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Revision der Staatsanwaltschaft: Vorprüfung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Sachrüge, Verfahrensrüge, Urteilsauswertung, Frist und Generalstaatsanwaltschaft
 
@@ -148,7 +148,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Sicherungsverfahren und Maßregelantrag** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Schuldunfähigkeit, Gefährlichkeit, Sachverständige und Antragsschrift
 
@@ -197,7 +197,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Wirtschaftsstrafverfahren: Aktenplan und Datenraum** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Tatkomplexe, Tabellen, Vermerke, Fristen, Zuständigkeit und Abschlussverfügung
 
@@ -246,7 +246,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Onlinebetrug, Plattformdaten, Zahlungsfluss, Geschädigtenliste und Anklage-/Strafbefehlstauglichkeit
 

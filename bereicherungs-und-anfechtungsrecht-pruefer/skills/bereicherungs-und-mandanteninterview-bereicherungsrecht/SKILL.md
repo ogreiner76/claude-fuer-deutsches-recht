@@ -13,10 +13,10 @@ In diesem Skill wird **Mandanteninterview Bereicherungsrecht / Mandatsabbruch Em
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `mandanteninterview-bereicherungsrecht` | Nutze diesen Skill, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung. |
+| `mandanteninterview-bereicherungsrecht` | Dieses Fachmodul greift, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung. |
 | `mandatsabbruch-empfehlung-an-fachanwalt-insolvenz` | Komplexitätsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Prüfungstool und erfordert Fachanwalt für Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Prüfraster: Komplexitätssignale, Mandatsgrenzen, Hinweispflicht. Output: Warnhinweis mit Empfehlung Fachanwalt Insolvenzrecht. Abgrenzung: kein inhaltlicher Anspruchsgutachter. |
 | `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` | Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Leistungskarte, Anweisung, Deckungs- und Valutaverhältnis, Doppelmangel, Drittleistung, Insolvenzrisiko und Direktkondiktion. Output: Anspruchspriorisierungsmatrix. |
-| `miet-und-pachtrechtliche-rueckabwicklung` | Nutze diesen Skill, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Nutzungswertersatz und Kautionsausgleich. Abgrenzung: nicht reguläre Mietzinsforderung bei wirksamem Vertrag. |
+| `miet-und-pachtrechtliche-rueckabwicklung` | Dieses Fachmodul greift, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Nutzungswertersatz und Kautionsausgleich. Abgrenzung: nicht reguläre Mietzinsforderung bei wirksamem Vertrag. |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanw
 
 ## 1. `mandanteninterview-bereicherungsrecht`
 
-**Fokus:** Nutze diesen Skill, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung.
+**Fokus:** Dieses Fachmodul greift, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung.
 
 # Mandanteninterview Bereicherungsrecht
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -340,13 +340,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `miet-und-pachtrechtliche-rueckabwicklung`
 
-**Fokus:** Nutze diesen Skill, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Nutzungswertersatz und Kautionsausgleich. Abgrenzung: nicht reguläre Mietzinsforderung bei wirksamem Vertrag.
+**Fokus:** Dieses Fachmodul greift, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Nutzungswertersatz und Kautionsausgleich. Abgrenzung: nicht reguläre Mietzinsforderung bei wirksamem Vertrag.
 
 # Miet- und pachtrechtliche Rückabwicklung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

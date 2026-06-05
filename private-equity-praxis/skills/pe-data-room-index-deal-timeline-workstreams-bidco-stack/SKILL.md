@@ -38,7 +38,7 @@ Für **Data Room Index / Deal Timeline Workstreams / Bidco Stack Holdingstruktur
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill legt fehlende Dokumente, Prioritäten und Q&A-Pfade fest.
 
@@ -79,7 +79,7 @@ Corporate, Finance, Tax, HR, IP, Regulatory, Litigation, ESG, IT/Cyber.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill verhindert, dass Kartell/FDI/Bank-KYC/Notar/CPs zu spät gesehen werden.
 
@@ -120,7 +120,7 @@ SPA, GWB/FKVO/AWV, KYC, Notar/Register, Fonds-Approvals.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf deutsche Rechts- und Steuerinterfaces ohne Scheinsicherheit.
 
@@ -161,7 +161,7 @@ GmbHG, Steuer, KAGB, Finanzierung, Kapitalerhaltung, Insolvenz.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill verhindert, dass Roll-over wirtschaftlich oder steuerlich ungeprüft bleibt.
 

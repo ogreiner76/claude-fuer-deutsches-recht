@@ -7,7 +7,7 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 ## Einsatzlage
 
-Nutze diesen Skill, wenn im Bereich **Fachanwalt Urheber Medienrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+Diese Unterlagenprüfung für **Fachanwalt Urheber Medienrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,5 +42,5 @@ Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachwei
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

@@ -15,7 +15,7 @@ description: "§ 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträg
 
 § 3c Abs. 4 EStG ist die "stille" Norm, die regelmäßig übersehen wird. Sie ordnet an, dass vor der Steuerbefreiung des Sanierungsertrags nach § 3a EStG zunächst alle vorhandenen Verlustvorträge zu verrechnen sind. Erst der danach verbleibende Sanierungsertrag wird steuerfrei. Konsequenz: Der Verlustvortrag wird durch die Sanierung aufgezehrt, auch wenn er für andere Zwecke (Folgejahre) noch von Wert gewesen wäre.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wie hoch ist der Sanierungsertrag (vor Verlustverrechnung)?
 2. Welche Verlustvorträge bestehen — laufender Verlust, Vortrag § 10d EStG, Gewerbeverlust § 10a S. 1 GewStG?

@@ -33,7 +33,7 @@ Für **Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ue
 
 Erfuellungsaufwand wird **getrennt** ausgewiesen nach einmaligem Umstellungsaufwand (z.B. IT-Anpassung, Schulung) und jaehrlich laufendem Aufwand (z.B. Berichtspflicht, monatlicher Lebensbescheid). Die Trennung ist methodisch zwingend und politisch hochrelevant (One-in-one-out bezieht sich primaer auf laufenden Aufwand).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme braucht klare Trennung
 - Ressort wirft einmalig und laufend in eine Summe
@@ -135,7 +135,7 @@ Bausteine:
 
 Leitsatz des NKR: *"Wenn nicht noetig, dann nicht regeln."* Bevor methodische Aufwandsberechnung kommt, prueft der NKR systematisch, **ob die Regelung ueberhaupt erforderlich ist**.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Erster Pruefschritt jeder Stellungnahme
 - Ressort begruendet Vorhaben mit "politischem Wunsch" ohne Sachgrund

@@ -33,7 +33,7 @@ Für **Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilan
 
 Neben Erfuellungsaufwand verlangen GGO und Nachhaltigkeitsstrategie der Bundesregierung eine Pruefung auf Nachhaltigkeitswirkung (SDG, Deutsche Nachhaltigkeitsstrategie) und seit den 2020er Jahren auch auf Klimawirkung. Der NKR prueft die Vollstaendigkeit dieser Darstellung und ihre methodische Konsistenz mit dem Erfuellungsaufwand.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit umwelt- / klimarelevanten Inhalten
 - Vorhaben mit Bezug zu SDG / Nachhaltigkeitsstrategie
@@ -146,7 +146,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 
 Seit Beschluss der Bundesregierung 2015 gilt **One-in-one-out**: jeder neue jaehrliche Erfuellungsaufwand fuer die Wirtschaft muss durch eine Entlastung an anderer Stelle ausgeglichen werden — pro Ressort gefuehrter Saldo. Der NKR prueft die methodische Verbuchung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben verursacht neuen Erfuellungsaufwand fuer die Wirtschaft
 - Vorhaben behauptet Entlastung

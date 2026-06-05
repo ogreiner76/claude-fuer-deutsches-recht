@@ -32,7 +32,7 @@ Für **Public Performance Display 110, Public Records Search Chain, Publication 
 # Public Performance, Display und § 110
 
 ## Fachkern: Public Performance, Display und § 110
-- **Spezialgegenstand:** Public Performance, Display und § 110; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Public Performance, Display und § 110. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -99,7 +99,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Public Records Search and Chain
 
 ## Fachkern: Public Records Search and Chain
-- **Spezialgegenstand:** Public Records Search and Chain; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Public Records Search and Chain. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -167,7 +167,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Publication Status USA, Ausland und Online
 
 ## Fachkern: Publication Status USA, Ausland und Online
-- **Spezialgegenstand:** Publication Status USA, Ausland und Online; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Publication Status USA, Ausland und Online. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -211,7 +211,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 # Recordation § 205 Transfers
 
 ## Fachkern: Recordation § 205 Transfers
-- **Spezialgegenstand:** Recordation § 205 Transfers; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Recordation § 205 Transfers. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

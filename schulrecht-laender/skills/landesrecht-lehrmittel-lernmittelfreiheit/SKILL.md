@@ -38,7 +38,7 @@ Für **Landesrecht Router, Lehrmittel Und Lernmittelfreiheit, Mehrsprachige Elte
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Schulgesetz, Schulordnung, APO, Erlass, Verwaltungsvorschrift, Satzung und Bescheid sauber auseinanderziehen.
 
@@ -105,7 +105,7 @@ Erzeuge bevorzugt: Normenkette und Quellenliste. Am Ende immer drei Zeilen: **Fr
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, Schülerinnen und Schüler, Schulleitung, Schulträger oder Behörde gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -166,7 +166,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Bescheid übersetzen, Rechte erklären, Fristen sichern, keine Schuldzuschreibungen, Gespräch vorbereiten.
 
@@ -233,7 +233,7 @@ Erzeuge bevorzugt: Elternbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dokumentation, Schutzkonzept, Aufsicht, Maßnahmen, Datenschutz, Strafrecht und Schulaufsicht.
 

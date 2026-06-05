@@ -38,7 +38,7 @@ Für **Law Firm Project Control / Document Generator Pack / Translation De En Te
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht PE-Mandate für junge Teams beherrschbar.
 
@@ -79,7 +79,7 @@ BRAO, Mandatsvereinbarung, Budget, Know-how-Schutz, Quellenhygiene.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill fragt zuerst Format und Adressat ab und liefert dann verwertbare Entwürfe.
 
@@ -120,7 +120,7 @@ Dokumentenlogik aus SPA/Fondsvertrag/Kreditvertrag; keine Musterklauseln ohne Up
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Begriffe wie Security Interest, Assignment, Novation, Leakage, Covenant, Default, Preferred Equity, Carry.
 
@@ -161,7 +161,7 @@ Fokus auf Begriffe wie Security Interest, Assignment, Novation, Leakage, Covenan
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill hilft, nicht jeden Punkt juristisch zu gewinnen und wirtschaftlich zu verlieren.
 

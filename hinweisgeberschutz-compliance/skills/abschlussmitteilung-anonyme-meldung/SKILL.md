@@ -31,7 +31,7 @@ Für **Abschlussmitteilung, Anonyme Meldung, Antwortschreiben Hinweisgeber, Anwa
 
 # Abschlussmitteilung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Ergebnisniveau, Vertraulichkeit, keine personenbezogenen Details, nächste Schritte und Ton.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Anonyme Meldung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Annahme, Rückkanal, Plausibilisierung, Missbrauchsschutz und technische Grenzen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Antwortschreiben Hinweisgeber
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Eingang, Rückfragen, Zwischenstand, Abschluss, Ton und Vertraulichkeit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Anwaltliche Meldestelle
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Rolle, Mandatsverhältnis, § 203 StGB, Aktenführung, Rückmeldung und Unabhängigkeit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

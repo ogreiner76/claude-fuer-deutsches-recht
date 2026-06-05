@@ -31,7 +31,7 @@ Für **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz B
 # Soldatengesetz – Rechtsstellung und Grundpflichten
 
 ## Fachkern: Soldatengesetz – Rechtsstellung und Grundpflichten
-- **Spezialgegenstand:** Soldatengesetz – Rechtsstellung und Grundpflichten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Soldatengesetz – Rechtsstellung und Grundpflichten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz B
 
 Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverhältnis des Soldaten zum Bund. Es definiert Status, Grundpflichten und Grundrechte des Soldaten. Anders als beim Beamten besteht keine Verwaltungsgerichtsbarkeit nach VwGO als Regelweg, sondern primär WBO-Beschwerdeweg und Truppendienstgericht. Der Skill ordnet ein, welche Pflicht aus dem SG einschlägig ist und welcher Rechtsweg eröffnet ist.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Status des Mandanten: Berufssoldat, Soldat auf Zeit (SaZ), freiwillig Wehrdienstleistender (FWDL), Reservist im Wehrdienstverhältnis?
 - Welche Pflicht ist im Raum (§§ 7–17a SG)? Treuepflicht, Gehorsam, Wahrheitspflicht, Kameradschaft, Achtungs- und Vertrauenswürdigkeit, Mäßigung?
@@ -131,7 +131,7 @@ Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverh�
 # Soldatenversorgungsgesetz – Beschädigtenversorgung
 
 ## Fachkern: Soldatenversorgungsgesetz – Beschädigtenversorgung
-- **Spezialgegenstand:** Soldatenversorgungsgesetz – Beschädigtenversorgung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Soldatenversorgungsgesetz – Beschädigtenversorgung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -141,7 +141,7 @@ Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverh�
 
 Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenversorgung, Berufsförderung und ergänzende Versorgung. Eine Wehrdienstbeschädigung ist eine gesundheitliche Schädigung, die durch eine Wehrdienstverrichtung, durch einen während der Ausübung des Wehrdienstes erlittenen Unfall oder durch die dem Wehrdienst eigentümlichen Verhältnisse verursacht worden ist (§ 81 SVG). Der Skill ordnet Anspruchsgrundlagen, Verfahren und Bescheidstrategie.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche gesundheitliche Schädigung? Diagnose, Datum der Diagnose, behandelnde Ärzte.
 - Welche Wehrdienstverrichtung war ursächlich? Datum, Ort, Zeugen, Einsatzbefehl.
@@ -231,7 +231,7 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter
 
 ## Fachkern: Status klären: Soldat, Beamter oder Zivilbeschäftigter
-- **Spezialgegenstand:** Status klären: Soldat, Beamter oder Zivilbeschäftigter; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Status klären: Soldat, Beamter oder Zivilbeschäftigter. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -241,7 +241,7 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 
 Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Rechtsregimen: Soldaten (SG, WBO, WDO), Beamte der Bundeswehrverwaltung (BBG, BDG, BLV) und Tarifbeschäftigte (TVöD-Bund, BPersVG). Verfahrenswege, Disziplinarrecht, Versorgung und Mitbestimmung unterscheiden sich grundsätzlich. Der Skill ordnet den Mandantenstatus zu, klärt parallel laufende Rechtswege und schützt vor Falschadressierung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Berufsbezeichnung steht im aktuellen Vertrag/Bescheid?
 - Wann erfolgten Ernennung oder Einstellung?

@@ -31,7 +31,7 @@ Für **Untersuchungsbericht, Untersuchungsplan, Us Sox Doddfrank Abgrenzung, Ver
 
 # Untersuchungsbericht
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sachverhalt, Beweiswürdigung, Grenzen, Maßnahmen, offene Punkte und Privilege-Versionen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Untersuchungsplan
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Wer, was, wann, Datenquellen, Interviews, Reihenfolge, Risiken und Abschluss.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Us Sox Doddfrank Abgrenzung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 US-Listed, Audit Committee, SEC, Retaliation, Privilege und deutsches Arbeitsrecht.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Vertraulichkeit Identitaet
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Need-to-know, Zugriff, technische Rechte, Ausnahmen, Dokumentation und Sanktionen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

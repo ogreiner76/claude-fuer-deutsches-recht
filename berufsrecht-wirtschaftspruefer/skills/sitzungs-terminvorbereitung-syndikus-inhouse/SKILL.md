@@ -40,7 +40,7 @@ Für **Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fre
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Sitzungs- und Terminvorbereitung** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor
 
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Syndikus oder Inhouse** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Syndikus oder Inhouse im Berufsrecht für Wirtschaftsprüfer
 
@@ -140,7 +140,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Treuhand oder Fremdgeld** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Treuhand oder Fremdgeld im Berufsrecht für Wirtschaftsprüfer
 
@@ -190,7 +190,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Verschwiegenheit und Geheimnisschutz** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff
 

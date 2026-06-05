@@ -153,7 +153,7 @@ Checkliste:
 - Keine Aktenzeichen aus Modellwissen ohne Verifikation.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Prüfung.
 - Keine Garantie für Fehlerfreiheit; menschliche Kontrolle bleibt zwingend.
 
@@ -256,7 +256,7 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 - Nationales Recht via [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
 - Keine Aktenzeichen aus Modellwissen ohne Verifikation.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine umfassende Beratung zu internationalem Arbeitsrecht in Drittstaaten (USA, Großbritannien etc.).
 - Keine Prüfung von Sozialversicherungs-Entsenderecht (A1-Bescheinigung, Entsende-SV-Koordinierung).
 
@@ -382,6 +382,6 @@ Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bun
 - Vernetzung: [dejure.org](https://dejure.org)
 - Keine Aktenzeichen aus Modellwissen ohne Verifikation.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Live-Prüfung von Rechtsprechungsdatenbanken; Prüfung erfolgt durch den Anwalt.
 - Keine Verfügbarkeitsgarantie für ältere oder unveröffentlichte Entscheidungen.

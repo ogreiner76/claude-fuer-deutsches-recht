@@ -12,7 +12,7 @@ description: "Finaler Qualitätscheck für schulrechtliche Ausgaben."
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Prüft Bundesland, Norm, Frist, Verfahrensstand, Belege und Ton gegenüber Schule/Behörde.
 

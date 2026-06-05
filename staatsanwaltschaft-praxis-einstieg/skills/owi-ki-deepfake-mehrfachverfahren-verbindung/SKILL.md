@@ -41,7 +41,7 @@ Für **Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Tren
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: KI- und Deepfake-Beweise im Strafverfahren** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Authentizität, Sachverständige, Bild-/Tonforensik, Beweiswert und Täuschungsrisiko
 
@@ -90,7 +90,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Mehrfachverfahren: Verbindung, Trennung und Übersicht** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Tatmehrheit, Beschuldigtenmehrheit, Aktenzeichen, Zuständigkeit und Prozessökonomie
 
@@ -139,7 +139,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -197,7 +197,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -255,7 +255,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 

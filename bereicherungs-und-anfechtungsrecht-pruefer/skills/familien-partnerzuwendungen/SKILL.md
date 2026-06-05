@@ -13,9 +13,9 @@ In diesem Skill wird **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche 
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `familien-und-partnerzuwendungen` | Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB. |
-| `gesellschaftsrechtliche-zuwendungen` | Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung. |
-| `gesetzesverstoss-und-817-satz-2-vertiefung` | Nutze diesen Skill, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld). |
+| `familien-und-partnerzuwendungen` | Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB. |
+| `gesellschaftsrechtliche-zuwendungen` | Dieses Fachmodul greift, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung. |
+| `gesetzesverstoss-und-817-satz-2-vertiefung` | Dieses Fachmodul greift, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld). |
 | `inso-bargeschaeft-142` | Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter Unlauterkeit. Output: Verteidigungs- und Risikoanalyse ohne pauschale 30-Tage-Regel. |
 
 ## Arbeitsweg
@@ -27,13 +27,13 @@ Für **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendungen, Ges
 
 ## 1. `familien-und-partnerzuwendungen`
 
-**Fokus:** Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB.
+**Fokus:** Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB.
 
 # Familien- und Partnerzuwendungen
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -101,13 +101,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `gesellschaftsrechtliche-zuwendungen`
 
-**Fokus:** Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung.
+**Fokus:** Dieses Fachmodul greift, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung.
 
 # Gesellschaftsrechtliche Zuwendungen
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -175,13 +175,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `gesetzesverstoss-und-817-satz-2-vertiefung`
 
-**Fokus:** Nutze diesen Skill, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld).
+**Fokus:** Dieses Fachmodul greift, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld).
 
 # Gesetzesverstoß und § 817 Satz 2 vertieft
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

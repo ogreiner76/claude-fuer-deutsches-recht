@@ -14,7 +14,7 @@ description: "Red Team Mandatsbeziehung: steuert Ergebnis, Dashboard, Rechnung u
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Red Team Mandatsbeziehung** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Ergebnis, Dashboard, Rechnung und Beziehung auf Missverständnisse, Halluzinationen und Risiken prüfen
 

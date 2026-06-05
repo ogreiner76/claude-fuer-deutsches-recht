@@ -229,7 +229,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## Einsatz
 
-Nutze diesen Skill, wenn eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
+Dieses Fachmodul greift, wenn eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
 
 ## Prüfroutine
 

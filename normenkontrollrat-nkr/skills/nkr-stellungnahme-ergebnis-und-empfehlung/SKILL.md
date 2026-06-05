@@ -9,7 +9,7 @@ description: "Schreibt den Schlussteil einer NKR-Stellungnahme. Drei Bausteine: 
 
 Der Schlussteil ist die wichtigste praktische Botschaft der Stellungnahme: was empfiehlt der NKR konkret, und welches Gesamtergebnis stellt er fest? Eingehalten wird ein festes Vokabular mit klaren Eskalationsstufen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Drafting Schlussteil
 - Politisch sensible Stellungnahme

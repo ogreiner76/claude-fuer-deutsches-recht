@@ -15,7 +15,7 @@ description: "Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a
 
 Diese Checkliste begleitet die Sanierungs-Begleitung des Mandats von M-12 bis M-0 (siehe Zeitachsen-Skill). Sie ist die operative Übersetzung der Frühwarnung in konkrete Dokumente, Beweismittel und Beraterabstimmungen. Ziel ist, am Stichtag der Antragstellung nach § 3a Abs. 4 EStG eine vollständige, auditfeste Akte zu haben.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Stehen Sie zu Beginn (M-12) oder mitten im Verfahren?
 2. Ist das Sanierungskonzept bereits in Arbeit oder noch zu beauftragen?

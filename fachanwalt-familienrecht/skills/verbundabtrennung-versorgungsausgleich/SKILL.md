@@ -42,14 +42,14 @@ Für **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsaus
 
 
 ## Fachkern: Verbundabtrennung Versorgungsausgleich
-- **Spezialgegenstand:** Verbundabtrennung Versorgungsausgleich; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbundabtrennung Versorgungsausgleich. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Fachanwalt Familienrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Verbundabtrennung Versorgungsausgleich** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -96,14 +96,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Fachkern: Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG
-- **Spezialgegenstand:** Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Fachanwalt Familienrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -150,7 +150,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Fachkern: Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
-- **Spezialgegenstand:** Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -163,7 +163,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Trennungs- und Scheidungsfolgenvereinbarung, Umgangs-Mediation.
@@ -330,7 +330,7 @@ Klassische Stolperfalle in Familien-, Kindschafts- und Versorgungsausgleichsrech
 
 
 ## Fachkern: Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.
-- **Spezialgegenstand:** Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -368,14 +368,14 @@ VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung. Rechtsprechung wird nur
 
 
 ## Fachkern: Versorgungsausgleich und Versorgungsausgleichskasse
-- **Spezialgegenstand:** Versorgungsausgleich und Versorgungsausgleichskasse; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Versorgungsausgleich und Versorgungsausgleichskasse. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Fachanwalt Familienrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Versorgungsausgleich und Versorgungsausgleichskasse** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 

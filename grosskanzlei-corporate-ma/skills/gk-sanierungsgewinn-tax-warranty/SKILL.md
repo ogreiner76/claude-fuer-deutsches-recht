@@ -24,7 +24,7 @@ In Transaktionen mit Sanierungsbezug ist die klassische Tax-Indemnity-Architektu
 
 Dieser Skill liefert die Architektur, mit der diese drei Risikofelder im SPA korrekt geregelt werden.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - SPA für eine Zielgesellschaft, deren Sanierungsmaßnahmen unmittelbar vor, zum oder kurz nach Signing wirksam werden.
 - Carve-out aus einem Konzern mit Forderungsverzicht der Muttergesellschaft.

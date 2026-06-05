@@ -9,7 +9,7 @@ description: "Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach Art. 35
 
 Dieser Skill fuehrt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der Pflichtliste der zustaendigen Aufsichtsbehoerde nach Art. 35 Abs. 4 DSGVO (Blacklist) und mit der Whitelist nach Art. 35 Abs. 5 DSGVO durch. Ergebnis ist ein dokumentierter Listenabgleich, der die Erforderlichkeit oder Entbehrlichkeit einer DSFA stuetzt.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - In der DSFA-Trigger-Pruefung (Schwellwertanalyse)
 - Bei einer Aufsichtsanfrage zur Begruendung einer durchgefuehrten oder unterlassenen DSFA

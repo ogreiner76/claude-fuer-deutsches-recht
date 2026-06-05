@@ -31,7 +31,7 @@ Für **Cloud Saas Einfuehrung Slack, Company Mobile Mdm, Cra Produkte Digitale E
 
 # Cloud Saas Einfuehrung Slack
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Datenklassifikation, Drittlandtransfer, Adminrechte, Aufbewahrung, eDiscovery, Betriebsrat und Shadow-IT.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Company Mobile MDM
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 MDM-Profil, Container, Remote Wipe, private Nutzung, Zertifikate, Updates, Lost Device und Betriebsrat.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # CRA Produkte Digitale Elemente
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Herstellerrollen, SBOM, Vulnerability Handling, CE, Updates und Kundenpflichten im Vertrag.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Cyberversicherung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Obliegenheiten, Vorabkontrollen, Incidentmeldung, Forensiker, Lösegeld, Kriegsausschluss und Deckungslücken.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

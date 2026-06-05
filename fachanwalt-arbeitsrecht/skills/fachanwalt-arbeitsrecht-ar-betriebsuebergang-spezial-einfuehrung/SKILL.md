@@ -139,7 +139,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen explizit kennzeichnen; keine erfundenen EuGH- oder BAG-Aktenzeichen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für gesellschaftsrechtliche Due-Diligence-Prüfung.
 - Keine Aussage über steuerliche Implikationen des Asset-Deals.
 - Keine individuelle Prognose zum Widerspruchserfolg ohne konkrete Tatsachenbasis.
@@ -249,7 +249,7 @@ Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klass
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate.
 - Annahmen explizit markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Tiefenprüfung; dieser Skill ist der Eingangsrouter, nicht die Fachbearbeitung.
 - Keine Festlegung des Mandanten ohne ausdrückliche Entscheidung.
 
@@ -355,7 +355,7 @@ Wer als Werkvertrag oder Dienstvertrag bezeichnet ist, aber tatsächlich in die 
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine steuerliche Beratung zur Gestaltung von Werkverträgen.
 - Keine individuelle Erlaubnisbeantragung.
 - Keine Prognose über behördliche Verfolgung von OWi-Tatbeständen.

@@ -31,7 +31,7 @@ Für **Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehalt
 # Versetzung, Kommandierung und Abordnung
 
 ## Fachkern: Versetzung, Kommandierung und Abordnung
-- **Spezialgegenstand:** Versetzung, Kommandierung und Abordnung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Versetzung, Kommandierung und Abordnung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -54,7 +54,7 @@ Der Soldat hat Rechtsschutz (WBO), Versetzungen müssen dienstlich notwendig sei
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -143,7 +143,7 @@ Vor Ausgabe prüfen:
 # Vorläufige Dienstenthebung und Einbehaltung von Bezügen
 
 ## Fachkern: Vorläufige Dienstenthebung und Einbehaltung von Bezügen
-- **Spezialgegenstand:** Vorläufige Dienstenthebung und Einbehaltung von Bezügen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vorläufige Dienstenthebung und Einbehaltung von Bezügen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -165,7 +165,7 @@ Sie darf nur bei schwerwiegenden Fällen angeordnet werden und ist sofort mit WB
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -254,7 +254,7 @@ Vor Ausgabe prüfen:
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
 
 ## Fachkern: Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
-- **Spezialgegenstand:** Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -264,7 +264,7 @@ Vor Ausgabe prüfen:
 
 Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (durch den Disziplinarvorgesetzten verhängt) und gerichtliche Disziplinarmaßnahmen (durch das Truppendienstgericht). Einfache Maßnahmen reichen von Verweis bis Disziplinararrest. Der Skill ordnet die Schwere ein, prüft formelle Voraussetzungen und führt durch Anhörung und Beschwerdeweg.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welches Dienstvergehen wird vorgeworfen (konkrete Norm aus SG)?
 - Welche Maßnahme steht im Raum (Verweis, strenger Verweis, Disziplinarbuße, Ausgangsbeschränkung, Disziplinararrest)?

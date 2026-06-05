@@ -103,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill bei Heizungsausfall, Druckverlust, Wasserschaden, Feuchtigkeit, Geruch aus Technikräumen, Frostschäden oder streitiger Kostenverteilung.
+Dieses Fachmodul bei Heizungsausfall, Druckverlust, Wasserschaden, Feuchtigkeit, Geruch aus Technikräumen, Frostschäden oder streitiger Kostenverteilung.
 
 ## Sofortprüfung
 
@@ -205,7 +205,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

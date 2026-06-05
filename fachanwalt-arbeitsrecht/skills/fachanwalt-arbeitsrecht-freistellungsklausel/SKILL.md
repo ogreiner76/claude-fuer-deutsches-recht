@@ -338,7 +338,7 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 - Keine modellwissensbasierten Klauselaussagen ohne Normgrundlage.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Klauselgestaltung ohne Mandantenkenntnis.
 - Keine Prognose über Wirksamkeit jeder konkreten Klausel ohne Vorlage des Wortlauts.
 
@@ -454,7 +454,7 @@ Mit Fünftelregelung:
 - Steuerliche Aussagen als Hinweise kennzeichnen; für Steuerbescheide und -erklärungen Steuerberater empfehlen.
 - Annahmen explizit markieren; keine erfundenen BA-Dienstanweisungen oder Praxisformeln ohne Quellenbeleg.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung oder steuerliche Beratung.
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
 - Keine Spekulation über individuelle BA-Entscheidungen zur Sperrzeit.

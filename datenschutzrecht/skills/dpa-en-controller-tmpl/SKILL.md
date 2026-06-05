@@ -9,7 +9,7 @@ description: "English language Controller-to-Controller data sharing agreement t
 
 Template for a controller-to-controller (C2C) data sharing agreement where two independent controllers exchange personal data without becoming joint controllers under Article 26 GDPR. Purpose (DE): Mustervorlage fuer eine englischsprachige Datentransfer-Vereinbarung zwischen zwei getrennten Verantwortlichen ohne gemeinsame Verantwortlichkeit.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Two organisations transfer personal data and each pursues its own purpose with its own lawful basis.
 - The relationship is neither processing on behalf (Article 28 GDPR) nor joint controllership (Article 26 GDPR).

@@ -9,7 +9,7 @@ description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die N
 
 Neben Erfuellungsaufwand verlangen GGO und Nachhaltigkeitsstrategie der Bundesregierung eine Pruefung auf Nachhaltigkeitswirkung (SDG, Deutsche Nachhaltigkeitsstrategie) und seit den 2020er Jahren auch auf Klimawirkung. Der NKR prueft die Vollstaendigkeit dieser Darstellung und ihre methodische Konsistenz mit dem Erfuellungsaufwand.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit umwelt- / klimarelevanten Inhalten
 - Vorhaben mit Bezug zu SDG / Nachhaltigkeitsstrategie

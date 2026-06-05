@@ -16,7 +16,7 @@ In diesem Skill wird **Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereich
 | `anfg-fristen-und-anfechtungszeitraum` | Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungszeiträumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO. |
 | `verjaehrung-bereicherung-anfechtung-fristen` | Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Anfechtungszeiträume §§ 130-135 InsO und keine pauschale Zehn-Jahres-Grenze ab Rechtshandlung. |
 | `konkurrenz-bereicherung-vertraglich-deliktisch` | Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klären. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitätsfragen, bereicherungsrechtliche Lückenfüllung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill). |
-| `nichtiger-vertrag-134-138-und-rueckforderung` | Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB. |
+| `nichtiger-vertrag-134-138-und-rueckforderung` | Dieses Fachmodul greift, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB. |
 
 ## Arbeitsweg
 
@@ -264,13 +264,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `nichtiger-vertrag-134-138-und-rueckforderung`
 
-**Fokus:** Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB.
+**Fokus:** Dieses Fachmodul greift, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB.
 
 # Nichtiger Vertrag nach §§ 134 und 138 BGB
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

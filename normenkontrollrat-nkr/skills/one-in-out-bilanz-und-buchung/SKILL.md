@@ -9,7 +9,7 @@ description: "One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefele
 
 Seit Beschluss der Bundesregierung 2015 gilt **One-in-one-out**: jeder neue jaehrliche Erfuellungsaufwand fuer die Wirtschaft muss durch eine Entlastung an anderer Stelle ausgeglichen werden — pro Ressort gefuehrter Saldo. Der NKR prueft die methodische Verbuchung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben verursacht neuen Erfuellungsaufwand fuer die Wirtschaft
 - Vorhaben behauptet Entlastung

@@ -9,7 +9,7 @@ description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liqui
 
 Die Forschungszulage ist nach § 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. In Verlustjahren und Start-up-Phasen heißt das: Liquidität, obwohl keine Steuer zu zahlen ist. Genau dafür wurde die Erstattungslogik geschaffen. Dieser Skill behandelt die Krise und die Insolvenz mit allen Nebenfolgen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Verlustjahren mit hohen FuE-Personalkosten.
 - Bei drohender Zahlungsunfähigkeit (§ 18 InsO) oder Überschuldung (§ 19 InsO).

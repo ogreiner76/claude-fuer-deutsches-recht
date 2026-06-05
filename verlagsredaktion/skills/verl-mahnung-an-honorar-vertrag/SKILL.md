@@ -36,7 +36,7 @@ Für **Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Ve
 
 Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach Retoure-Bereinigung), nicht abgegoltener Vorschuss bei Manuskript-Verzug, Rueckforderung wegen mangelhafter Werkleistung, doppelte Auszahlung. Der Skill beschreibt das Stufenmodell der Mahnung, die Anforderungen an einen Schuldnerverzug, die Verjaehrungspruefung und die gerichtliche Geltendmachung (Mahnbescheid, Klage).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Forderung in welcher Hoehe (EUR, Faelligkeit, Rechtsgrund)?
 2. Gibt es eine schriftliche Anerkennung (Vertrag, Abrechnung)?
@@ -241,7 +241,7 @@ Redaktionelle Vorprüfung, keine Vertragsrechtsberatung aus dem Stand.
 
 Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentarvertrag, Herausgebervertrag, Loseblattvertrag. Der Skill systematisiert die Templates, listet die haeufigsten Verhandlungsabweichungen und prueft jede Abweichung gegen die Pflicht zur angemessenen Verguetung (UrhG § 32) sowie typische Streitpunkte aus der Vertragspraxis.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Werktyp soll vertraglich abgebildet werden (Aufsatz, Buch, Kommentar, Festschrift, Loseblatt, Online)?
 2. Einzelautorin oder Mehrautoren / Herausgeberwerk?
@@ -391,7 +391,7 @@ Justiziariat einbinden? [ja/nein]
 
 Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beitraege koennen Ansprueche Dritter (Abmahnung, Schadensersatz, Unterlassung) den Verlag treffen. Vertraglich wird in der Regel eine Haftungsfreistellung mit dem Autor vereinbart: der Autor versichert die Rechtekonformitaet und stellt den Verlag von berechtigten Ansprueche Dritter frei. Der Skill beschreibt Reichweite, AGB-Schranken und Praxis bei Eintritt des Versicherungsfalls.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Werk und welche Rechtegrundlage (Zitate, Bilder, Daten, Persoenlichkeitsrecht)?
 2. Welcher Vertragstyp (Aufsatz, Buch, Kommentar, Webinar)?

@@ -187,7 +187,7 @@ Das Plugin ist ein vollstaendiges Big-Law-Corporate/M&A-Arbeitssystem fuer Partn
 
 Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narratives, GoBD-konforme E-Rechnung, KI-Governance im Transaktionsmandat und einen freundlichen Copilot-Modus fuer Junior-Associates. Zielgruppe sind Corporate/M&A-Kanzleien aller Groessen sowie Inhouse-M&A-Teams.
 
-## Wann brauchen Sie diesen Skill?
+## Wann dieses Modul hilft?
 
 - Kanzlei nimmt neues M&A-Mandat an und muss Deal-Akte anlegen, Interessenkonflikte pruefen und Staffing planen.
 - Anwalt begleitet Sell-side- oder Buy-side-Transaktion und muss Due-Diligence-Prozess strukturieren und berichten.

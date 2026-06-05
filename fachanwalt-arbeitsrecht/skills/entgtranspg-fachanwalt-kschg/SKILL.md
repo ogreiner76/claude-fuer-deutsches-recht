@@ -126,7 +126,7 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 - EU-RL 2023/970: [eur-lex.europa.eu](https://eur-lex.europa.eu); Umsetzungsstand BMAS live prüfen.
 - Keine modellwissensbasierten AGG-Fallkonstellationen ohne Normgrundlage.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Entgeltdiskriminierungsanalyse ohne Vorlage von Vergütungsdaten.
 - Keine abschließende Prognose über Klagerfolg ohne vollständige Sachverhaltskenntnis.
 
@@ -251,7 +251,7 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 - Keine modellwissensbasierten Kostenangaben ohne RVG-Normprüfung.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Kostenberechnung ohne vollständige Mandantsdaten.
 - Keine Steuerberatung zur steuerlichen Behandlung von Abfindungen.
 
@@ -381,6 +381,6 @@ Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 - Keine modellwissensbasierten Aussagen ohne Normgrundlage oder verifizierten Quellenbeleg.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Kündigungsschutzprüfung ohne vollständige Dokumentenvorlage.
 - Keine garantierte Prognose zum Prozessausgang.

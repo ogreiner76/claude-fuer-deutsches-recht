@@ -31,7 +31,7 @@ Für **Schriftsatz Stellungnahme Verteidigung, Schule Elternchat** zuerst das tr
 
 ## Einsatz
 
-Nutze diesen Skill für:
+Dieses Fachmodul für:
 
 - Antwort auf Abmahnung.
 - Stellungnahme gegenüber Polizei/Staatsanwaltschaft nach Verteidigungsentscheidung.

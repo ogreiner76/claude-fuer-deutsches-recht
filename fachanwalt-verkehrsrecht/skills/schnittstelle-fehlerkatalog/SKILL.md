@@ -7,7 +7,7 @@ description: "Schnittstelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zustän
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Fachanwalt Verkehrsrecht** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Verkehrsrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

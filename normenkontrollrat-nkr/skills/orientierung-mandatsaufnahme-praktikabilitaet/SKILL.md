@@ -35,7 +35,7 @@ Allgemein-Skill als Einstieg in jedes NKR-Pruefmandat. Er nimmt einen unvorberei
 
 Ziel: in zwei Minuten wissen, welche der 36 anderen Skills im Plugin als naechstes zu greifen sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Anwendungsfall: Sekretariat hat einen Vorgang weitergeleitet, der NKR-Pruefung erfordert.
 
@@ -129,7 +129,7 @@ Erst-Antwort an Sekretariat (intern):
 
 Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behoerden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prueft Praktikabilitaet als Standardelement.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit hohem Verwaltungsaufwand
 - Vorhaben mit IT-Voraussetzungen

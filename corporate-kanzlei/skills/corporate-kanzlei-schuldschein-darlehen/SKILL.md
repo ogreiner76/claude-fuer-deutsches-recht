@@ -11,7 +11,7 @@ description: "Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und S
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Schuldschein ist kein dekoratives Treasury-Label, sondern ein übertragbarer Finanzierungsbaustein mit Dokumenten-, Vertraulichkeits- und Sicherheitenlogik.
 

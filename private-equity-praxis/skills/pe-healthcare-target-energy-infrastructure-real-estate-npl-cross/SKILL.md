@@ -38,7 +38,7 @@ Für **Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Borde
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erkennt früh, wenn PE-Struktur und Gesundheitsrecht reiben.
 
@@ -79,7 +79,7 @@ SGB V, KHG, ApoG, Berufsrecht, Datenschutz, FDI bei kritischer Infrastruktur.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Genehmigungen, Netzanschluss, Förderrecht, BNetzA und Projektfinanzierung.
 
@@ -120,7 +120,7 @@ EnWG, EEG, KWKG, GEG, BImSchG, BNetzA, Konzessionsrecht.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill bearbeitet Kreditkauf, Grundbuch und Enforcement.
 
@@ -161,7 +161,7 @@ KrZwMG, BGB, ZVG, DSGVO, Grundbuch, Sicherheitenzweck.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Vertrieb, Tax, KYC, Sanktionen, Side Letter und Rechtswahl.
 

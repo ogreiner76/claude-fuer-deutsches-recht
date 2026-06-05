@@ -15,7 +15,7 @@ description: "BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolg
 
 Das BMF-Schreiben vom 27.04.2017 ist die Verwaltungsanweisung, die den früheren Sanierungserlass (BMF 27.03.2003) nach der Entscheidung des Großen Senats des BFH (Modellwissen — vor Verwendung Quelle prüfen) ersetzt hat. Es konkretisiert, wie die Finanzverwaltung die vier Voraussetzungen des § 3a EStG (gesetzliche Verankerung durch Wachstumschancengesetz, BGBl. I 2024 — Stand prüfen) prüft und welche Nachweise im Antragsverfahren erforderlich sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Bearbeitungsstand des BMF-Schreibens ist im konkreten Mandat aktuell?
 2. Gibt es Übergangsregelungen für Altfälle (Verzichte vor Inkrafttreten der gesetzlichen Verankerung)?

@@ -7,7 +7,7 @@ description: "Bei prämien und Leistungen im Versicherungsverhältnis zurückgef
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

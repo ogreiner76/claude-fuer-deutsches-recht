@@ -14,7 +14,7 @@ description: "Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechun
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 

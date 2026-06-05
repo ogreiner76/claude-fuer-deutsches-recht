@@ -14,8 +14,8 @@ In diesem Skill wird **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetre
 | Prüffeld | Fokus |
 | --- | --- |
 | `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` | Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB. |
-| `abgetretene-forderung-und-zession` | Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO. |
-| `anfechtung-142-und-rueckabwicklung` | Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB. |
+| `abgetretene-forderung-und-zession` | Dieses Fachmodul greift, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO. |
+| `anfechtung-142-und-rueckabwicklung` | Dieses Fachmodul greift, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB. |
 | `anfg-anfechtungsklage-prozessuales` | Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung, Duldungs- vs. Wertersatzantrag, sachliche Zuständigkeit AG/LG, örtliche Zuständigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter. |
 
 ## Arbeitsweg
@@ -132,13 +132,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `abgetretene-forderung-und-zession`
 
-**Fokus:** Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
+**Fokus:** Dieses Fachmodul greift, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
 
 # Abgetretene Forderung und Zession
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -221,13 +221,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `anfechtung-142-und-rueckabwicklung`
 
-**Fokus:** Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB.
+**Fokus:** Dieses Fachmodul greift, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB.
 
 # Anfechtung nach § 142 BGB und Rückabwicklung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

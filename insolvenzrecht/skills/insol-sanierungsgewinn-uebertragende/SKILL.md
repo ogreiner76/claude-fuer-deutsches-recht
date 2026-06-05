@@ -46,7 +46,7 @@ Bei der uebertragenden Sanierung wird der Geschaeftsbetrieb der Schuldnerin an e
 
 Dieser Skill grenzt die Asset-Deal-Variante vom Plan-Verzicht ab und zeigt, wo das Sanierungsgewinn-Regime trotzdem indirekt mitspielen kann. Adressat: IV, Plan-Anwalt, StB, Investor-Anwalt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan oder Verfahren sieht eine uebertragende Sanierung vor.
 - Auffanggesellschaft soll Vermoegenswerte aus der Insolvenz kaufen.
@@ -202,7 +202,7 @@ Auch wenn Paragraph 3a EStG nicht greift oder ein Restbetrag steuerbar bleibt, i
 
 Diese Werkzeuge sind in der Sanierungspraxis wichtig, weil sie auch dann greifen koennen, wenn Paragraph 3a EStG-Voraussetzungen nicht zweifelsfrei erfuellt sind. Adressat: StB, IV, Sachwalter, Plan-Anwalt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan-Modellrechnung zeigt einen Restsanierungsertrag, der nicht zweifelsfrei unter Paragraph 3a EStG faellt.
 - Finanzamt lehnt Anwendung Paragraph 3a EStG ab.
@@ -379,7 +379,7 @@ Paragraph 3a Absatz 3 EStG ordnet eine zwingende Verrechnungsreihenfolge zwische
 
 Dieser Skill macht eine **Schritt-fuer-Schritt-Modellrechnung**, die der Steuerberater des Schuldners gemeinsam mit dem Insolvenzverwalter aufsetzt. Ziel: vor Plan-Einreichung steht eine belastbare Zahl im Raum.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan ist in Vorbereitung, Forderungsverzicht der Glaeubiger ist der Groesse nach umrissen.
 - Insolvenzverwalter oder Sachwalter braucht eine Zahl, die er der Glaeubigerversammlung vorlegen kann.
@@ -520,7 +520,7 @@ Der Forderungsverzicht ist die typische Sanierungsmassnahme im Insolvenzplan und
 
 Dieser Skill ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan steht vor Vollzug; Buchhaltung des Schuldners muss die Bilanzfolgen vorbereiten.
 - StB muss die Steuerbilanz fuer das Sanierungsjahr aufstellen.

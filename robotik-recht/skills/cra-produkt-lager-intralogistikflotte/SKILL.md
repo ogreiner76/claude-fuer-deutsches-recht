@@ -41,7 +41,7 @@ Für **Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte** zuer
 
 Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pflicht für "Produkte mit digitalen Elementen" ein. Roboter mit eingebetteter Software, Steuerungs-Apps, Cloud-Komponenten und OTA-Updates fallen darunter und müssen Secure-by-Design entwickelt, Schwachstellen koordiniert behoben und Vorfälle gemeldet werden. Die Vorschriften gelten gestaffelt: Schwachstellen- und Vorfallmeldepflichten ab 11.09.2026, die Hauptpflichten ab 11.12.2027 (Art. 71 CRA). Dieser Skill prüft Robotikprodukte gegen die CRA-Anforderungen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Importeur, Distributor, Notified Body (bei "wichtigen" Produkten Klasse I/II), CISO, Marktüberwachung.
 2. **Robotertyp:** Industrie-/Cobot, AMR, Servicerobotik, IoT-Komponente; Funktion als "wichtige" Klasse?

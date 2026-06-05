@@ -7,7 +7,7 @@ description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und
 
 ## Einsatzlage
 
-Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+Diese Output-Weiche für **Barrierefreiheit Web Checker** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,5 +42,5 @@ Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; b
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

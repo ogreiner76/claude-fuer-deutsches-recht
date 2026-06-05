@@ -72,7 +72,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** `skill-name` — [warum dieser Arbeitsgang hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -295,7 +295,7 @@ Skill gehört zu `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skills: `faev
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine eigenständige Schutzrechts-Prüfung ohne Registerauszug.
 - Keine Bewertung nicht belegter Verletzungshandlungen.
@@ -406,6 +406,6 @@ Anschluss-Skills: `spezial-markenanmeldung-compliance-dokumentation-und-akte`, `
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Fristenberechnung ohne Kenntnis aller konkreten Anmeldedaten.
 - Kein Ersatz für vollständige Mandantenberatung und laufende Fristenüberwachung.

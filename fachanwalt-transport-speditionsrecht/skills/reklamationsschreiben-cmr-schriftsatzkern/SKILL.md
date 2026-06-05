@@ -319,7 +319,7 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 # Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Transport-, Speditions- und Logistikrecht erstellt werden, typischerweise: Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

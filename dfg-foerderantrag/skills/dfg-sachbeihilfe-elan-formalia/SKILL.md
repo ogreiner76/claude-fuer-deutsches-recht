@@ -11,7 +11,7 @@ Die Sachbeihilfe ist das Brot-und-Butter-Programm der DFG. Dieser Skill macht de
 
 **Alte-Hasen-Faustregel:** Drei Viertel aller formalen Mängelmeldungen entstehen in den letzten 48 Stunden vor Einreichung. Wer die letzten zwei Werktage nur noch für PDF-Konvertierung, Anlagen-Sortierung und Vordruck-Aktualität reserviert, hat schon halb gewonnen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Dieser Skill kommt zum Einsatz, wenn die Programmschiene Sachbeihilfe feststeht, der inhaltliche Antrag (Projektbeschreibung) Reife hat oder gerade entsteht, und der formale Einreichungsweg gebaut werden muss.
 

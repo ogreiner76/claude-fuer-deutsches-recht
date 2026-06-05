@@ -9,7 +9,7 @@ description: "Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urte
 
 Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2020) ein und erlaeutert, warum daraus die Pflicht zur Durchfuehrung eines Transfer Impact Assessment (TIA) folgt. Er ist der Einstieg in das TIA-Toolset im Datenschutzrecht-Plugin.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant fragt: "Warum brauchen wir ein TIA?"
 - Aufsichtsbehoerde verlangt Nachweis, dass die Schrems-II-Folgen geprueft wurden.

@@ -33,7 +33,7 @@ Für **Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Gold
 
 EU-Rechtsakte sind ein hoher Anteil des deutschen Rechtssetzungsaufkommens. Der NKR prueft zwar nicht das EU-Recht selbst, aber dessen **Umsetzung in deutsches Recht** und insbesondere mit Blick auf **Goldplating**, also nationale Ergaenzungen ueber das EU-Minimum hinaus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben setzt eine EU-Richtlinie um
 - Vorhaben flankiert eine EU-Verordnung
@@ -134,7 +134,7 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 
 Bei EU-Richtlinienumsetzung gilt das Prinzip der **1:1-Umsetzung** als Leitlinie der Bundesregierung. **Goldplating** (nationale Verschaerfung ueber EU-Vorgabe hinaus) erzeugt zusaetzlichen Erfuellungsaufwand und ist nur mit qualifizierter Begruendung zulaessig. Der NKR prueft das systematisch.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben setzt eine EU-Richtlinie um
 - Vorhaben geht ueber die EU-Vorgabe hinaus

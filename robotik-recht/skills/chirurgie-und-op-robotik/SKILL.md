@@ -16,7 +16,7 @@ description: "Prüft OP- und Chirurgierobotik: MDR-Klasse, klinische Bewertung, 
 
 OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (MDR Klasse IIb/III). Ihr rechtlicher Rahmen ist die MDR VO (EU) 2017/745 und das nationale MPDG, ergänzt um den Behandlungsvertrag (§§ 630a ff. BGB), das ärztliche Berufsrecht, die KI-VO (bei autonomen oder unterstützenden KI-Funktionen), die DSGVO (Patientendaten) und das ProdHaftG/VO (EU) 2024/2853. Dieser Skill ordnet die Pflichten von Hersteller, Krankenhaus und Operateur sowie typische Risikofelder: Aufklärung über Roboter-Beteiligung, Schulungsstand des Operateurs, Wartungspflichten, Vigilanz-Meldungen, Behandlungsfehlernähe.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Krankenhausträger, Chefarzt/Operateur, MPDG-Beauftragter, Patient/Angehörige, Versicherer, BfArM, Notified Body.
 2. **Robotertyp:** telemanipuliert (z. B. da-Vinci-Architektur), teilautonom, vollautonom für definierte Schritte; mit oder ohne KI-Unterstützung.

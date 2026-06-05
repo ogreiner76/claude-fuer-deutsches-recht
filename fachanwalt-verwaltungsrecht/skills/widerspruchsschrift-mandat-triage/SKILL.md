@@ -482,7 +482,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 # Schriftsatzkern und Substantiierung im Allgemeines Verwaltungs- und Bauplanungsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Allgemeines Verwaltungs- und Bauplanungsrecht erstellt werden, typischerweise: Widerspruch, Anfechtungsklage VG, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

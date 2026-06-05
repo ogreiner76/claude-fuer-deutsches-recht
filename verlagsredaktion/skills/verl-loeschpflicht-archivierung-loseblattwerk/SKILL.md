@@ -36,7 +36,7 @@ Für **Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, V
 
 Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-Archiv, weil dort identifizierbare Daten stehen (Aktenzeichen, Name, Lebenslauf, Lichtbild). Der Skill schluesselt die Abwaegung Loeschpflicht vs. Archivinteresse vs. Pressefreiheit nach DSGVO Art. 17 und dem Medienprivileg (Art. 85 DSGVO, MStV) und liefert Mustertexte fuer Ablehnung, Anonymisierung und Loeschung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer verlangt was (Betroffener, Anwalt, Behoerde, Gericht)?
 2. Welche Daten (Name, Az., Verfahrensdetails, Bild)?
@@ -233,7 +233,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -249,7 +249,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 Autorinnen und Autoren liefern selten in der Form, die der Verlag braucht. Dieser Skill hilft, ein Manuskript aus einem unsauberen Eingangsformat (alte Word-Datei, gemischtes DOCX/Markdown, LaTeX-Fragmente, exportiertes PDF, mit KI generierter Wust) in ein verlagstaugliches Arbeitsdokument zu ueberfuehren - ohne juristischen Substanzverlust und ohne Fundstellenzerstoerung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anfuehrungszeichen, gemischte Bullet-Stile, eingefrorene Tabellen, "smart quotes" im Quelltext, Word-Felder mit fehlenden Verweisen oder offenkundige LLM-Artefakte (Drei-Strich-Listen, Halbsatzbruch nach jedem zweiten Absatz). Klaeren Sie kurz:
 
@@ -352,7 +352,7 @@ Output: Mueller-Aufsatz_v2-clean.docx
 
 Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, Update Mietrecht). Der Skill behandelt redaktionelle und rechtliche Pflichten: Themenmix, Anmeldung mit double opt-in, Impressum, Werbekennzeichnung, Abmeldelink, Datenschutzhinweise. Mit Mustertexten fuer Wochennewsletter, Monatsmagazin und Sonderausgabe.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Newsletter-Typ (woechentlich Curated, monatlich redaktionell, Sondernewsletter Eilthema, Buchempfehlung)?
 2. Empfaengerverwaltung (eigenes Tool, Brevo, Mailchimp, CleverReach, Sendinblue)?
@@ -551,7 +551,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

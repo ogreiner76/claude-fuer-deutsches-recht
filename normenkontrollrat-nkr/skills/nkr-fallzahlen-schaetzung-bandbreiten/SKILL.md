@@ -9,7 +9,7 @@ description: "Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn kein
 
 Bei vielen Vorhaben gibt es keine harten Fallzahlen aus Statistik. Trotzdem muss der Erfuellungsaufwand quantifiziert werden. Der NKR akzeptiert **Schaetzungen mit Bandbreiten**, sofern die Methodik transparent ist und eine Sensitivitaetsanalyse erfolgt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Keine direkte Statistik zur Pflicht-Adressatengruppe
 - Neue Pflicht ohne historische Datenbasis

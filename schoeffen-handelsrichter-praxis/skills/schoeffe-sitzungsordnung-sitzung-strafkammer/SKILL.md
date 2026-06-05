@@ -31,7 +31,7 @@ Für **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orientierung
 # Sitzungsordnung und Auftreten: Sitzungspraxis
 
 ## Fachkern: Sitzungsordnung und Auftreten: Sitzungspraxis
-- **Spezialgegenstand:** Sitzungsordnung und Auftreten: Sitzungspraxis; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sitzungsordnung und Auftreten: Sitzungspraxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orientierung
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Sitzungsordnung und Auftreten: Sitzungspraxis** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit - Sitzungspraxis
 
@@ -85,7 +85,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Schöffe in der Strafkammer: Orientierung
 
 ## Fachkern: Schöffe in der Strafkammer: Orientierung
-- **Spezialgegenstand:** Schöffe in der Strafkammer: Orientierung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Schöffe in der Strafkammer: Orientierung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -93,7 +93,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Schöffe in der Strafkammer: Orientierung** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit - Orientierung
 
@@ -139,7 +139,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Schöffe in der Strafkammer: Sitzungspraxis
 
 ## Fachkern: Schöffe in der Strafkammer: Sitzungspraxis
-- **Spezialgegenstand:** Schöffe in der Strafkammer: Sitzungspraxis; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Schöffe in der Strafkammer: Sitzungspraxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -147,7 +147,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Schöffe in der Strafkammer: Sitzungspraxis** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit - Sitzungspraxis
 

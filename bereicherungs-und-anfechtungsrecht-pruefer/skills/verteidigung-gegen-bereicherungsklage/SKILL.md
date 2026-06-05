@@ -7,7 +7,7 @@ description: "Bei eine Bereicherungsklage systematisch abgewehrt werden soll. No
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

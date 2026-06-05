@@ -474,7 +474,7 @@ Das Wesentliche dieser Vereinbarung wird Betroffenen gemäß Art. 26 Abs. 2 DSGV
 
 English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Two or more parties jointly determine the purposes and means of processing.
 - Cross-border setup with English working language.

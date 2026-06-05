@@ -33,7 +33,7 @@ Für **Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronisch
 
 Nach BGleiG und GGO ist bei Bundesregelungsvorhaben eine **gleichstellungspolitische Folgenabschaetzung** durchzufuehren. Sie prueft, ob das Vorhaben auf Frauen und Maenner unterschiedliche Auswirkungen hat. Der NKR prueft die methodische Konsistenz mit dem Erfuellungsaufwand.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben adressiert Privatpersonen
 - Vorhaben hat arbeitsmarktpolitischen Bezug
@@ -146,7 +146,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 
 Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Pruefungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage fuer die Testakte des Plugins (ElErrHandRegG).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben aendert HGB / Handelsregister-Vorschriften
 - Vorhaben sieht elektronische Zustellung an Gesellschaften vor

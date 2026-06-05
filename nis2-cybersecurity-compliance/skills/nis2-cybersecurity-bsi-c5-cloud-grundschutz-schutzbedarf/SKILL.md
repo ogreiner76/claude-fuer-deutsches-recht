@@ -31,7 +31,7 @@ Für **BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formu
 
 # BSI C5 Cloud Check
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 C5-Testate, Subdienstleister, Regionen, Logging, Notfall, Exit, Auditrechte und Kundenverträge.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # BSI Grundschutz Schutzbedarf
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Geschäftsprozesse, Informationsverbünde, Schutzbedarf, Modellierung, Basis-/Standard-/Kernabsicherung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # BSI Meldestelle Formular
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Incident-Klassifikation, Pflichtdaten, offene Punkte, Datenschutz, DORA, Kunden und Versicherer.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Bsig Registrierung BSI
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Einrichtung, Kontaktdaten, Zuständigkeiten, Fristen, Änderungen, Nachweise und Governance.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

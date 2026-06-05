@@ -16,7 +16,7 @@ description: "Sichert Quellenhygiene: keine Paywall-Blindzitate, keine erfundene
 
 Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeichen, veraltete Normenstände oder erfundene Kommentar-Fundstellen zerstören die Glaubwürdigkeit eines Memos und können berufsrechtlich relevant werden (§ 43a Abs. 3 BRAO). Dieser Skill etabliert einen prüfbaren Quellenprozess: Auswahl, Verifikation, Zitierung, Versionierung – sowohl für EU-Rechtsakte (KI-VO, MaschinenVO, CRA, neue ProdHaftRL) als auch für technische Normen (ISO, IEC, DIN, harmonisierte Normen).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Mandatstyp:** Memo, Schriftsatz, Bescheid, Behördenkommunikation, Vorstandsvorlage, Gutachten für Notified Body.
 2. **Quellenarten benötigt:** EU-Rechtsakt, BGH-/EuGH-Rspr., harmonisierte Norm, technische Spezifikation, Kommentar, Aufsatz, behördliche Leitlinie.

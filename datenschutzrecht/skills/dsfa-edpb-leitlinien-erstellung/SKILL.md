@@ -36,7 +36,7 @@ Für **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internati
 
 Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur Bestimmung von voraussichtlich hohem Risiko. Ergebnis ist eine Kriterien-Tabelle mit Subsumtion und einer klaren Schwellwertaussage: 0 Kriterien (DSFA entbehrlich), 1 Kriterium (Empfehlung mit Begruendung), 2 oder mehr Kriterien (DSFA zwingend, soweit keine entgegenstehende Whitelist-Position einschlaegig ist).
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - In der Schwellwertanalyse einer DSFA-Trigger-Pruefung, wenn weder Art. 35 Abs. 3 noch Abs. 4 DSGVO greift
 - Wenn die Aufsichtsbehoerde eine Begruendung der DSFA-Entscheidung verlangt
@@ -375,7 +375,7 @@ Datum: [DATUM]
 
 Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. Wenn die Verarbeitung einen Drittlandtransfer beinhaltet, ist eine Transfer Impact Assessment (TIA) erforderlich, die in die DSFA integriert oder als deren Bestandteil gefuehrt wird. Ergebnis ist eine erweiterte DSFA-Sektion mit Transferregister, Rechtsgrundlage des Transfers, Risikobewertung des Drittlandes und ergaenzenden Massnahmen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Auftragsverarbeiter mit Sitz oder Unterauftrag im Drittland
 - Bei eigener Niederlassung im Drittland
@@ -514,7 +514,7 @@ Unterschrift DSB: ____________________
 
 Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anwender- bzw. Betreiberpflichten nach Art. 26 KI-VO und der Grundrechte-Folgenabschaetzung (Fundamental Rights Impact Assessment, FRIA) nach Art. 27 KI-VO. Ergebnis ist ein integriertes Konzept, das DSFA und FRIA koordiniert, ohne sie rechtlich zu verschmelzen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Einsatz von Hochrisiko-KI-Systemen nach Anhang III KI-VO (Verordnung EU 2024/1689)
 - Bei generativen KI-Diensten, die personenbezogene Daten verarbeiten
@@ -637,7 +637,7 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 
 Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik fuer die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor der Erstdurchfuehrung einer DSFA, wenn keine Hausmethodik vorgegeben ist
 - Beim Aufbau eines Datenschutzmanagementsystems (DSMS)

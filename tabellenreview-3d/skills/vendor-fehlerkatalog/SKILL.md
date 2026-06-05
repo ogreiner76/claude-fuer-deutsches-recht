@@ -7,7 +7,7 @@ description: "Vendor Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Tabellenreview 3d** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Tabellenreview 3d** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

@@ -7,7 +7,7 @@ description: "Bei aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

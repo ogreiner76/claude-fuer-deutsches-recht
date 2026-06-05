@@ -9,7 +9,7 @@ description: "RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. 9 DSG
 
 Dieser Skill behandelt die erhoehten Dokumentationsanforderungen im Verzeichnis von Verarbeitungstaetigkeiten bei besonderen Datenkategorien nach Art. 9 DSGVO (sensitive Daten), Beschaeftigtendaten nach § 26 BDSG und Daten ueber strafrechtliche Verurteilungen oder Straftaten nach Art. 10 DSGVO. Solche Verarbeitungen brechen die KMU-Ausnahme nach Art. 30 Abs. 5 DSGVO und ziehen ueblicherweise eine DSFA-Pflicht (Art. 35 DSGVO) nach sich.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Arztpraxis, Krankenhaus, Pflegedienst, Apotheke baut RoPA auf.
 - Personalabteilung dokumentiert Krankheitstage, BEM-Daten, Schwerbehindertenstatus.

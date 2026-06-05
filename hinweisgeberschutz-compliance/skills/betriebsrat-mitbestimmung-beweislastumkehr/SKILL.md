@@ -31,7 +31,7 @@ Für **Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglae
 
 # Betriebsrat Mitbestimmung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Technische Einrichtung, Leistungs-/Verhaltenskontrolle, Fragebogen, Interviews und BV.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Beweislastumkehr
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zeitlicher Zusammenhang, Benachteiligung, Alternativgründe, Dokumentation und Prozessrisiko.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Bewerber Ehemalige
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Vorvertragliche Informationen, Exit-Konflikte, Zeugnis, NDA und Repressalien.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Boesglaeubige Meldung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beweis, Anhörung, Sanktionen, Datenschutz, Arbeitsrecht und keine Einschüchterung echter Hinweise.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

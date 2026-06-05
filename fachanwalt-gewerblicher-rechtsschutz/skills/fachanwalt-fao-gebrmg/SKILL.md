@@ -147,7 +147,7 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständiges Erstgespräch mit dem Mandanten.
 - Keine Schutzrechts-Prüfung ohne Registerauszüge.
 
@@ -256,7 +256,7 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Aussage über FAO-Anforderungen ohne Live-Prüfung (RAK und BRAK).
 - Kein Ersatz für Beratung durch RAK oder Fachanwaltskommission.
 
@@ -374,6 +374,6 @@ Urteil → ggf. Berufung
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine technische Bewertung der Schutzansprüche ohne Patentschrift und Sachverständige.
 - Kein Ersatz für vollständige Mandantenberatung.

@@ -70,7 +70,7 @@ SGB III Sperrzeit; BGB; KSchG; GewO § 109. Rechtsprechung wird nur mit Gericht,
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Individual- und kollektives Arbeitsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Aufhebungsvertrag/Abfindung, Betriebsuebergangsstreit, Mobbing/Schadensersatz.

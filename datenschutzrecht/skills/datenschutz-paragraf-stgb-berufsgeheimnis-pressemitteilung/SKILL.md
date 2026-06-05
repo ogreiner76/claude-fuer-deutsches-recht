@@ -265,7 +265,7 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten) und Auftragsverarbeitung nach Art. 28 DSGVO bei Berufsgeheimnistraegern und externen Dienstleistern, die typischerweise eine eigene Berufstraegerstellung haben (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte, Inkassodienstleister, Aerzte). Purpose (EN): Demarcation between "Funktionsuebertragung" (functional transfer with own controllership) and Article 28 GDPR processing on behalf, in particular for professionals bound by professional secrecy.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant beauftragt einen Steuerberater, Wirtschaftspruefer, Rechtsanwalt, Arzt oder Inkassodienstleister.
 - Eine Kanzlei oder Arztpraxis stellt sich die Frage, ob mit externen Dienstleistern (z. B. Schreibbuero, externe IT, Steuerbuero) ein AVV oder ein anderer Vertragstyp zu schliessen ist.

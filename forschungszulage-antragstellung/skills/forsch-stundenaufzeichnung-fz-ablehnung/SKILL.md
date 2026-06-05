@@ -71,7 +71,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -87,7 +87,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable Schwächen in der Projektbeschreibung oder der Belegfähigkeit. Dieser Skill trennt sauber die beiden Ebenen (BSFZ vs. Finanzamt), führt durch den Reparaturprozess, sichert Fristen und liefert Mustertexte.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei BSFZ-Rückfrage oder ablehnender Bescheinigung.
 - Bei Finanzamt-Bescheid mit Kürzung oder Ablehnung.
@@ -243,7 +243,7 @@ Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von 
 
 Stand 2026 — alle Zahlen vom Antragsteller mit aktueller Gesetzesfassung und BMF-Verwaltungsanweisungen abzugleichen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor dem Finanzamt-Antrag, zur belastbaren Berechnung.
 - Bei Sanity-Check der ersten Förderhöhenschätzung.

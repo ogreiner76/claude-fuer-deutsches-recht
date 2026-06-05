@@ -16,7 +16,7 @@ description: "Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedien
 
 Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen unterschiedlicher Fähigkeiten. Das BFSG (Barrierefreiheitsstärkungsgesetz, Umsetzung der EU-RL 2019/882) verlangt seit 28.06.2025 von Herstellern und Dienstleistern bestimmter Produkte und Dienstleistungen Barrierefreiheit. Ergänzt durch das AGG bei Diskriminierung in der Bedienung und durch Art. 5 KI-VO (verbotene Praktiken bei Ausnutzung von Verletzlichkeiten). Dieser Skill prüft Robotikprodukte und ihre Nutzerinterfaces (UI/UX, Sprache, Höhe, Sensorik) auf Barrierefreiheit und Diskriminierungsarmut.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller eines Roboters mit Endkundenkontakt, Dienstleister mit Robotereinsatz im Publikumsverkehr, Behindertenverband, Antidiskriminierungsstelle.
 2. **Produkt:** Pflege-, Service-, Empfangs-, Lieferroboter, Selbstbedienungsterminals mit Robotik-Bestandteilen, Bankautomaten mit Sprachausgabe.

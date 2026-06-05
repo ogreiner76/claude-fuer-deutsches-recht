@@ -31,7 +31,7 @@ Für **Api Security, Arbeitnehmerueberwachung It, Asset Inventory Cmdb, Audit Na
 
 # API Security
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Auth, Rate Limits, Scopes, Logging, Broken Object Level Authorization, Versionierung und Abuse.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Arbeitnehmerueberwachung It
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zweckbindung, Verhältnismäßigkeit, Löschung, Rollen, Betriebsvereinbarung und Transparenz.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Asset Inventory Cmdb
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Server, Cloud, SaaS, Laptops, OT, Zertifikate, Datenklassen und Verantwortliche erfassen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Audit Nachweisordner
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Policies, Beschlüsse, Risikoregister, Tickets, Tests, Schulungen, Verträge, Logs und Exceptions.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

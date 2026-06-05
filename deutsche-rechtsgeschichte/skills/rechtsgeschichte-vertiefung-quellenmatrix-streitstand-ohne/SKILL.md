@@ -167,7 +167,7 @@ Legendenbildungs-Audit mit Quellenmatrix, plausiblen und unplausiblen Entlastung
 
 ## Einsatz
 
-Nutze diesen Skill, wenn ein rechtshistorisches Projekt fragt, wie eine demokratische Rechtsordnung mit belasteten Funktionseliten weiterarbeitete.
+Dieses Fachmodul greift, wenn ein rechtshistorisches Projekt fragt, wie eine demokratische Rechtsordnung mit belasteten Funktionseliten weiterarbeitete.
 
 ## Analysefelder
 

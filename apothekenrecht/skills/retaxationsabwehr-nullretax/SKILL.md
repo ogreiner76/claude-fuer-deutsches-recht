@@ -31,7 +31,7 @@ Für **Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versan
 # Retaxationsabwehr Nullretax Risiko
 
 ## Fachkern: Retaxationsabwehr Nullretax Risiko
-- **Spezialgegenstand:** Retaxationsabwehr Nullretax Risiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Retaxationsabwehr Nullretax Risiko. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versan
 
 Retaxation: Krankenkasse verweigert ganz oder teilweise die Erstattung einer abgegebenen Arzneimittelpackung wegen formaler oder materieller Mängel. "Null-Retax" bedeutet komplette Absetzung — Apotheke erhält keinen Cent für das abgegebene Medikament, das aber bereits ausgehändigt wurde. Dieser Skill behandelt Prävention, fristgerechten Widerspruch, Schiedsverfahren und Sondervereinbarungen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Retaxationsbescheid Krankenkasse ist eingegangen.
 - Häufung von Retaxationen — Strukturproblem in Workflow.
@@ -141,14 +141,14 @@ Eingaben:
 # Rezeptsammelstelle Botendienst Versandhandel
 
 ## Fachkern: Rezeptsammelstelle Botendienst Versandhandel
-- **Spezialgegenstand:** Rezeptsammelstelle Botendienst Versandhandel; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rezeptsammelstelle Botendienst Versandhandel. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Rezeptsammelstelle Botendienst Versandhandel** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 
@@ -186,7 +186,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Rezeptur Plausibilitätsprüfung Herstellungsanweisung
 
 ## Fachkern: Rezeptur Plausibilitätsprüfung Herstellungsanweisung
-- **Spezialgegenstand:** Rezeptur Plausibilitätsprüfung Herstellungsanweisung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rezeptur Plausibilitätsprüfung Herstellungsanweisung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -196,7 +196,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 Individualrezeptur: Apotheke stellt im Einzelfall auf ärztliche Verschreibung ein Arzneimittel her (z. B. Salbe mit Wirkstoff X in Konzentration Y, Saft für Kind, Kapseln nicht zugelassener Wirkstoffstärke). Pflicht ist eine **Plausibilitätsprüfung** (§ 7 ApBetrO) und eine schriftliche **Herstellungsanweisung** mit Dokumentation. Bei Fehlern droht Patientenschaden, Anhörung, Haftung (§§ 280, 823, 84 AMG-analog) und Aufsichtsmassnahmen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Individualrezeptur erstmals geplant, Schritt-für-Schritt-zu prüfen.
 - Schaden eingetreten — Patient meldet Nebenwirkung; Apotheke prüft Verantwortung.

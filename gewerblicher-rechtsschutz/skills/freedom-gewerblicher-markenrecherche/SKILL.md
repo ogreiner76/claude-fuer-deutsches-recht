@@ -387,7 +387,7 @@ Fehlende Unterlagen: _______________
 Nächster Termin: _______________
 ```
 
-## Abgrenzung: Was dieser Skill nicht macht
+## Abgrenzung: Was dieser Arbeitsgang nicht macht
 
 - Kein Ersatz für die Vertiefung in Fachmodule (EV-Antrag, Abmahnung, Anmeldung).
 - Keine abschließende rechtliche Beurteilung ohne Normtext- und Rechtsprechungs-Prüfung.

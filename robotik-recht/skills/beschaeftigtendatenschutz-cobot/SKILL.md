@@ -16,7 +16,7 @@ description: "Prüft Beschäftigtendatenschutz bei Cobots: Leistungsdaten, Stand
 
 Cobots erfassen regelmäßig Beschäftigtendaten: Pickrate je Schicht, Standortdaten innerhalb des Arbeitsplatzes, biometrische Marker (Hand-, Körpererkennung), ggf. Videoschnitt zur Sicherheit. Dazu kommt Cloud-Telemetrie für Predictive Maintenance. Das berührt DSGVO, § 26 BDSG (a. F.; nach EuGH C-34/21 "Hauptpersonalrat Hessen" eingeschränkt), den Beschäftigtendatenschutz-Entwurf (Bundesgesetzgebung in Vorbereitung), § 87 Abs. 1 Nr. 6 BetrVG und Art. 22, 35 DSGVO. Dieser Skill liefert Prüfschema, Betriebsvereinbarungsklauseln und Datenschutzhinweise.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Arbeitgeber, Datenschutzbeauftragter, Betriebsrat, Beschäftigte/r, Aufsichtsbehörde.
 2. **Cobot-Modell:** Welche Sensoren? Welche Daten werden lokal/Cloud verarbeitet? Anbieter im EWR oder Drittland?

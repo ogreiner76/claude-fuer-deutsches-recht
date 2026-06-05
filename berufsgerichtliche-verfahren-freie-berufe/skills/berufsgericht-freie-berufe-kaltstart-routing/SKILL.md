@@ -7,7 +7,7 @@ description: "Allgemeiner Kaltstart und Routing: führt vom ersten Satz oder Dok
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsgerichtliche Verfahren Freie Berufe**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Allgemeiner Kaltstart und Routing** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus
 

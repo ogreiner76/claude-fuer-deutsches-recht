@@ -7,7 +7,7 @@ description: "Gutachten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigk
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Berufsrecht Ki Vertragspruefung** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Berufsrecht Ki Vertragspruefung** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

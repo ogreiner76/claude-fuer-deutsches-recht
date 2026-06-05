@@ -11,7 +11,7 @@ Eine Ablehnung ist nicht das Ende, sondern **Material**. Die Gutachten enthalten
 
 **Alte-Hasen-Faustregel:** Die meisten gescheiterten Wiedereinreichungen scheitern daran, dass der Antragsteller die Kritik **inhaltlich überlesen** und stattdessen **textuell überspielt** hat. Wer in der Stellungnahme nur sagt "das war ein Missverständnis", wird wieder abgelehnt. Wer drei konkrete strukturelle Änderungen zeigt, hat hohe Wiedereinreichungschancen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn:
 

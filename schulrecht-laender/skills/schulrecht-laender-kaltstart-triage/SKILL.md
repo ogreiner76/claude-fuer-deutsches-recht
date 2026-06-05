@@ -5,7 +5,7 @@ description: "Startet die schulrechtliche Prüfung für Eltern, Schüler, Schule
 
 # Allgemein
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Kommandocenter für Schulpflicht, Aufnahme, Noten, Ordnungsmaßnahmen, Inklusion, Datenschutz, Schulträger und Eilrechtsschutz.
 

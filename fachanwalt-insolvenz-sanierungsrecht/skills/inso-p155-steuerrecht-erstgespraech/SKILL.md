@@ -42,7 +42,7 @@ Für **Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Steuerrecht Formu
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 155 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 155 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 155 InsO**
@@ -146,7 +146,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Insolvenz- und Restrukturierungsrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
@@ -420,7 +420,7 @@ InsO §§ 335, 343, 346 bis 348, GBO § 29, GmbHG §§ 15, 40 und BGB §§ 873, 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf taktisch saubere, nicht halluzinierte Sanierungs- und Erwerbsstrategie.
 

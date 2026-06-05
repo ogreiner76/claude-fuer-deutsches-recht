@@ -9,7 +9,7 @@ description: "Mehrjahresstrategie Forschungszulage: BSFZ-Bescheinigung für mehr
 
 FuE-Vorhaben dauern oft 2 bis 4 Jahre. Die Forschungszulage ist nicht als Einmal-Bonus konzipiert, sondern soll mehrere Wirtschaftsjahre tragen. Wer das strategisch aufzieht, gewinnt Liquidität jedes Jahr, glättet die Außenprüfungsrisiken und kann Folgeanträge erheblich knapper halten als Erstanträge. Dieser Skill liefert die Mehrjahresplanung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor dem ersten BSFZ-Antrag, wenn das Vorhaben mehrjährig ist.
 - Bei jährlicher Aktualisierung der Projektakte und Stundenaufzeichnung.

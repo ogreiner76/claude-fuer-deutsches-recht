@@ -34,7 +34,7 @@ Für **Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Pla
 
 ## Einsatz
 
-Nutze diesen Skill bei Umbau, Sanierung, Kita im Altbau, Denkmal, Haustechnik im Bestand, Fassaden-/Dach-/Brandschutzsanierung oder Streit, ob der vorhandene Bestand die Honorargrundlage erhöht.
+Dieses Fachmodul bei Umbau, Sanierung, Kita im Altbau, Denkmal, Haustechnik im Bestand, Fassaden-/Dach-/Brandschutzsanierung oder Streit, ob der vorhandene Bestand die Honorargrundlage erhöht.
 
 ## Normanker
 
@@ -152,7 +152,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Vergabe von Planerleistungen, Schw
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Schlussrechnung, Abschlagsrechnung oder Honorarklage vorbereitet oder abgewehrt wird.
+Dieses Fachmodul greift, wenn Schlussrechnung, Abschlagsrechnung oder Honorarklage vorbereitet oder abgewehrt wird.
 
 ## Normanker
 

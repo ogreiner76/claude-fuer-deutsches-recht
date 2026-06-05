@@ -31,7 +31,7 @@ Für **Outsourcing Ombudsperson, Personenbezogene Daten Dritter, Pflicht Interne
 
 # Outsourcing Ombudsperson
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Mandat, Vertraulichkeit, AVV, Interessenkonflikt, Eskalation und Reporting.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Personenbezogene Daten Dritter
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beschuldigte, Zeugen, Kunden, Gesundheitsdaten, Schwärzung, Information und Rechte.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Pflicht Interne Meldestelle
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beschäftigtenzahl, Konzernstruktur, Outsourcing, Zuständigkeit, Ressourcen und Dokumentation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Policy Generator
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zweck, Kanäle, Schutz, Fristen, Datenschutz, Folgemaßnahmen, externe Stellen und FAQ.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

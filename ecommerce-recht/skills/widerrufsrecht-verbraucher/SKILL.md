@@ -39,7 +39,7 @@ Für **Widerrufsrecht Verbraucher 355 312G Bgb** zuerst das tragende Prüffeld b
 
 Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen steht dem Verbraucher ein Widerrufsrecht von 14 Tagen zu (§ 355 BGB i.V.m. § 312g BGB). Die Frist beginnt erst, wenn der Verbraucher ordnungsgemäß belehrt wurde; sonst maximal 12 Monate und 14 Tage. Der Skill ordnet Voraussetzungen, Ausnahmen (§ 312g II BGB), Rechtsfolgen und Belehrungspflichten.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welcher Vertragstyp (Warenkauf, Dienstleistung, digitale Inhalte, Abo, Maßanfertigung)?
 - Vertrag im Fernabsatz oder außerhalb Geschäftsräume geschlossen?

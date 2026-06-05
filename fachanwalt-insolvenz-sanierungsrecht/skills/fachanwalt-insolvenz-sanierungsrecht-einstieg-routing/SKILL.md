@@ -7,7 +7,7 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 ## Einsatzlage
 
-Nutze diesen Skill, wenn im Bereich **Fachanwalt Insolvenz Sanierungsrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+Dieser Einstieg routet **Fachanwalt Insolvenz Sanierungsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,5 +42,5 @@ Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konk
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

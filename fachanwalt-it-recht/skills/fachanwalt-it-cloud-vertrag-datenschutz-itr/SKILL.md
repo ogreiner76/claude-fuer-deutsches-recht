@@ -197,7 +197,7 @@ sind verifiziert.
 
 Dieser Skill fuehrt eine strukturierte Due Diligence bei Cloud-Vertraegen durch, bei denen personenbezogene Daten verarbeitet werden. Er kombiniert IT-vertragsrechtliche Pruefung (Leistungsbeschreibung, SLA, Haftung, Exit) mit datenschutzrechtlicher Pruefung (AVV, TOM, Transfer, Zertifizierung) und liefert eine Risikoampel.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill vor Abschluss oder bei Audit laufender Cloud-Vertraege, insbesondere bei Hyperscaler-Vertraegen (AWS, Microsoft Azure, Google Cloud), bei spezialisierten SaaS-Loesungen oder bei privaten Cloud-Loesungen.
 
@@ -343,7 +343,7 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 
 Dieser Skill liegt an der Schnittstelle des IT-Vertragsrechts und des Datenschutzrechts. Er hilft beim Pruefen und Gestalten von IT-Vertraegen mit datenschutzrechtlicher Komponente: Softwareentwicklung, IT-Outsourcing, Hosting, Wartung, Cloud, SaaS, Lizenz mit Telemetrie. Ziel ist, dass der IT-Vertrag und die datenschutzrechtliche Konstruktion (AVV oder Joint Controllership) konsistent sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein IT-Vertrag personenbezogene Daten beruehrt — was praktisch immer der Fall ist, wenn IT betrieben wird.
 
@@ -497,7 +497,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -550,7 +550,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

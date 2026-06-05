@@ -9,7 +9,7 @@ description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdr
 
 Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwechslung der Rollen Bundesrechnungshof, BVerfG, Wissenschaftlicher Dienst, BMJ-Rechtsabteilung, NKR.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Pruefkern faellt
 - Ressort moechte den NKR "instrumentalisieren" fuer politische Argumente

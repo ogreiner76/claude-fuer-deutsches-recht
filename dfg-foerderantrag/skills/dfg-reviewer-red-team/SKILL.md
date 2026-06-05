@@ -11,7 +11,7 @@ Der Skill simuliert die Begutachterperspektive **vor** der Einreichung. Ziel: di
 
 **Alte-Hasen-Faustregel:** Wer 6 Wochen am Antrag geschrieben hat, sieht ihn nicht mehr. Eine Red-Team-Runde **1 bis 2 Wochen vor Einreichung** ist Pflicht, kein Luxus. Drei Leser aus drei Perspektiven (Methodiker, Themen-Experte, unmotivierter Bürokrat) finden 80 Prozent der Schwächen, die sonst im Gutachten stehen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn:
 

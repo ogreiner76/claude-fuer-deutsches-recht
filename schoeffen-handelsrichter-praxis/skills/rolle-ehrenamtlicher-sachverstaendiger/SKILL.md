@@ -31,7 +31,7 @@ Für **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, S
 # Rolle ehrenamtlicher Richter
 
 ## Fachkern: Rolle ehrenamtlicher Richter
-- **Spezialgegenstand:** Rolle ehrenamtlicher Richter; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rolle ehrenamtlicher Richter. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, S
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Rolle ehrenamtlicher Richter** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Sachverständige verstehen: Orientierung
 
 ## Fachkern: Sachverständige verstehen: Orientierung
-- **Spezialgegenstand:** Sachverständige verstehen: Orientierung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sachverständige verstehen: Orientierung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -89,7 +89,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Sachverständige verstehen: Orientierung** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde - Orientierung
 
@@ -135,7 +135,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Sachverständige verstehen: Sitzungspraxis
 
 ## Fachkern: Sachverständige verstehen: Sitzungspraxis
-- **Spezialgegenstand:** Sachverständige verstehen: Sitzungspraxis; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sachverständige verstehen: Sitzungspraxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -143,7 +143,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Sachverständige verstehen: Sitzungspraxis** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde - Sitzungspraxis
 

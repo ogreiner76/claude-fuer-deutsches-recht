@@ -15,7 +15,7 @@ description: "Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und
 
 Der Forderungsverzicht durch Gläubiger ist beim Schuldner ein Buchgewinn. Wie er handelsrechtlich und steuerlich darzustellen ist, beeinflusst sowohl die Höhe des Sanierungsertrags als auch die Sichtbarkeit gegenüber dem FA. Dieser Skill stellt die Buchungslogik und die Plan-Bilanz-Erstellung dar.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer verzichtet — Bank, Lieferant, Gesellschafter?
 2. Auf welche Verbindlichkeit wird verzichtet — Darlehen, Lieferantenforderung, Gesellschafterdarlehen?

@@ -16,7 +16,7 @@ description: "Prüft Datenqualität und Bias bei Robotern, die Menschen erkennen
 
 Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen (Service-, Pflege-, Sicherheitsrobotik, Liefer- und autonome Mobilität, Recruiting-/Empfangsroboter) sind regelmäßig auf Trainingsdaten angewiesen, deren Qualität und Repräsentativität über Sicherheit und Diskriminierungsfreiheit entscheidet. Art. 10 KI-VO setzt für Hochrisiko-KI verbindliche Anforderungen an Daten-Governance, Repräsentativität, Bias-Behandlung und Annotationsprozesse. Dazu kommen DSGVO, AGG, BFSG und Grundrechte. Dieser Skill liefert Prüfschema, Test-Matrix und Vertragsklauseln.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Anbieter Hochrisiko-KI, Betreiber, Auditor, Aufsichtsbehörde, betroffene Person/Verband.
 2. **Funktion:** Personenerkennung, Gestenerkennung, Spracherkennung, Verhaltensprädiktion, Risikoeinschätzung, Triage-Unterstützung.

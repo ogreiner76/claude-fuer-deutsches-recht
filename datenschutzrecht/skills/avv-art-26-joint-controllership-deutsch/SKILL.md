@@ -9,7 +9,7 @@ description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vert
 
 Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle fuer Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Zwei oder mehr Akteure entscheiden gemeinsam ueber Zwecke und Mittel der Verarbeitung.
 - Typische Konstellationen: Fanpage und Plattformbetreiber, Co-Branding-Aktionen, Konsortien, Marktplaetze, Tracking-Anbieter und Webseitenbetreiber.

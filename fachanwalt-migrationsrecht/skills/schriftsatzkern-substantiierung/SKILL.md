@@ -32,7 +32,7 @@ Für **Schriftsatzkern Substantiierung, Abschiebungshaft, Abschiebungsverbot 60 
 
 # Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht erstellt werden, typischerweise: Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

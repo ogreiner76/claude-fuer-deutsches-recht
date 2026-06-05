@@ -91,7 +91,7 @@ Nach diesem Skill weiter mit:
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-umwandlungsrecht` - wenn Verschmelzung, Spaltung, Formwechsel oder Carve-out gesellschaftsrechtlich strukturiert werden.
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-board-paper-business-judgment` - wenn Organentscheidung und Business-Judgment-Dokumentation vorbereitet werden.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.

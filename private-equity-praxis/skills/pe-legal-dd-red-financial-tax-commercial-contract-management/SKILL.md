@@ -38,7 +38,7 @@ Für **Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Co
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill priorisiert Risiken nach Deal Value, SPA-Hebel, Closing-Fähigkeit und Post-Closing-Kosten.
 
@@ -79,7 +79,7 @@ BGB/GmbHG/AktG/HGB, Arbeitsrecht, IP, Litigation, Compliance, Regulatory.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Damit Legal nicht neben Financial DD herläuft, sondern SPA und Preisformel gezielt füttert.
 
@@ -120,7 +120,7 @@ SPA-Kaufpreismechanik, Steuerklauseln, Warranty/Indemnity, Disclosure.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Kündigung, Change of Control, Exklusivität, Margen, Preisgleitklauseln und Konzentrationsrisiken.
 
@@ -161,7 +161,7 @@ BGB/AGB, HGB-Handelsvertreter, Kartellrecht, Datenschutz, IP-Lizenzen.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill trennt echte Antworten von Sales-Narrativ und macht Widersprüche datenraumfest.
 

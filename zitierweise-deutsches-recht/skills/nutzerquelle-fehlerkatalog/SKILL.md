@@ -7,7 +7,7 @@ description: "Nutzerquelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständ
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Zitierweise Deutsches Recht** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Zitierweise Deutsches Recht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

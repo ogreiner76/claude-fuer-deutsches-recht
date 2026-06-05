@@ -31,7 +31,7 @@ Für **Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzpanne Me
 
 # Compliance Untersuchung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Hypothesen, Beweise, Interviews, Privilege, Datenschutz, Bericht, Maßnahmen und Abschluss.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Datenschutz DSGVO Meldeakte
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Rechtsgrundlage, Rollen, Informationen, Betroffenenrechte, Löschung, Zugriff und Drittland.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Datenschutzpanne Meldung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Art. 33/34 DSGVO, Risiko, DSB, Betroffene, IT-Forensik und HinSchG-Vertraulichkeit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Dokumentationspflicht
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Dauerhaft abrufbar, Einwilligung bei Gespräch, Protokollkorrektur, Löschung und Zugriff.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

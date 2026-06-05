@@ -31,7 +31,7 @@ Für **Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und 
 # Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
 
 ## Fachkern: Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
-- **Spezialgegenstand:** Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO § 305 Abs. 1 Nr. 3; InsO §§ 174, 175. Entscheidend ist immer der aktuell
 # Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.
 
 ## Fachkern: Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.
-- **Spezialgegenstand:** Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ ZPO §§ 811 ff.; InsO § 36. Entscheidend ist immer der aktuelle Normstand der 
 # Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.
 
 ## Fachkern: Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.
-- **Spezialgegenstand:** Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

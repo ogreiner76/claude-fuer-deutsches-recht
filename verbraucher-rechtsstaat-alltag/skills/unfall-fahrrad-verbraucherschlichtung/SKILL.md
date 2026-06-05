@@ -31,7 +31,7 @@ Für **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangebot Prü
 # Kleiner Unfall Fahrrad und Auto
 
 ## Fachkern: Kleiner Unfall Fahrrad und Auto
-- **Spezialgegenstand:** Kleiner Unfall Fahrrad und Auto; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kleiner Unfall Fahrrad und Auto. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangebot Prü
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Kleiner Unfall Fahrrad und Auto** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung.
 
@@ -84,7 +84,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Verbraucherschlichtung
 
 ## Fachkern: Verbraucherschlichtung
-- **Spezialgegenstand:** Verbraucherschlichtung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbraucherschlichtung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -92,7 +92,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Verbraucherschlichtung** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Schlichtungsstelle, Ombudsmann, Kosten und Erfolgsaussichten
 
@@ -134,7 +134,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 # Vergleichsangebot prüfen
 
 ## Fachkern: Vergleichsangebot prüfen
-- **Spezialgegenstand:** Vergleichsangebot prüfen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vergleichsangebot prüfen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -142,7 +142,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Vergleichsangebot prüfen** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Vergleich, Ratenzahlung, Verzicht, Erledigungsklausel und Kostenfolge.
 

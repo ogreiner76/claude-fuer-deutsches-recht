@@ -9,7 +9,7 @@ description: "Pruefskill Digitaltauglichkeit. Adressiert die seit 2022 geltende 
 
 Seit 2022 gilt der **Digitalcheck**: jedes Bundesregelungsvorhaben muss vor Kabinettsbefassung auf digitale Tauglichkeit geprueft werden. Der NKR begleitet diesen Check und kommentiert die Ergebnisse in der Stellungnahme.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben sieht digitale Verfahren vor
 - Vorhaben sieht analoge Verfahren vor (Pruefung, ob digital moeglich)

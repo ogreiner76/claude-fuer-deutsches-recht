@@ -7,7 +7,7 @@ description: "Anwenden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechun
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Subsumtions Prüfer** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Subsumtions Prüfer** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

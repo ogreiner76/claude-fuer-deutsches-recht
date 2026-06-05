@@ -31,7 +31,7 @@ Für **Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwe
 # BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
 
 ## Fachkern: BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
-- **Spezialgegenstand:** BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -49,7 +49,7 @@ Optional: **mit oder ohne Rückgriff** – also echtes und unechtes Factoring si
 
 Wer alle drei Säulen erfüllt, ist Finanzdienstleistungsinstitut nach § 1 Abs. 1a Satz 1 KWG mit voller Aufsichtsfolge: Erlaubnispflicht (§ 32 KWG), Mindestkapital (§ 33 KWG), Geschäftsleiteranforderungen (§ 25c KWG), GwG-Pflichten, MaRisk-Anwendung. Dieser Skill prüft die Tatbestandsmerkmale einzeln.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ein Geschäftsmodell soll auf die Erlaubnispflicht hin geprüft werden.
 - Eine BaFin-Anfrage zur Geschäftsabgrenzung soll vorbereitet werden.
@@ -157,7 +157,7 @@ Fragen zum Einstieg:
 # Beschwerde und Anhörung BaFin Factoring
 
 ## Fachkern: Beschwerde und Anhörung BaFin Factoring
-- **Spezialgegenstand:** Beschwerde und Anhörung BaFin Factoring; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Beschwerde und Anhörung BaFin Factoring. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -169,7 +169,7 @@ Die BaFin greift im Factoring-Bereich auf mehreren Wegen ein: **Sonderprüfung**
 
 Dieser Skill konstruiert die Antwortstrategie auf BaFin-Anhörungen und das taktische Vorgehen bei Beschwerden gegen BaFin-Maßnahmen (Widerspruchsverfahren entfällt seit 1.1.2017 weitgehend, Klage zum VG Frankfurt nach § 49 Abs. 1 KWG).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Eine Anhörung der BaFin (Schreiben mit Frist zur Stellungnahme) liegt auf dem Tisch.
 - Eine Untersagungsverfügung oder Bußgeldandrohung wurde zugestellt.
@@ -283,7 +283,7 @@ III. Anregung: Wir regen an, das Verfahren bei Erfüllung folgender Auflagen ein
 # Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
 
 ## Fachkern: Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
-- **Spezialgegenstand:** Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -295,7 +295,7 @@ Für den Factoringkunden ist die **bilanzielle Ausbuchung der Forderung** (Off-B
 
 Maßstab nach **HGB (§ 246 HGB, IDW RS HFA 8)**: Ausbuchung, wenn das **wirtschaftliche Eigentum** vollständig übergegangen ist und der Verkäufer keine wesentlichen Risiken zurückbehält. Maßstab nach **IFRS 9** komplexer: Risk-and-Reward-Test plus Control-Test. Dieser Skill prüft die zentralen Stellschrauben.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Der Mandant will Forderungen bilanziell ausbuchen und braucht eine rechtssichere Strukturierung.
 - Der Wirtschaftsprüfer beanstandet die Ausbuchung – Argumente werden gesucht.

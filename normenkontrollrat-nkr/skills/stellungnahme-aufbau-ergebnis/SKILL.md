@@ -33,7 +33,7 @@ Für **Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfe
 
 Stellungnahmen des NKR folgen einem etablierten Standardaufbau. Wer eine NKR-Stellungnahme entwirft, hat eine feste Struktur einzuhalten — wegen Adressatenerwartung (Kabinett, Bundestag, Ressorts) und wegen Konsistenz im Jahresbericht.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Drafting einer neuen Stellungnahme
 - Schulung neuer Referenten
@@ -187,7 +187,7 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 
 Der Schlussteil ist die wichtigste praktische Botschaft der Stellungnahme: was empfiehlt der NKR konkret, und welches Gesamtergebnis stellt er fest? Eingehalten wird ein festes Vokabular mit klaren Eskalationsstufen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Drafting Schlussteil
 - Politisch sensible Stellungnahme

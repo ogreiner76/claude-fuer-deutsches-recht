@@ -38,7 +38,7 @@ Für **Inso P126 Beschlussverfahren Zum Kundigungsschutz** zuerst das tragende P
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 126 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Dieses Fachmodul greift, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 126 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 126 InsO**

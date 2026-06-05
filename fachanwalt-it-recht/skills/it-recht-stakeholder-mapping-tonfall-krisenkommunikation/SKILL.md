@@ -231,7 +231,7 @@ Wichtig: Kenntnisbegriff sauber dokumentieren — ein bloßer Verdacht oder Hinw
 
 # Erstgespraech und Mandatsannahme im IT-, Datenschutz- und Telemedienrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich IT-, Datenschutz- und Telemedienrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

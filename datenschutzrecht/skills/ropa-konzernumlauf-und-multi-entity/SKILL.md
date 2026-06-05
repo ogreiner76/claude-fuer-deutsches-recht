@@ -9,7 +9,7 @@ description: "Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-En
 
 Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur fuer Master-RoPA mit Entity-Anhaengen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernweiter RoPA-Roll-out (Mutter- und Tochtergesellschaften).
 - Shared-Service-Center fuer HR, IT, Buchhaltung, Recht (typischerweise Processor-Konstellation).

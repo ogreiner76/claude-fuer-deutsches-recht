@@ -38,7 +38,7 @@ Für **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klau
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Informationspflichten vor Vertragsschluss Art. 246a EGBGB** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -83,7 +83,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Unwirksame Klauseln Versand Rücksendung Gewährleistung** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -128,7 +128,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Marktplatzhaftung Händler Plattform** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 

@@ -9,7 +9,7 @@ description: "Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Fri
 
 Dieser Skill fuehrt durch den Akutfall einer Datenpanne. Ziel ist die fristwahrende und zugleich bussgeldminimierende Meldung an die Aufsichtsbehoerde nach Art. 33 DSGVO und — falls erforderlich — die Benachrichtigung der Betroffenen nach Art. 34 DSGVO, ohne durch vorschnelle Selbstbelastung das Bussgeldrisiko nach Art. 83 DSGVO zu erhoehen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill ab dem Moment, in dem der Mandant Kenntnis von einem Vorfall erlangt: Ransomware, Phishing-Mail mit Anhangsverlust, falsch versendete Massen-E-Mail, gestohlener Laptop ohne Verschluesselung, fehlerhaft konfiguriertes Cloud-Bucket, unbefugter Mitarbeiterzugriff, Diebstahl USB, Druckdienstleister-Fehlversand.
 

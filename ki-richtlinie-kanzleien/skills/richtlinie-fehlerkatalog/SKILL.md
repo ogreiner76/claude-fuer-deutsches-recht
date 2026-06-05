@@ -7,7 +7,7 @@ description: "Richtlinie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständig
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Ki Richtlinie Kanzleien** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Ki Richtlinie Kanzleien** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

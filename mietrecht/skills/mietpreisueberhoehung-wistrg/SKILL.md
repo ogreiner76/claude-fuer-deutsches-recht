@@ -15,7 +15,7 @@ In diesem Skill wird **Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkung
 | --- | --- |
 | `mietpreisueberhoehung-wistrg-1954-mietwucher` | Prueft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, Mietpreisueberhoehung § 5 WiStrG 1954 als Ordnungswidrigkeit und Mietwucher § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rueckforderungs- und Behoerdenpfad. |
 | `mietsenkungsverlangen` | Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. |
-| `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht. |
+| `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Dieses Fachmodul greift, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht. |
 
 ## Arbeitsweg
 
@@ -41,7 +41,7 @@ Für **Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Miet
 
 ## Einsatz
 
-Nutze diesen Skill, wenn eine Wohnraummiete deutlich über der ortsüblichen Vergleichsmiete liegt oder der Nutzer Wörter wie "Mietwucher", "Mietpreisüberhöhung", "zu hohe Miete", "20 Prozent", "50 Prozent", "Wohnungsnot", "Zwangslage" oder "Anzeige gegen Vermieter" verwendet. Der Skill trennt sauber zwischen zivilrechtlicher Mietpreisbremse, ordnungswidrigkeitenrechtlicher Mietpreisüberhöhung und strafrechtlichem Wucher.
+Dieses Fachmodul greift, wenn eine Wohnraummiete deutlich über der ortsüblichen Vergleichsmiete liegt oder der Nutzer Wörter wie "Mietwucher", "Mietpreisüberhöhung", "zu hohe Miete", "20 Prozent", "50 Prozent", "Wohnungsnot", "Zwangslage" oder "Anzeige gegen Vermieter" verwendet. Der Skill trennt sauber zwischen zivilrechtlicher Mietpreisbremse, ordnungswidrigkeitenrechtlicher Mietpreisüberhöhung und strafrechtlichem Wucher.
 
 ## Sofort klären
 
@@ -211,7 +211,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mietspiegel-quellen`
 
-**Fokus:** Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht.
+**Fokus:** Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Dieses Fachmodul greift, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht.
 
 # Mietspiegel-Quellen (amtlich)
 

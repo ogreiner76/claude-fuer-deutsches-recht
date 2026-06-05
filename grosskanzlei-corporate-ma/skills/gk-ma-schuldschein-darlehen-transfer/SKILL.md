@@ -18,7 +18,7 @@ description: "Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzie
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erzeugt eine Closing-Checkliste für Arrangeur/Zahlstelle, Verkäufer, Käufer, Borrower und Sicherheitenagent.
 

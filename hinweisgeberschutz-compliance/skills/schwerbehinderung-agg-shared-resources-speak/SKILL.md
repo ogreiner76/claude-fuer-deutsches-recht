@@ -31,7 +31,7 @@ Für **Schwerbehinderung Agg, Shared Resources, Speak Up Kultur, Sprachliche Zug
 
 # Schwerbehinderung Agg
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Benachteiligung, Prävention, SBV, Datenschutz, Repressalie und parallele Ansprüche.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Shared Resources
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Pooling, Verantwortlichkeiten, Fristen, Fachkunde, Unabhängigkeit und Dokumentation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Speak Up Kultur
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Vertrauen, Rückkanal, Fehlerkultur, Statistiken, Board-Sponsorship und Schutzversprechen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Sprachliche Zugaenglichkeit
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Einfache Sprache, Mehrsprachigkeit, juristische Begriffe, Barrierefreiheit und Vertrauen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

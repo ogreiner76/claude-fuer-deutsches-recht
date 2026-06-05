@@ -33,7 +33,7 @@ Für **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsa
 # Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister
 
 ## Fachkern: Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister
-- **Spezialgegenstand:** Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -80,7 +80,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
 
 ## Fachkern: Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
-- **Spezialgegenstand:** Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -127,7 +127,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis
 
 ## Fachkern: Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis
-- **Spezialgegenstand:** Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -174,7 +174,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
 
 ## Fachkern: Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
-- **Spezialgegenstand:** Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -221,7 +221,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 # Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
 
 ## Fachkern: Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
-- **Spezialgegenstand:** Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

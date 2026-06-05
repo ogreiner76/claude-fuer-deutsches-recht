@@ -13,7 +13,7 @@ In diesem Skill wird **Surrogat Erloes Versicherung Ersatzforderung, Triage Verm
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `surrogat-erloes-versicherung-ersatzforderung` | Nutze diesen Skill, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt. |
+| `surrogat-erloes-versicherung-ersatzforderung` | Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt. |
 | `triage-vermoegensverschiebung-erfassen` | Erster Schritt: Vermögenverschiebung strukturiert erfassen für Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung, Weichenstellung Regelungskreis. Output: Erfassungsbogen Vermögenverschiebung. Abgrenzung: nicht inhaltliche Prüfung. |
 | `umfang-der-herausgabe-818-bgb-und-entreicherung` | Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangtes, Nutzungen, Surrogate, Wertersatz, Entreicherung, ersparte Aufwendungen und Zurechnung des Wegfalls. Output: Werttabelle mit Einredeprüfung. |
 | `verfuegung-eines-nichtberechtigten-816-bgb` | Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfügenden Nichtberechtigten prüfen. Normen: § 816 BGB. Prüfraster: wirksame Verfügung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs. unentgeltlich, Anspruch auf Erlangtes. Output: Prüfergebnis Anspruch § 816 BGB. Abgrenzung: nicht § 822 BGB (unentgeltliche Weitergabe). |
@@ -27,13 +27,13 @@ Für **Surrogat Erloes Versicherung Ersatzforderung, Triage Vermoegensverschiebu
 
 ## 1. `surrogat-erloes-versicherung-ersatzforderung`
 
-**Fokus:** Nutze diesen Skill, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt.
+**Fokus:** Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt.
 
 # Surrogat, Erlös, Versicherung und Ersatzforderung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

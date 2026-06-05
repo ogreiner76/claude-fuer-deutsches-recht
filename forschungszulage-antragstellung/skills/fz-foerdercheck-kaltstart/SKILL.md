@@ -9,7 +9,7 @@ description: "Schneller Fördercheck Forschungszulage in zehn Minuten: Anspruchs
 
 Vor jedem FZulG-Antrag steht eine Wirtschaftlichkeitsfrage: lohnt der Aufwand für BSFZ-Antrag, Stundenerfassung, Personalkostenrechnung und Finanzamt-Antrag? Dieser Skill liefert nach maximal zehn Minuten eine belastbare Erstaussage als Ampel und benennt den nächsten Arbeitsblock.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie nutzen `fz-foerdercheck-kaltstart`:
 

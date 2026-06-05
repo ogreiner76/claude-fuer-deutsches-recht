@@ -134,7 +134,7 @@ Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzun
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine technische Verletzungsanalyse ohne Sachverständigen.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -251,7 +251,7 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine eigenständige Ähnlichkeitsrecherche ohne konkrete Zeichen.
 - Kein Ersatz für vollständige Mandantenberatung und Aktenführung durch zuständige Kanzlei.
 
@@ -358,6 +358,6 @@ Dieser Skill liefert die Risikoampel und Gegenargumente für Markensachen: Verwe
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Verwechslungsbeurteilung ohne Kenntnis beider Zeichen.
 - Kein Ersatz für vollständige Mandantenberatung.

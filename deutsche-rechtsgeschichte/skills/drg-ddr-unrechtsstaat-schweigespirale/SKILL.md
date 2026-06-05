@@ -35,7 +35,7 @@ Für **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeit
 
 ## Einsatz
 
-Nutze diesen Skill für DDR-Rechtsgeschichte, Rehabilitierung, Vermögensfragen, Verwaltungsakten, Hochschulgeschichte und Debatten über den Begriff Unrechtsstaat.
+Dieses Fachmodul prüft DDR-Rechtsgeschichte, Rehabilitierung, Vermögensfragen, Verwaltungsakten, Hochschulgeschichte und Debatten über den Begriff Unrechtsstaat.
 
 ## Prüfschritte
 
@@ -155,7 +155,7 @@ Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
 
 ## Einsatz
 
-Nutze diesen Skill zur Nachkriegsgeschichte belasteter Juristen und Institutionen. Er vermeidet beides: pauschale Verdammung ohne Belege und verharmlosende Integrationsrhetorik.
+Dieses Fachmodul zur Nachkriegsgeschichte belasteter Juristen und Institutionen. Er vermeidet beides: pauschale Verdammung ohne Belege und verharmlosende Integrationsrhetorik.
 
 ## Struktur
 

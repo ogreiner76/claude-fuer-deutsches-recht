@@ -9,7 +9,7 @@ description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs
 
 Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im Rahmen einer DSFA. Art. 35 Abs. 9 DSGVO sieht vor, dass der Verantwortliche, soweit angemessen, den Standpunkt Betroffener oder ihrer Vertreter einholt. Ergebnis dieses Skills ist ein dokumentierter Konsultationsplan mit Begruendung, Form, Reichweite und Verwertung des Ergebnisses.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei DSFA mit Beschaeftigtendaten (Betriebsrat als Vertretung)
 - Bei DSFA mit Patientendaten oder Kundendaten in grossem Umfang

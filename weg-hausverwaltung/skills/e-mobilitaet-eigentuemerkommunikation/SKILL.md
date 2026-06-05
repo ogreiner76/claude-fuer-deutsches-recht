@@ -46,7 +46,7 @@ Für **E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerd
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill bei Wallboxen, Ladepunkten in Tiefgaragen, gemeinschaftlicher Ladeinfrastruktur, Steckersolar/Balkonkraftwerk, Dach-PV oder der Idee, Strom aus dem Kellerabteil zur Garage zu ziehen.
+Dieses Fachmodul bei Wallboxen, Ladepunkten in Tiefgaragen, gemeinschaftlicher Ladeinfrastruktur, Steckersolar/Balkonkraftwerk, Dach-PV oder der Idee, Strom aus dem Kellerabteil zur Garage zu ziehen.
 
 ## Prüfprogramm
 

@@ -17,7 +17,7 @@ Der Sanierungsgewinn nach § 3a EStG ist der häufigste Stolperstein in der spä
 
 Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zeigt monatlich, welche Weiche zu stellen ist.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist eine außergerichtliche Sanierung, ein StaRUG-Verfahren oder ein Insolvenzplan ernsthaft in Planung?
 2. Welches Antragsdatum ist realistisch — in Monaten ab heute?

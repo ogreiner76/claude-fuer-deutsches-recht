@@ -5,7 +5,7 @@ description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristis
 
 # Kommandocenter
 
-Nutze diesen Skill als Einstieg für jede Übertragung juristischer Texte in
+Dieser Einstieg führt in jede Übertragung juristischer Texte in
 Einfache Sprache oder Leichte Sprache.
 
 

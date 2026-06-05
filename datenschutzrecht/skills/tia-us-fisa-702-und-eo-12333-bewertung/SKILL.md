@@ -14,7 +14,7 @@ Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachun
 
 Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practice) geprueft. Nach Inkrafttreten der Executive Order **14086** vom 07.10.2022 (Grundlage des EU-US DPF) sind zudem die Reformen zu wuerdigen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - TIA fuer US-Cloud-/SaaS-Anbieter.
 - Diskussion mit Anbieter, ob er als ECSP gilt.

@@ -152,7 +152,7 @@ Stand: 05/2026.
 
 § 3a EStG befreit Erträge aus einer unternehmensbezogenen Sanierung von der Einkommensteuer (und über § 8 Abs. 1 KStG von der Körperschaftsteuer). Voraussetzung ist, dass die Sanierung kumulativ vier Merkmale erfüllt. Dieser Skill zerlegt die Norm in ihre Tatbestandsmerkmale und arbeitet Subsumtionspunkte heraus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Liegt eine Sanierung (Schuldenerlass / Verzicht) tatsächlich vor — oder nur Forderungsausfall?
 2. Hat das Unternehmen einen begünstigten Sanierungsertrag im Sinne § 3a EStG?
@@ -356,7 +356,7 @@ beachtet; parallel § 7b GewStG-Antrag.
 
 § 3a EStG unterscheidet zwischen unternehmensbezogener Sanierung (§ 3a Abs. 1, 2 EStG) und personenbezogener Sanierung (§ 3a Abs. 5 EStG — Restschuldbefreiung). Wer die Variante falsch zuordnet, stellt entweder den falschen Antrag oder gar keinen. Dieser Skill arbeitet die Abgrenzung systematisch heraus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist Schuldner eine Kapitalgesellschaft (regelmäßig unternehmensbezogen) oder eine natürliche Person?
 2. Bei Personengesellschaft / Einzelunternehmen: Betrifft der Verzicht das Betriebs- oder das Privatvermögen?
@@ -511,7 +511,7 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 
 § 3a Abs. 4 EStG macht die Steuerbefreiung vom ausdrücklichen Antrag abhängig. Der Antrag wirkt bindend: Nach Feststellung des Sanierungserfolgs kann er nicht mehr zurückgenommen werden. Die Folge ist endgültig — alle steuerlichen Wahlrechte zu Verlustverbrauch und Aufwandsabzug sind dann gesetzt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Soll der Antrag tatsächlich gestellt werden — oder reicht der Verlustvortrag (Sanity-Check)?
 2. Wann ist der späteste Zeitpunkt für den Antrag?
@@ -681,7 +681,7 @@ Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
 
 Das BMF-Schreiben vom 27.04.2017 ist die Verwaltungsanweisung, die den früheren Sanierungserlass (BMF 27.03.2003) nach der Entscheidung des Großen Senats des BFH (Modellwissen — vor Verwendung Quelle prüfen) ersetzt hat. Es konkretisiert, wie die Finanzverwaltung die vier Voraussetzungen des § 3a EStG (gesetzliche Verankerung durch Wachstumschancengesetz, BGBl. I 2024 — Stand prüfen) prüft und welche Nachweise im Antragsverfahren erforderlich sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Bearbeitungsstand des BMF-Schreibens ist im konkreten Mandat aktuell?
 2. Gibt es Übergangsregelungen für Altfälle (Verzichte vor Inkrafttreten der gesetzlichen Verankerung)?
@@ -840,7 +840,7 @@ herangezogen werden.
 
 Der Forderungsverzicht durch Gläubiger ist beim Schuldner ein Buchgewinn. Wie er handelsrechtlich und steuerlich darzustellen ist, beeinflusst sowohl die Höhe des Sanierungsertrags als auch die Sichtbarkeit gegenüber dem FA. Dieser Skill stellt die Buchungslogik und die Plan-Bilanz-Erstellung dar.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer verzichtet — Bank, Lieferant, Gesellschafter?
 2. Auf welche Verbindlichkeit wird verzichtet — Darlehen, Lieferantenforderung, Gesellschafterdarlehen?
@@ -1035,7 +1035,7 @@ Der Sanierungsgewinn nach § 3a EStG ist der häufigste Stolperstein in der spä
 
 Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zeigt monatlich, welche Weiche zu stellen ist.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist eine außergerichtliche Sanierung, ein StaRUG-Verfahren oder ein Insolvenzplan ernsthaft in Planung?
 2. Welches Antragsdatum ist realistisch — in Monaten ab heute?
@@ -1182,7 +1182,7 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 
 Bei Personengesellschaften (GbR, OHG, KG, GmbH und Co. KG) ist der Sanierungsertrag nicht bei der Gesellschaft selbst, sondern anteilig bei den Mitunternehmern zu versteuern (Mitunternehmerschaft, § 15 Abs. 1 S. 1 Nr. 2 EStG). Jeder Mitunternehmer muss seinen Anteil am Sanierungsertrag in der eigenen Steuererklärung deklarieren und ggf. Antrag § 3a Abs. 4 EStG stellen. Sonderbetriebsvermögen wird separat behandelt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Rechtsform liegt vor — GbR, OHG, KG, GmbH und Co. KG?
 2. Anzahl Mitunternehmer und Beteiligungsverhältnis?
@@ -1354,7 +1354,7 @@ A trägt allein:
 
 § 5 Abs. 2a EStG enthält ein Passivierungsverbot für Verbindlichkeiten, die ausschließlich aus zukünftigen Gewinnen, Einnahmen oder Vermögenswerten zu tilgen sind. Klassisch trifft das den Rangrücktritt mit Tilgung "aus freiem Vermögen" — wenn der Rangrücktritt zu eng formuliert ist, entsteht ein Buchgewinn in Höhe der Verbindlichkeit. Dieser Buchgewinn ist im Sanierungskontext häufig der Sanierungsertrag, den § 3a EStG retten muss.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Liegt eine Rangrücktrittserklärung vor — schriftlich, vor oder im Sanierungsverfahren?
 2. Welche Tilgungsabrede ist im Rangrücktritt enthalten — "aus zukünftigen Gewinnen" oder "aus freiem Vermögen"?

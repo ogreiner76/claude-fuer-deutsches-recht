@@ -9,7 +9,7 @@ description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemes
 
 Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien fuer die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Pruefung, ob fuer einen US-Importeur ein TIA noch erforderlich ist.
 - Dokumentation des DPF-Listings im RoPA / TIA.

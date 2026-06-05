@@ -13,10 +13,10 @@ In diesem Skill wird **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsbe
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `verfuegung-nichtberechtigter-816-vertiefung` | Nutze diesen Skill, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden). |
-| `vergleichsberechnung-und-verhandlungsangebot` | Nutze diesen Skill, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung. |
-| `vermoegensvergleich-und-nettobetrachtung` | Nutze diesen Skill, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Saldo- oder Zweikondiktionen-Rechnung mit Nettoergebnis. Abgrenzung: nicht Einzelpositionsbetrachtung ohne Saldo. |
-| `versicherung-und-praemienrueckforderung` | Nutze diesen Skill, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Prämienrückforderung mit Risikoabschlag. Abgrenzung: nicht Leistungsklage gegen Versicherer auf VVG-Basis. |
+| `verfuegung-nichtberechtigter-816-vertiefung` | Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden). |
+| `vergleichsberechnung-und-verhandlungsangebot` | Dieses Fachmodul greift, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung. |
+| `vermoegensvergleich-und-nettobetrachtung` | Dieses Fachmodul greift, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Saldo- oder Zweikondiktionen-Rechnung mit Nettoergebnis. Abgrenzung: nicht Einzelpositionsbetrachtung ohne Saldo. |
+| `versicherung-und-praemienrueckforderung` | Dieses Fachmodul greift, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Prämienrückforderung mit Risikoabschlag. Abgrenzung: nicht Leistungsklage gegen Versicherer auf VVG-Basis. |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsberechnung Und Ver
 
 ## 1. `verfuegung-nichtberechtigter-816-vertiefung`
 
-**Fokus:** Nutze diesen Skill, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden).
+**Fokus:** Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden).
 
 # § 816 BGB vertieft: Verfügung Nichtberechtigter
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -101,13 +101,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `vergleichsberechnung-und-verhandlungsangebot`
 
-**Fokus:** Nutze diesen Skill, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung.
+**Fokus:** Dieses Fachmodul greift, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung.
 
 # Vergleichsberechnung und Verhandlungsangebot
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -175,13 +175,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `vermoegensvergleich-und-nettobetrachtung`
 
-**Fokus:** Nutze diesen Skill, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Saldo- oder Zweikondiktionen-Rechnung mit Nettoergebnis. Abgrenzung: nicht Einzelpositionsbetrachtung ohne Saldo.
+**Fokus:** Dieses Fachmodul greift, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Saldo- oder Zweikondiktionen-Rechnung mit Nettoergebnis. Abgrenzung: nicht Einzelpositionsbetrachtung ohne Saldo.
 
 # Vermögensvergleich und Nettobetrachtung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -249,13 +249,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `versicherung-und-praemienrueckforderung`
 
-**Fokus:** Nutze diesen Skill, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Prämienrückforderung mit Risikoabschlag. Abgrenzung: nicht Leistungsklage gegen Versicherer auf VVG-Basis.
+**Fokus:** Dieses Fachmodul greift, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Prämienrückforderung mit Risikoabschlag. Abgrenzung: nicht Leistungsklage gegen Versicherer auf VVG-Basis.
 
 # Versicherung und Prämienrückforderung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

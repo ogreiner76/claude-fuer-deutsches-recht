@@ -9,7 +9,7 @@ description: "Beschreibt das Standardkostenmodell SKM als methodischen Kern der 
 
 Das Standardkostenmodell (SKM) ist die in Deutschland (und mehreren EU-Mitgliedstaaten) etablierte Methodik zur Quantifizierung von Erfuellungsaufwand. Der NKR hat das SKM 2006/2007 als methodische Grundlage uebernommen und im Leitfaden BMI/NKR weiterentwickelt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme prueft Methodenanwendung
 - Ressort wendet abweichende Methodik an

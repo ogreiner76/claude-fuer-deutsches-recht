@@ -18,7 +18,7 @@ description: "Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assig
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Keine LMA-Textkopie; alle Ergebnisse hängen am hochgeladenen Dokument und der deutschen Rechtswirkung.
 

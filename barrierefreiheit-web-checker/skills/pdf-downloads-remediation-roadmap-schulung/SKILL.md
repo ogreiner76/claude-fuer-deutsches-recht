@@ -30,7 +30,7 @@ Für **Pdf Downloads Dokumente, Remediation Roadmap Dokumentation, Schulung Und 
 
 # PDFs, Downloads und Dokumente
 
-Nutze diesen Skill, wenn eine Website barrierefrei wirkt, aber wichtige Informationen in PDFs, Word-Dateien oder Formularen versteckt sind.
+Dieses Fachmodul prüft Fälle, in denen eine Website barrierefrei wirkt, wichtige Informationen aber in PDFs, Word-Dateien oder Formularen stecken.
 
 ## Prüfpunkte
 
@@ -78,7 +78,7 @@ AGB, Preislisten, Produktinformationen, Formulare, Widerrufsbelehrung, Barrieref
 
 # Remediation-Roadmap und Dokumentation
 
-Nutze diesen Skill nach Audit oder Beschwerde. Ziel ist ein Plan, der Entwickler, Management, Rechtsabteilung und Nutzerkontakt zusammenbringt.
+Dieses Fachmodul arbeitet nach Audit oder Beschwerde einen Plan aus, der Entwickler, Management, Rechtsabteilung und Nutzerkontakt zusammenbringt.
 
 ## Priorisierung
 
@@ -180,7 +180,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

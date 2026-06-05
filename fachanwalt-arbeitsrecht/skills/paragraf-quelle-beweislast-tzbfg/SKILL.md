@@ -135,7 +135,7 @@ Nach Ausfüllen der Matrix:
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Dokument-Beschaffung; die Dokumentenbeschaffung bleibt beim Anwalt und Mandanten.
 - Keine abschließende Liste aller denkbaren Dokumente; jeder Fall erfordert individuelle Ergänzung.
 
@@ -267,7 +267,7 @@ Unsichere Punkte (Live-Check erforderlich):
 - Keine Modellwissen-Zitate ohne Verifikation.
 - Annahmen und unsichere Punkte explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Quellenverifikation; menschliche Prüfung bleibt notwendig.
 - Keine Prüfung von Kommentarliteratur ohne Nutzervorlage.
 
@@ -400,6 +400,6 @@ Nächster Schritt: [Klageschrift bis Datum / Mandantengespräch / Verhandlungsve
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Klageschrift-Erstellung.
 - Keine Gewähr für Aktualität der Klageformulierungen bei Gesetzesänderungen.

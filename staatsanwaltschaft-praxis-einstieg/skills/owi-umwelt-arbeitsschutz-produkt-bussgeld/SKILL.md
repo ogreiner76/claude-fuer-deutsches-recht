@@ -14,7 +14,7 @@ description: "Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 

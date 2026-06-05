@@ -32,13 +32,13 @@ Für **Rechtsbehelfsbelehrung Pruefungsbescheid, Sprachpruefung Und Eignung, Spr
 # Rechtsbehelfsbelehrung Prüfungsbescheid
 
 ## Fachkern: Rechtsbehelfsbelehrung Prüfungsbescheid
-- **Spezialgegenstand:** Rechtsbehelfsbelehrung Prüfungsbescheid; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsbehelfsbelehrung Prüfungsbescheid. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -93,13 +93,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 # Sprachpruefung Und Eignung
 
 ## Fachkern: Sprachpruefung Und Eignung
-- **Spezialgegenstand:** Sprachpruefung Und Eignung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sprachpruefung Und Eignung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Künstlerischer Spielraum, Kriterien, Transparenz, Wiederholung, Akteneinsicht und Fristen.
 
@@ -160,13 +160,13 @@ Erzeuge bevorzugt: Eignungsprüfungscheck. Am Ende immer drei Zeilen: **Frist**,
 # Sprachtest und Aufenthaltsrecht
 
 ## Fachkern: Sprachtest und Aufenthaltsrecht
-- **Spezialgegenstand:** Sprachtest und Aufenthaltsrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sprachtest und Aufenthaltsrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -221,13 +221,13 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 # Staatsexamen Landesrecht
 
 ## Fachkern: Staatsexamen Landesrecht
-- **Spezialgegenstand:** Staatsexamen Landesrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Staatsexamen Landesrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

@@ -38,7 +38,7 @@ Für **LMA Transfer Assignment Novation / Schuldschein Darlehen Struktur / Schul
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf praktische Closing-Schritte und deutsche Rechtswirkung.
 
@@ -79,7 +79,7 @@ BGB Abtretung §§ 398 ff., Vertragsübernahme/Novation, LMA-Upload, Sicherheite
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Nützlich für PE-Portfoliounternehmen, Refinanzierung und Secondary Loan Trades.
 
@@ -120,7 +120,7 @@ BGB Darlehen, HGB/Bilanz, Schuldscheinbedingungen, Abtretung, Namensschuldversch
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill baut eine Closing-Checkliste für Verkäufer, Käufer, Borrower und Zahlstelle.
 
@@ -161,7 +161,7 @@ BGB §§ 398 ff., § 399, Sicherheiten, Datenschutz, Bankgeheimnis, Vertragsklau
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf deutsches NPL-Portfolio, Verbraucher-/KMU-Kredite und PE/Distressed Investor.
 

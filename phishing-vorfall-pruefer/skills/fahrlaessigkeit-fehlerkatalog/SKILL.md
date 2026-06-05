@@ -7,7 +7,7 @@ description: "Fahrlaessigkeit Fehlerkatalog: Fehlerbremse; pr체ft Fristen, Zust�
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Phishing Vorfall Pr체fer** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengepr체ft werden soll.
+Dieser Fehlerkatalog pr체ft im Bereich **Phishing Vorfall Pr체fer** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

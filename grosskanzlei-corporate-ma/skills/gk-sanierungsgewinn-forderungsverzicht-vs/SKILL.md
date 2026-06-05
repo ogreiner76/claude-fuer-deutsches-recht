@@ -24,7 +24,7 @@ Die wahrscheinlich häufigste Sanierungs-Falle in der Praxis ist die Kombination
 
 Dieser Skill löst das Konkurrenzverhältnis Schritt für Schritt auf.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Restrukturierung mit Eintritt eines neuen Investors (PE, Strategic) und gleichzeitigem Forderungsverzicht der Altgläubiger.
 - Debt-Equity-Swap, der einen oder mehrere Hauptgläubiger zu neuen Gesellschaftern mit über 50 % macht.

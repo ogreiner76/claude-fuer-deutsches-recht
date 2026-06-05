@@ -7,7 +7,7 @@ description: "Screenreader Quellenkarte: Quellenprüfung; Normenstand, Rechtspre
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Barrierefreiheit Web Checker** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Barrierefreiheit Web Checker** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

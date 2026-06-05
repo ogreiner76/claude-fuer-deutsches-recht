@@ -29,7 +29,7 @@ Für **Vertraulichkeit Vs Anhoerung, Zugriffskonzept** zuerst das tragende Prüf
 
 # Vertraulichkeit Vs Anhoerung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Wie viel Sachverhalt offenlegen, ohne Identität oder unnötige Daten preiszugeben.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Zugriffskonzept
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Rollen, Berechtigungen, Adminzugriff, Protokollierung, Stellvertretung und Notfall.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

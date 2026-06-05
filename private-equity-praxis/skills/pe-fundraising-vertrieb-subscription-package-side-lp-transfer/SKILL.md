@@ -42,7 +42,7 @@ Für **Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Sec
 
 Der Skill verhindert, dass Vertrieb vor Regulierungs- und Compliance-Freigabe losläuft. Kernprüfung: KAGB-Vertriebsregime (§§ 293 ff. für inländische AIF, §§ 320 ff. für EU-AIF, § 330 ff. für ausländische AIF), Reverse-Solicitation-Doktrin, MiFID-Geeignetheitsprüfung, MAR-relevante Marketing-Vermerke und Greenwashing-Risiken nach SFDR.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Fonds soll vertrieben werden (DE Spezial-AIF, EU-AIF mit Pass, Drittstaaten-AIF)?
 2. Welche Anlegerkategorie wird angesprochen (professionell, semiprofessionell, retail)?
@@ -137,7 +137,7 @@ Marketing-Disclaimer (PPM):
 
 Der Skill arbeitet das vollständige Subscription-Paket ab: Beitrittserklärung (Subscription Agreement), Anlegerklassifizierungsbogen, KYC-Anhang, FATCA/CRS-Selbstauskunft, AnlV-Bescheinigung bei Versicherern, ESG-Erklärung und Side Letter mit MFN-Logik. Fokus auf LP-Rechte, Gleichbehandlung, Side-Letter-Kollisionen und spätere Durchsetzbarkeit.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche LP-Kategorie zeichnet (institutionell, Family Office, semiprofessionell)?
 2. Ticketgröße (entscheidet MFN-Tier)?
@@ -230,7 +230,7 @@ Key Person Suspension (LPA):
 
 Der Skill prüft, ob ein Secondary schnell closingfähig ist oder an Consent, Tax oder Side-Letter-Rechten hängt. Sekundärmarktverkäufe von LP-Interests sind seit 2020 die schnellstwachsende PE-Subklasse — Buyer (Coller, Ardian, Lexington, HarbourVest) verlangen klare Closing-Mechanik, Seller wollen liquide Exits unter NAV-Discount.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Fonds-Interests werden veräußert (Vintage, Sponsor, Volumen, Commitment/Unfunded)?
 2. Sind die Anteile vinkuliert nach LPA (Standard: 100 Prozent Sponsor-Consent)?
@@ -324,7 +324,7 @@ Apportionment of Distributions / Capital Calls (Secondary SPA):
 
 Der Skill erzeugt Default Notice, Risikoampel und Kommunikationsplan beim säumigen LP. Capital Calls sind das wirtschaftliche Lebenselixier des Fonds; ein Defaulting LP kann durch Verwässerung, Verzugszinsen, Übernahme durch andere LPs (Topping-Up Right) oder Zwangsverkauf des Interests sanktioniert werden. Der Skill arbeitet die LPA-Mechanik im konkreten Default-Fall ab.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer ruft ab (KVG) und an wen (LP), in welcher Höhe und mit welcher Notice Period (typisch 10 Bankarbeitstage)?
 2. Hat der LP bereits einen Default oder eine Late Payment Notice erhalten?

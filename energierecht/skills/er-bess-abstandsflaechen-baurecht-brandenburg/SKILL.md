@@ -31,7 +31,7 @@ Für **Er Bess Abstandsflaechen Und Layout, Er Bess Baurecht Brandenburg, Er Bes
 
 # Abstandsflächen, Containerlayout und Nachbarschaft
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht aus Lageplan, Flurkarte und Techniklayout eine Genehmigungsrisikomatrix.
 
@@ -64,7 +64,7 @@ BbgBO, BauGB Rücksichtnahme, TA Lärm, Brandschutzkonzept, Grundstücksrecht.
 
 # Batteriespeicher: Baurecht und Bauleitplanung Brandenburg
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf große Containerparks in Brandenburg mit politischem und gemeindlichem Druck.
 
@@ -97,7 +97,7 @@ BauGB, BauNVO, BbgBO, Umweltprüfung, Beteiligung, Abstandsflächen.
 
 # Behördenstrategie und Bürgerkommunikation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf klare, nicht beschönigende Kommunikation.
 
@@ -130,7 +130,7 @@ VwVfG, BauGB-Beteiligung, BImSchG-Verfahren, Informationsfreiheits-/Umweltinform
 
 # BImSchG-Screening für Batteriespeicher
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill trennt Bauantrag, BImSchG-Antrag, Störfall- und Brandschutzthemen.
 

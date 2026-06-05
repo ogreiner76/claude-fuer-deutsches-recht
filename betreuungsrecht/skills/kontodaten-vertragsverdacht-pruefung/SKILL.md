@@ -5,7 +5,7 @@ description: "Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Miss
 
 # Kontodaten- und Vertragsverdacht-Prüfung
 
-Nutze diesen Skill, wenn in einer Betreuung Kontoauszüge, Vertragsunterlagen,
+Dieses Fachmodul greift in der Betreuung, wenn Kontoauszüge, Vertragsunterlagen,
 Rechnungen oder Belege darauf geprüft werden sollen, ob Geldabflüsse,
 Dauerverträge, Anlagegeschäfte oder sonstige Rechtsgeschäfte für die betreute
 Person auffällig, schädlich oder betreuungsgerichtlich relevant sind.

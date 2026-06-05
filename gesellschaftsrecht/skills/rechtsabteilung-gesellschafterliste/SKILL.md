@@ -42,7 +42,7 @@ Für **Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung K
 
 
 ## Fachkern: Rechtsabteilung: Gesellschafterliste und Registerstreit
-- **Spezialgegenstand:** Rechtsabteilung: Gesellschafterliste und Registerstreit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Gesellschafterliste und Registerstreit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -98,7 +98,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 
 ## Fachkern: Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss
-- **Spezialgegenstand:** Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -154,7 +154,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 
 ## Fachkern: Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
-- **Spezialgegenstand:** Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -210,7 +210,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 
 ## Fachkern: Beschluss im schriftlichen Verfahren / Umlaufbeschluss
-- **Spezialgegenstand:** Beschluss im schriftlichen Verfahren / Umlaufbeschluss; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Beschluss im schriftlichen Verfahren / Umlaufbeschluss. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

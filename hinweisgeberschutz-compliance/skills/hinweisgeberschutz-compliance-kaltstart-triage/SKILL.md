@@ -5,7 +5,7 @@ description: "Startet das HinSchG-Kommandocenter für Meldestelle, Hinweis, NDA-
 
 # Allgemein
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Scope, Meldekanal, Personenschutz, Sachverhaltsklärung, NDA/Geheimnis und Output routen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

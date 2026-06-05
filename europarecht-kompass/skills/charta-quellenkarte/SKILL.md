@@ -7,7 +7,7 @@ description: "Charta Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung,
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Europarecht Kompass** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Europarecht Kompass** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

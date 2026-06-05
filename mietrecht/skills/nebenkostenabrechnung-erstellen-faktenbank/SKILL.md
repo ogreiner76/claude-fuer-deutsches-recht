@@ -15,7 +15,7 @@ In diesem Skill wird **Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Pr
 | --- | --- |
 | `nebenkostenabrechnung-erstellen` | Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate. |
 | `nebenkostenabrechnung-pruefen` | Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht. |
-| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen. |
+| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen. |
 
 ## Arbeitsweg
 
@@ -262,7 +262,7 @@ Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, 
 
 ## 3. `rechtsstand-mai-2026-faktenbank`
 
-**Fokus:** Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen.
+**Fokus:** Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen.
 
 # Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG
 

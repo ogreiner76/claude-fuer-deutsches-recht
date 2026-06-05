@@ -13,7 +13,7 @@ description: "Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: 
 
 ## Einsatz
 
-Nutze diesen Skill, wenn das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
+Dieses Fachmodul greift, wenn das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
 
 ## Prüfroutine
 

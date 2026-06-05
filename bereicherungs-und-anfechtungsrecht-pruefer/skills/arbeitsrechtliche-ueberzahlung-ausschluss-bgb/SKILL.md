@@ -13,10 +13,10 @@ In diesem Skill wird **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntn
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `arbeitsrechtliche-ueberzahlung` | Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB. |
+| `arbeitsrechtliche-ueberzahlung` | Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB. |
 | `ausschluss-814-bgb-kenntnis-der-nichtschuld` | Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoß). |
 | `ausschluss-817-bgb-gesetzes-und-sittenverstoss` | Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoß, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld). |
-| `bankueberweisung-fehlbuchung-und-empfaengerhorizont` | Nutze diesen Skill, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung. |
+| `bankueberweisung-fehlbuchung-und-empfaengerhorizont` | Dieses Fachmodul greift, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung. |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschu
 
 ## 1. `arbeitsrechtliche-ueberzahlung`
 
-**Fokus:** Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB.
+**Fokus:** Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB.
 
 # Arbeitsrechtliche Überzahlung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -299,13 +299,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `bankueberweisung-fehlbuchung-und-empfaengerhorizont`
 
-**Fokus:** Nutze diesen Skill, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung.
+**Fokus:** Dieses Fachmodul greift, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung.
 
 # Banküberweisung, Fehlbuchung und Empfängerhorizont
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

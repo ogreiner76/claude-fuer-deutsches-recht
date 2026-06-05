@@ -31,7 +31,7 @@ Für **Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung A
 # Auslandseinsatz – Mandat und Einsatzregeln
 
 ## Fachkern: Auslandseinsatz – Mandat und Einsatzregeln
-- **Spezialgegenstand:** Auslandseinsatz – Mandat und Einsatzregeln; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Auslandseinsatz – Mandat und Einsatzregeln. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung A
 
 Bewaffnete Auslandseinsätze deutscher Streitkräfte unterliegen einem dreistufigen Regelwerk: völkerrechtliches Mandat (UN-Resolution, NATO-Beschluss, EU-Operationsplan), konstitutiver Zustimmungsbeschluss des Bundestages (Parlamentsbeteiligungsgesetz) und Einsatzregeln (Rules of Engagement, ROE). Der Skill ordnet die Rechtsgrundlagen, prüft Befehlsverbindlichkeit innerhalb des Mandats und führt durch Statusfragen (NATO-Truppenstatut, SOFA-Abkommen).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welcher konkrete Einsatz (KFOR, EUFOR, EUTM, UNIFIL, Sea Guardian, Counter Daesh, neuere Mandate)?
 - Welche Verwendung im Einsatz (Truppe, Stab, Beobachter, Ausbildung)?
@@ -133,7 +133,7 @@ Bewaffnete Auslandseinsätze deutscher Streitkräfte unterliegen einem dreistufi
 # Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer
 
 ## Fachkern: Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer
-- **Spezialgegenstand:** Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -157,7 +157,7 @@ Fehlzuordnungen beim Rechtsweg führen zu Unzulässigkeit und Fristrisiken. § 1
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -244,7 +244,7 @@ Vor Ausgabe prüfen:
 # Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
 
 ## Fachkern: Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
-- **Spezialgegenstand:** Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -268,7 +268,7 @@ Das BVerwG hat in BVerwG 2 WD 12/04 ('Irakkrieg-Urteil') entschieden, dass ein S
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

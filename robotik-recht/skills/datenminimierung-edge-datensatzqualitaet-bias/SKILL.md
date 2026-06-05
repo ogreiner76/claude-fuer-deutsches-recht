@@ -41,7 +41,7 @@ Für **Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri** zuerst das
 
 Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Roboter), Fog (lokales Netzwerk, Steuerstand) und Cloud (Telemetrie, KI-Training, Predictive Maintenance). Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO) und Privacy-by-Design (Art. 25 DSGVO) verlangen, dass möglichst wenige Daten möglichst spät und möglichst kurz fließen. Dieser Skill prüft das Datenflussmodell, identifiziert vermeidbare Übertragungen, schlägt Aggregations- und Anonymisierungsschritte vor und liefert Klauseln für Drittanbieter und Mitarbeiter.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Betreiber, DSB, CISO, Cloud-Anbieter.
 2. **Architektur:** Edge-only, Edge+Cloud, Federated, Cloud-only? Welche Verarbeitungen jeweils?
@@ -142,7 +142,7 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 
 Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen (Service-, Pflege-, Sicherheitsrobotik, Liefer- und autonome Mobilität, Recruiting-/Empfangsroboter) sind regelmäßig auf Trainingsdaten angewiesen, deren Qualität und Repräsentativität über Sicherheit und Diskriminierungsfreiheit entscheidet. Art. 10 KI-VO setzt für Hochrisiko-KI verbindliche Anforderungen an Daten-Governance, Repräsentativität, Bias-Behandlung und Annotationsprozesse. Dazu kommen DSGVO, AGG, BFSG und Grundrechte. Dieser Skill liefert Prüfschema, Test-Matrix und Vertragsklauseln.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Anbieter Hochrisiko-KI, Betreiber, Auditor, Aufsichtsbehörde, betroffene Person/Verband.
 2. **Funktion:** Personenerkennung, Gestenerkennung, Spracherkennung, Verhaltensprädiktion, Risikoeinschätzung, Triage-Unterstützung.

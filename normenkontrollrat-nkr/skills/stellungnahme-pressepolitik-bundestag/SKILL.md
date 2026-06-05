@@ -33,7 +33,7 @@ Für **Nkr Stellungnahme Pressepolitik Und Jahresbericht, Nkr Stellungnahme Zum 
 
 Der NKR wirkt nicht nur durch die schriftliche Stellungnahme, sondern auch oeffentlich ueber Jahresbericht, Pressemitteilungen, Hintergrundgespraeche, Bilanz-Konferenz. Dieser Skill koordiniert die kommunikative Verstaerkung einzelner Stellungnahmen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme mit hoher politischer Bedeutung
 - Wiederholungsmahnung an ein Ressort
@@ -178,7 +178,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 
 Bei wesentlichen Vorhaben laedt der federfuehrende Ausschuss den NKR zur Anhoerung. Diese ist neben der schriftlichen Stellungnahme eine zentrale oeffentliche Wirksamkeit des NKR. Der Skill bereitet Eingangsaussage, Folien und Antworten vor.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ausschuss laedt NKR zur Anhoerung
 - Vorbereitung des Anhoerungstermins

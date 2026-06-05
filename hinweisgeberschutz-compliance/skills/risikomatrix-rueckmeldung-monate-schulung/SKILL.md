@@ -31,7 +31,7 @@ Für **Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvor
 
 # Risikomatrix
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Schwere, Glaubhaftigkeit, Dringlichkeit, Rechtsgebiet, Personen, Repressalien und Eskalation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Rueckmeldung 3 Monate
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Was darf gesagt werden, was bleibt vertraulich, was ist noch offen, welche Maßnahmen laufen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Schulung Fuehrungskraefte
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Nicht nachforschen, nicht drohen, keine Nebenkanäle, Dokumentation, HR/Legal einschalten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Schutzvoraussetzungen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Plausible Informationen, keine sichere Rechtsprüfung verlangt, aber keine bewusst falsche Meldung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

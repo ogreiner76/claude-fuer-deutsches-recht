@@ -6,7 +6,7 @@ description: "Red-Team-Qualitygate: erklärt prüft Ergebnis auf Fristenfehler, 
 # Red-Team-Qualitygate
 
 ## Fachkern: Red-Team-Qualitygate
-- **Spezialgegenstand:** Red-Team-Qualitygate; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Red-Team-Qualitygate. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -14,7 +14,7 @@ description: "Red-Team-Qualitygate: erklärt prüft Ergebnis auf Fristenfehler, 
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Red-Team-Qualitygate** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton
 

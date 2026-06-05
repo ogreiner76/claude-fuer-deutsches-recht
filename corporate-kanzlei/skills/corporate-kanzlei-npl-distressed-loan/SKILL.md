@@ -11,7 +11,7 @@ description: "Prüft Erwerb/Verkauf notleidender Darlehen im Corporate-Kontext: 
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE/Distressed-Investoren, Banken, Portfoliounternehmen und Loan-to-own-Szenarien.
 

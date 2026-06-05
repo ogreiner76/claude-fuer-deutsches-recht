@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 # Vergleichsverhandlung und Einigung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Schadenregulierung Haftpflicht, OWi-Einstellung, Fahrerlaubnis.

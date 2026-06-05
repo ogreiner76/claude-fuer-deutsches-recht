@@ -9,7 +9,7 @@ description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal 
 
 Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere fuer die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - In jeder vollstaendigen DSFA
 - Bei Aktualisierung einer DSFA nach wesentlicher Aenderung

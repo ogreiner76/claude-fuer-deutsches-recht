@@ -31,7 +31,7 @@ Für **Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mapping, Jav
 
 # Incident Meldekaskade 24 72 Abschluss
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Uhrzeit, Erkenntnisstand, Meldekanäle, Datenschutz, Kunden, Versicherer und Strafanzeige synchronisieren.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # IoT Geraete
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Firmware, Default Passwords, Updates, Cloud, Zertifikate, Netzwerk und Lebenszyklus.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # ISO 27001 Mapping
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Kontrolllücken, Annex-A-Controls, SOA, Auditnachweise und Managementbewertung rechtlich lesbar machen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Java Code Signing Zertifikate
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Keystore, HSM, Signierpipeline, Ablaufdaten, Widerruf, Build-Integrität und Verantwortlichkeit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

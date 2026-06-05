@@ -31,7 +31,7 @@ Für **Er Bess Ppa Und Merchant Risk, Er Bess Projektakte Qualitygate, Er Bess R
 
 # PPA, Tolling und Merchant-Risk
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht Vertragsmodell und Regulierungsstatus gemeinsam sichtbar.
 
@@ -64,7 +64,7 @@ BGB, EnWG, REMIT/MAR-Schnittstelle, Bilanzkreis, Garantien, Haftung.
 
 # BESS-Projektakte und Qualitygate
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ist der finale Kamm vor Board Paper, Bank-DD, Behördeneinreichung oder Mandantenmemo.
 
@@ -97,7 +97,7 @@ Quellenhygiene, Dokumentenmatrix, Fristen, Zuständigkeit, technische Annahmen, 
 
 # Rechtsmittel, Nachbarabwehr und Eilrechtsschutz
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erzeugt Prozessrisiko und Eilstrategie.
 
@@ -130,7 +130,7 @@ VwGO, BauGB/Bauordnungsrecht, BImSchG, UmwRG, Nachbarschutz.
 
 # Regelenergie und Systemdienstleistungen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Speicher als Flexibilitätsanbieter statt bloßer Netzanschlussfall.
 

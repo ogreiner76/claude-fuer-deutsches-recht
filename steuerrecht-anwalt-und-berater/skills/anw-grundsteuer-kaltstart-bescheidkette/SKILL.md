@@ -16,7 +16,7 @@ description: "Grundsteuer-Mandat schnell aufnehmen: Grundsteuerwertbescheid, Gru
 
 ## Aufgabe
 
-Nutze diesen Skill, wenn ein Grundsteuerfall neu hereinkommt. Ziel ist ein kurzer, sauberer Einstieg: Welcher Bescheid liegt vor, welche Frist läuft, welches Modell gilt, welche Datenbasis ist angreifbar und welche Folgeskills werden gebraucht.
+Dieses Fachmodul greift, wenn ein Grundsteuerfall neu hereinkommt. Ziel ist ein kurzer, sauberer Einstieg: Welcher Bescheid liegt vor, welche Frist läuft, welches Modell gilt, welche Datenbasis ist angreifbar und welche Folgeskills werden gebraucht.
 
 ## Erste Ausgabe
 

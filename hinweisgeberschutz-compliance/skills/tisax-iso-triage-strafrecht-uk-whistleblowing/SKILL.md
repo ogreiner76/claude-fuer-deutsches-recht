@@ -31,7 +31,7 @@ Für **Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgrenzung, 
 
 # Tisax Iso Hinweisgeber
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Auditnachweise, Informationssicherheit, Lieferantenanforderungen und vertrauliche Meldungen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Triage Strafrecht
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Untreue, Korruption, Betrug, Datenabfluss, Durchsuchungsrisiko, Selbstbelastung und Anzeige.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Uk Whistleblowing Abgrenzung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 PIDA, prescribed persons, Konzernkanal, Datenschutz und deutsch-britische Konflikte.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Umweltverstoss
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Emissionen, Abfall, Wasser, Genehmigung, Behörde, Beweise und Geschäftsgeheimnisse.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

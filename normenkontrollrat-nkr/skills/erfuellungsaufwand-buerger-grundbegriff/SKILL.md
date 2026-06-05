@@ -33,7 +33,7 @@ Für **Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufw
 
 Der Erfuellungsaufwand wird methodisch **separat fuer drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme-Drafting: Tabellenstruktur
 - Ressortentwurf zeigt nur Gesamtsumme
@@ -153,7 +153,7 @@ Bausteine:
 
 Erfuellungsaufwand ist der **zentrale Pruefgegenstand des NKR**. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Dieser Skill liefert die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Anfaengerschulung
 - Stellungnahme braucht den Grundbegriff im Aufschlag

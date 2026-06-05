@@ -18,7 +18,7 @@ description: "Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill bei Heizungsausfall, Druckverlust, Wasserschaden, Feuchtigkeit, Geruch aus Technikräumen, Frostschäden oder streitiger Kostenverteilung.
+Dieses Fachmodul bei Heizungsausfall, Druckverlust, Wasserschaden, Feuchtigkeit, Geruch aus Technikräumen, Frostschäden oder streitiger Kostenverteilung.
 
 ## Sofortprüfung
 

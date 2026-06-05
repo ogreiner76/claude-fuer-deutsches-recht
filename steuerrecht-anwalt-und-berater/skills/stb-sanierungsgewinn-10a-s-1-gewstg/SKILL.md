@@ -15,7 +15,7 @@ description: "§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext
 
 § 10a Satz 1 GewStG regelt die Verlustverrechnung im Gewerbesteuerrecht. Im Sanierungskontext steht er parallel zu § 3c Abs. 4 EStG: Bevor § 7b GewStG den Sanierungsertrag freistellt, wird der Gewerbeverlust verrechnet. Auch hier gilt die Mindestbesteuerung (§ 10a Sätze 2-3 GewStG).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wie hoch ist der vortragsfähige Gewerbeverlust (gesonderter Feststellungsbescheid § 10a S. 6 GewStG)?
 2. Ist ein Unternehmer- oder Unternehmenswechsel erfolgt (§ 10a S. 8 GewStG)?

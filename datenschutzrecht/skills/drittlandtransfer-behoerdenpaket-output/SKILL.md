@@ -11,7 +11,7 @@ Dieser Skill erstellt aus vorhandenen Prüfungen ein geordnetes Paket für Daten
 
 ## Startsignal
 
-Nutze diesen Skill, wenn der Nutzer sagt:
+Dieses Fachmodul, wenn der Nutzer sagt:
 
 - "Die Aufsichtsbehörde fragt nach dem US-Transfer."
 - "Wir brauchen ein Paket, das wir vorlegen können."

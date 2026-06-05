@@ -9,7 +9,7 @@ description: "Schreibt den Eingangsabschnitt Grundsatzfeststellung einer NKR-Ste
 
 Die Grundsatzfeststellung im Eingang einer NKR-Stellungnahme ist die wichtigste politische Botschaft. Jede Stellungnahme wird daran erinnert. Sie ist auf drei bis fuenf Saetze beschraenkt und folgt einem festen Aufbau.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Drafting des Stellungnahme-Anfangs
 - Politisch sensible Stellungnahme

@@ -5,7 +5,7 @@ description: "Startet die IT-Sicherheits- und NIS-2-Prüfung für Geschäftsfüh
 
 # Allgemein
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Kommandocenter: Scope, Upload-Auswertung, Betroffenheitscheck, Risikoampel, Sofortmaßnahmen und Nachweisordner.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

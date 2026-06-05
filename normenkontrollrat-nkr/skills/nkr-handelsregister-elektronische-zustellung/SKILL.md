@@ -9,7 +9,7 @@ description: "Fachmodul fuer Vorhaben mit Handelsregister-Bezug und elektronisch
 
 Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Pruefungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage fuer die Testakte des Plugins (ElErrHandRegG).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben aendert HGB / Handelsregister-Vorschriften
 - Vorhaben sieht elektronische Zustellung an Gesellschaften vor

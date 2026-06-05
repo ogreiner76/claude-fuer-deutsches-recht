@@ -5,7 +5,7 @@ description: "Führt Vorstand und CISO durch den ersten strukturierten Cyber-Com
 
 # Vorstand Ciso Kaltstart
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Rollen klären, Wer entscheidet was, Budget, Eskalationswege, Berichtslinien und persönliche Haftungsrisiken.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

@@ -41,7 +41,7 @@ Für **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -99,7 +99,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -157,7 +157,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -215,7 +215,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -273,7 +273,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
+Dieser Abschnitt bearbeitet **Fachkern: Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 

@@ -31,7 +31,7 @@ Für **Schoeffe Haeusliche Gewalt Orientierung, Schoeffe Haeusliche Gewalt Sitzu
 # Häusliche Gewalt Verfahren: Orientierung
 
 ## Fachkern: Häusliche Gewalt Verfahren: Orientierung
-- **Spezialgegenstand:** Häusliche Gewalt Verfahren: Orientierung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Häusliche Gewalt Verfahren: Orientierung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Schoeffe Haeusliche Gewalt Orientierung, Schoeffe Haeusliche Gewalt Sitzu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Häusliche Gewalt Verfahren: Orientierung** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik - Orientierung
 
@@ -85,7 +85,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Häusliche Gewalt Verfahren: Sitzungspraxis
 
 ## Fachkern: Häusliche Gewalt Verfahren: Sitzungspraxis
-- **Spezialgegenstand:** Häusliche Gewalt Verfahren: Sitzungspraxis; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Häusliche Gewalt Verfahren: Sitzungspraxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -93,7 +93,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Häusliche Gewalt Verfahren: Sitzungspraxis** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik - Sitzungspraxis
 
@@ -139,7 +139,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Schöffe und Medienkontakt: Orientierung
 
 ## Fachkern: Schöffe und Medienkontakt: Orientierung
-- **Spezialgegenstand:** Schöffe und Medienkontakt: Orientierung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Schöffe und Medienkontakt: Orientierung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -147,7 +147,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Schöffe und Medienkontakt: Orientierung** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität - Orientierung
 

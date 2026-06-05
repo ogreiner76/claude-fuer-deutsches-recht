@@ -33,7 +33,7 @@ Für **Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formuli
 
 Empfehlung einer Evaluationsklausel ist eine der haeufigsten konkreten Empfehlungen des NKR. Dieser Skill liefert die Standardformulierungen, Indikatorenkataloge und Begruendungsbausteine.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben ohne Evaluationsklausel
 - Vorhaben mit unzureichender Klausel
@@ -148,7 +148,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 
 Formulierungshilfen der Bundesregierung an Koalitionsfraktionen sind ein parlamentarisch eingespieltes Instrument. Sie umgehen formal die regulaere Ressortabstimmung — und damit auch die foermliche NKR-Befassungspflicht. Die Praxis hat sich aber so entwickelt, dass der NKR auch bei Formulierungshilfen befasst wird (faktisch).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorgang wird als "Formulierungshilfe" gekennzeichnet
 - Inhaltlich entspricht es einem Referentenentwurf

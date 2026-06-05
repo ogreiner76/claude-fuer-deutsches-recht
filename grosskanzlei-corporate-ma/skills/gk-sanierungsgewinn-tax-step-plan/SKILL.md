@@ -24,7 +24,7 @@ In einer komplexen Restrukturierung entscheidet die **Reihenfolge** der Struktur
 
 Dieser Skill liefert das Strukturierungsraster für den Tax Step Plan.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mehrgliedrige Restrukturierung mit Kapitalherabsetzung, Kapitalerhöhung, Anteilsübertragung und Forderungsverzicht in einer Transaktion.
 - Konzernumstrukturierung mit gleichzeitiger Sanierungsmaßnahme.

@@ -31,7 +31,7 @@ Für **Er Fusion Buergerbeteiligung Und Politik, Er Fusion Foerderung Beihilfe, 
 
 # Fusion: Bürgerbeteiligung und politische Kommunikation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf rechtlich belastbare Kommunikation ohne PR-Nebel.
 
@@ -68,7 +68,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 # Fusion: Förderung, Beihilfe und IP
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill achtet auf Eigentum am technischen Durchbruch und Fördermittelauflagen.
 
@@ -105,7 +105,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 # Fusion: Netzanschluss, Systemnutzen und Vermarktung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Energieprojekt statt Science-Fiction-Pressemitteilung.
 
@@ -142,7 +142,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 # Fusion: Sicherheitsnachweis und Störfalllogik
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill trennt Fusionsrisiken von Spaltungsrisiken und verlangt trotzdem belastbare Nachweise.
 

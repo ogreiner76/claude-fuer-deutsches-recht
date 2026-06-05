@@ -265,7 +265,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 # Schriftsatzkern und Substantiierung im Agrar-, Forst- und Lebensmittelrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Agrar-, Forst- und Lebensmittelrecht erstellt werden, typischerweise: Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

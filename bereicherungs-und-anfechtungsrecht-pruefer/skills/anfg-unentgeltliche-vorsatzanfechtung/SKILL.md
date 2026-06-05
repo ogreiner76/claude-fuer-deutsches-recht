@@ -15,8 +15,8 @@ In diesem Skill wird **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 
 | --- | --- |
 | `anfg-unentgeltliche-leistung-4` | Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung). |
 | `anfg-vorsatzanfechtung-3-i` | Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren). |
-| `anspruchsziel-und-rueckabwicklungsarchitektur` | Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule). |
-| `anweisungsfall-deckungs-und-valutaverhaeltnis` | Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung. |
+| `anspruchsziel-und-rueckabwicklungsarchitektur` | Dieses Fachmodul greift, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule). |
+| `anweisungsfall-deckungs-und-valutaverhaeltnis` | Dieses Fachmodul greift, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung. |
 
 ## Arbeitsweg
 
@@ -165,13 +165,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `anspruchsziel-und-rueckabwicklungsarchitektur`
 
-**Fokus:** Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule).
+**Fokus:** Dieses Fachmodul greift, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule).
 
 # Anspruchsziel und Rückabwicklungsarchitektur
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -276,13 +276,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `anweisungsfall-deckungs-und-valutaverhaeltnis`
 
-**Fokus:** Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung.
+**Fokus:** Dieses Fachmodul greift, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung.
 
 # Anweisungsfall: Deckungs- und Valutaverhältnis
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

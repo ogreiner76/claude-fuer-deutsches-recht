@@ -31,7 +31,7 @@ Für **Bess Vergabe Kommunale Stadtwerke / Bess Wasser Awsv Boden / Einfuehrung 
 
 # Kommunale Stadtwerke, Vergabe und Beihilfe
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Partnerauswahl, EPC, O&M, Speichervermarktung und Fördermittel.
 
@@ -64,7 +64,7 @@ GWB/VgV/SektVO, EU-Beihilferecht, Kommunalrecht, Konzernrecht.
 
 # Wasser, AwSV, Boden und Havarie
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Genehmigungsfähigkeit und Versicherbarkeit.
 
@@ -137,7 +137,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -149,7 +149,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 # Fusion: Bauleitplanung am Starnberger See
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill übersetzt absurde Standortidee in harte Zulässigkeitsfragen.
 

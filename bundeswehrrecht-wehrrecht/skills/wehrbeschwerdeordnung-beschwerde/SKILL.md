@@ -31,7 +31,7 @@ Für **Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienst
 # Wehrbeschwerdeordnung – Beschwerde, Frist und Form
 
 ## Fachkern: Wehrbeschwerdeordnung – Beschwerde, Frist und Form
-- **Spezialgegenstand:** Wehrbeschwerdeordnung – Beschwerde, Frist und Form; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrbeschwerdeordnung – Beschwerde, Frist und Form. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienst
 
 Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten gegen truppendienstliche Maßnahmen, Befehle, Beurteilungen, Versetzungen, Verwendungsentscheidungen und sonstige Beeinträchtigungen seiner Rechtsstellung. Sie ist verbindlich und im Regelfall ausschließlich – ein direkter Verwaltungsgerichtsweg ist gesperrt. Der Skill führt durch Statthaftigkeit, Frist, Form, Zuständigkeit und Stufen der WBO.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Was wird angegriffen (Befehl, Maßnahme, Verhalten, Beurteilung, Versetzung, ablehnende Personalentscheidung)?
 - Wann ist die Maßnahme bekannt geworden? Beweis des Zugangsdatums?
@@ -134,7 +134,7 @@ Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten ge
 # Schadensersatz, Regress, Dienstunfall und Materialschäden
 
 ## Fachkern: Schadensersatz, Regress, Dienstunfall und Materialschäden
-- **Spezialgegenstand:** Schadensersatz, Regress, Dienstunfall und Materialschäden; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Schadensersatz, Regress, Dienstunfall und Materialschäden. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -156,7 +156,7 @@ Umgekehrt hat der Soldat bei Dienstunfall Versorgungsansprüche nach SVG; der Di
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -243,7 +243,7 @@ Vor Ausgabe prüfen:
 # Ärztliche Begutachtung und Dienstfähigkeit
 
 ## Fachkern: Ärztliche Begutachtung und Dienstfähigkeit
-- **Spezialgegenstand:** Ärztliche Begutachtung und Dienstfähigkeit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Ärztliche Begutachtung und Dienstfähigkeit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -267,7 +267,7 @@ Dauerhafte Dienstunfähigkeit löst bei Berufssoldaten die Zurruhesetzung (§ 45
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

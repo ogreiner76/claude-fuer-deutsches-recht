@@ -9,7 +9,7 @@ description: "DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung: Koord
 
 Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anwender- bzw. Betreiberpflichten nach Art. 26 KI-VO und der Grundrechte-Folgenabschaetzung (Fundamental Rights Impact Assessment, FRIA) nach Art. 27 KI-VO. Ergebnis ist ein integriertes Konzept, das DSFA und FRIA koordiniert, ohne sie rechtlich zu verschmelzen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Einsatz von Hochrisiko-KI-Systemen nach Anhang III KI-VO (Verordnung EU 2024/1689)
 - Bei generativen KI-Diensten, die personenbezogene Daten verarbeiten

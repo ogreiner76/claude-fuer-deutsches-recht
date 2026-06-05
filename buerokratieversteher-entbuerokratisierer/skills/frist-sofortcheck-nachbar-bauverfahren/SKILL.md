@@ -34,7 +34,7 @@ Für **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbean
 ## Worum geht es konkret
 Behoerden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung, Klage, Antrag). Wer Fristen versaeumt, verliert oft den Anspruch oder den Bescheid wird bestandskraeftig. Der Skill rechnet die Frist nach und schlaegt Sofortmassnahmen vor.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welches Dokument liegt vor (Bescheid, Anhoerungsschreiben, Mahnung, Gerichtsverfuegung)?
 - Ist Rechtsbehelfsbelehrung vorhanden und korrekt?
 - Welches Datum traegt das Dokument, wann ist es zugegangen (Zugangsfiktion + 3 Werktage)?

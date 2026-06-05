@@ -536,7 +536,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 # Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Privates Baurecht, Architekten- und Ingenieurrecht erstellt werden, typischerweise: Klage auf Werklohn, Schadensersatzklage Baumangel, Honorarklage HOAI.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

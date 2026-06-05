@@ -24,7 +24,7 @@ Die Strukturwahl Asset Deal vs. Share Deal entscheidet im Distressed-Mandat übe
 
 Dieser Skill liefert den Vergleichsraster für die Strukturentscheidung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Buy-side- oder Sell-side-Strukturentscheidung im Distressed-Deal.
 - Übertragende Sanierung im Insolvenzverfahren (Asset Deal aus der Insolvenz).

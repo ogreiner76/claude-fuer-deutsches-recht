@@ -5,7 +5,7 @@ description: "Ordnet Fusionsreaktor-Projekt zwischen Atomrecht, Strahlenschutz, 
 
 # Kernfusion: Kaltstart und Regulierungsweg
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill behandelt Fusionsprojekte als Hochrisiko-Infrastruktur mit offenem Rechtsrahmen, nicht als klassisches Kernkraftwerk.
 

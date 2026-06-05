@@ -9,7 +9,7 @@ description: "Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 
 
 Erfuellungsaufwand ist der **zentrale Pruefgegenstand des NKR**. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Dieser Skill liefert die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Anfaengerschulung
 - Stellungnahme braucht den Grundbegriff im Aufschlag

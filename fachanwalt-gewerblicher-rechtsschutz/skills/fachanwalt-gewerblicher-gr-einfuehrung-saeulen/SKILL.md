@@ -142,7 +142,7 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Kein Einzel-Rechtsgebiet-Tiefgang (dafür Fachmodule nutzen).
 
@@ -244,7 +244,7 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `spezial-gewerblichen-tatbestand-bewe
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Bewertung ohne Kenntnis der konkreten Markt- und Geschäftslage.
 
@@ -348,6 +348,6 @@ Anschluss-Skills: `spezial-euipo-internationaler-bezug-und-schnittstellen`, `gr-
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Rechtsberatung nach österreichischem oder schweizerischem Recht ohne Kooperation mit Lokalkanzlei.
 - Kein Ersatz für Anwaltsmandat in AT oder CH.

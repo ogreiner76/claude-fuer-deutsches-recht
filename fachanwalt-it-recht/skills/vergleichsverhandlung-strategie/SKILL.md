@@ -28,7 +28,7 @@ Für **Vergleichsverhandlung Strategie** zuerst das tragende Prüffeld bestimmen
 
 # Vergleichsverhandlung und Einigung im IT-, Datenschutz- und Telemedienrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich IT-, Datenschutz- und Telemedienrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: IT-Projektstreit (agil/festpreis), DSGVO-Abmahnung, Lizenzkonflikt.

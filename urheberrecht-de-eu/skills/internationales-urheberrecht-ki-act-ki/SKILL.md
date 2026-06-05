@@ -31,13 +31,13 @@ Für **Internationales Urheberrecht, Ki Act Gpai Copyright, Ki Training Tdm Opto
 # Internationales Urheberrecht und Kollisionsrecht
 
 ## Fachkern: Internationales Urheberrecht und Kollisionsrecht
-- **Spezialgegenstand:** Internationales Urheberrecht und Kollisionsrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Internationales Urheberrecht und Kollisionsrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -103,13 +103,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # KI-VO GPAI und Urheberrechtspolitik
 
 ## Fachkern: KI-VO GPAI und Urheberrechtspolitik
-- **Spezialgegenstand:** KI-VO GPAI und Urheberrechtspolitik; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** KI-VO GPAI und Urheberrechtspolitik. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -174,13 +174,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # KI-Training, TDM und Opt-out
 
 ## Fachkern: KI-Training, TDM und Opt-out
-- **Spezialgegenstand:** KI-Training, TDM und Opt-out; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** KI-Training, TDM und Opt-out. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei macht aus der abstrakten KI-Trainingsfrage eine konkrete Prüfung von Zugang, Vervielfältigung, Opt-out, Forschung und Anbieterpflichten. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 

@@ -9,7 +9,7 @@ description: "Trennt den engen Begriff Buerokratiekosten von dem umfassenderen B
 
 Bis 2011 prueftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prueft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ressort verwendet beide Begriffe synonym
 - Schulung fuer neue Referenten

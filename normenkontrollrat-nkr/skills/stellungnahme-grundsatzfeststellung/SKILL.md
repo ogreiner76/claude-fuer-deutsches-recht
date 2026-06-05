@@ -33,7 +33,7 @@ Für **Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Cha
 
 Die Grundsatzfeststellung im Eingang einer NKR-Stellungnahme ist die wichtigste politische Botschaft. Jede Stellungnahme wird daran erinnert. Sie ist auf drei bis fuenf Saetze beschraenkt und folgt einem festen Aufbau.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Drafting des Stellungnahme-Anfangs
 - Politisch sensible Stellungnahme
@@ -149,7 +149,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 Der NKR ist Beratungs- und Kontrollgremium. Seine Stellungnahme darf mahnen — aber nicht politisch werten. Dieser Skill markiert die rote Linie und zeigt das Stufenvokabular vom konstruktiven Hinweis bis zur nachdruecklichen Mahnung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Politisch sensible Stellungnahme
 - Wiederholungsfall (Ressort hat frueheren Hinweis ignoriert)

@@ -36,7 +36,7 @@ Für **Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Vera
 
 Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege auf Aktualitaet, Vollstaendigkeit der Pflichtinhalte, Sub-AV-Pflege und Drittlandbezug. Purpose (EN): Vendor inventory and audit of existing DPAs.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant hat AVV-Bestand und will im Rahmen eines Compliance-Programms pruefen.
 - Aufsichtsbehoerde hat eine Pruefung angekuendigt und der AVV-Bestand muss verteidigungsfaehig sein.
@@ -175,7 +175,7 @@ Frist: [DATUM]
 
 Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in Mehr-Akteur-Konstellationen: getrennte Verantwortliche, gemeinsame Verantwortliche (Art. 26 DSGVO), Auftragsverarbeiter (Art. 28 DSGVO). Purpose (EN): Separate vs. joint vs. processor – role allocation in multi-actor data processing under GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Zwei oder mehr Akteure verarbeiten dieselben personenbezogenen Daten und es ist unklar, welches Vertragsmodell zu schliessen ist.
 - Aufsichtsbehoerde fragt nach Rollenzuordnung im Verarbeitungsverzeichnis (Art. 30 DSGVO).
@@ -318,7 +318,7 @@ Datum, Unterschrift Datenschutzbeauftragter
 
 Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahmen des Auftragsverarbeiters gemaess Art. 32 DSGVO und Art. 28 Abs. 3 lit. c DSGVO. Purpose (EN): German-language TOM annex to a DPA under Article 32 GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - TOM-Anlage zum AVV ist zu erstellen, zu pruefen oder zu aktualisieren.
 - Aufsichtsbehoerde fordert Nachweis der TOM.

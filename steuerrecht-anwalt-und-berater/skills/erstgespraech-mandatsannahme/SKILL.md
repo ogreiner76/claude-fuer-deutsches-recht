@@ -24,7 +24,7 @@ description: "Strukturierter Erstgespraechsleitfaden f√ºr Steuerrechtsmandate ‚Ä
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Steuerrecht (Beratung und Prozess) (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

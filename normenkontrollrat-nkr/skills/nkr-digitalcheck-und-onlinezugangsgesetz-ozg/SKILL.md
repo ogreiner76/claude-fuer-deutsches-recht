@@ -9,7 +9,7 @@ description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz
 
 Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Laender, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemaess § 9 NKRG) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral fuer die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben adressiert eine OZG-Leistung
 - Vorhaben sieht Antraege / Mitteilungen vor

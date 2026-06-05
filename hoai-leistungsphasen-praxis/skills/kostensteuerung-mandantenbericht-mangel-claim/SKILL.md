@@ -669,7 +669,7 @@ Dieser Querschnitts-Skill bearbeitet **grenzt Projektsteuerung, Bauherrenvertret
 
 ## Einsatz
 
-Nutze diesen Skill, wenn ein selbständiges Beweisverfahren, Privatgutachten, gerichtliches Gutachten oder anwaltlicher Beweisbeschluss vorbereitet wird.
+Dieses Fachmodul greift, wenn ein selbständiges Beweisverfahren, Privatgutachten, gerichtliches Gutachten oder anwaltlicher Beweisbeschluss vorbereitet wird.
 
 ## Norm- und Prozessanker
 

@@ -31,7 +31,7 @@ Für **Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nacht
 # Verbraucherinsolvenz Belegchaos Strukturieren
 
 ## Fachkern: Verbraucherinsolvenz Belegchaos Strukturieren
-- **Spezialgegenstand:** Verbraucherinsolvenz Belegchaos Strukturieren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbraucherinsolvenz Belegchaos Strukturieren. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -115,7 +115,7 @@ Skill fuer Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 # Verbraucherinsolvenz Nachtraegliche Glaeubiger
 
 ## Fachkern: Verbraucherinsolvenz Nachtraegliche Glaeubiger
-- **Spezialgegenstand:** Verbraucherinsolvenz Nachtraegliche Glaeubiger; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbraucherinsolvenz Nachtraegliche Glaeubiger. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -167,7 +167,7 @@ Skill fuer nachtraeglich auftauchende Glaeubiger.
 # Verbraucherinsolvenz Pfaendungsschutzkonto
 
 ## Fachkern: Verbraucherinsolvenz Pfaendungsschutzkonto
-- **Spezialgegenstand:** Verbraucherinsolvenz Pfaendungsschutzkonto; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbraucherinsolvenz Pfaendungsschutzkonto. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

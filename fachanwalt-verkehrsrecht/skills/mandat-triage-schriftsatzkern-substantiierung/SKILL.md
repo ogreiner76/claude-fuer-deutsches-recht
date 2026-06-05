@@ -170,7 +170,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext in de
 
 # Schriftsatzkern und Substantiierung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht) erstellt werden, typischerweise: Klage Verkehrsunfall, Einspruch OWi-Bussgeldbescheid, Klage KFZ-Versicherung.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

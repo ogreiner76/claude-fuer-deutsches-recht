@@ -36,7 +36,7 @@ Für **Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text
 
 Ein Podcast ist Quelle eines Beitrags - entweder weil der Autor selbst Podcast-Inhalte zu Text macht, oder weil eine Aussage aus einem fremden Podcast als Beleg in einem Aufsatz verwendet werden soll. Beides braucht eine saubere zitierfaehige Behandlung. Podcasts gelten urheberrechtlich als geschuetzte Werke; sie sind keine "freien" Internetquellen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast als Hauptquelle verwertet werden soll. Klaeren Sie:
 
@@ -120,7 +120,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 
 Der haeufige Fall: Ein Autor liefert "den Vortrag" als .pptx mit 60 Folien, drei Stichworten pro Folie und teilweise eingebundenen Grafiken. Sie sollen daraus einen Fliesstext machen. Das ist Kompositionsarbeit, kein blosses Abtippen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 
@@ -211,7 +211,7 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 
 Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz mit relevanter Stossrichtung. Der Skill liefert ein Schreibmuster fuer den Pressetext, der gleichzeitig juristisch korrekt, journalistisch lesbar und marketingwirksam sein soll. Inklusive Differenzierung: Pressemitteilung an Fachpresse (NJW, ZRP, JuS) versus allgemeine Medien (FAZ, SZ, dpa).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Was wird angekuendigt (Buchneuerscheinung, Neuauflage, Aufsatzhighlight, Konferenz)?
 2. Adressat (Fachpresse, Tagespresse, Lokalpresse, Wirtschaftsmedien, Branchendienste)?
@@ -369,7 +369,7 @@ Pressekontakt
 
 Die amtliche deutsche Rechtschreibung wird vom Rat fuer deutsche Rechtschreibung gepflegt; der Duden bildet sie ab. Juristische Texte enthalten daneben Eigennamen (BGH, BVerfG, FG, OVG), Sondereinrichtungen (Paragraphenzeichen mit geschuetztem Leerzeichen), historische Schreibungen und Latinismen, die korrekt zu behandeln sind. Dieser Skill ist die saubere Rechtschreibpruefung fuer juristische Verlagstexte.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach inhaltlichem Lektorat. Klaeren Sie:
 
@@ -477,7 +477,7 @@ DSGVO-konform (Bindestrich)
 
 Eine Rueckmeldung an eine Autorin entscheidet ueber die naechste Manuskriptqualitaet und ueber die Beziehung. Schlecht formuliert ist sie patronisierend, unklar, ueberfordernd. Gut formuliert ist sie ein Arbeitsauftrag: was muss zwingend geaendert werden (Stop), was sollte (wuenschenswert), was bleibt als Anregung. Dieser Skill ist die Vorlage fuer kollegial-praezise Rueckmeldungen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klaeren Sie:
 

@@ -143,7 +143,7 @@ Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Fristberechnung ohne vollständige Sachverhaltskenntnis.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -284,7 +284,7 @@ III. Übergabe an Mandant
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Schätzung des Lizenzsatzes ohne branchenspezifische Recherche.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -392,7 +392,7 @@ Skill gehört zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skill
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung.
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
 - Keine Bewertung nicht belegter Tatsachen.

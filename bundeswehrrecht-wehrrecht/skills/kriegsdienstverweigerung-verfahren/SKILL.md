@@ -31,7 +31,7 @@ Für **Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahre
 # Kriegsdienstverweigerung – Verfahren
 
 ## Fachkern: Kriegsdienstverweigerung – Verfahren
-- **Spezialgegenstand:** Kriegsdienstverweigerung – Verfahren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kriegsdienstverweigerung – Verfahren. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahre
 
 Das Recht auf Kriegsdienstverweigerung aus Gewissensgründen ist in Art. 4 III GG verankert. Soldaten, Wehrpflichtige, Reservisten und Bewerber können das Recht in Anspruch nehmen. Verfahren und Voraussetzungen regelt das Kriegsdienstverweigerungsgesetz (KDVG). Anerkannte Verweigerer leisten Dienst nach dem Zivildienstgesetz (für Wehrpflichtige in einer Spannungs-/Verteidigungslage) oder werden aus dem Wehrdienst entlassen (Soldaten). Der Skill ordnet Antragsweg, Gewissensprüfung und Folgen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Aktueller Status (Wehrpflichtiger, Reservist, Soldat auf Zeit, Berufssoldat, FWDL)?
 - Beweggründe (religiös, ethisch, weltanschaulich, politisch-moralisch)?
@@ -133,7 +133,7 @@ Für KDV-Fälle ab 2026, insbesondere Antrag über BAPersBw, § 13 KDVG n. F., a
 # Rechtsbeistand im Disziplinarverfahren
 
 ## Fachkern: Rechtsbeistand im Disziplinarverfahren
-- **Spezialgegenstand:** Rechtsbeistand im Disziplinarverfahren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Rechtsbeistand im Disziplinarverfahren. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -155,7 +155,7 @@ Ein erfahrener Verteidiger kennt die Besonderheiten des Truppendienstgerichts (R
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -244,7 +244,7 @@ Vor Ausgabe prüfen:
 # Truppendienstgericht – Zuständigkeit und Verfahren
 
 ## Fachkern: Truppendienstgericht – Zuständigkeit und Verfahren
-- **Spezialgegenstand:** Truppendienstgericht – Zuständigkeit und Verfahren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Truppendienstgericht – Zuständigkeit und Verfahren. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -254,7 +254,7 @@ Vor Ausgabe prüfen:
 
 Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzlich zuständig für gerichtliche Disziplinarverfahren gegen Soldaten und für Anträge auf gerichtliche Entscheidung nach WBO. Sie sind eigenständige Bundesgerichte unter Vorsitz von Berufsrichtern, ergänzt durch Beisitzer aus der Truppe. Der Skill ordnet ein, wann TDG zuständig ist, wie das Verfahren abläuft und welche Rechtsmittel bestehen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Verfahrensart liegt vor: WBO-Antrag, gerichtliches Disziplinarverfahren, vorläufige Maßnahmen?
 - Truppenteil und Standort des Mandanten – welches TDG (Süd/Nord) ist örtlich zuständig?

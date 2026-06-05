@@ -31,7 +31,7 @@ Für **Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrec
 
 # Barrierefreiheit Meldekanal
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Screenreader, Telefonalternative, leichte Bedienung, mobile Nutzung und vertrauliche Assistenz.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Beschaeftigtenzahl Konzern
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Teilzeit, Leiharbeit, Tochtergesellschaften, Ausland, Schwellen und Übergänge.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Beschuldigtenrechte
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Anhörung, Unschuldsvermutung, Datenschutz, Akteneinsicht, Reputation und Fairness.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Beschwerde Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Nicht alles ist HinSchG, aber vieles braucht Schutz und saubere Weiterleitung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

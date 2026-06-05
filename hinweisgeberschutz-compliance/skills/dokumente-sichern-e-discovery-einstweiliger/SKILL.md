@@ -31,7 +31,7 @@ Für **Dokumente Sichern, E Discovery Forensik, Einstweiliger Rechtsschutz, Eu R
 
 # Dokumente Sichern
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Legal Hold, Löschstopp, Mailboxen, Chats, Logs, Geräte, Datenminimierung und Chain of Custody.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # E Discovery Forensik
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Suchbegriffe, Privates, Betriebsrat, Datenschutz, externe Forensiker und Export.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Einstweiliger Rechtsschutz
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Versetzung, Freistellung, Datenlöschung, Kündigung, Unterlassung und Dringlichkeit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # EU Richtlinie Abgleich
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Mindestschutz, direkte Richtlinienargumente, Auslandsgesellschaften und Konzernfälle.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

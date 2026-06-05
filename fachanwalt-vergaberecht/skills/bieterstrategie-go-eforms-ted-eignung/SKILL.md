@@ -223,7 +223,7 @@ Eignungsmatrix, Nachforderungscheck, Ausschlussrisiko, Ruge-/Verteidigungslinie.
 
 # Erstgespraech und Mandatsannahme im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe) (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

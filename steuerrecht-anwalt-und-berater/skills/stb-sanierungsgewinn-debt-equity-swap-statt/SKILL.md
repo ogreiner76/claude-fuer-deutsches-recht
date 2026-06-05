@@ -15,7 +15,7 @@ description: "Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlun
 
 Der Debt-Equity-Swap ist die Umwandlung einer Forderung des Gläubigers in Anteile am Schuldner — typischerweise im Wege einer Kapitalerhöhung mit Sacheinlage (Forderung). Aus Sicht des Schuldners verschwindet die Verbindlichkeit, ohne dass ein Ertrag entsteht (im werthaltigen Bereich). Aus Sicht des Gläubigers werden Anteile geschaffen. Dieser Skill stellt den d/e-swap als Alternative zum Forderungsverzicht dar.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist der Gläubiger bereit, Anteile am Schuldner zu erwerben?
 2. Hat der Schuldner die Rechtsform für eine Kapitalerhöhung (GmbH, AG)?

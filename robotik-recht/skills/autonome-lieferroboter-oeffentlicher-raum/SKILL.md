@@ -16,7 +16,7 @@ description: "Prüft autonome Lieferroboter im öffentlichen Raum: Verkehrsrecht
 
 Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren ein Mosaik aus Bundes-, Landes- und Kommunalrecht: StVO/StVG, Landesstraßengesetze (Sondernutzung), Kommunalsatzungen, DSGVO (Kamerasensorik), KI-VO (autonome Wahrnehmung), MaschinenVO/ProdSG (Sicherheit) und Vertragsrecht zum Endkunden. Dieser Skill ordnet die Regulierungsebenen, gibt einen Genehmigungs-und enthält Vorlagen für Sondernutzungsanträge und Datenschutzhinweise.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Betreiber/Logistik-Plattform, Kommune, Verkehrsbehörde, Datenschutzbehörde, Geschädigte (Fußgänger).
 2. **Robotertyp:** Sidewalk Delivery Robot (SDR) mit <25 km/h, Größe und Gewicht?

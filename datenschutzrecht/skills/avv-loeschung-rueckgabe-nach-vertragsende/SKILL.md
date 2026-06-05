@@ -9,7 +9,7 @@ description: "Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach 
 
 Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, Formate, Fristen, Nachweise und Aufbewahrungsausnahmen. Purpose (EN): End-of-contract data return and deletion under Article 28 (3) (g) GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vertragsende eines AVV steht bevor oder ist eingetreten.
 - Es ist zu klaeren, ob Loeschung oder Rueckgabe verlangt wird.

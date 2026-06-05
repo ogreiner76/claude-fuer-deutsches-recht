@@ -646,7 +646,7 @@ Dieser Skill prüft den EV-Vollziehungscheck bei einstweiligen Verfügungen im g
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung.
 - Keine eigenständige Fristberechnung ohne Kenntnis aller Zustelldaten.
 - Keine Bewertung nicht belegter Zustellvorgänge.

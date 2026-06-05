@@ -31,7 +31,7 @@ Für **Aufsichtsverfahren Bsi, Bussgeld Und Remediation, Management Haftung Boar
 
 # Aufsichtsverfahren BSI
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Auskunft, Nachweise, Fristen, Geschäftsgeheimnisse, Anwaltsschreiben und Remediation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Bussgeld Und Remediation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Schwere, Dauer, Vorsatz, Kooperationsverhalten, Board-Beschlüsse und Maßnahmenplan.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Management Haftung Board Duties
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Delegation, Überwachung, Budget, Reporting, Protokolle, D&O, Business Judgment und Krisenentscheidungen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Kommunikation Presse Kunden
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Einheitlicher Sachstand, keine Schuldzugeständnisse, Transparenzpflichten, Q&A und Freigaben.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

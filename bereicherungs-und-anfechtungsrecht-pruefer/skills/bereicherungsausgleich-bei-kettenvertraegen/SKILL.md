@@ -7,7 +7,7 @@ description: "Bei vertrags- oder Lieferketten ohne falschen Durchgriff rückabge
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -126,7 +126,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Fristenberechnung ohne vollständige Sachverhaltskenntnis.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -243,7 +243,7 @@ Entgangener Gewinn + nachgewiesener Schaden.
 - Keine Berechnung aus Modellwissen ohne Live-Prüfung aktueller Tabellen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindlichen Kostenberechnungen ohne vollständige Daten.
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Garantie für Streitwertfestsetzung durch Gerichte (einzelfallabhängig).
@@ -374,6 +374,6 @@ Deutschland hat folgende GGM-Gerichte designiert:
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Designprüfung ohne Kenntnis der Abbildungen.
 - Kein Ersatz für vollständige Mandantenberatung.

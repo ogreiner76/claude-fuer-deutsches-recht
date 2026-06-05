@@ -7,7 +7,7 @@ description: "Bei ein komplexer Fall zuerst als Personen-, Leistungs- und Vermö
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

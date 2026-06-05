@@ -31,7 +31,7 @@ Für **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring R
 # Drittschuldneranzeige und stille Zession
 
 ## Fachkern: Drittschuldneranzeige und stille Zession
-- **Spezialgegenstand:** Drittschuldneranzeige und stille Zession; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Drittschuldneranzeige und stille Zession. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -43,7 +43,7 @@ Eine **stille Zession** ist eine Forderungsabtretung, von der der Drittschuldner
 
 Die Praxis kennt vier Modelle: (1) **stille Zession dauerhaft**, (2) **stille Zession mit Trigger** (Anzeige bei Krise), (3) **halboffene Zession** (Bankverbindung Factor, ohne Erläuterung), (4) **offene Zession** (vollständige Anzeige). Dieser Skill ordnet die Modelle und prüft die Risiken jedes Modells.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren ein Factoring, das vom Kunden vertraulich behandelt werden soll.
 - Bei stiller Zession zahlt der Debitor weiter an den Kunden – Zahlungsumlenkung muss geregelt werden.
@@ -139,7 +139,7 @@ Fragen zum Einstieg:
 # Echtes und unechtes Factoring Risikoverteilung
 
 ## Fachkern: Echtes und unechtes Factoring Risikoverteilung
-- **Spezialgegenstand:** Echtes und unechtes Factoring Risikoverteilung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Echtes und unechtes Factoring Risikoverteilung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -151,7 +151,7 @@ Die wichtigste Grundunterscheidung des Factoringrechts: **echtes Factoring** ver
 
 **BGH-Leitsätze**: Echtes Factoring ist Kauf nach § 433 BGB; unechtes Factoring ist Darlehen mit Sicherungsabtretung. Aus dieser Einordnung folgen unterschiedliche Rechtsfolgen für Vertragsstörungen, Insolvenzwirkungen, Bilanzierung (True Sale versus Verbleib) und steuerliche Behandlung (§ 4 Nr. 8c UStG).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren einen neuen Factoringvertrag und müssen die Risikoverteilung festlegen.
 - Im Streitfall ist die zivilrechtliche Einordnung umstritten (Kauf oder Kredit?).
@@ -252,7 +252,7 @@ Fragen zum Einstieg:
 # Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto
 
 ## Fachkern: Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto
-- **Spezialgegenstand:** Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -264,7 +264,7 @@ Wer darf das Geld vom Debitor einziehen? Wer hält das Konto, auf das gezahlt wi
 
 Drei Standardmodelle: (1) **Eigenes Konto Factor** – Debitoren zahlen direkt; (2) **Treuhandkonto** eines unabhängigen Treuhänders mit Verteilfunktion; (3) **Einziehungsermächtigung des Kunden** mit Weiterleitungspflicht. Jedes Modell hat insolvenz- und aufsichtsrechtliche Implikationen. Dieser Skill ordnet die Strukturen und liefert die Vertragsbausteine.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren das Zahlungs-Setup für ein neues Factoring.
 - Der Kunde wünscht eine diskrete Lösung – Zahlungskanal soll für Debitoren unauffällig sein.

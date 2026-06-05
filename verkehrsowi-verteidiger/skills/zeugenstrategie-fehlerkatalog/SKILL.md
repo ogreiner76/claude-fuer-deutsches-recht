@@ -7,7 +7,7 @@ description: "Zeugenstrategie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zust�
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Verkehrsowi Verteidiger** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Verkehrsowi Verteidiger** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

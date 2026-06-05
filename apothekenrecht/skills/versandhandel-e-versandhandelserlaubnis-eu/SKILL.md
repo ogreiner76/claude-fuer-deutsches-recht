@@ -31,7 +31,7 @@ Für **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapot
 # Versandhandel und E-Rezept Intake
 
 ## Fachkern: Versandhandel und E-Rezept Intake
-- **Spezialgegenstand:** Versandhandel und E-Rezept Intake; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Versandhandel und E-Rezept Intake. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapot
 
 Aufnahme eines Versandhandelsfalls: Bestelleingang einer Versandapotheke, Prüfung der gesetzlichen Voraussetzungen für den Versand verschreibungspflichtiger und apothekenpflichtiger Arzneimittel, Schnittstelle zum E-Rezept. Der Skill fasst die Pflichtangaben, Beratungsdokumentation und Verbots-Sortimente zusammen — insbesondere das Rx-Versandverbot (RxVV-Diskussion) und das Versandverbot für bestimmte Arzneimittel.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Versandapotheke nimmt erstmals E-Rezept-Bestellungen entgegen.
 - Beanstandung der Aufsicht wegen unzureichender Beratungsdokumentation oder Versand verbotener Arzneimittel.
@@ -139,7 +139,7 @@ Eingaben:
 # Versandhandelserlaubnis EU Versandapotheke
 
 ## Fachkern: Versandhandelserlaubnis EU Versandapotheke
-- **Spezialgegenstand:** Versandhandelserlaubnis EU Versandapotheke; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Versandhandelserlaubnis EU Versandapotheke. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -149,7 +149,7 @@ Eingaben:
 
 Erlaubnis zum Versandhandel mit apothekenpflichtigen Arzneimitteln in Deutschland — sowohl für inländische Apotheken (§ 11a ApoG) als auch für EU-/EWR-Apotheken (anerkanntes Verfahren, § 73 Abs. 1 Nr. 1a AMG). Dieser Skill behandelt den Erlaubnis- und Anerkennungsprozess, Eintragung im Sicherheitslogo-Register sowie Sortimentsgrenzen, Beratungspflicht und Aufsichtsregime.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Inländische Apotheke will Versandhandelserlaubnis beantragen.
 - EU-Apotheke (z. B. NL, IS) will deutschen Markt bedienen.
@@ -256,14 +256,14 @@ Eingaben:
 # Versorgung Pflegeheim Schnittstelle
 
 ## Fachkern: Versorgung Pflegeheim Schnittstelle
-- **Spezialgegenstand:** Versorgung Pflegeheim Schnittstelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Versorgung Pflegeheim Schnittstelle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Versorgung Pflegeheim Schnittstelle** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 

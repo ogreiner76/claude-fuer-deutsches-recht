@@ -9,7 +9,7 @@ description: "Audit- und Kontrollrechte des Verantwortlichen gegenueber dem Auft
 
 Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem Auftragsverarbeiter mit Balance zwischen wirksamer Kontrolle und Wahrung der Geschaeftsablaeufe. Purpose (EN): Audit and inspection rights under Article 28 (3) (h) GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Audit-Klauseln im AVV werden verhandelt.
 - Verantwortlicher will ein Vor-Ort-Audit durchfuehren.

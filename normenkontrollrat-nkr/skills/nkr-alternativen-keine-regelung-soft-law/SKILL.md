@@ -9,7 +9,7 @@ description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Ve
 
 Nach der Erforderlichkeit ist die **Alternativenpruefung** der zweite Pflichtschritt. Der NKR fordert systematisch von jedem Ressort: *"Welche Alternativen wurden geprueft, und warum verworfen?"* Pflicht nach § 44 Abs. 1 Nr. 4 GGO.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Pruefung jeder Stellungnahme
 - Ressortentwurf zeigt nur "die" eine Loesung

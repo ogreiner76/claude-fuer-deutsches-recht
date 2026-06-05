@@ -31,7 +31,7 @@ Für **Lieferkette Supplier Security, Logdaten Beschaeftigte, Logging Siem Soc, 
 
 # Lieferkette Supplier Security
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Questionnaire, Vertragsklauseln, Nachweise, Subdienstleister, Exit und kritische Abhängigkeiten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Logdaten Beschaeftigte
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zugriffsrechte, Auswertungsanlässe, Verdachtsfälle, Retention und Betriebsvereinbarung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Logging SIEM SOC
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Logquellen, Korrelation, Aufbewahrung, Datenschutz, Alarmierung, Use Cases und externe SOC-Verträge.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Mandantenakten Kanzlei
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Mandatsgeheimnis, beA, Cloud, DMS, Aktenexport, Zugriff, Verschlüsselung und Lieferanten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

@@ -24,7 +24,7 @@ Die verbindliche Auskunft nach § 89 Abs. 2 AO ist im Sanierungskontext das zent
 
 Dieser Skill liefert die Anleitung für den verbindlichen Auskunftsantrag im Sanierungskontext.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor jeder Sanierungsmaßnahme, die § 3a EStG nutzen soll.
 - Vor einem Debt-Equity-Swap mit Sanierungs- und Anteilseignerwechsel-Wirkung.

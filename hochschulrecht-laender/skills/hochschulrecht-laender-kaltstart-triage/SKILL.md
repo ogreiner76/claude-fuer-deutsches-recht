@@ -5,7 +5,7 @@ description: "Startet Hochschulrecht für Universitäten, Hochschulen, Studieren
 
 # Allgemein
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Kommandocenter für Hochschulgesetz, Satzung, Gremien, Zulassung, Studium, Personal, Forschung, Drittmittel und Aufsicht.
 

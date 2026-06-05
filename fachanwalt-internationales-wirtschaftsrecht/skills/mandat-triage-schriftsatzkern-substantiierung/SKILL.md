@@ -216,7 +216,7 @@ Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 
 # Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Internationales Wirtschafts- und Schiedsrecht erstellt werden, typischerweise: Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

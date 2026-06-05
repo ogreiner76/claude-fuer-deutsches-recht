@@ -124,7 +124,7 @@ Verbreiteter Fehler: ein Software-Anbieter wird beraten, "Sie müssen WCAG erfü
 
 # Erklärung, Feedback, Durchsetzung
 
-Nutze diesen Skill für Barrierefreiheitserklärungen, Feedbackwege, Beschwerden, Marktüberwachungs- oder Behördenanfragen.
+Dieses Fachmodul prüft Barrierefreiheitserklärungen, Feedbackwege, Beschwerden, Marktüberwachungs- oder Behördenanfragen.
 
 ## Inhalt einer guten Erklärung
 

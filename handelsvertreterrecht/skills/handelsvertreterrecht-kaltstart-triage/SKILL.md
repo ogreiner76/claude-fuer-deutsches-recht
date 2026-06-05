@@ -5,7 +5,7 @@ description: "Startet die Handelsvertreterrechtsprüfung für Status, Vertrag, P
 
 # Allgemein
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Wer ist was, welche Geschäfte, welche Vergütung, welches Gebiet, welches Ende und welcher Anspruch.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

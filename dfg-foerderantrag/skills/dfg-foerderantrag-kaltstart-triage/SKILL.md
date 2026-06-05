@@ -11,7 +11,7 @@ Dieser Skill ist die Eingangstür für jedes DFG-Mandat. Er klärt in wenigen Sc
 
 Faustregel der alten Hasen: **Ein DFG-Antrag steht und fällt mit drei Dingen — der einen prüfbaren Hypothese, dem auf den Antrag zugeschnittenen Stand der Forschung und den eigenen Vorarbeiten in einschlägigen Journalen.** Wenn auch nur eines davon wackelt, hilft kein noch so schöner Finanzplan.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn Sie nicht sicher sind, welche Programmschiene passt, wenn ein Exposé, CV, Budget oder Gutachten lose im Raum steht, oder wenn das Mandat frisch ist und der Antragsteller eine Empfehlung über Tempo und Größe braucht.
 

@@ -73,7 +73,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -215,7 +215,7 @@ Es wird beantragt, die vollständige Einsatzdokumentation einschließlich Bodyca
 
 ## Einsatz
 
-Nutze diesen Skill, wenn bereits ein förmliches Dokument vorliegt: polizeiliche Anhörung, staatsanwaltschaftliche Abschlussverfügung, Strafbefehl, Anklageschrift, gerichtliche Verfügung nach § 201 StPO, Eröffnungsbeschluss oder Ladung. Ziel ist eine einfache, schnelle und trotzdem belastbare Verteidigung gegen die Hochstufung zur "Politikerbeleidigung".
+Dieses Fachmodul greift, wenn bereits ein förmliches Dokument vorliegt: polizeiliche Anhörung, staatsanwaltschaftliche Abschlussverfügung, Strafbefehl, Anklageschrift, gerichtliche Verfügung nach § 201 StPO, Eröffnungsbeschluss oder Ladung. Ziel ist eine einfache, schnelle und trotzdem belastbare Verteidigung gegen die Hochstufung zur "Politikerbeleidigung".
 
 ## Eingangsscan
 
@@ -281,7 +281,7 @@ Bei Strafbefehl:
 
 ## Einsatz
 
-Nutze diesen Skill, wenn die materielle Verteidigung steht und nun in eine überzeugende Verfahrenshandlung übersetzt werden muss: Einstellungsanregung, Eröffnungs-Erwiderung, Einspruchsbegründung, Beweisantrag, Zeugenbefragung, § 257-StPO-Erklärung oder Plädoyer.
+Dieses Fachmodul greift, wenn die materielle Verteidigung steht und nun in eine überzeugende Verfahrenshandlung übersetzt werden muss: Einstellungsanregung, Eröffnungs-Erwiderung, Einspruchsbegründung, Beweisantrag, Zeugenbefragung, § 257-StPO-Erklärung oder Plädoyer.
 
 ## Verteidigungsthese
 

@@ -29,7 +29,7 @@ Für **Ueble Nachrede 186, Verleumdung 187** zuerst das tragende Prüffeld besti
 
 # § 186 StGB - üble Nachrede
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 Nutze ihn, wenn eine Äußerung einem Menschen eine konkrete Tatsache zuschreibt, die verächtlich machen oder in der öffentlichen Meinung herabwürdigen kann, und die Wahrheit nicht sicher belegbar ist.
 

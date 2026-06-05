@@ -36,7 +36,7 @@ Für **Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Co
 
 Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet fuer Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Auftragsverarbeiter baut sein RoPA erstmalig auf.
 - Kanzlei taetigt fuer Mandanten Datenverarbeitung im Auftrag (z. B. Lohnbuchhaltung, IT-Outsourcing) und ist insoweit Processor.
@@ -378,7 +378,7 @@ Verantwortlich: [PERSON / ROLLE]
 
 Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle fuer Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Zwei oder mehr Akteure entscheiden gemeinsam ueber Zwecke und Mittel der Verarbeitung.
 - Typische Konstellationen: Fanpage und Plattformbetreiber, Co-Branding-Aktionen, Konsortien, Marktplaetze, Tracking-Anbieter und Webseitenbetreiber.
@@ -519,7 +519,7 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 
 Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO unterfaellt und damit ein Auftragsverarbeitungsvertrag (AVV / Data Processing Agreement, DPA) abzuschliessen ist. Purpose (EN): Determine whether a contractual relationship triggers Art. 28 GDPR data processing on behalf of a controller and therefore requires a DPA.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant bezieht einen IT-/Cloud-/SaaS-Dienst und ist unsicher, ob AVV erforderlich ist.
 - Mandant ist Anbieter und prueft, ob er als Auftragsverarbeiter einzustufen ist.
@@ -620,7 +620,7 @@ Praeambel-Klausel fuer einen AVV nach Art. 28 DSGVO:
 
 Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel fuer Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Beim Drafting eines neuen AVV ist sicherzustellen, dass alle acht Pflichtinhalte vollstaendig sind.
 - Beim Auditing eines vorgelegten AVV ist zu pruefen, ob jede Pflichtklausel ihren Mindestanforderungen genuegt.

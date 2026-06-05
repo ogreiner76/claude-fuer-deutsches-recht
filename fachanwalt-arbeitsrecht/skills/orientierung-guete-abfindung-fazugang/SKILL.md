@@ -418,6 +418,6 @@ Alternativ zur Botenzustellung kann der Gerichtsvollzieher beauftragt werden (§
 - Keine modellwissensbasierten BAG-Aktenzeichen ohne Verifikation.
 - Annahmen explizit kennzeichnen; keine erfundenen Beweisvermerks-Standards.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Erstellung von Beweisvermerken als anwaltliche Urkunde — das bleibt dem beauftragten Anwalt.
 - Keine individuelle Prognose über Beweisergebnis ohne Kenntnis der konkreten Umstände.

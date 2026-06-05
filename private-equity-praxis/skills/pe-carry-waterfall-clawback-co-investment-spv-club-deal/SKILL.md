@@ -42,7 +42,7 @@ Für **Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsor
 
 Der Skill übersetzt Excel-Mechanik in juristische Kontrollpunkte und Governance. Carry ist die zentrale Vergütungs- und Anreizstruktur im PE-Fonds; Waterfall regelt die Reihenfolge der Auskehrungen, Clawback sichert die nachträgliche Korrektur bei Übervorteilung des Sponsors. Fokus: LPA-Verzahnung, steuerliche Qualifikation (§ 18 EStG), Escrow-/Sicherheits-Strukturen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. European Waterfall (Whole-of-Fund) oder American (Deal-by-Deal)?
 2. Höhe der Preferred Return / Hurdle (Marktstandard 8 Prozent p.a. kumuliert, IRR-basiert)?
@@ -145,7 +145,7 @@ Clawback (LPA):
 
 Der Skill liefert die Struktur für Co-Investments neben dem Hauptfonds. Klassischer Use Case: LP zeichnet 50 Mio. EUR im Fonds und will zusätzlich 25 Mio. EUR direkt in ein Target ko-investieren. Themen: SPV-Vehikel, Allocation Policy, Fee/Carry-Mechanik (häufig "no-fee-no-carry" für ko-investierende LPs), Sponsor-Konflikte, FDI/Kartellrecht-Schnittstelle.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher LP will ko-investieren und in welcher Höhe?
 2. Bestehen Co-Investment-Rechte im LPA (Pre-Emptive Rights, Right of First Offer)?
@@ -239,7 +239,7 @@ Drag-Along im Co-Invest-SHA:
 
 Der Skill macht aus losem Investorenchat eine belastbare Konsortialstruktur. Club Deal = mehrere institutionelle Investoren erwerben gemeinsam ein Target, ohne klassischen Fonds-Stack dazwischen. Themen: Konsortialvertrag, Lead-Investor, Stimmrechte, Deadlock, Kostentragung, Exit-Koordination, Insider- und Kartellrechtsperspektive.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer sind die Konsortium-Mitglieder (Anzahl, Hintergrund, Ticketgrößen)?
 2. Lead-Investor identifiziert, oder Equal-Footing?
@@ -337,7 +337,7 @@ Deadlock (Stufenmodell):
 
 Der Skill begleitet GP-led Secondaries: ein Sponsor (GP) richtet einen Continuation Fund ein, um ein oder mehrere Trophy Assets aus einem auslaufenden Vintage-Fonds zu übernehmen und länger zu halten. Existing LPs erhalten "Roll-Over" (Beteiligung am neuen Fonds) oder "Cash-Out" (Verkauf an Secondary-Buyer). Fokus: Interessenkonflikte (Sponsor verkauft an sich selbst), Fairness Opinion, LPAC-Approval-Logik, Bewertungsmethodik.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Asset-Struktur: Single-Asset oder Multi-Asset Continuation Vehicle?
 2. Aktuelle Vintage / Auslaufender Fonds (Fund I-V) und Asset-Liste?

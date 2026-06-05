@@ -140,7 +140,7 @@ Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung.
 - Keine Berechnung von GV-Gebühren ohne konkrete Kenntnis der Gebührenordnung (GvKostG – live prüfen).
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
@@ -239,7 +239,7 @@ Datum des Empfangs (= Zustellungsdatum): [Datum]
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein technischer IT-Support für beA-Softwareprobleme.
 - Keine Garantie für aktuelle SAFE-IDs (live im EGVP-Adressbuch prüfen).
 - Keine vollständige Mandantenberatung.
@@ -352,6 +352,6 @@ Gerichtsübliche Ausgangsbeiträge: 500 – 5.000 € (gering); 5.000 – 25.000
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Garantie für gerichtliche Festsetzungsquoten (stark einzelfallabhängig).
 - Kein Ersatz für vollständige Mandantenberatung.

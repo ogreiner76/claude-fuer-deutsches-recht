@@ -9,7 +9,7 @@ description: "Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Fri
 
 Dieser Skill bearbeitet ein eingegangenes Auskunftsersuchen nach Art. 15 DSGVO so, dass die Frist nach Art. 12 III DSGVO gewahrt, der Umfang nach Art. 15 I und III DSGVO erfuellt und das Risiko einer Beschwerde nach Art. 77 DSGVO oder Klage nach Art. 82 DSGVO minimiert wird.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Mandant ein Auskunftsersuchen erhalten hat — egal ob formal als Schreiben, per E-Mail, im Kuendigungskontext, im Arbeitsgerichtsprozess oder als Vorbereitung einer Klage gegen den Mandanten.
 

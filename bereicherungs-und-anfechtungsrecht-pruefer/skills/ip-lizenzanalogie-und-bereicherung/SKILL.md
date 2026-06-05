@@ -7,7 +7,7 @@ description: "Bei ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -7,7 +7,7 @@ description: "Bei ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wu
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

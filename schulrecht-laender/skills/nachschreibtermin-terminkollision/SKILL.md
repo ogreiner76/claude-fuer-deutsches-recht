@@ -38,7 +38,7 @@ Für **Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Na
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, Schülerinnen und Schüler, Schulleitung, Schulträger oder Behörde gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -99,7 +99,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Diagnostik, Förderung, Bewertung, Notenschutz, Zeugnisbemerkung und Landesunterschiede.
 
@@ -166,7 +166,7 @@ Erzeuge bevorzugt: LRS/Dyskalkulie-Antrag. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 LRS, Dyskalkulie, ADHS, Behinderung, chronische Krankheit, Atteste, Maßnahme und Dokumentation.
 
@@ -233,7 +233,7 @@ Erzeuge bevorzugt: Nachteilsausgleichsantrag. Am Ende immer drei Zeilen: **Frist
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Was ist Nachteilsausgleich, was ist Notenschutz, was muss im Zeugnis stehen und was nicht.
 

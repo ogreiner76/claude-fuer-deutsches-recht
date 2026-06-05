@@ -15,7 +15,7 @@ description: "Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuo
 
 Bei grenzüberschreitenden Sachverhalten wirft die Sanierungsertragsbefreiung Fragen auf: Welche Betriebsstätte trägt den Ertrag? Wie wirkt das anwendbare Doppelbesteuerungsabkommen? Kann ein ausländischer Gläubiger die Voraussetzungen nach § 3a EStG erfüllen? § 3a EStG ist eine rein deutsche Norm; ausländische Steuersysteme behandeln Sanierungserträge oft anders.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Hat die Schuldnerin Betriebsstätten im Ausland?
 2. Sind ausländische Gläubiger beteiligt?

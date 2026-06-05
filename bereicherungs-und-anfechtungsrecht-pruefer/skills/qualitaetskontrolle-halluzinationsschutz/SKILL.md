@@ -7,7 +7,7 @@ description: "Bei ein bereicherungsrechtlicher Output auf Scheinsicherheit und Q
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

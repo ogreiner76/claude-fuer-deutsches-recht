@@ -183,7 +183,7 @@ Sportrechts-Mandate sind oft saison- und turnierbezogen — eine Sperre vor eine
 
 # Schriftsatzkern und Substantiierung im Sport- und Sponsoringrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Sport- und Sponsoringrecht erstellt werden, typischerweise: Klage ordentliches Gericht/Sportgericht, CAS-/DIS-Schiedsantrag, Antidoping.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

@@ -29,7 +29,7 @@ Für **Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen** zuerst das 
 
 # Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Privates Baurecht, Architekten- und Ingenieurrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Baumangel/Nacherfuellung, Bauverzug, HOAI-Honorar, Abnahmestreit.

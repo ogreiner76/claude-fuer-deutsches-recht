@@ -31,7 +31,7 @@ Für **Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16
 
 # Devops Ci Cd Secrets
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Runner, Tokens, Artefakte, Signaturen, Dependencies, Deployment-Rechte und Rollback.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Digitale Souveraenitaet Provider Lockin
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Exit-Kosten, Datenportabilität, offene Standards, Betriebsfähigkeit ohne Anbieter und Verhandlungshebel.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Erzeuge eine `DORA-Art.-16-Note`:
 
 # DORA Finanzsektor Abgrenzung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Welche Regel ist vorrangig, wo laufen Meldungen parallel, wie wird ein Incident klassifiziert.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

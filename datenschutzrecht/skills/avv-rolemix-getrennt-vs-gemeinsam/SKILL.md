@@ -9,7 +9,7 @@ description: "Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DS
 
 Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in Mehr-Akteur-Konstellationen: getrennte Verantwortliche, gemeinsame Verantwortliche (Art. 26 DSGVO), Auftragsverarbeiter (Art. 28 DSGVO). Purpose (EN): Separate vs. joint vs. processor – role allocation in multi-actor data processing under GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Zwei oder mehr Akteure verarbeiten dieselben personenbezogenen Daten und es ist unklar, welches Vertragsmodell zu schliessen ist.
 - Aufsichtsbehoerde fragt nach Rollenzuordnung im Verarbeitungsverzeichnis (Art. 30 DSGVO).

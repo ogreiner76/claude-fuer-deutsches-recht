@@ -31,7 +31,7 @@ Für **Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuld
 # Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
 
 ## Fachkern: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
-- **Spezialgegenstand:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO § 304; § 15a InsO als Altlast; Forderungsstruktur. Entscheidend ist immer
 # Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
 
 ## Fachkern: Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
-- **Spezialgegenstand:** Verbraucherinsolvenz 3 Jahres Restschuldbefreiung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbraucherinsolvenz 3 Jahres Restschuldbefreiung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -139,7 +139,7 @@ Skill fuer die verkuerzte Restschuldbefreiung.
 # Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 
 ## Fachkern: Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
-- **Spezialgegenstand:** Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

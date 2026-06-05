@@ -5,7 +5,7 @@ description: "Prüft Pentest- und Red-Team-Programme rechtlich und technisch."
 
 # Pen Test Red Team
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Scope, Erlaubnis, Datenschutz, Betriebsrat, sichere Testfenster, Findings und Remediation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

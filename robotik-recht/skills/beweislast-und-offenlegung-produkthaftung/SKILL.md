@@ -16,7 +16,7 @@ description: "Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, K
 
 Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und KI-gestützten Produkten mit (i) Offenlegungspflichten technischer Unterlagen vor und im Prozess (Art. 9 RL), (ii) Vermutungen zur Fehlerhaftigkeit (Art. 10) und (iii) Vermutungen zur Kausalität (Art. 10 Abs. 4). Parallel bleibt nationales Prozessrecht (§§ 142, 144, 421-432 ZPO, § 810 BGB, § 242 BGB, Auskunfts- und Stufenklage § 254 ZPO) anwendbar. Dieser Skill bearbeitet die Tools, prioritisiert sie und gibt Schriftsatzpassagen für beide Seiten.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Geschädigter/Anspruchsteller, Hersteller-Verteidigung, Versicherer, Sachverständiger, Gericht.
 2. **Vorfall:** Personen-, Sach- oder Datenschaden; Robotik-System komplex (KI, Cloud, OTA-Updates)?

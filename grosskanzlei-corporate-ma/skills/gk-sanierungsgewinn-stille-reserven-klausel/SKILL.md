@@ -24,7 +24,7 @@ Wenn § 8c Abs. 1 Satz 1 KStG den Verlustvortrag durch einen Anteilseignerwechse
 
 Dieser Skill ist das Beratungsmodul für die strukturierte Anwendung beider Mechanismen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Anteilseignerwechsel über 50 % auf eine sanierungsbedürftige Gesellschaft mit erheblichem Verlustvortrag.
 - PE-Investor erwirbt Gesellschaft mit hohen stillen Reserven (Immobilien, Patente, Beteiligungen).

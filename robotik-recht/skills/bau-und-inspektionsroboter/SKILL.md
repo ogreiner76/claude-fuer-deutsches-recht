@@ -16,7 +16,7 @@ description: "Prüft Bau-, Inspektions- und Wartungsroboter: Baustelle, Arbeitss
 
 Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schweiß-, Tunnel-Inspektion, Rohrleitungs-Crawler, Drohnen-Vermessung, Fassaden-Reinigungsroboter) bewegen sich in einem Spannungsfeld zwischen BaustellV/SiGeKo, MaschinenVO, Arbeitsschutzrecht, Bauvertragsrecht (VOB/B), Versicherungsrecht und – bei Drittschäden – allgemeinem Deliktsrecht (§ 823 BGB) sowie Verkehrssicherungspflichten. Dieser Skill ordnet die Pflichten der Akteure (Bauherr, Generalunternehmer, Subunternehmer, Verleiher des Roboters), liefert Vorlagen für Baustellenanweisungen und gibt Hilfen zur Beweissicherung bei Vorfällen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Bauherr, Generalunternehmer, Subunternehmer, Verleiher des Roboters, Hersteller, SiGeKo, Versicherer, Geschädigter.
 2. **Robotertyp:** 3D-Druck-Roboter Beton, Mauer-Robot, Tunnel-Inspektion, Brücken-Inspektion, Schweißroboter, Demontage-Roboter mit Hochdruckwasserstrahl.

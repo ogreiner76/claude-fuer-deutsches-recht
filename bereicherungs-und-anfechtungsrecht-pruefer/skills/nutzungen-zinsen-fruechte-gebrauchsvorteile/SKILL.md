@@ -7,7 +7,7 @@ description: "Bei nutzungen und Zinsen ohne Doppelzählung erfasst werden müsse
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

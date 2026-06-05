@@ -7,7 +7,7 @@ description: "Bei zivilrecht und öffentlich-rechtliche Erstattung auseinanderzu
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

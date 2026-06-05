@@ -31,7 +31,7 @@ Für **Joiner Mover Leaver, Ki Incident Detection, Ki Tools Shadow It, Klassifiz
 
 # Joiner Mover Leaver
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Rollenwechsel, Genehmigungen, Rezertifizierung, HR-Schnittstelle, Dienstleister und Audittrail.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # KI Incident Detection
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 False Positives, Datenbasis, Transparenz, Bias, Datenschutz, Herstellerclaims und menschliche Freigabe.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # KI Tools Shadow It
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Promptdaten, Quellcode, Kundendaten, Trainingsnutzung, Browser Extensions, Admin-Freigaben.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Klassifizierte Informationen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Need-to-know, Verschlüsselung, Räume, Druck, Versand, Outsourcing und Löschung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

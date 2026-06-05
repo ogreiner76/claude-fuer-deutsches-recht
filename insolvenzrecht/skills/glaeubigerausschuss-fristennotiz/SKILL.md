@@ -555,7 +555,7 @@ Der Insolvenzverwalter und Sachwalter sind Treuhaender der Masse. Verletzen sie 
 
 Dieser Skill arbeitet die Pflichten und die Verteidigung heraus. Adressat: Verwalter, Berater des Verwalters, Glaeubigerausschuss, ggf. Klaegeranwalt aus Glaeubigerkreis.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Verwalter steht im Verdacht, Sanierungsertrag-Steuern in voller Hoehe an das Finanzamt zahlen zu muessen, weil Antraege versaeumt wurden.
 - Glaeubigerausschuss ueberlegt, eine Pflichtverletzung anzunehmen.

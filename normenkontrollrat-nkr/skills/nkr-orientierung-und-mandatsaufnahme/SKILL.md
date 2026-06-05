@@ -11,7 +11,7 @@ Allgemein-Skill als Einstieg in jedes NKR-Pruefmandat. Er nimmt einen unvorberei
 
 Ziel: in zwei Minuten wissen, welche der 36 anderen Skills im Plugin als naechstes zu greifen sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Anwendungsfall: Sekretariat hat einen Vorgang weitergeleitet, der NKR-Pruefung erfordert.
 

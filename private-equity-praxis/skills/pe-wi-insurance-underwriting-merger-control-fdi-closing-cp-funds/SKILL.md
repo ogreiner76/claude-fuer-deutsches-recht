@@ -38,7 +38,7 @@ Für **Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / 
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill prüft, ob W&I echte Risikoübernahme oder nur Prozesskosmetik ist.
 
@@ -79,7 +79,7 @@ Versicherungsvertrag, SPA-Garantien, DD-Reports, Disclosure, Claims Notice.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Fondsumsätze, Portfolio-Kontrolle, Erwerbergruppe und sensitive Sektoren.
 
@@ -120,7 +120,7 @@ GWB, EU-Fusionskontrollverordnung, AWG/AWV, Sektorregulierung.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erzeugt ein anwaltlich verwertbares Closing-Büro statt losem Excel-Chaos.
 
@@ -161,7 +161,7 @@ SPA, § 158 BGB, GWB/AWV Vollzugsverbot, Notar/Handelsregister, Bank KYC.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Motivationslogik, arbeits-/steuerrechtliche Schnittstellen und Exit-Fähigkeit.
 

@@ -51,7 +51,7 @@ Für **Vergleichsverhandlung Strategie** zuerst das tragende Prüffeld bestimmen
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Erb- und Pflichtteilsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Pflichtteilsabfindung, Erbauseinandersetzung, Hoferbenstreit.

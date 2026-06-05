@@ -17,7 +17,7 @@ Eine GmbH in solventer Liquidation mit einem hohen nachrangigen Gesellschafterda
 
 Dieser Skill behandelt die Konstellation systematisch.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Mandantin ist eine GmbH (oder UG, GmbH und Co. KG mit Komplementaer-GmbH) und steht vor der Liquidation — **nicht** Insolvenz.
 2. Besteht ein Gesellschafterdarlehen mit qualifiziertem Rangruecktritt? Hoehe in EUR?

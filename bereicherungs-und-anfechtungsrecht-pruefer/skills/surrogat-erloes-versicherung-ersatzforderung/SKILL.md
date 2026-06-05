@@ -7,7 +7,7 @@ description: "Bei an die Stelle des Erlangten ein Ersatzwert getreten sein kann.
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

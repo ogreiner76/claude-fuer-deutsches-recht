@@ -32,13 +32,13 @@ Für **Hochschulgesetz Bayern, Hochschulgesetz Berlin, Hochschulgesetz Brandenbu
 # Hochschulgesetz Bayern
 
 ## Fachkern: Hochschulgesetz Bayern
-- **Spezialgegenstand:** Hochschulgesetz Bayern; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Bayern. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Bayern: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 # Hochschulgesetz Berlin
 
 ## Fachkern: Hochschulgesetz Berlin
-- **Spezialgegenstand:** Hochschulgesetz Berlin; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Berlin. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Berlin: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 # Hochschulgesetz Brandenburg
 
 ## Fachkern: Hochschulgesetz Brandenburg
-- **Spezialgegenstand:** Hochschulgesetz Brandenburg; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Brandenburg. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Brandenburg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 
@@ -233,13 +233,13 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 # Hochschulgesetz Bremen
 
 ## Fachkern: Hochschulgesetz Bremen
-- **Spezialgegenstand:** Hochschulgesetz Bremen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hochschulgesetz Bremen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Bremen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
 

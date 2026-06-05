@@ -31,7 +31,7 @@ Für **Aufsichtsbehoerdenkommunikation, Internal Investigation, Ma Transaktion W
 
 # Aufsichtsbehoerdenkommunikation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 BfJ, Datenschutz, Fachaufsicht, Arbeitsschutz, Kartellamt, BaFin und Staatsanwaltschaft.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Internal Investigation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Datenquellen, Interviewreihenfolge, Legal Hold, Forensik, Beschuldigtenrechte und Eskalation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Ma Transaktion Whistleblower
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Disclosure, Warranty, Indemnity, Investigation, Signing/Closing und Post-Closing-Remediation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Steuerrecht Grenzen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Selbstanzeige, Lohnsteuer, Umsatzsteuer, Steuergeheimnis, Dokumentensicherung und Berater.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

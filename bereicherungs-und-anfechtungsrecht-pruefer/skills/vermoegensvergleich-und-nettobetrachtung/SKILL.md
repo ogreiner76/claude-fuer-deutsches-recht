@@ -7,7 +7,7 @@ description: "Bei der bereicherungsrechtliche Netto-Vorteil statt nur der äuße
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

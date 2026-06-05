@@ -7,7 +7,7 @@ description: "Bei anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgew
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -51,7 +51,7 @@ Für **Schriftsatzkern Substantiierung** zuerst das tragende Prüffeld bestimmen
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Steuerrecht (Beratung und Prozess) erstellt werden, typischerweise: Einspruch, Klage FG, Revision BFH, Stundungs-/Erlassantrag.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

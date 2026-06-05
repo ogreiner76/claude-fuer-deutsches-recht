@@ -24,7 +24,7 @@ Sanierungsmaßnahmen können EU-beihilferechtlich relevant werden, wenn sie aus 
 
 Dieser Skill liefert die Prüfanleitung für die EU-beihilferechtliche Würdigung im Sanierungsmandat.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sanierung einer Gesellschaft mit staatlicher Beteiligung (Bund, Land, Kommune) als Gläubiger oder Gesellschafter.
 - Anwendung der Sanierungsklausel § 8c Abs. 1a KStG.

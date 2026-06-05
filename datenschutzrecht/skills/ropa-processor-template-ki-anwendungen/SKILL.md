@@ -145,7 +145,7 @@ Version 1.1 – [change] – [date, author]
 
 Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verzeichnis von Verarbeitungstaetigkeiten bei KI-Anwendungen abbilden muss. Die DSGVO-Vorgaben in Art. 30 DSGVO werden nicht ersetzt, aber durch KI-spezifische Fragestellungen erweitert: Trainingsdaten, Modellzweck, Vector Stores, Prompt- und Output-Logs, Drittlandtransfer ueber LLM-Anbieter, automatisierte Entscheidungsfindung nach Art. 22 DSGVO, sowie das Zusammenspiel mit der KI-Verordnung (KI-VO, VO (EU) 2024/1689).
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant fuehrt LLM-API (z. B. fuer interne Assistenten, Chatbots, Code-Generierung) ein.
 - HR setzt KI-Tools zur Vorauswahl ein.
@@ -248,7 +248,7 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur fuer Master-RoPA mit Entity-Anhaengen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernweiter RoPA-Roll-out (Mutter- und Tochtergesellschaften).
 - Shared-Service-Center fuer HR, IT, Buchhaltung, Recht (typischerweise Processor-Konstellation).

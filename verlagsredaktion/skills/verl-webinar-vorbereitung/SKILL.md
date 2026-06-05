@@ -36,7 +36,7 @@ Für **Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfade
 
 Ein erfolgreicher Aufsatz oder ein neues Buch wird zum Webinar ausgebaut: 60-90 Minuten Onlineveranstaltung mit Q&A, optional FAO-Fortbildungsbescheinigung. Der Skill liefert Bauplan vom Aufsatz zur Veranstaltung: Vertrag mit Autor, technische und rechtliche Anforderungen, Datenschutz, Aufzeichnung, Verwertung der Aufzeichnung als Onlinekurs.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Aufsatz / welches Buch ist Ausgangspunkt?
 2. Welche Zielgruppe (Anwaltschaft, Justiz, Wissenschaft, Unternehmen)?
@@ -249,7 +249,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -265,7 +265,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 Jede juristische Fachzeitschrift hat eigene Hausnormen fuer Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Dieser Skill fuehrt die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klaeren Sie:
 
@@ -359,7 +359,7 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 
 Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinstellung, Sonderdruck, Festschriftsuebernahme, Aufsatzbuendelung, Open Access nach Embargofrist, Bearbeitung fuer Lehrgaenge. Der Skill systematisiert diese Rechte, klaert das Verhaeltnis von Verlag und Autor, erlaeutert das gesetzliche Zweitverwertungsrecht nach UrhG § 38 und schlaegt eine pauschale Auskehr vor.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Werk (Aufsatz, Buchbeitrag, Kommentierung, Festschriftsbeitrag)?
 2. Welche Zweitverwertung ist geplant oder bereits eingetreten?

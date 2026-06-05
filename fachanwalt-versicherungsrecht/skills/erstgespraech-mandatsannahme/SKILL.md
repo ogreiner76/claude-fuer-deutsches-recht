@@ -30,7 +30,7 @@ Für **Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehi
 
 # Erstgespraech und Mandatsannahme im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung) (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

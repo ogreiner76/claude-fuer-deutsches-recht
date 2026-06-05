@@ -9,7 +9,7 @@ description: "Beschwerde Art. 77 DSGVO bei zustaendiger Aufsichtsbehoerde einrei
 
 Dieser Skill bearbeitet das Beschwerdeverfahren nach Art. 77 DSGVO. Er hilft dem Beschwerdefuehrer, eine wirksame Beschwerde einzureichen, und dem Beschwerdegegner, im Verfahren der Aufsichtsbehoerde fundiert Stellung zu nehmen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der Mandant Adressat einer Beschwerde ist und von der Aufsichtsbehoerde angehoert wird, oder (c) eine Beschwerde durch Untaetigkeitsklage durchgesetzt werden soll.
 

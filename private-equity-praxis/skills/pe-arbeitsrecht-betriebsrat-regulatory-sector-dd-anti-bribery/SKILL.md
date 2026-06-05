@@ -38,7 +38,7 @@ Für **Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht HR-Themen deal- und portfoliofähig.
 
@@ -79,7 +79,7 @@ BGB § 613a, BetrVG, KSchG, AGG, Mitbestimmung, Datenschutz.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill baut eine Regulierungslandkarte mit Genehmigungen, Change-of-Control und Behördenkontakten.
 
@@ -120,7 +120,7 @@ KWG/ZAG/MiCAR, EnWG, SGB V, TKG, AWV, BNetzA/BaFin.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE-Risikobewertung, SPA-Schutz und 100-Tage-Plan.
 
@@ -161,7 +161,7 @@ StGB, OWiG, HinSchG, GwG, Sanktionen, Lieferkette.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill bearbeitet DD-Findings mit Risikoallokation im SPA und Versicherungsplan.
 

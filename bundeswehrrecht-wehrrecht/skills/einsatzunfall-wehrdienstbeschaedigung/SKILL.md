@@ -31,7 +31,7 @@ Für **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ern
 # Einsatzunfall und Wehrdienstbeschädigung
 
 ## Fachkern: Einsatzunfall und Wehrdienstbeschädigung
-- **Spezialgegenstand:** Einsatzunfall und Wehrdienstbeschädigung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Einsatzunfall und Wehrdienstbeschädigung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ern
 
 Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädigung: Schädigung während eines besonderen Auslandseinsatzes oder einer gleichgestellten Verwendung (§ 81a SVG). Folge sind höhere Leistungen, insbesondere eine einmalige Entschädigung nach Einsatzversorgungs-Verbesserungsgesetz und besondere Berufsförderungsansprüche. Der Skill ordnet die Voraussetzungen, dokumentiert die Tatfeststellung und führt durch das Verwaltungsverfahren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welcher konkrete Einsatz (KFOR, EUFOR, Resolute Support, Sea Guardian, EUTM, sonstige Mission)?
 - Welche Verwendung (Truppe, Kontingent, Beobachter, Stab, NATO/EU)?
@@ -131,7 +131,7 @@ Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädig
 # Entlassung auf eigenen Antrag
 
 ## Fachkern: Entlassung auf eigenen Antrag
-- **Spezialgegenstand:** Entlassung auf eigenen Antrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Entlassung auf eigenen Antrag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -153,7 +153,7 @@ Der Antrag kann in engen Grenzen widerrufen werden. Einschneidend sind die Ausbi
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -242,7 +242,7 @@ Vor Ausgabe prüfen:
 # Ernennung, Dienstgrad und Laufbahnrecht
 
 ## Fachkern: Ernennung, Dienstgrad und Laufbahnrecht
-- **Spezialgegenstand:** Ernennung, Dienstgrad und Laufbahnrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Ernennung, Dienstgrad und Laufbahnrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -264,7 +264,7 @@ Fehlende Beförderungen und Fehlentscheidungen bei der Ernennung sind mit WBO-Be
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

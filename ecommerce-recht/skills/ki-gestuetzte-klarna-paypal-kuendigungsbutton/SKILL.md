@@ -38,7 +38,7 @@ Für **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbeding
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: KI-gestützte Preisbildung Diskriminierung** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -83,7 +83,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Klarna PayPal Plattformbedingungen rechtlich lesen** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -131,7 +131,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 § 312k BGB verpflichtet Unternehmer, die im elektronischen Geschäftsverkehr Verbraucherverträge über entgeltliche Leistungen in Form eines Dauerschuldverhältnisses anbieten, einen Kündigungsbutton bereitzustellen. Gilt seit 1. Juli 2022. Bei Verstoß: keine wirksame Bindung an die Mindestvertragslaufzeit, jederzeitige Kündigungsmöglichkeit und Unterlassungsanspruch nach UWG und UKlaG. Der Skill ordnet Anwendungsbereich, technische Anforderungen, Risiken und Mustertexte.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welcher Vertragstyp (Streaming-Abo, Datingplattform, Fitnessstudio-Online, Telekommunikation)?
 - Ist der Vertragsschluss elektronisch möglich? Wenn ja: Kündigung auch?

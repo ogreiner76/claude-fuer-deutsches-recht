@@ -9,7 +9,7 @@ description: "Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. 
 
 Stellungnahmen des NKR folgen einem etablierten Standardaufbau. Wer eine NKR-Stellungnahme entwirft, hat eine feste Struktur einzuhalten — wegen Adressatenerwartung (Kabinett, Bundestag, Ressorts) und wegen Konsistenz im Jahresbericht.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Drafting einer neuen Stellungnahme
 - Schulung neuer Referenten

@@ -95,7 +95,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskomponenten von Maschinen, Medizin-, Verkehrsrobotik) müssen ein "angemessenes Maß" an Genauigkeit, Robustheit und Cybersicherheit aufweisen, Art. 15 VO (EU) 2024/1689 (KI-VO). Dieser Skill operationalisiert diese drei Anforderungen für Roboter: vom Performance-Test (Accuracy) über Stresstests gegen Drift, Sensorrauschen und Adversarial Inputs (Robustness) bis zu Härtung gegen Manipulation der Trainingsdaten (Data Poisoning), des Modells (Model Evasion) oder der Inferenz (Prompt-Injection bei GenAI-Robotik). Schnittstellen zum Cyber Resilience Act (VO (EU) 2024/2847, CRA) und zur MaschinenVO VO (EU) 2023/1230 müssen mitgedacht werden.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Anbieter (provider) i. S. d. Art. 3 Nr. 3 KI-VO, Betreiber (deployer), Hersteller, Importeur, Integrator, Marktüberwachungsbehörde oder Geschädigter.
 2. **Robotertyp:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, OP-, autonomer Liefer- oder Sicherheitsroboter.
@@ -229,7 +229,7 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 
 Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- und Cyber-Recht denkt aber in Konformitätsbewertungsverfahren, Versionsständen und Konformitätserklärungen. Dieser Skill bringt beide Welten zusammen: Er definiert die Stage-Gates, die ein Robotikprodukt zwingend durchlaufen muss, damit Sprints am Ende ein CE-fähiges, KI-VO-konformes und cyber-resilientes Release liefern. Schwerpunkt: Definition of Done (DoD) auf Story-, Increment- und Release-Ebene; Sicherheits-, Datenschutz-, KI- und Rechtsfreigabe; Behandlung "substanzieller Änderungen" i. S. d. Art. 3 Nr. 23 VO (EU) 2024/1689 (KI-VO).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Anbieter/Hersteller, Sicherheitsverantwortlicher (Safety Officer), DSB, CISO, Notified-Body-Auditor.
 2. **Methodik:** Scrum, SAFe, Hybrid, V-Modell mit agilen Inseln?
@@ -356,7 +356,7 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 
 Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeichen, veraltete Normenstände oder erfundene Kommentar-Fundstellen zerstören die Glaubwürdigkeit eines Memos und können berufsrechtlich relevant werden (§ 43a Abs. 3 BRAO). Dieser Skill etabliert einen prüfbaren Quellenprozess: Auswahl, Verifikation, Zitierung, Versionierung – sowohl für EU-Rechtsakte (KI-VO, MaschinenVO, CRA, neue ProdHaftRL) als auch für technische Normen (ISO, IEC, DIN, harmonisierte Normen).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Mandatstyp:** Memo, Schriftsatz, Bescheid, Behördenkommunikation, Vorstandsvorlage, Gutachten für Notified Body.
 2. **Quellenarten benötigt:** EU-Rechtsakt, BGH-/EuGH-Rspr., harmonisierte Norm, technische Spezifikation, Kommentar, Aufsatz, behördliche Leitlinie.

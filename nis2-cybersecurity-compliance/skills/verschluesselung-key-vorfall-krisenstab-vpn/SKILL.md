@@ -31,7 +31,7 @@ Für **Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, 
 
 # Verschluesselung Key Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 At rest, in transit, HSM, KMS, BYOK/HYOK, Schlüsselrotation und Zugriff auf Backups.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Vorfall Krisenstab
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 CEO, CISO, Legal, Datenschutz, HR, PR, IT, Betriebsrat, Externe und Board informieren.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # VPN Ausland Reisen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Gerätehygiene, VPN, Cloudzugriff, Grenzkontrollen, Exportkontrolle, lokale SIM und Reise-Policy.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Vulnerability Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 CVE, CVSS, EPSS, Asset-Kritikalität, SLA, Ausnahmegenehmigung und Lieferantendruck.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

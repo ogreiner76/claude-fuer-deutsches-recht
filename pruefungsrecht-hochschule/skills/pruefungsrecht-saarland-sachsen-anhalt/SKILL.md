@@ -32,13 +32,13 @@ Für **Pruefungsrecht Saarland, Pruefungsrecht Sachsen, Pruefungsrecht Sachsen A
 # Pruefungsrecht Saarland
 
 ## Fachkern: Pruefungsrecht Saarland
-- **Spezialgegenstand:** Pruefungsrecht Saarland; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Saarland. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Saarland: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Sachsen
 
 ## Fachkern: Pruefungsrecht Sachsen
-- **Spezialgegenstand:** Pruefungsrecht Sachsen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Sachsen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Sachsen: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Sachsen Anhalt
 
 ## Fachkern: Pruefungsrecht Sachsen Anhalt
-- **Spezialgegenstand:** Pruefungsrecht Sachsen Anhalt; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Sachsen Anhalt. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Sachsen-Anhalt: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -233,13 +233,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Schleswig Holstein
 
 ## Fachkern: Pruefungsrecht Schleswig Holstein
-- **Spezialgegenstand:** Pruefungsrecht Schleswig Holstein; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Schleswig Holstein. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Schleswig-Holstein: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 

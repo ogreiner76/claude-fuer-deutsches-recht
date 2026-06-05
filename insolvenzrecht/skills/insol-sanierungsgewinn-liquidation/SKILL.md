@@ -49,7 +49,7 @@ Der Mandant hat im Krisenfall meist die Wahl zwischen Plan-Sanierung und Liquida
 
 Die Liquidation produziert **keinen Sanierungsertrag**, weil keine Verbindlichkeit erlassen wird. Wenn die GmbH spaeter Vermoegen erhaelt oder ein Glaeubiger sich noch meldet, leben Verbindlichkeiten wieder auf. Eine Verlautbarung der OFD Frankfurt a. M. stellt zudem klar: der Liquidationsbeschluss allein ist nicht als konkludenter Forderungsverzicht zu deuten. Adressat: Beratungs-Anwalt der Geschaeftsleitung, IV, StB.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Mandant ueberlegt, statt Sanierung den Geschaeftsbetrieb einzustellen.
 - Insolvenzverwalter fragt, ob Plan oder Liquidation steuerlich besser ist.
@@ -232,7 +232,7 @@ Wer in der Insolvenz oder im StaRUG-Verfahren arbeitet, lebt mit knappen Fristen
 
 Adressat: Berater, der gegenueber IV/CRO/Schuldner kommunizieren muss. Tonfall: nuechtern, kanzleitauglich, ohne Drohgebaerden, aber mit klarer Haftungs-Signalsetzung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie sind als Berater neu im Mandat oder werden nur fuer den Steuerteil hinzugezogen.
 - Sie befuerchten, dass der Plan-Anwalt oder der IV den Sanierungsgewinn nicht ausreichend behandelt.
@@ -422,7 +422,7 @@ Die Insolvenzmasse ist begrenzt. Wenn aus dem Restsanierungsertrag eine Steuer e
 
 Dieser Skill modelliert den Konflikt. Adressat: IV/Sachwalter, Plan-Anwalt, Glaeubigerausschuss.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Modellrechnung Paragraph 3a Absatz 3 EStG zeigt einen Restsanierungsertrag mit moeglicher Steuer.
 - Plan steht vor Vorlage; Plan-Quote zu Lasten der Glaeubiger soll abgesichert werden.
@@ -598,7 +598,7 @@ Bei natuerlichen Personen (Einzelunternehmer, Freiberufler, Gesellschafter einer
 
 Dieser Skill ordnet die Konstellationen und liefert Pruefraster. Adressat: IV, Sachwalter, StB, Schuldnervertretung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Mandant ist natuerliche Person (Einzelunternehmer, Freiberufler).
 - Restschuldbefreiung wurde angekuendigt oder ist anhaengig.

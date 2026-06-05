@@ -31,7 +31,7 @@ Für **Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakehol
 
 # Produktsicherheit, Rückruf und Haftung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill bearbeitet Technikunterlagen mit Haftungs- und Genehmigungsakten.
 
@@ -64,7 +64,7 @@ ProdSG, Produkthaftung, EU-Produktsicherheitsrecht, Maschinen-/Elektrorecht live
 
 # Versicherung und Schadenfallmanagement
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill baut ein Schadenfall-Playbook für Brand, Cyberangriff, Netzereignis oder Lieferverzug.
 
@@ -138,7 +138,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

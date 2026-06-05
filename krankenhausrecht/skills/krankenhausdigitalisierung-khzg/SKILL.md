@@ -31,14 +31,14 @@ Für **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsge
 # Krankenhausdigitalisierung KHZG IT-Sicherheit
 
 ## Fachkern: Krankenhausdigitalisierung KHZG IT-Sicherheit
-- **Spezialgegenstand:** Krankenhausdigitalisierung KHZG IT-Sicherheit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankenhausdigitalisierung KHZG IT-Sicherheit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Krankenhausdigitalisierung KHZG IT-Sicherheit** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -76,7 +76,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur
 
 ## Fachkern: Krankenhausfinanzierungsgesetz KHG Grundstruktur
-- **Spezialgegenstand:** Krankenhausfinanzierungsgesetz KHG Grundstruktur; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankenhausfinanzierungsgesetz KHG Grundstruktur. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -85,7 +85,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt die **duale Finanzierung** (Investitionen vom Land, Betrieb von den Kassen), die **Landeskrankenhausplanung**, die **Leistungsgruppen** (KHVVG 2025) und das Schiedsstellenwesen. Es ist Voraussetzung fuer KHEntgG, BPflV und SGB-V-Versorgung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Geht es um Plankrankenhausstatus, Investitionsfoerderung, Versorgungsauftrag?
 - Steht eine Bund-Laender-Frage an (Reform, Foerderpriorisierung)?
 - Welche Norm im KHG ist konkret relevant (§§ 1, 6, 6a, 8, 9, 17, 17b, 17d, 18a)?
@@ -155,7 +155,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 # Krankenhaushygiene IfSG Landesrecht
 
 ## Fachkern: Krankenhaushygiene IfSG Landesrecht
-- **Spezialgegenstand:** Krankenhaushygiene IfSG Landesrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankenhaushygiene IfSG Landesrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -164,7 +164,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 ## Worum geht es konkret
 Krankenhaushygiene wird in mehreren Ebenen geregelt: IfSG (Bund), KRINKO-/RKI-Empfehlungen (Stand der Wissenschaft), Landes-Hygieneverordnungen (Hygienefachpersonal, Ausstattung). Versagen fuehrt zu Aufsichtsmassnahmen, MD-Strukturpruefung und Haftung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Hygienelage (Ausbruch, MRE-Surveillance, Routinepruefung)?
 - Liegt Hygieneplan vor (KRINKO-konform)?
 - Welches Land — welche Hygieneverordnung?

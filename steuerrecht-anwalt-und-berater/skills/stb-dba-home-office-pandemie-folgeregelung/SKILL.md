@@ -16,7 +16,7 @@ description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pande
 
 ## Kernsachverhalt
 
-Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachbarstaaten Konsultationsvereinbarungen, damit Arbeitnehmer durch Home-Office nicht ihren steuerlichen Status (Grenzgaenger oder Wohnsitz-/Taetigkeitsstaat-Zuordnung) verloren. Mit Ende der Pandemie wurden viele dieser Vereinbarungen in Folgeregelungen ueberfuehrt — teils befristet, teils dauerhaft (Anhebung von Toleranzschwellen). Dieser Skill fasst die wichtigsten Konsultationsvereinbarungen zusammen und gibt die Pruefung an die Hand.
+Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachbarstaaten Konsultationsvereinbarungen, damit Arbeitnehmer durch Home-Office nicht ihren steuerlichen Status (Grenzgaenger oder Wohnsitz-/Taetigkeitsstaat-Zuordnung) verloren. Mit Ende der Pandemie wurden viele dieser Vereinbarungen in Folgeregelungen ueberfuehrt — teils befristet, teils dauerhaft (Anhebung von Toleranzschwellen). Der Arbeitsgang ordnet die wichtigsten Konsultationsvereinbarungen und führt durch die Prüfung.
 
 ## Kaltstart-Rueckfragen
 

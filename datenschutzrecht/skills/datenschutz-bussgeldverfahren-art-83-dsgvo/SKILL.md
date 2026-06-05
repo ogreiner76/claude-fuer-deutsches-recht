@@ -11,7 +11,7 @@ Dieser Skill verteidigt den Mandanten im Bußgeldverfahren wegen DSGVO-Verstoß 
 
 Terminologie sauber halten: Das ist kein Zivilprozess und keine Anklage im engeren strafprozessualen Sinn. Die Stationen heißen regelmäßig Anhörung, Bußgeldbescheid, Einspruch, Zwischenverfahren, Abgabe über die Staatsanwaltschaft an das zuständige Gericht, Hauptverhandlung oder Beschlussverfahren, Rechtsbeschwerde. Parallel können aufsichtsbehördliche Anordnungen nach Art. 58 Abs. 2 DSGVO verwaltungsgerichtlich anzugreifen sein.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald die Aufsichtsbehörde förmlich ein Bußgeldverfahren eingeleitet hat: Anhörung nach § 55 OWiG, Bußgeldbescheid nach § 65 OWiG oder laufende Einspruchsfrist nach § 67 OWiG.
 

@@ -7,7 +7,7 @@ description: "Bei jemand irrtümlich als vermeintlicher Schuldner oder auf fremd
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -36,7 +36,7 @@ Für **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art
 
 Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverarbeiter; Trennung von Aussenhaftung gegenueber Betroffenen und Innenregress; Grenzen vertraglicher Haftungsbegrenzungen. Purpose (EN): Liability allocation between controller and processor under Article 82 GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Haftungscaps im AVV werden verhandelt.
 - Mandant hat Schadensersatzanspruch gegen den Vertragspartner zu pruefen.
@@ -129,7 +129,7 @@ Haftungsklausel:
 
 Dieser Skill bearbeitet Schadensersatzansprueche nach Art. 82 DSGVO vor deutschen Zivilgerichten — sowohl auf Klaeger- als auch auf Beklagtenseite. Er konzentriert sich auf den materiellen und immateriellen Schaden, die Kausalitaet zum DSGVO-Verstoss und die Beweislastverteilung nach der inzwischen verfestigten EuGH-Rechtsprechung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Betroffener Schadensersatz vom Mandanten verlangt oder (b) der Mandant gegen einen Verantwortlichen vorgehen will.
 
@@ -261,7 +261,7 @@ Sieben-Fragen-Diagnose:
 
 Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere fuer die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - In jeder vollstaendigen DSFA
 - Bei Aktualisierung einer DSFA nach wesentlicher Aenderung
@@ -414,7 +414,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

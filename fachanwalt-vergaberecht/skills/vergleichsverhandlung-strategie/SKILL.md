@@ -30,7 +30,7 @@ Für **Vergleichsverhandlung Strategie, Wertungspreisqualitaet Matrix, Wettbewer
 
 # Vergleichsverhandlung und Einigung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Ruegestadium-Loesung, einvernehmliche Aufhebung, Mehraufwand.

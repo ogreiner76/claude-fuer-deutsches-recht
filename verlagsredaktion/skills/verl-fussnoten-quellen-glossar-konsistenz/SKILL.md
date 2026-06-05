@@ -36,7 +36,7 @@ Für **Verl Fussnoten Quellen Konsolidierung, Verl Glossar Konsistenz Prüfung, 
 
 Ein Fussnotenapparat eines mittellangen Aufsatzes hat zwischen 30 und 200 Fussnoten. Autorinnen produzieren ihn oft inkrementell, mit Wiederholungen, Bezugsbruechen und uneinheitlichen Formaten. Die Konsolidierung macht aus dem Apparat ein konsistentes System: dedupliziert, gleiche Zitate identisch, Wiederholungen sauber referenziert, Reihenfolge gemaess Hausnorm, Pinpoints geprueft.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn nach der Zitierweise-Pruefung, vor dem Druck. Klaeren Sie:
 
@@ -136,7 +136,7 @@ Sonst: Volltext-Wiederholung oder Kurzzitat mit "ders." / "dies."
 
 Bei Kommentaren, Lehrbuechern, Loseblattwerken, Online-Kommentaren und Reihen ist die Begriffskonsistenz quer durch Werke und Auflagen wichtig. Ein Glossar oder Stichwortverzeichnis muss intern stimmig sein, Definitionen muessen bei Mehrfachverwendung identisch oder kompatibel sein, Querverweise muessen funktionieren. Dieser Skill ist die Konsistenzpruefung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn besonders bei mehrbaendigen Werken, Loseblattwerken (Ergaenzungslieferungen!) und Online-Kommentaren. Klaeren Sie:
 
@@ -238,7 +238,7 @@ Lemma "Plattformbetreiber"
 
 Anders als die Rechtschreibpruefung schaut die Grammatikpruefung auf Satzbau, Tempora, Bezuege, Subjekt-Praedikat-Kongruenz und Verweisbezug. Konsistenzpruefung schaut, ob Begriffe, Tempora und Stilebenen quer durch das Manuskript einheitlich gehalten werden. In juristischen Texten ist das besonders wichtig, weil ein falscher Bezug einen Tatbestandsteil umstellen kann.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 
@@ -347,7 +347,7 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 
 Eine emeritierte Professorin uebersendet ihre handschriftliche Festschrift-Notiz, ein Nachlass enthaelt eine Schreibmaschinen-Vorlesungsmitschrift von 1962, ein Archiv liefert Frakturdruck von 1925. OCR allein reicht nicht. Sie brauchen einen Workflow, der Lesarten markiert, Unsicherheiten dokumentiert und das Original wuerdigt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftliche / historische / mechanisch-tippspurige Vorlagen. Klaeren Sie:
 
@@ -445,7 +445,7 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 
 Der Verlag erstellt entweder selbst eine Gutschrift fuer die Autorin (UStG § 14 Abs. 2 Satz 2) oder erhaelt eine Honorarrechnung. In beiden Faellen muss die Rechnung formal korrekt sein, sonst entfaellt der Vorsteuerabzug. Der Skill fuehrt durch Pflichtangaben, Steuersaetze, Sonderfaelle (Kleinunternehmer, Auslandsautor, KSK) und liefert Mustertexte fuer haeufige Konstellationen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer ist Leistender (inlaendischer Autor, EU-Autor, Drittlandsautor, juristische Person)?
 2. Welcher Leistungsgegenstand (Aufsatz, Kommentierung, Vortrag, Werk)?

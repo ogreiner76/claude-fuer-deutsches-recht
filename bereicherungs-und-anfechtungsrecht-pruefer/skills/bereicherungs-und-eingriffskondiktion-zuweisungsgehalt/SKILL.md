@@ -14,8 +14,8 @@ In diesem Skill wird **Eingriffskondiktion Zuweisungsgehalt / Entreicherung Bewe
 | Prüffeld | Fokus |
 | --- | --- |
 | `eingriffskondiktion-zuweisungsgehalt` | Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klären: Immaterialgüterrechte, Persönlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden). |
-| `entreicherung-beweislast-und-substantiierung` | Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB. |
-| `ersparte-aufwendungen-und-lebenshaltung` | Nutze diesen Skill, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich. |
+| `entreicherung-beweislast-und-substantiierung` | Dieses Fachmodul greift, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB. |
+| `ersparte-aufwendungen-und-lebenshaltung` | Dieses Fachmodul greift, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich. |
 | `falsche-wiese-warnung-bereicherung-anfechtung` | Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Abgrenzungsmatrix, häufige systematische Fehler, Weiterleitung. Output: Warnhinweis mit korrekter Weiterleitung zum richtigen Regelungskreis. Abgrenzung: kein eigener Anspruchsgutachter, nur Navigationshilfe. |
 
 ## Arbeitsweg
@@ -142,13 +142,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `entreicherung-beweislast-und-substantiierung`
 
-**Fokus:** Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB.
 
 # Entreicherung: Beweislast und Substantiierung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -246,13 +246,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `ersparte-aufwendungen-und-lebenshaltung`
 
-**Fokus:** Nutze diesen Skill, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich.
+**Fokus:** Dieses Fachmodul greift, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich.
 
 # Ersparte Aufwendungen und Lebenshaltung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -62,7 +62,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Bauverträge, Abnahme, Behinderung
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Bauherr nach Freigabe umplant, die Behörde Auflagen macht, Fördermittel geändert werden oder Fachplaner eine bereits abgeschlossene LPH wieder aufreißen.
+Dieses Fachmodul greift, wenn der Bauherr nach Freigabe umplant, die Behörde Auflagen macht, Fördermittel geändert werden oder Fachplaner eine bereits abgeschlossene LPH wieder aufreißen.
 
 ## Normanker
 
@@ -89,7 +89,7 @@ Erzeuge einen Change-Request mit Ausgangsstand, Änderung, LPH-Betroffenheit, Ho
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Projektziele, Bedarf, Kosten und Planung noch nicht feststehen oder der Bauherr nach ersten Skizzen aussteigen will.
+Dieses Fachmodul greift, wenn Projektziele, Bedarf, Kosten und Planung noch nicht feststehen oder der Bauherr nach ersten Skizzen aussteigen will.
 
 ## Normanker
 

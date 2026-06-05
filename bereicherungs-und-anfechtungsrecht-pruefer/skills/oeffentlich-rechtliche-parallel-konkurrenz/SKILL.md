@@ -13,9 +13,9 @@ In diesem Skill wird **Öffentlich Rechtliche Rueckforderung Abgrenzung, Paralle
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `oeffentlich-rechtliche-rueckforderung-abgrenzung` | Nutze diesen Skill, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. |
+| `oeffentlich-rechtliche-rueckforderung-abgrenzung` | Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. |
 | `parallel-und-konkurrenz-pruefung` | Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelität, Subsidiarität, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung je Regelungskreis. |
-| `qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht` | Nutze diesen Skill, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Qualitätsprotokoll mit Markierung erfundener Normen oder Rechtsprechung. Abgrenzung: nicht inhaltliche Anspruchsprüfung. |
+| `qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht` | Dieses Fachmodul greift, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Qualitätsprotokoll mit Markierung erfundener Normen oder Rechtsprechung. Abgrenzung: nicht inhaltliche Anspruchsprüfung. |
 | `rechtsgrund-und-behaltensgrund-pruefen` | Bereicherungsrechtliche Kernfrage prüfen: nicht nur Zufluss, sondern Rechtsgrund und Behaltensgrund. Normen: §§ 812 ff. BGB. Output: Behaltensgrund-Matrix mit Darlegungslast und Verteidigungsrisiken. |
 
 ## Arbeitsweg
@@ -27,13 +27,13 @@ Für **Öffentlich Rechtliche Rueckforderung Abgrenzung, Parallel Und Konkurrenz
 
 ## 1. `oeffentlich-rechtliche-rueckforderung-abgrenzung`
 
-**Fokus:** Nutze diesen Skill, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis.
+**Fokus:** Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis.
 
 # Öffentlich-rechtliche Rückforderung abgrenzen
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -175,13 +175,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht`
 
-**Fokus:** Nutze diesen Skill, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Qualitätsprotokoll mit Markierung erfundener Normen oder Rechtsprechung. Abgrenzung: nicht inhaltliche Anspruchsprüfung.
+**Fokus:** Dieses Fachmodul greift, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Qualitätsprotokoll mit Markierung erfundener Normen oder Rechtsprechung. Abgrenzung: nicht inhaltliche Anspruchsprüfung.
 
 # Qualitätskontrolle und Halluzinationsschutz
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -31,7 +31,7 @@ Für **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risi
 # Notfallstufen und Sicherstellungszuschlaege
 
 ## Fachkern: Notfallstufen und Sicherstellungszuschlaege
-- **Spezialgegenstand:** Notfallstufen und Sicherstellungszuschlaege; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Notfallstufen und Sicherstellungszuschlaege. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risi
 ## Worum geht es konkret
 Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser in drei Stufen ein: Basis (Stufe 1), erweiterte (Stufe 2), umfassende (Stufe 3) Notfallversorgung — plus die Sonderform Spezialversorgung. Eingruppierung beeinflusst Verguetungszuschlaege. Parallel ermoeglicht § 17b Abs. 1a KHEntgG Sicherstellungszuschlaege fuer duenn besiedelte Regionen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Notfallstufe hat die Klinik aktuell?
 - Werden Strukturmerkmale (Personal, Geraete, Bereitschaft) durchgaengig erfuellt?
 - Liegt eine Strukturpruefung des MD vor?
@@ -113,14 +113,14 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 # Patientenbeschwerde und Risikomanagement
 
 ## Fachkern: Patientenbeschwerde und Risikomanagement
-- **Spezialgegenstand:** Patientenbeschwerde und Risikomanagement; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Patientenbeschwerde und Risikomanagement. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Patientenbeschwerde und Risikomanagement** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -158,7 +158,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Personaluntergrenzen Pflege PpUGV
 
 ## Fachkern: Personaluntergrenzen Pflege PpUGV
-- **Spezialgegenstand:** Personaluntergrenzen Pflege PpUGV; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Personaluntergrenzen Pflege PpUGV. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -167,7 +167,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB V definiert Mindestbesetzungen in pflegesensitiven Bereichen (z. B. Intensivmedizin, Geriatrie, Kardiologie, Unfallchirurgie). Verstoesse fuehren zu Verguetungsabschlaegen und Sanktionen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche pflegesensitiven Bereiche fuehrt die Klinik?
 - Sind die Quoten (Patient:Pflege-Verhaeltnis) in Tag-/Nachtschicht erreicht?
 - Liegen Meldungen ans InEK rechtzeitig vor?

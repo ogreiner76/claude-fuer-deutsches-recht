@@ -135,7 +135,7 @@ BESCHAFFUNGSWEGE:
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Chronologie-Erstellung ohne Sachverhaltsangaben des Mandanten.
 - Keine Beschaffung von Unterlagen; das bleibt beim Anwalt und Mandanten.
 
@@ -264,7 +264,7 @@ ERLEDIGT:
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein automatischer Fristenkalender; menschliche Kontrolle bleibt zwingend.
 - Keine Garantie für Vollständigkeit bei außergewöhnlichen Konstellationen.
 
@@ -399,6 +399,6 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 - Berufsrecht: BRAO und BORA auf [brak.de](https://www.brak.de) live prüfen.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für individuelle Mandantenkommunikation; Muster sind Vorlage, nicht fertiger Brief.
 - Keine Kostenkalkulation ohne konkrete Streitwertangabe.

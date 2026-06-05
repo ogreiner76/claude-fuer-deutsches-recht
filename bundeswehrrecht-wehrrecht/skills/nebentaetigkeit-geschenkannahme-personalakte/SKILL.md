@@ -31,7 +31,7 @@ Für **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datensc
 # Nebentätigkeit und Geschenkannahme – Compliance des Soldaten
 
 ## Fachkern: Nebentätigkeit und Geschenkannahme – Compliance des Soldaten
-- **Spezialgegenstand:** Nebentätigkeit und Geschenkannahme – Compliance des Soldaten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Nebentätigkeit und Geschenkannahme – Compliance des Soldaten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datensc
 
 Soldaten dürfen Nebentätigkeiten nur eingeschränkt und nur nach vorheriger Genehmigung ausüben (§ 20 SG). Die Annahme von Belohnungen, Geschenken und sonstigen Vorteilen ist nach § 19 SG grundsätzlich verboten. Der Skill ordnet die Genehmigungspflichten, prüft Versagungsgründe, dokumentiert Compliance-Verstöße und schützt vor strafrechtlichen Konsequenzen (§§ 331 ff. StGB Vorteilsannahme/Bestechlichkeit).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Tätigkeit (selbständig, abhängig, ehrenamtlich)?
 - Art der Vergütung, Zeitumfang, dienstlicher Zusammenhang?
@@ -133,7 +133,7 @@ Soldaten dürfen Nebentätigkeiten nur eingeschränkt und nur nach vorheriger Ge
 # Personalakte, Einsicht und Datenschutz
 
 ## Fachkern: Personalakte, Einsicht und Datenschutz
-- **Spezialgegenstand:** Personalakte, Einsicht und Datenschutz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Personalakte, Einsicht und Datenschutz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -155,7 +155,7 @@ DSGVO-Rechte (Art. 15, 17) gelten ergänzend für personenbezogene Daten in der 
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -243,7 +243,7 @@ Vor Ausgabe prüfen:
 # Personalvertretung zivile Beschäftigte — Schnittstelle
 
 ## Fachkern: Personalvertretung zivile Beschäftigte — Schnittstelle
-- **Spezialgegenstand:** Personalvertretung zivile Beschäftigte — Schnittstelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Personalvertretung zivile Beschäftigte — Schnittstelle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -265,7 +265,7 @@ Gemischte Dienststellen (Soldaten + Zivilpersonal) haben beide Gremien nebeneina
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

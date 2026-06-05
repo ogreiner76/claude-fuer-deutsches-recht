@@ -7,7 +7,7 @@ description: "Bei verbots- oder Sittenwidrigkeit die Rückforderung prägt. Norm
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

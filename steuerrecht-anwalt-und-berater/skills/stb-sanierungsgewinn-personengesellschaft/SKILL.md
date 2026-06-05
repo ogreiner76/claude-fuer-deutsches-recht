@@ -15,7 +15,7 @@ description: "Besonderheiten der Sanierungsertragsbehandlung bei Personengesells
 
 Bei Personengesellschaften (GbR, OHG, KG, GmbH und Co. KG) ist der Sanierungsertrag nicht bei der Gesellschaft selbst, sondern anteilig bei den Mitunternehmern zu versteuern (Mitunternehmerschaft, § 15 Abs. 1 S. 1 Nr. 2 EStG). Jeder Mitunternehmer muss seinen Anteil am Sanierungsertrag in der eigenen Steuererklärung deklarieren und ggf. Antrag § 3a Abs. 4 EStG stellen. Sonderbetriebsvermögen wird separat behandelt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Rechtsform liegt vor — GbR, OHG, KG, GmbH und Co. KG?
 2. Anzahl Mitunternehmer und Beteiligungsverhältnis?

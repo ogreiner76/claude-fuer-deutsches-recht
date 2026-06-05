@@ -117,7 +117,7 @@ Nach diesem Skill weiter mit:
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-distressed-ma` - wenn Krise, Antragspflicht, Anfechtung oder Liquiditätsplanung entscheidend werden.
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
@@ -328,7 +328,7 @@ Nach diesem Skill weiter mit:
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-disclosure-schedules` - wenn Garantien, Knowledge und Disclosure Letter abgeglichen werden.
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-closing-bible-archiv` - wenn executed documents, Registerbelege und Closing Bible gesichert werden müssen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
@@ -530,7 +530,7 @@ Nach diesem Skill weiter mit:
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-qa-information-requests` - wenn Findings in Information Requests und Seller-Q&A übersetzt werden müssen.
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-due-diligence-reporting` - wenn ein adressatengerechter DD-Report entstehen soll.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
@@ -692,7 +692,7 @@ Nach diesem Skill weiter mit:
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` - wenn mehrere Workstreams konkurrieren und der nächste Primärpfad neu bestimmt werden muss.
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.

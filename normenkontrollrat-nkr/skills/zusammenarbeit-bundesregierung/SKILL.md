@@ -32,7 +32,7 @@ Für **Nkr Zusammenarbeit Mit Bundesregierung Und Ressorts** zuerst das tragende
 
 Praxis-Skill: wie kommuniziert der NKR mit den Ressorts? Welche Konventionen gelten? Wo eskaliert man, wo nicht? Wie holt man Daten ein, ohne die Beziehung zu beschaedigen?
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Daten fehlen, Frist laeuft
 - Ressort liefert Methodik nicht nach

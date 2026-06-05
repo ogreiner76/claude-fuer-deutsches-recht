@@ -31,7 +31,7 @@ Für **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkom
 
 # Netzsegmentierung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 VLAN, Firewall-Regeln, Ost-West-Verkehr, Produktionsnetz, Gastnetz und Cloud-Anbindung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # NIS-2 Betroffenheitscheck
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sektor, Größenklasse, verbundene Unternehmen, Schwellen, Ausnahmen, Sondersektoren und freiwillige Einordnung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # NIST Csf Mapping
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Identify, Protect, Detect, Respond, Recover mit NIS-2/BSI übersetzen und Lücken finden.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Notfallkommunikation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Out-of-band-Kanäle, Telefonketten, Notfall-Mail, Authentisierung, Presse und Kunden.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

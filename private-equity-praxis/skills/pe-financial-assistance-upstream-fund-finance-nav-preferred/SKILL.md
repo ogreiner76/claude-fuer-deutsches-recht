@@ -38,7 +38,7 @@ Für **Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equ
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ist zentral für LBO, Dividend Recap und Refinancing.
 
@@ -79,7 +79,7 @@ GmbHG § 30, AktG Kapitalerhaltung, BGB, InsO, Geschäftsleiterhaftung.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Fondsvertrag, LP-Rechte und Kreditgeber-Due-Diligence.
 
@@ -120,7 +120,7 @@ KAGB, Fondsvertrag, Sicherheiten, Datenschutz, Side Letters.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill hilft bei Lücken zwischen klassischem Equity und Debt.
 
@@ -161,7 +161,7 @@ BGB, GmbHG, InsO § 39/135, Steuer, Bilanz, SHA/Investment Agreement.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE-Portfoliounternehmen vor oder in Krise.
 

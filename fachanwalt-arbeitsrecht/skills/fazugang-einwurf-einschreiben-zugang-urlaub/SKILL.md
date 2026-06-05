@@ -130,7 +130,7 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 - Keine Aussagen zu BAG-Zugangsvermutungen ohne verifizierten Quellenbeleg.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Zugangsprognose ohne Kenntnis der konkreten Umstände.
 - Keine Aussage über Postlaufzeiten der Deutschen Post im konkreten Einzelfall.
 
@@ -230,7 +230,7 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 - Keine modellwissensbasierten Urteile ohne Verifikation; aktuelle BAG-Linie live prüfen.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Prognose ohne Kenntnis der konkreten Abwesenheitsumstände.
 - Keine Aussage über internationales Privatrecht bei Auslandssachverhalten.
 
@@ -331,6 +331,6 @@ Es ist prozessual grundsätzlich zulässig, den Inhalt eines zugegangenen Umschl
 - Keine modellwissensbasierten Urteile ohne Verifikation.
 - Annahmen explizit kennzeichnen; keine spekulativen Beweisaussagen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zur wissentlich falschen Behauptung (Prozessbetrug).
 - Keine individuelle Prognose über Beweiswürdigung des konkreten Gerichts.

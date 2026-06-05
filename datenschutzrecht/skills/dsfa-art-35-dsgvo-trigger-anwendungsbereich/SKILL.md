@@ -9,7 +9,7 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 
 Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor Einfuehrung einer neuen Verarbeitungstaetigkeit
 - Bei wesentlicher Aenderung einer bestehenden Verarbeitung (Art. 35 Abs. 11 DSGVO)

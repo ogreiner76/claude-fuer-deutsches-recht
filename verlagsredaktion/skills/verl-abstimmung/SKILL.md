@@ -106,7 +106,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 Die Beziehung zwischen Verlag und Autorin laeuft ueber einen kontinuierlichen Kommunikationskanal: Manuskripteingang, Lektoratsrueckmeldungen, Korrekturfahnen, Freigabe, Marketing-Abstimmung, Honorarabrechnung. Ohne saubere Kanalfuehrung entstehen Konflikte, Zuverlaessigkeitsverlust und im Schlimmsten Fall Manuskript-Abbruch. Dieser Skill ist die Vorlage fuer die strukturierte Autorenkommunikation.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahnenden Konflikten, bei Lieferverzug. Klaeren Sie:
 

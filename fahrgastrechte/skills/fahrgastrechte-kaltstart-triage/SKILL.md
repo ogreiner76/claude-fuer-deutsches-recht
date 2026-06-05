@@ -45,7 +45,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Vorgangsnummer falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** `skill-name` — [warum dieser Arbeitsgang hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -129,7 +129,7 @@ Die Verordnung (EU) 2021/782 (in Kraft seit 7. Juni 2023) gibt Fahrgästen im Ei
 
 Das Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- und Reisedaten über die Berechnung des Anspruchs, das Forderungsschreiben, den Widerspruch gegen eine Ablehnung des DB-Servicecenters, die Schlichtung bei der Schlichtungsstelle Reise & Verkehr bis zur Klage vor dem Amtsgericht.
 
-## Wann brauchen Sie diesen Skill?
+## Wann dieses Modul hilft?
 
 - Ihr Zug fiel aus oder war erheblich verspätet und Sie wollen Ihre Ansprüche klären.
 - Sie haben ein Ablehnungsschreiben der DB erhalten und wollen Widerspruch einlegen.

@@ -7,7 +7,7 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 ## Einsatzlage
 
-Nutze diesen Skill, wenn im Bereich **Legistik Werkstatt** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+Dieser Dokumenten-Intake für **Legistik Werkstatt** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,5 +42,5 @@ Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rüc
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

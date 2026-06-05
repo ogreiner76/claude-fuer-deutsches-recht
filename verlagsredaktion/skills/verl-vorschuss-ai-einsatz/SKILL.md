@@ -36,7 +36,7 @@ Für **Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Auto
 
 Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Honorarvorschuss vereinbart - entweder als Anschubfinanzierung fuer die Schreibarbeit oder als Anreiz beim Wechsel des Verlagshauses. Der Skill fuehrt durch die kalkulatorische und vertragliche Pruefung: Wieviel ist marktueblich, wie wird ausgekehrt, wie verrechnet, was passiert bei Scheitern des Projekts?
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Werk (Erstauflage, Folgeauflage, Wechselautor)?
 2. Geplantes Manuskriptvolumen (Seiten, Druckbogen)?

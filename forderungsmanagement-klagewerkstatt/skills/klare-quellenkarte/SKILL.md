@@ -7,7 +7,7 @@ description: "Klare Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, 
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Forderungsmanagement Klagewerkstatt** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Forderungsmanagement Klagewerkstatt** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

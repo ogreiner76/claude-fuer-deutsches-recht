@@ -41,7 +41,7 @@ Für **Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung U
 
 Seit 14. Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das TMG. § 5 DDG regelt die Anbieterkennzeichnungspflicht für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien. Zusätzlich greifen § 18 MStV (Telemedien mit journalistisch-redaktionellem Charakter). Der Skill ordnet Anbietergruppen, Pflichtangaben, Erreichbarkeit und Sanktionen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welches Telemedium (Webshop, Blog, Social Media, App, Newsletter)?
 - Wer ist Anbieter (natürliche Person, GmbH, KG, GbR, Verein, Verband)?
@@ -165,7 +165,7 @@ DE[...]
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Influencer Affiliate Kennzeichnung UWG** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -210,7 +210,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: International EU Verbraucherrecht Intake** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 

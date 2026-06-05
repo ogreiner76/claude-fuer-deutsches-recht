@@ -42,7 +42,7 @@ Für **Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter
 
 Der Skill baut keine Marketingfolie, sondern eine beweisbare ESG-Arbeitsmatrix. Themen: SFDR-Klassifizierung (Art. 6/8/9), PAI-Statement (Principal Adverse Impacts), CSRD-Reporting der Portfoliogesellschaften, LkSG/CSDDD-Sorgfaltspflichten in Wertschöpfungskette, EU-Taxonomie, ESG-Reps im SPA.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche SFDR-Kategorie ist für den Fonds vorgesehen (Art. 6, 8, 9)?
 2. Ist PAI-Statement bereits veröffentlicht und konsistent mit Pre-Contractual Disclosure?
@@ -139,7 +139,7 @@ PAI Excuse Right (Side Letter):
 
 Pflicht vor Mandatsannahme, Zeichnung, Closing, Portfolio-Add-on und NPL-Kauf. Der Skill liefert die KYC-Matrix: wirtschaftlich Berechtigte (UBO), Eigentumskette, Quellen-Nachweise (Source of Wealth / Source of Funds), PEP-Status, Sanktions-Screening (EU 833/2014 Russland, EU 269/2014, US OFAC), Dual-Use-Güter (EG 2021/821), Transaktionssperren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Phase (Mandatsannahme, Subscription, Closing, Portfolio-Add-on, Distressed Acquisition)?
 2. Identität der Vertragspartner und vollständige Eigentumskette?
@@ -238,7 +238,7 @@ UBO-Erklärung (KYC Form):
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE-Bieterprozesse, taktische Informationsdosierung und Haftungsbegrenzung.
 
@@ -279,7 +279,7 @@ BGB culpa in contrahendo, GeschGehG, DSGVO, Kartellrecht Clean Team.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill markiert, was schon verbindlich ist und was nur Deal-Logik bleibt.
 

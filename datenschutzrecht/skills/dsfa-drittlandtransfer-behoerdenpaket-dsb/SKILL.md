@@ -38,7 +38,7 @@ Dieser Skill erstellt aus vorhandenen Prüfungen ein geordnetes Paket für Daten
 
 ## Startsignal
 
-Nutze diesen Skill, wenn der Nutzer sagt:
+Dieses Fachmodul, wenn der Nutzer sagt:
 
 - "Die Aufsichtsbehörde fragt nach dem US-Transfer."
 - "Wir brauchen ein Paket, das wir vorlegen können."
@@ -533,7 +533,7 @@ Empfehlung: DSB bestellen (bis [FRIST]) / DSB wechseln / kein Handlungsbedarf
 
 Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor Einfuehrung einer neuen Verarbeitungstaetigkeit
 - Bei wesentlicher Aenderung einer bestehenden Verarbeitung (Art. 35 Abs. 11 DSGVO)
@@ -649,7 +649,7 @@ Unterschrift DSB: ____________________
 
 Dieser Skill fuehrt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der Pflichtliste der zustaendigen Aufsichtsbehoerde nach Art. 35 Abs. 4 DSGVO (Blacklist) und mit der Whitelist nach Art. 35 Abs. 5 DSGVO durch. Ergebnis ist ein dokumentierter Listenabgleich, der die Erforderlichkeit oder Entbehrlichkeit einer DSFA stuetzt.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - In der DSFA-Trigger-Pruefung (Schwellwertanalyse)
 - Bei einer Aufsichtsanfrage zur Begruendung einer durchgefuehrten oder unterlassenen DSFA
@@ -758,7 +758,7 @@ Unterschrift: ____________________
 
 Strukturierte Dokumentation einer DSFA als Beleg der Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO. Ergebnis dieses Skills ist eine vollstaendige DSFA-Akte mit Aktenuebersicht, Versionierung, Aufbewahrungsregeln und Beweiswertbeurteilung. Ziel ist die jederzeitige Vorlagefaehigkeit gegenueber Aufsicht, Gericht oder DSB.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Nach Abschluss einer DSFA, vor Archivierung
 - Bei Aufsichtsanfrage zur Vorlage der DSFA

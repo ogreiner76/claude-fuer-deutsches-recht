@@ -37,7 +37,7 @@ Für **Fa Insolvenz Schuldschein Und Lma** zuerst das tragende Prüffeld bestimm
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill bearbeitet Finanzierungsdokument, Gläubigerrechte, Planabstimmung und Sicherheitenverwertung.
 

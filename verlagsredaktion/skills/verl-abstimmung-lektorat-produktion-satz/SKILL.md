@@ -36,7 +36,7 @@ Für **Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz 
 
 Lektorat und Redaktion arbeiten am selben Manuskript, oft parallel. Ohne klare Schnittstelle entstehen Doppelarbeit, widerspruechliche Eingriffe und Versionschaos. Dieser Skill klaert die Schnittstelle: Zustaendigkeiten, Versionierungsregeln, Track-Changes-Konventionen, Eskalationswege.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Manuskript-Tool eingefuehrt wird oder Konflikte aufkommen. Klaeren Sie:
 
@@ -156,7 +156,7 @@ Mueller-Plattform_v7_druck.docx (an Produktion)
 
 Nach der inhaltlichen und sprachlichen Freigabe geht das Manuskript in die Produktion: Satz, Layout, Korrekturfahnen, Druckfreigabe, Druck, Auslieferung. Auch wenn diese Schritte oft an externe Dienstleister gehen, bleibt die Redaktion verantwortlich fuer Termintreue und Endqualitaet. Dieser Skill beschreibt die saubere Produktionsschnittstelle.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klaeren Sie:
 
@@ -277,7 +277,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 
 Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Justiziariat des Verlags eingebunden werden. Das betrifft insbesondere: namentliche Berichte ueber Verfahrensbeteiligte, scharfe Urteilskritik, Praxisberichte mit Mandantenbezug, Beitraege zu Streitthemen mit grossen Marktteilnehmern, KI-erstellte Inhalte. Der Skill liefert einen Vorlagenpfad, der dem Justiziariat in 15 Minuten Pruefbarkeit verschafft.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Beitrag (Aufsatz, Anmerkung, Kommentierung, Blog, Newsletter, Pressetext)?
 2. Welche Personen oder Unternehmen werden namentlich genannt?
@@ -412,7 +412,7 @@ Unterschrift: [Name]
 
 Vertrieb und Marketing brauchen vor dem Erscheinen eines Buches, eines Loseblattwerks oder einer neuen Zeitschriftenreihe ein praezises Briefing: Was traegt das Produkt? Wer kauft es? Was ist anders als Konkurrenz? Welcher Preis ist plausibel? Welche Materialien werden gebraucht (Katalog, Web, Veranstaltungs-Pitches)? Dieser Skill liefert die Schnittstelle.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch fuer Backlist-Pflege. Klaeren Sie:
 
@@ -530,7 +530,7 @@ Erscheinungsphasen:
 
 Eine Autorin liefert nicht ein Manuskript, sondern eine Audiodatei: Mitschnitt einer Tagung, ein freies Diktat, ein Telefon-Brainstorming mit einem Co-Autor. Sie muessen daraus einen abgabefaehigen Fachbeitrag machen - ohne dass die muendliche Rohfassung im Druck als Geschwaetz wirkt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn Audio + Verschriftlichungsauftrag vorliegen. Klaeren Sie zu Beginn nur:
 

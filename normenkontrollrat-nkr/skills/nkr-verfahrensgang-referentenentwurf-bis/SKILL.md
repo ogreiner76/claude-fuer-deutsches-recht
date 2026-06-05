@@ -9,7 +9,7 @@ description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee u
 
 Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere fuer jeden neuen NKR-Referenten und Pruefer.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorgang ist zeitlich unklar verortet ("Wann hat der NKR welche Frist?")
 - Frist fuer NKR-Befassung steht im Streit mit Ressort

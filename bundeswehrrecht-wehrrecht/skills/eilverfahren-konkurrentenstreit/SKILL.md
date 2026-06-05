@@ -31,7 +31,7 @@ Für **Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswe
 # Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat
 
 ## Fachkern: Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat
-- **Spezialgegenstand:** Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswe
 
 Beim Konkurrentenstreit geht es um die Auswahl zwischen mehreren Soldaten für einen begrenzten Dienstposten oder eine Beförderung. Da die Beförderung des Konkurrenten irreversible Folgen schafft, ist Eilrechtsschutz nötig. Der Skill ordnet Anordnungsanspruch und -grund, die Frist, das Verhältnis zur Hauptsache und die Besonderheiten beim BVerwG-Wehrdienstsenat (§ 21 WBO).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Auswahlentscheidung (Dienstposten, Beförderung, Verwendung)?
 - Wer ist Mitbewerber (Name, Vergleichsbeurteilung)?
@@ -132,7 +132,7 @@ Beim Konkurrentenstreit geht es um die Auswahl zwischen mehreren Soldaten für e
 # Fristenkalender Bundeswehrrecht
 
 ## Fachkern: Fristenkalender Bundeswehrrecht
-- **Spezialgegenstand:** Fristenkalender Bundeswehrrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Fristenkalender Bundeswehrrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -155,7 +155,7 @@ Besonders kritisch: WBO-Frist 1 Monat ab Bekanntgabe; TDG-Antrag nach Beschwerde
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -244,7 +244,7 @@ Vor Ausgabe prüfen:
 # Gerichtliches Disziplinarverfahren (TDG/BVerwG)
 
 ## Fachkern: Gerichtliches Disziplinarverfahren (TDG/BVerwG)
-- **Spezialgegenstand:** Gerichtliches Disziplinarverfahren (TDG/BVerwG); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gerichtliches Disziplinarverfahren (TDG/BVerwG). Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -267,7 +267,7 @@ Der Soldat hat umfassende Verfahrensrechte: Verteidiger, Akteneinsicht, Anwesenh
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

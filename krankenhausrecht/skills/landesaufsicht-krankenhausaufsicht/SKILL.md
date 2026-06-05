@@ -31,7 +31,7 @@ Für **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Au
 # Landesaufsicht Krankenhausaufsicht Beanstandung
 
 ## Fachkern: Landesaufsicht Krankenhausaufsicht Beanstandung
-- **Spezialgegenstand:** Landesaufsicht Krankenhausaufsicht Beanstandung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Landesaufsicht Krankenhausaufsicht Beanstandung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Au
 ## Worum geht es konkret
 Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit, Hygiene, Personal- und Geraeteausstattung. Werkzeuge: Beanstandung, Auflagen, Anordnung, Bussgeld, im Extremfall Schliessung oder Herausnahme aus dem Krankenhausplan.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Aufsichtsbehoerde (Bezirksregierung, Landesministerium, Gesundheitsamt) handelt?
 - Was ist Gegenstand (Hygiene, Personal, Bauzustand, MDK-Strukturpruefung, OP-Bereich, Patientensicherheit)?
 - Liegt eine schriftliche Beanstandung mit Frist und Rechtsbehelfsbelehrung vor?
@@ -114,7 +114,7 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 # Landeskrankenhausplan Aufnahme Herausnahme Aenderung
 
 ## Fachkern: Landeskrankenhausplan Aufnahme Herausnahme Aenderung
-- **Spezialgegenstand:** Landeskrankenhausplan Aufnahme Herausnahme Aenderung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Landeskrankenhausplan Aufnahme Herausnahme Aenderung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -123,7 +123,7 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 ## Worum geht es konkret
 Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versorgungsauftrag, Bettenkapazitaeten und (mit KHVVG) Leistungsgruppen. Aufnahme, Herausnahme oder Aenderung sind Verwaltungsakte mit grundrechtsrelevanten Folgen — Klage zum VG ist regelmaeßig zulaessig.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welcher Verfahrensschritt steht an (Aufnahmeantrag, Herausnahme, Strukturaenderung)?
 - Liegt ein Bescheid mit Rechtsbehelfsbelehrung vor?
 - Welches Landesgesetz gilt (NRW: KHGG NRW; Bayern: BayKrG; BW: GKKG; …)?
@@ -200,14 +200,14 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 # Landesrecht und Bundesrecht trennen
 
 ## Fachkern: Landesrecht und Bundesrecht trennen
-- **Spezialgegenstand:** Landesrecht und Bundesrecht trennen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Landesrecht und Bundesrecht trennen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Landesrecht und Bundesrecht trennen** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 

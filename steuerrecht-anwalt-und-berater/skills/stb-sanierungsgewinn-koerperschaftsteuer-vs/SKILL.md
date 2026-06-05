@@ -15,7 +15,7 @@ description: "Unterschiede in der Sanierungsertragsbehandlung zwischen Körpersc
 
 § 3a EStG ist eine Norm des Einkommensteuerrechts. Über § 8 Abs. 1 KStG findet sie auch im Körperschaftsteuerrecht Anwendung. Trotz dieser Brücke gibt es im Detail Unterschiede — etwa beim Verlustvortragsregime, bei der Mindestbesteuerung, bei § 8c KStG-Risiken und beim Antragsverfahren. Dieser Skill arbeitet die Unterschiede heraus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist die Schuldnerin natürliche Person, Personengesellschaft oder Kapitalgesellschaft?
 2. Wer ist Antragsteller — Steuerpflichtiger der ESt (Einzelunternehmer / Mitunternehmer) oder Körperschaft?

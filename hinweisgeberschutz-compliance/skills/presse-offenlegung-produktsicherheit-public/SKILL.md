@@ -31,7 +31,7 @@ Für **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressa
 
 # Presse Und Offenlegung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sachstand, Schutz der Hinweisgeber, Persönlichkeitsrechte, Geschäftsgeheimnisse und Litigation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Produktsicherheit
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Rückruf, Marktüberwachung, CE, Kundeninformation, Beweise und Folgemaßnahmen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Public Sector Beamte
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beamte, Tarifbeschäftigte, Dienstweg, Amtsverschwiegenheit, Disziplinarrecht und externe Stellen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Repressalienverbot
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Kündigung, Versetzung, Bonus, Mobbing, Dienstplan, Beförderung und subtile Nachteile.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

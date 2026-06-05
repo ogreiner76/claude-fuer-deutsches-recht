@@ -13,10 +13,10 @@ In diesem Skill wird **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf D
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `verteidigung-gegen-bereicherungsklage` | Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst. |
-| `verwendungen-auf-das-erlangte` | Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug. |
+| `verteidigung-gegen-bereicherungsklage` | Dieses Fachmodul greift, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst. |
+| `verwendungen-auf-das-erlangte` | Dieses Fachmodul greift, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug. |
 | `weichenstellung-bereicherung-oder-anfechtung` | Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeröffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsgutachter. |
-| `weitergabe-und-822-verteidigung` | Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB. |
+| `weitergabe-und-822-verteidigung` | Dieses Fachmodul greift, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB. |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlangte, Wei
 
 ## 1. `verteidigung-gegen-bereicherungsklage`
 
-**Fokus:** Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst.
+**Fokus:** Dieses Fachmodul greift, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst.
 
 # Verteidigung gegen Bereicherungsklage
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -101,13 +101,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `verwendungen-auf-das-erlangte`
 
-**Fokus:** Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug.
+**Fokus:** Dieses Fachmodul greift, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug.
 
 # Verwendungen auf das Erlangte
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -301,13 +301,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `weitergabe-und-822-verteidigung`
 
-**Fokus:** Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB.
 
 # Weitergabe und § 822 BGB Verteidigung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

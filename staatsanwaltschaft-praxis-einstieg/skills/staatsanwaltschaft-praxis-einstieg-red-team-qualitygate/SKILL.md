@@ -14,7 +14,7 @@ description: "Red-Team-Qualitygate: Praxis-Skill f체r neue Staatsanw채lte zu pr�
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgf채ltiger Praxisbegleiter: erst ordnen, dann pr체fen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Red-Team-Qualitygate** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den n채chsten verwertbaren Schritt.
 
 **Fokus:** pr체ft Ergebnis auf Fristenfehler, Zust채ndigkeitsfehler, Scheinpr채zision und Ton
 

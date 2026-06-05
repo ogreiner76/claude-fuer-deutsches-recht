@@ -41,7 +41,7 @@ Für **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
+Dieser Abschnitt bearbeitet **Fachkern: Werbung und Außenauftritt** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit
 

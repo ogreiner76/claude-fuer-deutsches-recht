@@ -14,9 +14,9 @@ In diesem Skill wird **Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleic
 | Prüffeld | Fokus |
 | --- | --- |
 | `bereicherung-eines-dritten-822-bgb` | Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs. Output: Prüfergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfänger. |
-| `bereicherungsausgleich-bei-kettenvertraegen` | Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime. |
-| `beweise-und-darlegungslast-bereicherungsrecht` | Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst. |
-| `boesglaeubigkeit-kenntnis-und-819-timing` | Nutze diesen Skill, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB. |
+| `bereicherungsausgleich-bei-kettenvertraegen` | Dieses Fachmodul greift, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime. |
+| `beweise-und-darlegungslast-bereicherungsrecht` | Dieses Fachmodul greift, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst. |
+| `boesglaeubigkeit-kenntnis-und-819-timing` | Dieses Fachmodul greift, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB. |
 
 ## Arbeitsweg
 
@@ -115,13 +115,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `bereicherungsausgleich-bei-kettenvertraegen`
 
-**Fokus:** Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime.
+**Fokus:** Dieses Fachmodul greift, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime.
 
 # Bereicherungsausgleich bei Kettenverträgen
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -218,13 +218,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `beweise-und-darlegungslast-bereicherungsrecht`
 
-**Fokus:** Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst.
+**Fokus:** Dieses Fachmodul greift, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst.
 
 # Beweise und Darlegungslast im Bereicherungsrecht
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -327,13 +327,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `boesglaeubigkeit-kenntnis-und-819-timing`
 
-**Fokus:** Nutze diesen Skill, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB.
 
 # Bösgläubigkeit, Kenntnis und § 819 Timing
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -117,7 +117,7 @@ Verdichtungsprotokoll Ev2 je Bauabschnitt mit GPS und Pruefgeraet-Kalibrierungsn
 
 ## Einsatz
 
-Nutze diesen Skill, wenn in der Vorplanung nur eine Lieblingslösung vorliegt, obwohl Alternativen, Standort-/Nutzungsvarianten oder wirtschaftliche Vergleiche erforderlich waren.
+Dieses Fachmodul greift, wenn in der Vorplanung nur eine Lieblingslösung vorliegt, obwohl Alternativen, Standort-/Nutzungsvarianten oder wirtschaftliche Vergleiche erforderlich waren.
 
 ## Normanker
 
@@ -145,7 +145,7 @@ Eine Variantenmatrix mit Entscheidungsempfehlung, nicht geprüften Alternativen,
 
 ## Einsatz
 
-Nutze diesen Skill, wenn nach Entwurfsplanung plötzlich "alles teurer" ist oder die Kostenberechnung als reine Formalie behandelt wurde.
+Dieses Fachmodul greift, wenn nach Entwurfsplanung plötzlich "alles teurer" ist oder die Kostenberechnung als reine Formalie behandelt wurde.
 
 ## Normanker
 
@@ -173,7 +173,7 @@ Kostenampel mit Delta, Ursache, Verantwortlichkeit, Sofortmaßnahme und Text an 
 
 ## Einsatz
 
-Nutze diesen Skill, wenn die Behörde Nachforderungen stellt, der Bauantrag nicht genehmigungsfähig scheint oder Auflagen Kosten und Planung verändern.
+Dieses Fachmodul greift, wenn die Behörde Nachforderungen stellt, der Bauantrag nicht genehmigungsfähig scheint oder Auflagen Kosten und Planung verändern.
 
 ## Normanker
 
@@ -201,7 +201,7 @@ Auflagenlog mit Verantwortlichkeit, Planänderung, Honorar-/Nachtragsfolge und n
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Bauunternehmen wegen unklarer Pläne Nachträge stellen, Fachplaner kollidieren oder Werkstattzeichnungen nicht zu Ausführungsplänen passen.
+Dieses Fachmodul greift, wenn Bauunternehmen wegen unklarer Pläne Nachträge stellen, Fachplaner kollidieren oder Werkstattzeichnungen nicht zu Ausführungsplänen passen.
 
 ## Normanker
 

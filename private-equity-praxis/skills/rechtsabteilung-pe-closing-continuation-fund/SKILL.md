@@ -38,7 +38,7 @@ Für **Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict G
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill sorgt für ein sauberes Deal-Ende und auditierbare Akte.
 

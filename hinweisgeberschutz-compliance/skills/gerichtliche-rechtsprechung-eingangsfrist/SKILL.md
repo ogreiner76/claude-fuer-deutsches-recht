@@ -31,7 +31,7 @@ Für **Gerichtliche Rechtsprechung Livecheck, Eingangsfrist 7 Tage, Fristenkalen
 
 # Gerichtliche Rechtsprechung Livecheck
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Gericht, Datum, Aktenzeichen, freie Quelle, tragender Satz, keine Paywall-Literatur.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Eingangsfrist 7 Tage
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Eingang, Fristbeginn, Rückkanal, Datenschutz, Sprachfassung und Eskalation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Fristenkalender
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Eingang, Bestätigung, Rückmeldung, Löschung, Maßnahmen, Arbeitsrecht und Behördenfristen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Loeschfristen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Erforderlichkeit, Streit, Legal Hold, personenbezogene Daten, Abschluss und Statistik.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

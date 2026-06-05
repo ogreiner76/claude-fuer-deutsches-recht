@@ -31,7 +31,7 @@ Für **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklau
 
 # Arbeitsvertrag Klauseln
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 NDA, Loyalität, Social Media, Untersuchungskooperation, Sanktionen und Rückgabepflichten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Settlement Und Aufhebungsvertrag
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Stillhalten, Non-disparagement, Rückgabe, Auskunft, Behördenkontakte und Abgeltung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Vergleichsklausel
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Keine unzulässigen Schweigepflichten, erlaubte Behördenkontakte, Rückgabe, Zahlung und Referenz.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Verschwiegenheitsklauseln Redline
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Carve-outs, keine chilling effects, Behördenkontakte, Rechtsberatung, Geschäftsgeheimnisse und Datenschutz.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

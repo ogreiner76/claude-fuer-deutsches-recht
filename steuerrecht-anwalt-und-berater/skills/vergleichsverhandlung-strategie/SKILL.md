@@ -24,7 +24,7 @@ description: "Prüffeld für vergleichsverhandlung strategie: prüft Normtext, N
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Steuerrecht (Beratung und Prozess), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Tatsaechliche Verstaendigung, Aussetzung der Vollziehung, Billigkeitsvergleich.

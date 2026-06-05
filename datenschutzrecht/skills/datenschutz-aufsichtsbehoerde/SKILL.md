@@ -9,7 +9,7 @@ description: "Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inha
 
 Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zustaendigen Aufsichtsbehoerde — also BfDI fuer Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht fuer den oeffentlichen und privaten Bereich der Laender — so, dass der Mandant in Pruefungs-, Anhoerungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhoerung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
 

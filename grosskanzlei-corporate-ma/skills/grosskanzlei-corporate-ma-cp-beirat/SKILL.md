@@ -121,7 +121,7 @@ Nach diesem Skill weiter mit:
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-closing-bible-archiv` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
@@ -324,7 +324,7 @@ Nach diesem Skill weiter mit:
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-closing-bible-archiv` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
@@ -498,7 +498,7 @@ Wenn § 8c Abs. 1 Satz 1 KStG den Verlustvortrag durch einen Anteilseignerwechse
 
 Dieser Skill ist das Beratungsmodul für die strukturierte Anwendung beider Mechanismen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Anteilseignerwechsel über 50 % auf eine sanierungsbedürftige Gesellschaft mit erheblichem Verlustvortrag.
 - PE-Investor erwirbt Gesellschaft mit hohen stillen Reserven (Immobilien, Patente, Beteiligungen).

@@ -31,7 +31,7 @@ Für **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attesta
 
 # Krisenuebung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Backup-Restore, AD Recovery, Telefonfallback, Notfallpostfach, Kundenkommunikation und Timing.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Kritis Bsig Schnittstelle
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Kritische Anlagen, alte KRITIS-Logik, neue Einrichtungspflichten, Nachweise und Betreiberkommunikation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Leitungserklärung Cyber Attestation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft Geschäftsführung, Vorstand, CISO und Legal dabei, eine interne oder externe Erklärung zum Stand der Cyber-Compliance zu formulieren, ohne mehr zu behaupten als tatsächlich nachgewiesen ist. Er eignet sich für Board-Unterlagen, Banken, Versicherer, Großkunden, Audits und Aufsichtsverfahren.
 
@@ -164,7 +164,7 @@ Erzeuge eine zweistufige Ausgabe: erst eine rote Vorprüfung der nicht unterschr
 
 # Lieferanten Questionnaire
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Fragen nach Nachweisen, SOC/C5/ISO, Incidenthistorie, Subdienstleistern, Exit und kritischen Daten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

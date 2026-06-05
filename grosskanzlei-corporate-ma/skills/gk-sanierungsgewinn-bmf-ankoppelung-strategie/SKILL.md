@@ -24,7 +24,7 @@ Die Sanierungsgewinn-Vorschriften des § 3a EStG und § 7b GewStG sind nicht sel
 
 Dieser Skill bearbeitet die Strategie zur Ankoppelung an die Verwaltungsauffassung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor Antrag § 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
 - Vor Antrag § 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.

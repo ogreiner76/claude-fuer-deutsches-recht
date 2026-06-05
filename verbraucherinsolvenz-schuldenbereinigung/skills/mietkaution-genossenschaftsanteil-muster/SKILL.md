@@ -31,7 +31,7 @@ Für **Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, M
 # Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.
 
 ## Fachkern: Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.
-- **Spezialgegenstand:** Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO § 109; BGB Mietkaution; Genossenschaftsrecht. Entscheidend ist immer der a
 # Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.
 
 ## Fachkern: Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.
-- **Spezialgegenstand:** Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO §§ 305, 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, 
 # Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.
 
 ## Fachkern: Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.
-- **Spezialgegenstand:** Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

@@ -34,7 +34,7 @@ Für **Hoai Bim Modell Planstand Cde Haftung, Hoai Kostenobergrenze Budget Haftu
 
 ## Einsatz
 
-Nutze diesen Skill bei digitalen Modellen, CDE, BIM-Abwicklungsplan, Kollisionsprüfung oder Streit, ob Modell oder 2D-Plan maßgeblich war.
+Dieses Fachmodul bei digitalen Modellen, CDE, BIM-Abwicklungsplan, Kollisionsprüfung oder Streit, ob Modell oder 2D-Plan maßgeblich war.
 
 ## Normanker
 
@@ -61,7 +61,7 @@ BIM-Risikoblatt mit Datenstand, Freigaben, Kollisionsliste, Verantwortlichen und
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Bauherr und Planer darüber streiten, ob eine Zahl nur Budgetwunsch, Kostenrahmen, Fördermittelgrenze, Kostenobergrenze oder verbindliche Beschaffenheitsvereinbarung war.
+Dieses Fachmodul greift, wenn Bauherr und Planer darüber streiten, ob eine Zahl nur Budgetwunsch, Kostenrahmen, Fördermittelgrenze, Kostenobergrenze oder verbindliche Beschaffenheitsvereinbarung war.
 
 ## Rechtsprechungsanker
 

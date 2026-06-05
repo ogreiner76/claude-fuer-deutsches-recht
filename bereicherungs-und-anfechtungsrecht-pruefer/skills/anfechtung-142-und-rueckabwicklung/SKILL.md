@@ -7,7 +7,7 @@ description: "Bei eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitig
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

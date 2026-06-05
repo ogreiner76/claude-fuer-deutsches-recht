@@ -42,7 +42,7 @@ Für **Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap /
 
 Der Skill ersetzt keine Steuerberatung, macht aber die präzise Arbeitsteilung mit Tax sichtbar. Kernthemen: BidCo/HoldCo-Strukturen, § 8b KStG Schachtelprivileg, § 4h EStG Zinsschranke, § 8c/8d KStG bei Verlustvorträgen, GrESt bei Share Deal (§§ 1 Abs. 2a, 2b, 3, 3a GrEStG), Management Incentive Plans (Sweet Equity, MIP, Carried Interest), Pillar Two MinStG, ATAD-Hybridregeln, UmwStG bei Restrukturierungen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Deal-Struktur Share Deal oder Asset Deal?
 2. BidCo / HoldCo-Stack geplant (typisch: LuxCo → DE-HoldCo → BidCo → Target)?
@@ -137,7 +137,7 @@ Tax Indemnity (Auszug):
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill hilft nach Closing, wenn Tax DD plötzlich Prozess wird.
 
@@ -178,7 +178,7 @@ AO, KStG/GewStG/UStG, SPA Tax Covenant, Verjährung, Mitwirkungspflichten.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill bearbeitet Distressed Debt, PE-Kontrolle und Sanierung.
 

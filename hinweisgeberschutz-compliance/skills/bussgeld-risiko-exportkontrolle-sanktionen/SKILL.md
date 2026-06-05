@@ -31,7 +31,7 @@ Für **Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorstandshaf
 
 # Bussgeld Risiko
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Pflichtverletzung, Zuständigkeit, Verteidigung, Remediation und Behördenkommunikation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Exportkontrolle Sanktionen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Listentreffer, BAFA, Zoll, Kundendaten, Lieferstopp, Beweise und Geheimhaltung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Schadensersatz
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Materielle Schäden, immaterielle Folgen, Kausalität, Beweise und Vergleichsstrategie.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Vorstandshaftung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Kenntnis, Untätigkeit, Reporting, Dokumentation, Ressortverantwortung und D&O.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

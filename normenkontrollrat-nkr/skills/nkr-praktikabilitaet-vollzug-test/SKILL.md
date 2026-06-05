@@ -9,7 +9,7 @@ description: "Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von
 
 Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behoerden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prueft Praktikabilitaet als Standardelement.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit hohem Verwaltungsaufwand
 - Vorhaben mit IT-Voraussetzungen

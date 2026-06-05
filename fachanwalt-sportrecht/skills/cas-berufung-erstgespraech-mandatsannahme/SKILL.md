@@ -372,7 +372,7 @@ Stand 05/2026. **Strukturwandel:** EuGH RFC Seraing 01.08.2025 (C-600/23) — Mi
 
 # Erstgespraech und Mandatsannahme im Sport- und Sponsoringrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Sport- und Sponsoringrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

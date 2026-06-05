@@ -31,7 +31,7 @@ Für **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und
 # Wehrpflicht, Wehrdienst und Reservist — Routing
 
 ## Fachkern: Wehrpflicht, Wehrdienst und Reservist — Routing
-- **Spezialgegenstand:** Wehrpflicht, Wehrdienst und Reservist — Routing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrpflicht, Wehrdienst und Reservist — Routing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -53,7 +53,7 @@ Dieser Skill bietet Schnell-Routing zu den spezifischen Verfahren.
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -138,7 +138,7 @@ Vor Ausgabe prüfen:
 # Wehrpflichtgesetz: Spannungs- und Verteidigungsfall
 
 ## Fachkern: Wehrpflichtgesetz: Spannungs- und Verteidigungsfall
-- **Spezialgegenstand:** Wehrpflichtgesetz: Spannungs- und Verteidigungsfall; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrpflichtgesetz: Spannungs- und Verteidigungsfall. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -160,7 +160,7 @@ KDV-Verfahren läuft parallel; Zurückstellungen für bestimmte Berufsgruppen un
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -249,7 +249,7 @@ Vor Ausgabe prüfen:
 # Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung
 
 ## Fachkern: Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung
-- **Spezialgegenstand:** Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -259,7 +259,7 @@ Vor Ausgabe prüfen:
 
 Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbestände: eigenmächtige Abwesenheit (§ 15), Fahnenflucht (§ 16), Selbstverstümmelung (§ 17), Dienstpflichtverletzung (§ 18), Ungehorsam (§ 19), Gehorsamsverweigerung (§ 20). Diese Delikte stehen häufig in Schnittstelle zu einem WDO-Verfahren. Der Skill ordnet ein, in welchem Verfahren der Mandant sich befindet, klärt das Verhältnis von Strafrecht und Disziplinarrecht und gibt Verteidigungsstrategien an die Hand.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welcher konkrete Vorwurf (§ 15, 16, 19, 20 WStG, sonstige Norm)?
 - Stand des Strafverfahrens: Anzeige, Ermittlung, Anklage, Hauptverhandlung?

@@ -446,7 +446,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 # Schriftsatzkern und Substantiierung im Allgemeines und Wirtschaftsstrafrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Verteidigungs- oder Antragsschriftsatz im Strafverfahren erstellt werden, typischerweise: Einspruch gegen Strafbefehl (§§ 410 ff. StPO), Revisionsbegruendung (§ 344 StPO), Klageerzwingungsantrag (§ 172 Abs. 2-3 StPO), Beschwerde, Antrag auf gerichtliche Entscheidung (§ 23 EGGVG), Adhaesionsantrag-Erwiderung (§§ 403 ff. StPO).
 - Mandatsannahme und ggf. Verstaendigung sind abgeschlossen oder gescheitert.

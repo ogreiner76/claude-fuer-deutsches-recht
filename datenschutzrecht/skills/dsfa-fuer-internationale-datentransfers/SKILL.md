@@ -9,7 +9,7 @@ description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Inte
 
 Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. Wenn die Verarbeitung einen Drittlandtransfer beinhaltet, ist eine Transfer Impact Assessment (TIA) erforderlich, die in die DSFA integriert oder als deren Bestandteil gefuehrt wird. Ergebnis ist eine erweiterte DSFA-Sektion mit Transferregister, Rechtsgrundlage des Transfers, Risikobewertung des Drittlandes und ergaenzenden Massnahmen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Auftragsverarbeiter mit Sitz oder Unterauftrag im Drittland
 - Bei eigener Niederlassung im Drittland

@@ -32,13 +32,13 @@ Für **Pruefungsordnung Router, Pruefungsrecht Baden Wuerttemberg, Pruefungsrech
 # Pruefungsordnung Router
 
 ## Fachkern: Pruefungsordnung Router
-- **Spezialgegenstand:** Pruefungsordnung Router; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsordnung Router. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Welche Ordnung gilt wann, Übergangsrecht, Modulversion, Bekanntmachung, Frist und Prüfungsamt klären.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Normenkette Prüfung. Am Ende immer drei Zeilen: **Frist**, *
 # Pruefungsrecht Baden Wuerttemberg
 
 ## Fachkern: Pruefungsrecht Baden Wuerttemberg
-- **Spezialgegenstand:** Pruefungsrecht Baden Wuerttemberg; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Baden Wuerttemberg. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Baden-Württemberg: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Bayern
 
 ## Fachkern: Pruefungsrecht Bayern
-- **Spezialgegenstand:** Pruefungsrecht Bayern; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Bayern. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Bayern: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -233,13 +233,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Berlin
 
 ## Fachkern: Pruefungsrecht Berlin
-- **Spezialgegenstand:** Pruefungsrecht Berlin; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Berlin. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Berlin: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 

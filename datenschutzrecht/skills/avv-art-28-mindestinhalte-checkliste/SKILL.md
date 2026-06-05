@@ -9,7 +9,7 @@ description: "Vollstaendige Pflichtinhalte-Checkliste fuer einen AVV nach Art. 2
 
 Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel fuer Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Beim Drafting eines neuen AVV ist sicherzustellen, dass alle acht Pflichtinhalte vollstaendig sind.
 - Beim Auditing eines vorgelegten AVV ist zu pruefen, ob jede Pflichtklausel ihren Mindestanforderungen genuegt.

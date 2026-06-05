@@ -33,7 +33,7 @@ Für **Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel 
 # Sektor Krankenhaus, Gesundheitsplattformen und Versorgung
 
 ## Fachkern: Sektor Krankenhaus, Gesundheitsplattformen und Versorgung
-- **Spezialgegenstand:** Sektor Krankenhaus, Gesundheitsplattformen und Versorgung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Krankenhaus, Gesundheitsplattformen und Versorgung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel 
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Krankenhausfusionen, regionale Versorgungsmärkte, Qualität, Kostenträger, Telemedizin und Plattformzugang
 
@@ -76,7 +76,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Lebensmittelhandel und Einkaufsallianzen
 
 ## Fachkern: Sektor Lebensmittelhandel und Einkaufsallianzen
-- **Spezialgegenstand:** Sektor Lebensmittelhandel und Einkaufsallianzen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Lebensmittelhandel und Einkaufsallianzen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Nachfragemacht, Einkaufskooperationen, Lieferantenabhängigkeit, Handelsmarken und Konditionenaustausch
 
@@ -119,7 +119,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Logistik, Häfen, Schiene und Luftfracht
 
 ## Fachkern: Sektor Logistik, Häfen, Schiene und Luftfracht
-- **Spezialgegenstand:** Sektor Logistik, Häfen, Schiene und Luftfracht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Logistik, Häfen, Schiene und Luftfracht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -127,7 +127,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Hub-Strukturen, Slot-/Terminalzugang, Ausschreibungen, Kapazitäten, Allianzen und internationale Zuständigkeit
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor öffentliche Beschaffung und Bietermärkte
 
 ## Fachkern: Sektor öffentliche Beschaffung und Bietermärkte
-- **Spezialgegenstand:** Sektor öffentliche Beschaffung und Bietermärkte; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor öffentliche Beschaffung und Bietermärkte. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -170,7 +170,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Bid Rigging, Bietergemeinschaften, Losbildung, Informationsaustausch, Vergabeschnittstelle und Schadensersatz
 
@@ -205,7 +205,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Pharma, Generika und Biotech
 
 ## Fachkern: Sektor Pharma, Generika und Biotech
-- **Spezialgegenstand:** Sektor Pharma, Generika und Biotech; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Pharma, Generika und Biotech. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -213,7 +213,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Pay-for-delay, Patentsettlements, Biosimilars, Pipeline-Produkte, Innovationsmärkte und Lieferengpässe
 

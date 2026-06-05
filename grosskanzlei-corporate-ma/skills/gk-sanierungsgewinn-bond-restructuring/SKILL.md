@@ -24,7 +24,7 @@ Bond-Restrukturierungen unterscheiden sich strukturell von klassischen Bankschul
 
 Dieser Skill ist das Modul für die Bond-Restrukturierung mit Sanierungsgewinn-Wirkung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sanierung einer Schuldverschreibungs-emittierenden Gesellschaft mit ausstehendem Bond.
 - Restrukturierung einer Finanzholding mit mehreren Bondserien.

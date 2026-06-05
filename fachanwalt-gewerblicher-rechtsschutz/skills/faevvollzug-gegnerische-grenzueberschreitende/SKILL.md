@@ -122,7 +122,7 @@ ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine inhaltliche Bewertung ohne vollständige Schutzschrift.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -217,7 +217,7 @@ Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezu
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine länderspezifische Rechtsberatung außerhalb Deutschlands/EU ohne lokale Quellenverifizierung.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -321,6 +321,6 @@ Alle MUSS-Punkte erfüllt?
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Prüfung.
 - Keine Garantie gegen § 945 ZPO-Haftung (einzelfallabhängig).

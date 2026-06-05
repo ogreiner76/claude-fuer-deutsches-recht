@@ -248,7 +248,7 @@ Stand: Mai 2026.
 # Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases
 
 ## Einsatz
-Nutze diesen Skill bei Generalklauseln, planwidrigen Lücken, konkurrierenden Präjudizien, neuen Technologien oder Fällen, in denen mehrere BGB-Lösungen vertretbar erscheinen.
+Dieses Fachmodul bei Generalklauseln, planwidrigen Lücken, konkurrierenden Präjudizien, neuen Technologien oder Fällen, in denen mehrere BGB-Lösungen vertretbar erscheinen.
 
 ## Workflow
 1. Harte Regel, Standard oder Prinzip identifizieren.

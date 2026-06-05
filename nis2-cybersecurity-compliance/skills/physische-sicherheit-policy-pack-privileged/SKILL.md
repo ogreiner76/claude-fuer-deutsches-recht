@@ -31,7 +31,7 @@ Für **Physische Sicherheit Rechenzentrum, Policy Pack, Privileged Access Manage
 
 # Physische Sicherheit Rechenzentrum
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zutritt, Besucher, Brand, Wasser, Klima, Strom, Diesel, Video und Protokolle.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Policy Pack
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Security Policy, Incident, Access, BYOD, Cloud, Supplier, AI, Logging und Data Classification.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Privileged Access Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 PAM-Tresor, Session Recording, Vier-Augen-Prinzip, Notfallkonten, Secrets und Protokollierung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Public Sector BSI Anforderungen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 EVB-IT, Geheimschutz, Cloud, Mindeststandards, Länder-BSI und Vergabeunterlagen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

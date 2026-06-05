@@ -16,7 +16,7 @@ description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Ano
 
 Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Roboter), Fog (lokales Netzwerk, Steuerstand) und Cloud (Telemetrie, KI-Training, Predictive Maintenance). Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO) und Privacy-by-Design (Art. 25 DSGVO) verlangen, dass möglichst wenige Daten möglichst spät und möglichst kurz fließen. Dieser Skill prüft das Datenflussmodell, identifiziert vermeidbare Übertragungen, schlägt Aggregations- und Anonymisierungsschritte vor und liefert Klauseln für Drittanbieter und Mitarbeiter.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Betreiber, DSB, CISO, Cloud-Anbieter.
 2. **Architektur:** Edge-only, Edge+Cloud, Federated, Cloud-only? Welche Verarbeitungen jeweils?

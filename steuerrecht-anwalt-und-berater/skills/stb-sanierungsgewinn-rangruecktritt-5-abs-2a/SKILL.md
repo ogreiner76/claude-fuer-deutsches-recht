@@ -15,7 +15,7 @@ description: "Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot
 
 § 5 Abs. 2a EStG enthält ein Passivierungsverbot für Verbindlichkeiten, die ausschließlich aus zukünftigen Gewinnen, Einnahmen oder Vermögenswerten zu tilgen sind. Klassisch trifft das den Rangrücktritt mit Tilgung "aus freiem Vermögen" — wenn der Rangrücktritt zu eng formuliert ist, entsteht ein Buchgewinn in Höhe der Verbindlichkeit. Dieser Buchgewinn ist im Sanierungskontext häufig der Sanierungsertrag, den § 3a EStG retten muss.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Liegt eine Rangrücktrittserklärung vor — schriftlich, vor oder im Sanierungsverfahren?
 2. Welche Tilgungsabrede ist im Rangrücktritt enthalten — "aus zukünftigen Gewinnen" oder "aus freiem Vermögen"?

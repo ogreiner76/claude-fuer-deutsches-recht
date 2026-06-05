@@ -16,7 +16,7 @@ description: "Führt in 60 Sekunden durch Rolle, Deal-Phase, Ticketgröße, Fond
 
 Private Equity beginnt mit Perspektive: LP, GP, Sponsor, Management, Target, Bank, Verkäufer, Co-Investor oder Restrukturierungsinvestor haben völlig andere Hebel. Dieser Skill ordnet Mandat, Phase und Rolle innerhalb der ersten Minute ein, identifiziert das Pflichtdokument als erstes Arbeitsergebnis und routet auf die spezialisierten Skills im Plugin.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wer ist Mandant: Sponsor (GP), institutioneller LP, Family Office, Management, Verkäufer, Target, Finanzierer, Co-Investor?
 2. In welcher Phase befinden wir uns: Fund Formation, Pre-Signing (NDA/LOI), Signing-Vorbereitung, Pre-Closing, Post-Closing/Integration, Restructuring, Exit?

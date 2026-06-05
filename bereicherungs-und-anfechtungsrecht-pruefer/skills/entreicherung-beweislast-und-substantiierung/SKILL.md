@@ -7,7 +7,7 @@ description: "Bei § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden mu
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

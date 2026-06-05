@@ -38,7 +38,7 @@ Für **Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsich
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Eltern/Schülerrechte, getrennte Eltern, Schwärzung, Kopien, Gutachten, Konferenzprotokolle.
 
@@ -105,7 +105,7 @@ Erzeuge bevorzugt: Akteneinsichtsantrag. Am Ende immer drei Zeilen: **Frist**, *
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Rücktritt, Nachschreiben, Amtsarzt, Vorlagefrist, Diagnosefreiheit und Missbrauchsvorwurf.
 
@@ -172,7 +172,7 @@ Erzeuge bevorzugt: Attestfahrplan. Am Ende immer drei Zeilen: **Frist**, **fehle
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Pausenhof, Sport, Klassenfahrt, Wegeunfall, Dokumentation und Regress.
 
@@ -239,7 +239,7 @@ Erzeuge bevorzugt: Unfallvermerk. Am Ende immer drei Zeilen: **Frist**, **fehlen
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, Schülerinnen und Schüler, Schulleitung, Schulträger oder Behörde gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 

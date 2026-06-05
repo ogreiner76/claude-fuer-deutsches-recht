@@ -9,7 +9,7 @@ description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stell
 
 EU-Rechtsakte sind ein hoher Anteil des deutschen Rechtssetzungsaufkommens. Der NKR prueft zwar nicht das EU-Recht selbst, aber dessen **Umsetzung in deutsches Recht** und insbesondere mit Blick auf **Goldplating**, also nationale Ergaenzungen ueber das EU-Minimum hinaus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben setzt eine EU-Richtlinie um
 - Vorhaben flankiert eine EU-Verordnung

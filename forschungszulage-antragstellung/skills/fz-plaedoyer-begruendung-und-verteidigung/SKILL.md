@@ -16,7 +16,7 @@ Dieser Skill baut das eigentliche **Plädoyer für die Forschungszulage**: nicht
 
 Das Plädoyer ist immer **adressatenspezifisch**: Die BSFZ will eine technische FuE-Geschichte; das Finanzamt will Zahlen und Belege; die Geschäftsführung will Cash, Risiko und Aufwand; das Gericht will Zuständigkeit, Verwaltungsakt, Rechtsweg und Substantiierung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Wenn ein BSFZ-Portaltext schon vorliegt, aber zu flach, werblich oder nicht beweisbar klingt.
 - Wenn eine Rückfrage oder Ablehnung in eine überzeugende Stellungnahme übersetzt werden muss.

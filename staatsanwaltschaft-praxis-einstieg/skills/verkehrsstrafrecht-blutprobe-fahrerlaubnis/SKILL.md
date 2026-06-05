@@ -14,7 +14,7 @@ description: "Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl: Prax
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** §§ 315c, 316 StGB, § 81a StPO, Entziehung und Tagessatzlogik
 

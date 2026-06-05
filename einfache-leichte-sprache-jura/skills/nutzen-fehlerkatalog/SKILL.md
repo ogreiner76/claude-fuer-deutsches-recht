@@ -7,7 +7,7 @@ description: "Nutzen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Einfache Leichte Sprache Jura** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Einfache Leichte Sprache Jura** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

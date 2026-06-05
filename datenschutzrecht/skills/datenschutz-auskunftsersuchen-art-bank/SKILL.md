@@ -36,7 +36,7 @@ Für **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung S
 
 Dieser Skill bearbeitet ein eingegangenes Auskunftsersuchen nach Art. 15 DSGVO so, dass die Frist nach Art. 12 III DSGVO gewahrt, der Umfang nach Art. 15 I und III DSGVO erfuellt und das Risiko einer Beschwerde nach Art. 77 DSGVO oder Klage nach Art. 82 DSGVO minimiert wird.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Mandant ein Auskunftsersuchen erhalten hat — egal ob formal als Schreiben, per E-Mail, im Kuendigungskontext, im Arbeitsgerichtsprozess oder als Vorbereitung einer Klage gegen den Mandanten.
 
@@ -193,7 +193,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 Dieser Skill bearbeitet das Beschwerdeverfahren nach Art. 77 DSGVO. Er hilft dem Beschwerdefuehrer, eine wirksame Beschwerde einzureichen, und dem Beschwerdegegner, im Verfahren der Aufsichtsbehoerde fundiert Stellung zu nehmen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der Mandant Adressat einer Beschwerde ist und von der Aufsichtsbehoerde angehoert wird, oder (c) eine Beschwerde durch Untaetigkeitsklage durchgesetzt werden soll.
 
@@ -372,7 +372,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 Dieser Skill orchestriert die Bearbeitung mehrerer kombinierter Betroffenenrechte in einem Vorgang — etwa wenn ein Betroffener gleichzeitig Auskunft (Art. 15), Loeschung (Art. 17), Datenuebertragbarkeit (Art. 20) und Widerspruch (Art. 21) verlangt. Ziel ist Konfliktaufloesung, einheitliche Frist, Vermeidung von Doppelarbeit.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Antrag mehr als nur ein Betroffenenrecht enthaelt oder sich Rechte ueberlappen (z. B. Auskunft und Loeschung).
 

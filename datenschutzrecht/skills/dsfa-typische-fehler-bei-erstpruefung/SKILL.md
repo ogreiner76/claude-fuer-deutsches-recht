@@ -9,7 +9,7 @@ description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassna
 
 Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste fuer DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor Freigabe einer DSFA durch den Verantwortlichen
 - Bei Audit einer bestehenden DSFA

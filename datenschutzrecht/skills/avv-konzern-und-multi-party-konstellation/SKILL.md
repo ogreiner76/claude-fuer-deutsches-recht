@@ -9,7 +9,7 @@ description: "AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konze
 
 Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Multi-Party-Konstellationen, in denen mehrere Konzerngesellschaften gemeinsam Auftraggeber oder gemeinsam Auftragnehmer sind. Purpose (EN): How to structure DPAs in corporate group setups and multi-party constellations.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernmutter und mehrere Toechter beziehen denselben Cloud-Dienst und sollen unter einem Vertragsschirm liegen.
 - Konzernweite Shared-Service-Center (HR, IT, Payroll) verarbeiten Daten anderer Konzerngesellschaften.

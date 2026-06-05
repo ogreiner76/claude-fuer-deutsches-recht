@@ -24,7 +24,7 @@ PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-
 
 Dieser Skill bearbeitet diese Aspekte für das PE-Team.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - PE-Fonds erwirbt Distressed-Target mit Sanierungsplan.
 - Bestehendes Portfolio-Unternehmen geht in Sanierung; Sponsor will Equity erhalten.

@@ -33,7 +33,7 @@ Für **Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten 
 
 Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire fuer Empfehlungen in NKR-Stellungnahmen und fuer One-in-one-out-Gegenrechnung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme mit konkreten Aenderungsempfehlungen
 - One-in-one-out-Gegenrechnung — wo Entlastung finden?
@@ -176,7 +176,7 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
 Bis 2011 prueftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prueft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ressort verwendet beide Begriffe synonym
 - Schulung fuer neue Referenten

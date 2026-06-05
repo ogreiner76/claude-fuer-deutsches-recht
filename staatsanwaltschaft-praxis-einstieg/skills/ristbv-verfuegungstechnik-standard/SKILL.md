@@ -14,7 +14,7 @@ description: "RiStBV-Verfügungstechnik und Dezernatsstandard: Praxis-Skill für
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: RiStBV-Verfügungstechnik und Dezernatsstandard** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Verfügungen, Wiedervorlagen, Mitteilungen, Schlussverfügung und Aktenklarheit
 

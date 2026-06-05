@@ -36,7 +36,7 @@ Für **Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy 
 
 Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem Auftragsverarbeiter mit Balance zwischen wirksamer Kontrolle und Wahrung der Geschaeftsablaeufe. Purpose (EN): Audit and inspection rights under Article 28 (3) (h) GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Audit-Klauseln im AVV werden verhandelt.
 - Verantwortlicher will ein Vor-Ort-Audit durchfuehren.
@@ -155,7 +155,7 @@ Audit-Klausel:
 
 Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerweise mehrstufiger Kette: Anbieter (Tier 1), Hyperscaler (Tier 2), Drittland-Support (Tier 3). Purpose (EN): Sub-processing under Article 28 (2) and (4) GDPR in cloud and SaaS deployment chains.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - SaaS-/Cloud-Anbieter wird beauftragt und nutzt selbst Hyperscaler-Infrastruktur (AWS, Azure, Google Cloud).
 - Es ist die Liste der Sub-AV zu pruefen oder zu erstellen.
@@ -259,7 +259,7 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 
 Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizierungspruefung und SCC-Fallback. Purpose (EN): Treatment of the EU-US Data Privacy Framework in DPAs, including self-certification check and SCC fallback.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - US-Anbieter wird als Auftragsverarbeiter beauftragt oder eingebunden.
 - Pruefung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.
@@ -363,7 +363,7 @@ DPF-und-Fallback-Klausel:
 
 Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Multi-Party-Konstellationen, in denen mehrere Konzerngesellschaften gemeinsam Auftraggeber oder gemeinsam Auftragnehmer sind. Purpose (EN): How to structure DPAs in corporate group setups and multi-party constellations.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernmutter und mehrere Toechter beziehen denselben Cloud-Dienst und sollen unter einem Vertragsschirm liegen.
 - Konzernweite Shared-Service-Center (HR, IT, Payroll) verarbeiten Daten anderer Konzerngesellschaften.

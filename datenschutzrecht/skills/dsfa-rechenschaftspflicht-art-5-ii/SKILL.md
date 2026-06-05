@@ -9,7 +9,7 @@ description: "Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art
 
 Strukturierte Dokumentation einer DSFA als Beleg der Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO. Ergebnis dieses Skills ist eine vollstaendige DSFA-Akte mit Aktenuebersicht, Versionierung, Aufbewahrungsregeln und Beweiswertbeurteilung. Ziel ist die jederzeitige Vorlagefaehigkeit gegenueber Aufsicht, Gericht oder DSB.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Nach Abschluss einer DSFA, vor Archivierung
 - Bei Aufsichtsanfrage zur Vorlage der DSFA

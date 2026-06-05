@@ -9,7 +9,7 @@ description: "Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflicht
 
 Skill, der den rechtlichen und institutionellen Rahmen des NKR aufrollt. Wird gebraucht, wenn intern oder gegenueber einem Ressort zu klaeren ist, **was** der NKR pruefen darf, **muss** und nicht darf.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Streit zwischen NKR und Ressort, ob ein Vorhaben befassungspflichtig ist
 - Anfrage Ausschuss / Fraktion zur Kompetenz des NKR

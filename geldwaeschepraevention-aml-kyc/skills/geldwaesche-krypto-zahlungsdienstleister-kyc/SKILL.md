@@ -61,7 +61,7 @@ Stand 05/2026. Rechtsprechung im Mandat live verifizieren — Aktenzeichen nicht
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Nutze diesen Skill als Einstieg für jedes AML/KYC-Mandat: Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, Sanktionsscreening, Verdachtsmeldung, Behördenverfahren oder Remediation.
+Dieser Einstieg führt in jedes AML/KYC-Mandat: Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, Sanktionsscreening, Verdachtsmeldung, Behördenverfahren oder Remediation.
 
 ## Wann verwenden
 

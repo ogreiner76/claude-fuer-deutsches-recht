@@ -38,7 +38,7 @@ Für **Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / L
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Assets, die den Deal tragen oder blockieren können.
 
@@ -79,7 +79,7 @@ BGB Mietrecht, Grundbuch, GrEStG, Bau-/Umweltrecht, Finanzierung.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf verständliche, nicht überschießende, aber belastbare Investor-Kommunikation.
 
@@ -120,7 +120,7 @@ Fondsvertrag, KAGB-Reporting, Side Letter, Datenschutz, Vertraulichkeit.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht Bewertungsannahmen sichtbar und trennt Recht, Finance und Tax.
 
@@ -161,7 +161,7 @@ Gesellschaftsvertrag, IDW-Schnittstellen, SPA Expert Determination, Steuer.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erzeugt LPAC-Paper und Konfliktprotokoll.
 

@@ -838,7 +838,7 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 
 # Verhandlungs- und Einigungsstrategie im Strafverfahren
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Allgemeines und Wirtschaftsstrafrecht, in denen eine prozessuale Einigung sinnvoll erscheint.
 - Typische Konstellationen: Verstaendigung gemaess § 257c StPO, Einstellung gemaess § 153 oder § 153a StPO, Adhaesionsvergleich (§§ 403 bis 406c StPO), Taeter-Opfer-Ausgleich (§ 46a StGB), Schadenswiedergutmachung als Strafzumessungsfaktor.

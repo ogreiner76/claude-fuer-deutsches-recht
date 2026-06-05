@@ -9,7 +9,7 @@ description: "FuE-Definition für die Forschungszulage praxisnah prüfen: Grundl
 
 Die BSFZ entscheidet, ob ein Vorhaben Forschung und Entwicklung im Sinne des FZulG ist. Sie wendet die Definitionen der AGVO (Art. 2 Nr. 84 bis 86) an, die wiederum auf dem OECD-Frascati-Handbuch beruhen. Dieser Skill liefert die Frascati-Kriterien praxisnah, Abgrenzungsfälle, Software-Spezifika und Mustersätze für die Projektbeschreibung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor dem Schreiben einer BSFZ-Projektbeschreibung, wenn unklar ist, ob das Vorhaben förderfähig ist.
 - Bei Streit Auftraggeber-Auftragnehmer: was darf als FuE-Anteil angesetzt werden?

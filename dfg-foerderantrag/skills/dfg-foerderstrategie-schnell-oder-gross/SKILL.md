@@ -11,7 +11,7 @@ Dieser Skill verhindert den typischen Erstantragsfehler, aus jedem guten Forschu
 
 **Alte-Hasen-Faustregel:** Der Spatz in der Hand ist die schnelle Sachbeihilfe mit klarer Kernfrage. Die Taube auf dem Dach ist der Großantrag, der nach 9 Monaten gekürzt zurückkommt oder ganz scheitert. Wer DFG-frisch ist, sollte zunächst eine bewilligte Sachbeihilfe vorweisen können, bevor er Koselleck oder SPP-Initiierung anstrebt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn die Programmroute noch offen ist, wenn der Antragsteller schwankt zwischen "kleinem schnellen Antrag" und "großem Wurf", oder wenn das Vorhaben zu groß für Sachbeihilfe und zu wenig visionär für Koselleck wirkt.
 

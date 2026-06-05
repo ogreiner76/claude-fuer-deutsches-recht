@@ -31,7 +31,7 @@ Für **Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfae
 # Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.
 
 ## Fachkern: Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.
-- **Spezialgegenstand:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ SGB V; VVG; InsO Forderungsbehandlung. Entscheidend ist immer der aktuelle Norms
 # Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.
 
 ## Fachkern: Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.
-- **Spezialgegenstand:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295. Entscheidend ist immer der akt
 # Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.
 
 ## Fachkern: Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.
-- **Spezialgegenstand:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

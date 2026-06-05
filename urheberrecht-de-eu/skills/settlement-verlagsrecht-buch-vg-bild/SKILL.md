@@ -31,13 +31,13 @@ Für **Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag*
 # Vergleich und Settlement
 
 ## Fachkern: Vergleich und Settlement
-- **Spezialgegenstand:** Vergleich und Settlement; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vergleich und Settlement. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -101,13 +101,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Verlagsrecht Buch und E-Book
 
 ## Fachkern: Verlagsrecht Buch und E-Book
-- **Spezialgegenstand:** Verlagsrecht Buch und E-Book; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verlagsrecht Buch und E-Book. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -171,13 +171,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # VG Wort, VG Bild-Kunst und Verlag
 
 ## Fachkern: VG Wort, VG Bild-Kunst und Verlag
-- **Spezialgegenstand:** VG Wort, VG Bild-Kunst und Verlag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** VG Wort, VG Bild-Kunst und Verlag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 

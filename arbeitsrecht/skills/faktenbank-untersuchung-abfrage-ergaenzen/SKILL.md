@@ -13,7 +13,7 @@ In diesem Skill wird **Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Un
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle. |
+| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle. |
 | `untersuchung-abfrage` | Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der Anwalt das Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln durchlesen zu müssen. |
 | `untersuchung-ergaenzen` | Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen. Verarbeitet Dokumentenpakete anhand dokumentierter Auswahlkriterien, markiert relevante Funde und protokolliert alles Gesichtete zur Deckungsverifikation. Lädt, wenn neue Beweise, Befragungsnotizen oder Dokumentenlieferungen für eine laufende Untersuchung eingehen. |
 | `untersuchung-eroeffnen` | Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll. |
@@ -27,7 +27,7 @@ Für **Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergae
 
 ## 1. `rechtsstand-mai-2026-faktenbank`
 
-**Fokus:** Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle.
+**Fokus:** Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle.
 
 # Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht
 

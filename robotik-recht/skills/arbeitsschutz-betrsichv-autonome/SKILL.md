@@ -41,7 +41,7 @@ Für **Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Rau
 
 Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbeitgeber treffen Pflichten zur Gefährdungsbeurteilung (§ 3 BetrSichV), zu Schutzmaßnahmen, Unterweisung (§ 12 ArbSchG), wiederkehrenden Prüfungen (§ 14 BetrSichV) und zur Erstellung einer Betriebsanweisung. Bei Cobots, autonomen Transportrobotern (AMR) und Service-Robotern entstehen typische Risiken: Quetschung, Stoß, Sturz nach Kollision, psychische Belastung. Dieser Skill leitet durch die Pflichten und liefert Vorlagen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Arbeitgeber/Betreiber, Sicherheitsfachkraft (Sifa), Sicherheitsbeauftragter, Betriebsrat, Berufsgenossenschaft.
 2. **Robotertyp:** Industrieroboter mit Zaun, Cobot ohne Zaun, AMR/AGV mit Personen im Verkehrsraum, Service-Roboter in Mischarbeit.
@@ -167,7 +167,7 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 
 Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren ein Mosaik aus Bundes-, Landes- und Kommunalrecht: StVO/StVG, Landesstraßengesetze (Sondernutzung), Kommunalsatzungen, DSGVO (Kamerasensorik), KI-VO (autonome Wahrnehmung), MaschinenVO/ProdSG (Sicherheit) und Vertragsrecht zum Endkunden. Dieser Skill ordnet die Regulierungsebenen, gibt einen Genehmigungs-und enthält Vorlagen für Sondernutzungsanträge und Datenschutzhinweise.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Betreiber/Logistik-Plattform, Kommune, Verkehrsbehörde, Datenschutzbehörde, Geschädigte (Fußgänger).
 2. **Robotertyp:** Sidewalk Delivery Robot (SDR) mit <25 km/h, Größe und Gewicht?

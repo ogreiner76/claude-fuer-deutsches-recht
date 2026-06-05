@@ -5,7 +5,7 @@ description: "Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verlor
 
 # Juristische Sicherung
 
-Nutze diesen Skill vor und nach jeder Übertragung.
+Dieses Fachmodul vor und nach jeder Übertragung.
 
 ## Triage zu Beginn
 1. Welche Fristen kommen im Originaltext vor — Datum, Fristbeginn, Fristende, Folgen?

@@ -9,7 +9,7 @@ description: "Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HG
 
 Dieser Skill loest den haeufigen Konflikt zwischen Loeschpflicht nach Art. 17 DSGVO und gesetzlichen Aufbewahrungspflichten nach Handels-, Steuer- und Sozialrecht so auf, dass weder eine Loeschpflichtverletzung noch eine Aufbewahrungspflichtverletzung entsteht. Ergebnis ist regelmaessig eine Sperrung (Einschraenkung Art. 18 DSGVO) bis zum Ablauf der Aufbewahrungspflicht.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Loeschantrag eingeht, (b) Daten ohne Antrag rechtmaessig zu loeschen waeren oder (c) ein Loeschkonzept erstellt werden soll.
 

@@ -7,7 +7,7 @@ description: "Icsid Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, 
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Fachanwalt Internationales Wirtschaftsrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Fachanwalt Internationales Wirtschaftsrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

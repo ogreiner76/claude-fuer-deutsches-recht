@@ -7,7 +7,7 @@ description: "Prüfen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Fluggastrechte** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Fluggastrechte** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

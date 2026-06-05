@@ -38,7 +38,7 @@ Für **Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / P
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Nützlich post-closing bei PE-Portfoliounternehmen.
 
@@ -79,7 +79,7 @@ SPA, BGB, W&I-Policy, Verjährung, Beweislast.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ist für schnelle Post-Closing-Claims gebaut.
 
@@ -120,7 +120,7 @@ SPA Locked Box, BGB, Bilanz-/Zahlungsbelege, Verjährung.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Beweise, Zahlenlogik und Schiedsgutachter-Verfahren.
 
@@ -161,7 +161,7 @@ SPA, BGB, Accounting Policies, Schiedsgutachten, Informationsrechte.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill baut Anspruch, Verteidigung und Verhandlungsoption.
 

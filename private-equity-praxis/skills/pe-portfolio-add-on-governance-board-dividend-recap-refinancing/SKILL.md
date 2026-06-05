@@ -38,7 +38,7 @@ Für **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf wiederholbare, schnelle Add-on-Prozesse mit sauberer Dokumentation.
 
@@ -79,7 +79,7 @@ SPA/APA, GWB/FKVO, AWV, Bank Covenants, HR/IT/IP.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill hilft, Investor Governance nicht mit Geschäftsführung zu verwechseln.
 
@@ -120,7 +120,7 @@ GmbHG/AktG, Business Judgment, SHA/Investment Agreement, Informationsrechte.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf PE-Portfolio, Banken, Private Credit und Haftungsrisiken.
 
@@ -161,7 +161,7 @@ GmbHG § 30, AktG Kapitalerhaltung, Darlehensverträge, InsO/StaRUG, Steuer.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill baut einen verkaufsfähigen Zustand statt nur eine Dokumentenliste.
 

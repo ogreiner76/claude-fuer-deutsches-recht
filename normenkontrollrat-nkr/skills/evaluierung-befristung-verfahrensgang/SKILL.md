@@ -33,7 +33,7 @@ Für **Nkr Evaluierung Befristung Sunset Klausel, Nkr Verfahrensgang Referentene
 
 Der NKR empfiehlt regelmaessig Evaluierungs- und Befristungsklauseln, wenn Wirksamkeit, Aufwand oder Zielereichung unsicher sind. Befristung (Sunset) heisst: das Gesetz tritt nach X Jahren automatisch ausser Kraft, wenn nicht verlaengert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit hoher Wirksamkeitsunsicherheit
 - Vorhaben mit hohem Erfuellungsaufwand
@@ -161,7 +161,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 
 Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere fuer jeden neuen NKR-Referenten und Pruefer.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorgang ist zeitlich unklar verortet ("Wann hat der NKR welche Frist?")
 - Frist fuer NKR-Befassung steht im Streit mit Ressort

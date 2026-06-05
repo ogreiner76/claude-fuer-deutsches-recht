@@ -33,7 +33,7 @@ Für **Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzah
 
 Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne prueft das BMJ und ggf. das BVerfG. Der NKR prueft Verhaeltnismaessigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand fuer das adressierte Problem **angemessen**?
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben ist erforderlich, Ausgestaltung wirkt jedoch ueberzogen
 - Eingriffstiefe wirkt unverhaeltnismaessig
@@ -129,7 +129,7 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 
 Zwei Datenfundamente der SKM-Rechnung sind **Zeitwerte** (wie lange dauert eine Standardtaetigkeit?) und **Fallzahlen** (wie oft kommt die Pflicht zur Anwendung?). Beide haben standardisierte Quellen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme prueft Datengrundlage
 - Ressort gibt Zeitwerte ohne Quelle an

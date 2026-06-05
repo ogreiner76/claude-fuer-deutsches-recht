@@ -598,7 +598,7 @@ Halluzinations-Reparatur Bundle 026:
 
 # Schriftsatzkern und Substantiierung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe) erstellt werden, typischerweise: Nachpruefungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

@@ -12,7 +12,7 @@ description: "Testet Deal-These gegen Rechts-, Markt-, Finanzierungs-, Regulieru
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ist für IC-Vorbereitung und Partner-Review gedacht.
 

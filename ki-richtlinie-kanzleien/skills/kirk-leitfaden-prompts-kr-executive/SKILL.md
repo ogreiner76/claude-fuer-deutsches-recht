@@ -71,7 +71,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -124,7 +124,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -140,7 +140,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 Dieser Skill erzeugt einen Ein-Seiten-Executive-Summary der KI-Nutzungsrichtlinie. Er liefert das kompakteste Dokument, das eine Kanzlei oder Rechtsabteilung als Aushang, Onboarding-Anlage oder Mandanteninformation einsetzen kann. Das Format ist bewusst auf 1 DIN-A4-Seite begrenzt.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Onboarding neuer Mitarbeiter und Referendare
 - Aushang im Kopierraum oder digitalen Intranet

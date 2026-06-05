@@ -39,7 +39,7 @@ Für **Schriftsatzkern Substantiierung, Aktg Behörden Gericht Und Registerweg, 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Handels- und Gesellschaftsrecht erstellt werden, typischerweise: Anfechtungs-/Nichtigkeitsklage GV-Beschluss, Auskunftsklage, Squeeze-out.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

@@ -38,7 +38,7 @@ Für **Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Ho
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Sachsen: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 
@@ -105,7 +105,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Sachsen-Anhalt: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 
@@ -172,7 +172,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Schleswig-Holstein: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 
@@ -239,7 +239,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Thüringen: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 

@@ -38,7 +38,7 @@ Für **Fees Expenses Billing / Broken Deal Abbruch / Ic Memo Entscheidungsvorlag
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Transparenz gegenüber LPs und saubere Deal-Kostenverteilung.
 
@@ -79,7 +79,7 @@ Fondsvertrag, Side Letter, KAGB, Steuer, Kanzlei-Billing.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill hilft, aus einem gescheiterten Prozess ohne Folgeschaden herauszukommen.
 
@@ -120,7 +120,7 @@ BGB c.i.c., NDA, Process Letter, Datenschutz, Kartellrecht.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf entscheidungsfähige Unterlage statt langer DD-Nacherzählung.
 
@@ -161,7 +161,7 @@ Business Judgment, Fondsvertrag, KAGB, SPA/Finanzierung, Compliance.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill liefert knappe, handlungsorientierte Kommunikation mit Risiken und nächsten Schritten.
 

@@ -15,7 +15,7 @@ description: "Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene S
 
 § 3a EStG unterscheidet zwischen unternehmensbezogener Sanierung (§ 3a Abs. 1, 2 EStG) und personenbezogener Sanierung (§ 3a Abs. 5 EStG — Restschuldbefreiung). Wer die Variante falsch zuordnet, stellt entweder den falschen Antrag oder gar keinen. Dieser Skill arbeitet die Abgrenzung systematisch heraus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist Schuldner eine Kapitalgesellschaft (regelmäßig unternehmensbezogen) oder eine natürliche Person?
 2. Bei Personengesellschaft / Einzelunternehmen: Betrifft der Verzicht das Betriebs- oder das Privatvermögen?

@@ -112,7 +112,7 @@ Für **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilung
 
 # Erstgespraech und Mandatsannahme im Privates Baurecht, Architekten- und Ingenieurrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Privates Baurecht, Architekten- und Ingenieurrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.

@@ -16,7 +16,7 @@ description: "Prüft Betriebsanleitung, Sicherheitsinformationen, digitale Anlei
 
 Die Betriebsanleitung ist ein Sicherheitsbauteil im juristischen Sinn: Fehler in Sprache, Verständlichkeit, Vollständigkeit oder Warnhinweisen lösen Konstruktions- oder Instruktionsfehler nach § 1 ProdHaftG, § 823 BGB und neuer Produkthaftungs-RL (EU) 2024/2853 aus. Die MaschinenVO VO (EU) 2023/1230 erlaubt erstmals **digitale** Anleitungen unter Bedingungen (Art. 10 Abs. 7 sowie Anhang III Nr. 1.7.4) – ein Paradigmenwechsel. Bei KI-Funktionen verlangt Art. 13 KI-VO eine Gebrauchsanweisung mit besonderem Inhalt. Dieser Skill prüft Anleitung und Warnhinweise auf Compliance und Haftungsrobustheit.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Importeur, technischer Redakteur, Marktüberwachung, Anwalt im Haftungsstreit.
 2. **Produkt:** Industrieroboter, Cobot, Service-Roboter, Verbraucher-Robotik (z. B. Saugroboter).

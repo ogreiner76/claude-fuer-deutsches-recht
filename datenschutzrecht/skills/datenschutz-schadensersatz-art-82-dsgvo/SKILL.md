@@ -9,7 +9,7 @@ description: "Schadensersatzklage nach Art. 82 DSGVO materieller und immateriell
 
 Dieser Skill bearbeitet Schadensersatzansprueche nach Art. 82 DSGVO vor deutschen Zivilgerichten — sowohl auf Klaeger- als auch auf Beklagtenseite. Er konzentriert sich auf den materiellen und immateriellen Schaden, die Kausalitaet zum DSGVO-Verstoss und die Beweislastverteilung nach der inzwischen verfestigten EuGH-Rechtsprechung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Betroffener Schadensersatz vom Mandanten verlangt oder (b) der Mandant gegen einen Verantwortlichen vorgehen will.
 

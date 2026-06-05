@@ -123,7 +123,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 # Agentur, Abnahme, Vergabe
 
-Nutze diesen Skill, wenn eine Website neu gebaut, relauncht oder von einer Agentur nachgebessert wird.
+Dieses Fachmodul begleitet Websites, die neu gebaut, relauncht oder von einer Agentur nachgebessert werden.
 
 ## Lastenheft-Bausteine
 

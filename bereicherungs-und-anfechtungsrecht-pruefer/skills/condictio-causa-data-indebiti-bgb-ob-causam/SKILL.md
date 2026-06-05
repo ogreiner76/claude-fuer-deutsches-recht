@@ -13,10 +13,10 @@ In diesem Skill wird **Condictio Causa Data Causa Non Secuta, Condictio Indebiti
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `condictio-causa-data-causa-non-secuta` | Nutze diesen Skill, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB. |
+| `condictio-causa-data-causa-non-secuta` | Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB. |
 | `condictio-indebiti-813-bgb` | Rückforderung trotz Erfüllung einer einredebehafteten Verbindlichkeit nach § 813 BGB prüfen. Normen: § 813 BGB. Prüfraster: dauernde vs. temporäre Einreden, Verjährungseinrede, Tatbestandsmerkmale. Output: Prüfergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund. |
-| `condictio-ob-causam-finitam-wegfall-des-rechtsgrundes` | Nutze diesen Skill, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend). |
-| `condictio-ob-rem-zweckabrede` | Nutze diesen Skill, wenn eine Leistung für einen erkennbar bezweckten Erfolg erbracht wurde. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckabrede und Erfolgseintritt. Abgrenzung: nicht condictio causa data (endgültiger Misserfolg). |
+| `condictio-ob-causam-finitam-wegfall-des-rechtsgrundes` | Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend). |
+| `condictio-ob-rem-zweckabrede` | Dieses Fachmodul greift, wenn eine Leistung für einen erkennbar bezweckten Erfolg erbracht wurde. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckabrede und Erfolgseintritt. Abgrenzung: nicht condictio causa data (endgültiger Misserfolg). |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condic
 
 ## 1. `condictio-causa-data-causa-non-secuta`
 
-**Fokus:** Nutze diesen Skill, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB.
 
 # Causa data causa non secuta
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -195,13 +195,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `condictio-ob-causam-finitam-wegfall-des-rechtsgrundes`
 
-**Fokus:** Nutze diesen Skill, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend).
+**Fokus:** Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend).
 
 # Condictio ob causam finitam: Wegfall des Rechtsgrundes
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -299,13 +299,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `condictio-ob-rem-zweckabrede`
 
-**Fokus:** Nutze diesen Skill, wenn eine Leistung für einen erkennbar bezweckten Erfolg erbracht wurde. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckabrede und Erfolgseintritt. Abgrenzung: nicht condictio causa data (endgültiger Misserfolg).
+**Fokus:** Dieses Fachmodul greift, wenn eine Leistung für einen erkennbar bezweckten Erfolg erbracht wurde. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckabrede und Erfolgseintritt. Abgrenzung: nicht condictio causa data (endgültiger Misserfolg).
 
 # Condictio ob rem: Zweckabrede
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn eine Leistung für einen erkennbar bezweckten Erfolg erbracht wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn eine Leistung für einen erkennbar bezweckten Erfolg erbracht wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

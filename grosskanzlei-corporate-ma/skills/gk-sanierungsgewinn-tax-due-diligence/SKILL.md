@@ -24,7 +24,7 @@ Die Tax-DD im Distressed-M&A unterscheidet sich strukturell von der Standard-Tax
 
 Dieser Skill ist das DD-Modul, das diese Lücke schließt.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Buy-side- oder Sell-side-Tax-DD eines Targets in der Krise oder im StaRUG-Verfahren.
 - Vendor-DD eines Verkäufers, der einen sanierungsbedürftigen Konzernteil verkauft.

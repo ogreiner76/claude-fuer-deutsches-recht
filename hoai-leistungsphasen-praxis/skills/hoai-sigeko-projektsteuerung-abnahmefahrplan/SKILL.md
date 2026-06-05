@@ -34,7 +34,7 @@ Für **Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, 
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Bauherr erwartet, dass "der Architekt das alles mitmacht", obwohl SiGeKo, Projektsteuerung, Nachhaltigkeit, Schadstoffkoordination oder Fördermittelmanagement gesondert zu klären sind.
+Dieses Fachmodul greift, wenn der Bauherr erwartet, dass "der Architekt das alles mitmacht", obwohl SiGeKo, Projektsteuerung, Nachhaltigkeit, Schadstoffkoordination oder Fördermittelmanagement gesondert zu klären sind.
 
 ## Normanker
 

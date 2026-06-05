@@ -11,7 +11,7 @@ Dieser Skill verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.1. Akt
 
 Diese Hauszitierweise ist eine pragmatische Repository-Konvention. Sie ist innerhalb dieses Repositories verbindlich, **nicht** in der Welt. Wissenschaftliche Texte (Dissertationen, Habilitationen, Theoriezeitschriften) verwenden vielfach ausführlichere Notationen. Beide Vorgehen sind legitim, solange dokumentintern konsistent.
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Du zitierst Rechtsprechung, Materialien oder Gesetzesnormen.
 - Du prüfst einen vorhandenen Text auf korrekte Zitierweise.

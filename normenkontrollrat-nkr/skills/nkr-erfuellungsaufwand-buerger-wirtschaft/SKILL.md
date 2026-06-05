@@ -9,7 +9,7 @@ description: "Trennt den Erfuellungsaufwand methodisch nach den drei Adressateng
 
 Der Erfuellungsaufwand wird methodisch **separat fuer drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme-Drafting: Tabellenstruktur
 - Ressortentwurf zeigt nur Gesamtsumme

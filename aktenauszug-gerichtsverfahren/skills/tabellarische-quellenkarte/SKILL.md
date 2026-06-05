@@ -7,7 +7,7 @@ description: "Tabellarische Quellenkarte: Quellenprüfung; Normenstand, Rechtspr
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Aktenauszug Gerichtsverfahren** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Aktenauszug Gerichtsverfahren** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

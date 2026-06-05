@@ -34,7 +34,7 @@ Für **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transf
 
 Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl und Bewertung zusaetzlicher Schutzmassnahmen (supplementary measures), wenn das Schutzniveau im Drittland nicht von vornherein der Union "im Wesentlichen gleichwertig" ist. Grundlage ist insbesondere Annex 2 der EDPB-Empfehlung 01/2020 mit den Use Cases 1 bis 7.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Schritt 3 des TIA hat ergeben, dass Drittlandsrecht/Praxis das SCC-Schutzniveau nicht abdeckt.
 - Vertragsverhandlung mit US-Anbieter; ergaenzende Schutzklauseln zu formulieren.

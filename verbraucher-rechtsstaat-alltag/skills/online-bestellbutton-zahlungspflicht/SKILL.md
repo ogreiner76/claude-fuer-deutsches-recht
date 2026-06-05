@@ -31,7 +31,7 @@ Für **Online Bestellbutton Zahlungspflicht, Online Bewertung Abmahnung, Online 
 # Online-Bestellbutton Und Zahlungspflicht
 
 ## Fachkern: Online-Bestellbutton Und Zahlungspflicht
-- **Spezialgegenstand:** Online-Bestellbutton Und Zahlungspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Online-Bestellbutton Und Zahlungspflicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Online Bestellbutton Zahlungspflicht, Online Bewertung Abmahnung, Online 
 
 ## Einsatz
 
-Nutze diesen Skill, wenn eine Person online gebucht, bestellt oder reserviert haben soll und jetzt eine Rechnung, Mahnung, Inkassopost oder Plattformforderung bekommt. Ziel ist nicht Theorie, sondern eine ruhige Entscheidung: Vertrag ja/nein, Zahlungspflicht ja/nein, Beweise sichern, richtig reagieren.
+Dieses Fachmodul greift, wenn eine Person online gebucht, bestellt oder reserviert haben soll und jetzt eine Rechnung, Mahnung, Inkassopost oder Plattformforderung bekommt. Ziel ist nicht Theorie, sondern eine ruhige Entscheidung: Vertrag ja/nein, Zahlungspflicht ja/nein, Beweise sichern, richtig reagieren.
 
 ## Harte Rechtsanker
 
@@ -92,7 +92,7 @@ Keine künstliche Sicherheit: Wenn nur eine Bestätigungsmail vorliegt, aber kei
 # Online-Bewertung und Abmahnung
 
 ## Fachkern: Online-Bewertung und Abmahnung
-- **Spezialgegenstand:** Online-Bewertung und Abmahnung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Online-Bewertung und Abmahnung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -100,7 +100,7 @@ Keine künstliche Sicherheit: Wenn nur eine Bestätigungsmail vorliegt, aber kei
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Online-Bewertung und Abmahnung** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung.
 
@@ -145,7 +145,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Online-Shop liefert nicht
 
 ## Fachkern: Online-Shop liefert nicht
-- **Spezialgegenstand:** Online-Shop liefert nicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Online-Shop liefert nicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -153,7 +153,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Online-Shop liefert nicht** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf.
 

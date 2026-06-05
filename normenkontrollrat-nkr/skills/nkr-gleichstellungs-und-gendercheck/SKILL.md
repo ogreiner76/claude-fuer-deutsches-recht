@@ -9,7 +9,7 @@ description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und §
 
 Nach BGleiG und GGO ist bei Bundesregelungsvorhaben eine **gleichstellungspolitische Folgenabschaetzung** durchzufuehren. Sie prueft, ob das Vorhaben auf Frauen und Maenner unterschiedliche Auswirkungen hat. Der NKR prueft die methodische Konsistenz mit dem Erfuellungsaufwand.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben adressiert Privatpersonen
 - Vorhaben hat arbeitsmarktpolitischen Bezug

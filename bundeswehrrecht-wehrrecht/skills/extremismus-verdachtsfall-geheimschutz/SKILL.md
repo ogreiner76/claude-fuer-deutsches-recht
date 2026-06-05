@@ -31,7 +31,7 @@ Für **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueber
 # Extremismus-Verdachtsfall und Sicherheitsrecht
 
 ## Fachkern: Extremismus-Verdachtsfall und Sicherheitsrecht
-- **Spezialgegenstand:** Extremismus-Verdachtsfall und Sicherheitsrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Extremismus-Verdachtsfall und Sicherheitsrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -53,7 +53,7 @@ Extremismus-Verdachtsfälle in der Bundeswehr sind sicherheitsrechtlich und dien
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -142,7 +142,7 @@ Vor Ausgabe prüfen:
 # Geheimschutz und Sicherheitsüberprüfung (SÜG)
 
 ## Fachkern: Geheimschutz und Sicherheitsüberprüfung (SÜG)
-- **Spezialgegenstand:** Geheimschutz und Sicherheitsüberprüfung (SÜG); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Geheimschutz und Sicherheitsüberprüfung (SÜG). Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -166,7 +166,7 @@ Die Sicherheitsüberprüfung ist Voraussetzung für Verwendungen auf VS-Dienstpo
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -253,7 +253,7 @@ Vor Ausgabe prüfen:
 # Gehorsam, Befehl und rechtswidriger Befehl
 
 ## Fachkern: Gehorsam, Befehl und rechtswidriger Befehl
-- **Spezialgegenstand:** Gehorsam, Befehl und rechtswidriger Befehl; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Gehorsam, Befehl und rechtswidriger Befehl. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -263,7 +263,7 @@ Vor Ausgabe prüfen:
 
 Der Soldat schuldet nach § 11 SG Gehorsam gegenüber dienstlichen Befehlen seines Vorgesetzten. Der Befehl ist eine Anweisung zu einem bestimmten Verhalten, die mit dem Anspruch auf Gehorsam erteilt wird (§ 2 Nr. 2 WStG). Die Gehorsamspflicht endet jedoch dort, wo Strafrecht, Menschenwürde oder dienstlicher Zweck verletzt würden. Der Skill ordnet die Konstellation ein und führt durch Remonstration, Befehlsverweigerung und Verteidigung in einem etwaigen WStG- oder WDO-Verfahren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Wortlaut des Befehls? Mündlich oder schriftlich, vor Zeugen?
 - Wer ist Vorgesetzter (truppendienstlich, fachlich, kraft Dienstgrad)?

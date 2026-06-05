@@ -31,7 +31,7 @@ Für **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutral
 # Pflicht zum treuen Dienen (§ 7 SG)
 
 ## Fachkern: Pflicht zum treuen Dienen (§ 7 SG)
-- **Spezialgegenstand:** Pflicht zum treuen Dienen (§ 7 SG); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pflicht zum treuen Dienen (§ 7 SG). Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -54,7 +54,7 @@ Für **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutral
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -141,7 +141,7 @@ Vor Ausgabe prüfen:
 # Politische Betätigung – Mäßigungsgebot und Neutralität
 
 ## Fachkern: Politische Betätigung – Mäßigungsgebot und Neutralität
-- **Spezialgegenstand:** Politische Betätigung – Mäßigungsgebot und Neutralität; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Politische Betätigung – Mäßigungsgebot und Neutralität. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -151,7 +151,7 @@ Vor Ausgabe prüfen:
 
 § 15 SG bindet den Soldaten an ein Mäßigungs- und Neutralitätsgebot. Während des Dienstes ist jede Werbung für oder gegen politische Richtungen untersagt; außerhalb des Dienstes hat sich der Soldat so zu mäßigen, dass das Vertrauen in seine Pflichterfüllung und die Achtung in seiner dienstlichen Stellung nicht ernsthaft beeinträchtigt werden. Der Skill ordnet die Grenze zwischen Meinungsfreiheit (Art. 5 GG) und § 15 SG, insbesondere im Social-Media-Zeitalter.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Äußerung (mündlich, schriftlich, Social Media, Versammlungsteilnahme)?
 - Ort und Zeit (im Dienst, außer Dienst, Uniform getragen?)?
@@ -246,7 +246,7 @@ Vor Ausgabe prüfen:
 # Presseäußerung und Meinungsfreiheit des Soldaten
 
 ## Fachkern: Presseäußerung und Meinungsfreiheit des Soldaten
-- **Spezialgegenstand:** Presseäußerung und Meinungsfreiheit des Soldaten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Presseäußerung und Meinungsfreiheit des Soldaten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -256,7 +256,7 @@ Vor Ausgabe prüfen:
 
 Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die soldatischen Pflichten aus dem SG eingeschränkt ist: Wahrheitspflicht (§ 13 SG), Verschwiegenheit (§ 14 SG), Mäßigungsgebot (§ 15 SG), Achtungs- und Vertrauenswürdigkeit (§ 17 SG). Presse- und Medienäußerungen sind ein häufiger Konfliktbereich: Interviews, Leserbriefe, Beiträge in Sozialen Medien, Bücher und Podcasts. Der Skill ordnet Genehmigungspflicht, Inhaltsgrenzen und Folgen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Art der Äußerung (Interview, Buch, Blog, Podcast, Social Media)?
 - Inhalt (allgemeinpolitisch, dienstlich, Personal, Geheimschutz, Einsatz)?

@@ -31,14 +31,14 @@ Für **Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnun
 # Fristen Planung Budget MD Schiedsstelle
 
 ## Fachkern: Fristen Planung Budget MD Schiedsstelle
-- **Spezialgegenstand:** Fristen Planung Budget MD Schiedsstelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Fristen Planung Budget MD Schiedsstelle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Fristen Planung Budget MD Schiedsstelle** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -76,7 +76,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung
 
 ## Fachkern: MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung
-- **Spezialgegenstand:** MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -85,7 +85,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung stationaerer Faelle. Seit 2020 ist die Pruefquote pro Klinik gedeckelt; Aufwandspauschalen und Strukturpruefungen ergaenzen das Verfahren. Die Pruefverfahrensvereinbarung (PrueferV) ist Spielregeln-Vertrag zwischen GKV-SV und DKG.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt eine MD-Pruefanzeige, ein Pruefbericht oder eine Schlussbewertung vor?
 - Welche Pruefquote ist relevant (klinikspezifisch, Standardquote)?
 - Welche Beanstandungen werden gestellt (Hauptdiagnose, Nebendiagnose, OPS, Verweildauer, Strukturmerkmal)?
@@ -159,7 +159,7 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 # Schiedsstellenverfahren Krankenhausentgelt
 
 ## Fachkern: Schiedsstellenverfahren Krankenhausentgelt
-- **Spezialgegenstand:** Schiedsstellenverfahren Krankenhausentgelt; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Schiedsstellenverfahren Krankenhausentgelt. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -168,7 +168,7 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 ## Worum geht es konkret
 Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostentraeger ueber Budget, Pflegesatz, Vorhalte- oder Pflegebudget nicht einigen. Sie ist paritaetisch besetzt; ihre Entscheidung ist Verwaltungsakt mit Klagerecht zum VG.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Sind Budgetverhandlungen gescheitert? Schriftliche Scheitenserklaerung vorhanden?
 - Welcher Streitgegenstand (Veraenderungsrate, Mehrleistungsabschlag, Vorhalteanteil, Strukturkosten)?
 - Welche Daten liegen vor (AEB, L-Datensatz, MD-Berichte, Casemix-Auswertung)?

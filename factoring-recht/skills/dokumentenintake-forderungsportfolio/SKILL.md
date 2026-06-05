@@ -6,7 +6,7 @@ description: "Dokumentenintake Forderungsportfolio: sortiert Dokumente, erkennt 
 # Dokumentenintake Forderungsportfolio
 
 ## Fachkern: Dokumentenintake Forderungsportfolio
-- **Spezialgegenstand:** Dokumentenintake Forderungsportfolio; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Dokumentenintake Forderungsportfolio. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -18,7 +18,7 @@ Vor jedem Forderungsankauf, vor jedem Portfolio-Audit und vor jeder Sonderprüfu
 
 Dieser Skill standardisiert den Intake: einheitliche Datenformate, Pflichtfelder pro Forderung, Belegklassifikation, Eingangskontrollen, automatisierte Plausibilitätschecks (Rechnungsnummer eindeutig, Lieferschein vorhanden, Betrag stimmig), DSGVO-Konformität. Ziel: kein Forderungsankauf ohne vollständigen Intake-Datensatz.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie nehmen ein neues Factoring-Mandat auf und bauen die Intake-Pipeline.
 - Bei einem bestehenden Kunden ändert sich das ERP-System, die Intake-Schnittstelle muss angepasst werden.

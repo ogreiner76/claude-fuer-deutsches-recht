@@ -16,7 +16,7 @@ description: "Entwirft Compliance-Gates für agile Robotikentwicklung: Definitio
 
 Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- und Cyber-Recht denkt aber in Konformitätsbewertungsverfahren, Versionsständen und Konformitätserklärungen. Dieser Skill bringt beide Welten zusammen: Er definiert die Stage-Gates, die ein Robotikprodukt zwingend durchlaufen muss, damit Sprints am Ende ein CE-fähiges, KI-VO-konformes und cyber-resilientes Release liefern. Schwerpunkt: Definition of Done (DoD) auf Story-, Increment- und Release-Ebene; Sicherheits-, Datenschutz-, KI- und Rechtsfreigabe; Behandlung "substanzieller Änderungen" i. S. d. Art. 3 Nr. 23 VO (EU) 2024/1689 (KI-VO).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Anbieter/Hersteller, Sicherheitsverantwortlicher (Safety Officer), DSB, CISO, Notified-Body-Auditor.
 2. **Methodik:** Scrum, SAFe, Hybrid, V-Modell mit agilen Inseln?

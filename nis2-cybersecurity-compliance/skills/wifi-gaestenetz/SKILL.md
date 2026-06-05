@@ -28,7 +28,7 @@ Für **Wifi Gaestenetz** zuerst das tragende Prüffeld bestimmen, dessen Tatsach
 
 # Wifi Gaestenetz
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 WPA, Captive Portal, Gastnetz, Produktionsnetz, Protokollierung und Haftungsrisiken.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

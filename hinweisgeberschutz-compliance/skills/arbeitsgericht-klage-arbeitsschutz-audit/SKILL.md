@@ -31,7 +31,7 @@ Für **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporti
 
 # Arbeitsgericht Klage
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Anträge, Kausalität, Beweislast, Vergleich, Beschäftigungsanspruch und Belege.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Arbeitsschutz
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Gefahr, Fachkraft, Betriebsarzt, Behörde, Sofortmaßnahme und Schutz des Meldenden.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Audit Nachweis
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Policy, Kanal, Schulung, Fälle, Fristen, Löschung, Zugriffe, Ausnahmen und Verbesserungen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Aufsichtsrat Reporting
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Anonymisierung, Wesentlichkeit, offene Risiken, Maßnahmen, Fristen und Protokoll.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

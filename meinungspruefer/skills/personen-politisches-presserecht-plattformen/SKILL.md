@@ -89,7 +89,7 @@ Gib ein §-188-Prüfblatt aus:
 
 ## Einsatzbereich
 
-Nutze diesen Skill bei Onlineveröffentlichungen, Plattformmeldungen, Account-Sperrungen, Bewertungsportalen und journalistischen Beiträgen.
+Dieses Fachmodul bei Onlineveröffentlichungen, Plattformmeldungen, Account-Sperrungen, Bewertungsportalen und journalistischen Beiträgen.
 
 ## Plattformcheck
 

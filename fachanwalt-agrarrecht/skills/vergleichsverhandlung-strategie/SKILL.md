@@ -28,7 +28,7 @@ Für **Vergleichsverhandlung Strategie** zuerst das tragende Prüffeld bestimmen
 
 # Vergleichsverhandlung und Einigung im Agrar-, Forst- und Lebensmittelrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Agrar-, Forst- und Lebensmittelrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Pachtaufhebung, Hofuebergabe-Streit, Direktzahlungs-Rueckforderung.

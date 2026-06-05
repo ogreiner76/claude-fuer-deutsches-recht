@@ -31,7 +31,7 @@ Für **Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendunge
 # Debitorenkommunikation und Abtretungsanzeige
 
 ## Fachkern: Debitorenkommunikation und Abtretungsanzeige
-- **Spezialgegenstand:** Debitorenkommunikation und Abtretungsanzeige; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Debitorenkommunikation und Abtretungsanzeige. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -43,7 +43,7 @@ Die **Abtretungsanzeige** ist der formale Akt, mit dem die Abtretung der Forderu
 
 Drei Modelle: (1) **offene Zession** – Anzeige sofort nach Abtretung, (2) **stille Zession** – keine Anzeige, Kunde inkassiert weiter, (3) **gestufte Zession** – Anzeige erst bei Krisensignalen. Dieser Skill ordnet die Modelle, die Anzeigeformen und die Kommunikationsstrategie.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie entwerfen das Notifikationskonzept für ein neues Factoring.
 - Eine stille Zession soll auf offene umgestellt werden (Kundenkrise).
@@ -146,7 +146,7 @@ ich teile Ihnen mit, dass ich meine sämtlichen gegenwärtigen und künftigen Fo
 # Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
 
 ## Fachkern: Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
-- **Spezialgegenstand:** Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -158,7 +158,7 @@ Wenn die Forderung abgetreten wird, ändert sich für den Debitor nur der Gläub
 
 Praktisch heißt das: Eine angekaufte Forderung kann beim Inkasso vom Debitor mit "Aber der Kunde schuldet mir noch …" konfrontiert werden. Der Factor muss dann gegen sich Forderungen aufrechnen lassen, die er nie erworben hat. Dieser Skill prüft die Reichweite des § 404 und § 406 BGB und zeigt Schutzmechanismen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ein Debitor verweigert Zahlung mit Hinweis auf Gegenforderungen oder Mangelrügen.
 - Im Streitverfahren beruft sich der Debitor auf § 404 BGB (Mangel der Leistung).
@@ -257,7 +257,7 @@ Fragen zum Einstieg:
 # Doppelabtretung Priorität und Gutglaubensprobleme
 
 ## Fachkern: Doppelabtretung Priorität und Gutglaubensprobleme
-- **Spezialgegenstand:** Doppelabtretung Priorität und Gutglaubensprobleme; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Doppelabtretung Priorität und Gutglaubensprobleme. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -269,7 +269,7 @@ Die Forderung gibt es nur einmal. Wird sie zweimal abgetreten, gewinnt regelmä�
 
 Typische Konstellationen: Globalzession an Hausbank + Factoring; verlängerter Eigentumsvorbehalt + Factoring; Sicherungsabtretung an Lieferanten + Factoring. Dieser Skill ordnet, wer wann zuerst war, und wie man als Factor priorisiert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie nehmen ein neues Mandat auf, der Kunde hat einen Bankkredit mit Globalzession.
 - Im Streitfall behaupten Bank und Factor, ihnen stehe dieselbe Forderung zu.

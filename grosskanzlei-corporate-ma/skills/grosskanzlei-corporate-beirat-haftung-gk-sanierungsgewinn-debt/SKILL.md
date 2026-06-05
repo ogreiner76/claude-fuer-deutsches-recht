@@ -122,7 +122,7 @@ Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der 
 
 Dieser Skill bearbeitet die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sanierungstransaktion mit einem oder mehreren Hauptgläubigern, die als neue Gesellschafter einsteigen.
 - StaRUG-Plan oder Insolvenzplan mit DES als zentralem Sanierungselement.
@@ -260,7 +260,7 @@ Dieser Skill organisiert die anwaltliche Begleitung einer absehbaren Unternehmen
 
 Der Skill ist explizit für Großkanzlei-Mandate (gehobener Mittelstand und Konzern) geschrieben. Er versteht sich nicht als Einzeldokument, sondern als **Taktung der Beratung** über vier Quartale hinweg.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Der Mandant signalisiert in einem Strategie-Workshop oder Aufsichtsratstermin, dass sich die Ertragslage strukturell verschlechtert.
 - Die kreditgebenden Banken verlangen Forecasts mit Sanierungsalternative oder fordern einen IDW-S6-Vorbericht an.
@@ -408,7 +408,7 @@ Bond-Restrukturierungen unterscheiden sich strukturell von klassischen Bankschul
 
 Dieser Skill ist das Modul für die Bond-Restrukturierung mit Sanierungsgewinn-Wirkung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sanierung einer Schuldverschreibungs-emittierenden Gesellschaft mit ausstehendem Bond.
 - Restrukturierung einer Finanzholding mit mehreren Bondserien.
@@ -575,7 +575,7 @@ Sanierungen in international tätigen Konzernen unterscheiden sich strukturell v
 
 Dieser Skill bearbeitet diese Spezialthemen für den Großkanzlei-Konzernmandanten.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernrestrukturierung mit Forderungsverzichten der Muttergesellschaft gegenüber Tochtergesellschaften.
 - Holding-Refinanzierung mit Wirkungen auf operativ tätige Tochtergesellschaften.
@@ -713,7 +713,7 @@ PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-
 
 Dieser Skill bearbeitet diese Aspekte für das PE-Team.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - PE-Fonds erwirbt Distressed-Target mit Sanierungsplan.
 - Bestehendes Portfolio-Unternehmen geht in Sanierung; Sponsor will Equity erhalten.
@@ -872,7 +872,7 @@ In Transaktionen mit Sanierungsbezug ist die klassische Tax-Indemnity-Architektu
 
 Dieser Skill liefert die Architektur, mit der diese drei Risikofelder im SPA korrekt geregelt werden.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - SPA für eine Zielgesellschaft, deren Sanierungsmaßnahmen unmittelbar vor, zum oder kurz nach Signing wirksam werden.
 - Carve-out aus einem Konzern mit Forderungsverzicht der Muttergesellschaft.

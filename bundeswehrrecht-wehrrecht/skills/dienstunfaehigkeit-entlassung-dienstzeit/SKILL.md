@@ -31,7 +31,7 @@ Für **Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit 
 # Dienstunfähigkeit – Entlassung und Zurruhesetzung
 
 ## Fachkern: Dienstunfähigkeit – Entlassung und Zurruhesetzung
-- **Spezialgegenstand:** Dienstunfähigkeit – Entlassung und Zurruhesetzung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Dienstunfähigkeit – Entlassung und Zurruhesetzung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit 
 
 Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Folgen je nach Statusgruppe: Soldat auf Zeit – Entlassung; Berufssoldat – Zurruhesetzung mit Ruhegehalt nach BeamtVG/SVG. Maßstab ist die Wehrdienstfähigkeit (Tauglichkeitsgrade T1–T5) und die spezifische Verwendungsfähigkeit. Der Skill ordnet medizinische Begutachtung, Verfahren der Statusentscheidung, Versorgung und Rechtsbehelfe.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Status: Berufssoldat, Soldat auf Zeit, FWDL?
 - Diagnose, Behandlung, Heilungsperspektive?
@@ -133,7 +133,7 @@ Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Fol
 # Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL
 
 ## Fachkern: Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL
-- **Spezialgegenstand:** Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -155,7 +155,7 @@ Verpflichtungszeiten binden an bestimmte Ausbildungen. Verlängerungen und Verk�
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -239,7 +239,7 @@ Vor Ausgabe prüfen:
 # Einsatz, Unfall, Versorgung — Dokumentenplan
 
 ## Fachkern: Einsatz, Unfall, Versorgung — Dokumentenplan
-- **Spezialgegenstand:** Einsatz, Unfall, Versorgung — Dokumentenplan; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Einsatz, Unfall, Versorgung — Dokumentenplan. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -261,7 +261,7 @@ Der Dokumentenplan stellt sicher, dass alle relevanten Unterlagen systematisch e
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

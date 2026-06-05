@@ -77,7 +77,7 @@ Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker lauf
 
 **Alte-Hasen-Faustregel:** Der gute Kleinantrag verteidigt eine einzige scharfe Frage und lässt sichtbar Platz für eine Fortsetzung. Wer drei Themen in 180.000 Euro pressen will, baut sich seinen ersten Ablehnungsgrund selbst.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Dieser Skill ist Erste Wahl, wenn:
 
@@ -271,7 +271,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

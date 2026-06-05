@@ -30,13 +30,13 @@ Für **W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet** zuerst da
 # W Besoldung Und Leistungsbezuege
 
 ## Fachkern: W Besoldung Und Leistungsbezuege
-- **Spezialgegenstand:** W Besoldung Und Leistungsbezuege; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** W Besoldung Und Leistungsbezuege. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Berufungs-/Bleibezulage, Besoldungsrecht Land, Zielvereinbarung, Ruhegehaltfähigkeit.
 
@@ -97,13 +97,13 @@ Erzeuge bevorzugt: Besoldungsmemo. Am Ende immer drei Zeilen: **Frist**, **fehle
 # Zulassung NC Und Kapazitaet
 
 ## Fachkern: Zulassung NC Und Kapazitaet
-- **Spezialgegenstand:** Zulassung NC Und Kapazitaet; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Zulassung NC Und Kapazitaet. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Vergabe, Auswahl, Härtefall, Wartezeit, Kapazitätsberechnung, Eilantrag und Fristen.
 

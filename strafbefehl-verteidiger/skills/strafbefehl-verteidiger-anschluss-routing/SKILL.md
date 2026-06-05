@@ -7,7 +7,7 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 ## Einsatzlage
 
-Nutze diesen Skill, wenn im Bereich **Strafbefehl Verteidiger** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+Dieses Anschluss-Routing für **Strafbefehl Verteidiger** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,5 +42,5 @@ Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und näc
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

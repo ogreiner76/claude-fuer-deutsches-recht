@@ -31,13 +31,13 @@ Für **Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige
 # Computerkunst und generative Modelle
 
 ## Fachkern: Computerkunst und generative Modelle
-- **Spezialgegenstand:** Computerkunst und generative Modelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Computerkunst und generative Modelle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -101,13 +101,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Datenbanken, Datasets und Trainingskorpora
 
 ## Fachkern: Datenbanken, Datasets und Trainingskorpora
-- **Spezialgegenstand:** Datenbanken, Datasets und Trainingskorpora; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Datenbanken, Datasets und Trainingskorpora. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -172,13 +172,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Einstweilige Verfügung im Urheberrecht
 
 ## Fachkern: Einstweilige Verfügung im Urheberrecht
-- **Spezialgegenstand:** Einstweilige Verfügung im Urheberrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Einstweilige Verfügung im Urheberrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 

@@ -14,7 +14,7 @@ description: "Stalking § 238 StGB und GewSchG-Schnittstelle: Praxis-Skill für 
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Stalking § 238 StGB und GewSchG-Schnittstelle** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** wiederholte Nachstellung, digitale Kontakte, Schutzanordnung und Beweisprotokoll
 

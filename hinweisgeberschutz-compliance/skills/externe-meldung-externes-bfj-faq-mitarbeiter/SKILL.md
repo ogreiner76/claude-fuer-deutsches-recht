@@ -31,7 +31,7 @@ Für **Externe Meldung Bfj, Externes Bfj Formular, Faq Für Mitarbeiter, Folgeak
 
 # Externe Meldung BfJ
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zuständigkeit, Risiken, parallele interne Meldung, Kommunikation und Nachweise.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Externes BfJ Formular
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sachverhalt, Belege, Schutzinteresse, Rückfragen, Sprache und parallele interne Akte.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # FAQ Fuer Mitarbeiter
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Was melden, wie melden, Schutz, Vertraulichkeit, falsche Meldungen, Rückmeldung und Beispiele.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Folgeaktionen
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Interne Untersuchung, Abschluss, Abgabe an Behörden, Compliance-Maßnahme, keine Repressalie.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

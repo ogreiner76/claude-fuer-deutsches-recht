@@ -31,7 +31,7 @@ Für **Missbrauchsabwehr, Mobbing Retaliation, Nda Konflikt, Offenlegung An Pres
 
 # Missbrauchsabwehr
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Triage, Plausibilisierung, Duplikate, bösgläubige Meldung, Fairness und Dokumentation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Mobbing Retaliation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Ausschluss, Gerüchte, Schichtplan, Aufgabenentzug, Chatverhalten und Führungskräfte.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # NDA Konflikt
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Klauseln lesen, Unwirksamkeitsrisiko, Geschäftsgeheimnis, erlaubte Meldung und Redline.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Offenlegung An Presse
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Voraussetzungen, Gefahrenlage, Untätigkeit, Belege, Geheimnisse, Persönlichkeitsrechte.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

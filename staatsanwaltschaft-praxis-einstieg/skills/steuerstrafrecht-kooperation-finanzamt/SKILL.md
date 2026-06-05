@@ -14,7 +14,7 @@ description: "Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt:
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** AO, Steuerhinterziehung, Selbstanzeige, Steuerberechnung und Aktenführung
 

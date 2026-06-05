@@ -13,10 +13,10 @@ In diesem Skill wird **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherun
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `drittleistung-267-bgb-und-rueckgriff` | Nutze diesen Skill, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. |
-| `ebv-und-bereicherungsrecht` | Nutze diesen Skill, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix EBV vs. Bereicherungsrecht mit Anspruchsergebnis. Abgrenzung: nicht reines Bereicherungsrecht ohne EBV-Konkurrenz. |
-| `eigentumsnutzung-und-sachenrechtliche-zuweisung` | Nutze diesen Skill, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB. |
-| `eingriff-in-namen-bild-und-persoenlichkeitswert` | Nutze diesen Skill, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB. |
+| `drittleistung-267-bgb-und-rueckgriff` | Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. |
+| `ebv-und-bereicherungsrecht` | Dieses Fachmodul greift, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix EBV vs. Bereicherungsrecht mit Anspruchsergebnis. Abgrenzung: nicht reines Bereicherungsrecht ohne EBV-Konkurrenz. |
+| `eigentumsnutzung-und-sachenrechtliche-zuweisung` | Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB. |
+| `eingriff-in-namen-bild-und-persoenlichkeitswert` | Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB. |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentu
 
 ## 1. `drittleistung-267-bgb-und-rueckgriff`
 
-**Fokus:** Nutze diesen Skill, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis.
+**Fokus:** Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis.
 
 # Drittleistung nach § 267 BGB und Rückgriff
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -123,13 +123,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `ebv-und-bereicherungsrecht`
 
-**Fokus:** Nutze diesen Skill, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix EBV vs. Bereicherungsrecht mit Anspruchsergebnis. Abgrenzung: nicht reines Bereicherungsrecht ohne EBV-Konkurrenz.
+**Fokus:** Dieses Fachmodul greift, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix EBV vs. Bereicherungsrecht mit Anspruchsergebnis. Abgrenzung: nicht reines Bereicherungsrecht ohne EBV-Konkurrenz.
 
 # EBV und Bereicherungsrecht
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -224,13 +224,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `eigentumsnutzung-und-sachenrechtliche-zuweisung`
 
-**Fokus:** Nutze diesen Skill, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB.
 
 # Eigentumsnutzung und sachenrechtliche Zuweisung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -331,13 +331,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `eingriff-in-namen-bild-und-persoenlichkeitswert`
 
-**Fokus:** Nutze diesen Skill, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB.
 
 # Eingriff in Name, Bild und Persönlichkeitswert
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -302,7 +302,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 # Erstgespraech und Mandatsannahme im Allgemeines und Wirtschaftsstrafrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Allgemeines und Wirtschaftsstrafrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; oft mit Vorladung, Strafbefehl, Durchsuchungsbeschluss, Anklageschrift, U-Haft-Anordnung, Anhoerung als Zeuge oder Anklageschrift mit Nebenklage-Option.

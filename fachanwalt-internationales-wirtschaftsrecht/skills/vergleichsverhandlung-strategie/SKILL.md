@@ -28,7 +28,7 @@ Für **Vergleichsverhandlung Strategie** zuerst das tragende Prüffeld bestimmen
 
 # Vergleichsverhandlung und Einigung im Internationales Wirtschafts- und Schiedsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Internationales Wirtschafts- und Schiedsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Cross-Border-Settlement, Mediation Schiedsverfahren.

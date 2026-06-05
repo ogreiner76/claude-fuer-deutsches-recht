@@ -38,7 +38,7 @@ Für **Insolvency Risk Sponsor / Competition Clean Team / Data Cyber AI DD / Ip 
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill schützt Sponsor, Management und Portfolio vor falscher Krisenkommunikation.
 
@@ -79,7 +79,7 @@ InsO §§ 17-19, 39, 135, 129 ff., GmbHG/AktG, StaRUG.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Buy-and-Build und Wettbewerber-Akquisition.
 
@@ -120,7 +120,7 @@ GWB, Art. 101/102 AEUV, Fusionskontrolle, Clean-Team-Protokoll, NDA.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill übersetzt Tech-DD in SPA-Garantien, Indemnities und PMI.
 
@@ -161,7 +161,7 @@ DSGVO, NIS2/BSIG, AI Act, IT-Verträge, Open-Source-Lizenzen.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf scalable asset value und Exit-Fähigkeit.
 

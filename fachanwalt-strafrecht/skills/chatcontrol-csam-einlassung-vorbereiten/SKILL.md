@@ -339,7 +339,7 @@ Mit kollegialen Gruessen
 
 ## Operativer Sitzungsplan
 
-Nutze diesen Skill nicht nur für die große Strategie, sondern auch für die Tagesarbeit vor und während der Hauptverhandlung.
+Dieses Fachmodul nicht nur für die große Strategie, sondern auch für die Tagesarbeit vor und während der Hauptverhandlung.
 
 1. **Tagesmappe bauen:** Ladung, Besetzung, Sitzungsbeginn, Anreise, Mandantenbriefing, Zeugenreihenfolge, Beweisthemen, Aktenstellen, Notfallnummern.
 2. **Einlassungsfenster markieren:** Schweigen, Teileinlassung, schriftliche Erklärung oder spontane Reaktion nur nach Akten- und Beweislage.

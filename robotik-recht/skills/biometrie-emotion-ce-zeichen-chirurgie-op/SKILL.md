@@ -43,7 +43,7 @@ Für **Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abma
 
 Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit der DSGVO. Art. 5 Abs. 1 KI-VO untersagt seit 02.02.2025 u. a. Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen (Art. 5 Abs. 1 lit. f), Social Scoring (lit. c) sowie – mit engen Ausnahmen – biometrische Echtzeit-Fernidentifizierung im öffentlich zugänglichen Raum zu Strafverfolgungszwecken (lit. h). Biometrische Daten sind besondere Kategorie (Art. 9 DSGVO). Dieser Skill prüft, welches Verfahren im konkreten Roboter zulässig ist und welche Transparenz-/Konformitätspflichten greifen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Betreiber, Datenschutzbehörde, Betriebsrat, betroffene Person.
 2. **Funktion:** reine Personenanwesenheit (Anonyme Detection), Personenwiedererkennung (Tracking ohne Identität), Identifikation (1:N Match), Verifikation (1:1 Match), Emotionserkennung, Sentiment-Analyse.
@@ -141,7 +141,7 @@ Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit 
 
 Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Werbung mit nicht erlangten Zertifikaten oder vorgetäuschten Prüfsiegeln sind klassische Felder für Abmahnungen nach UWG, behördliche Verfügungen (Marktüberwachung) und – seit GPSR VO (EU) 2023/988 – auch direkte Marktverbote. In der Robotik betreffen mehrere Rechtsakte gleichzeitig die CE: MaschinenVO, KI-VO, CRA, Funkanlagengesetz (FuAG), ggf. MDR. Dieser Skill prüft eine CE-Akte und gibt sowohl Verteidigungs- als auch Angriffsschriftsätze.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Importeur, Mitbewerber, Marktüberwachung, Verbraucherschutzverband, Abmahner.
 2. **Anlass:** Abmahnung erhalten, Konkurrent ohne CE/falsches CE, Marktüberwachungsanfrage, Plattform-Notiz, Online-Shop-Compliance.
@@ -244,7 +244,7 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 
 OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (MDR Klasse IIb/III). Ihr rechtlicher Rahmen ist die MDR VO (EU) 2017/745 und das nationale MPDG, ergänzt um den Behandlungsvertrag (§§ 630a ff. BGB), das ärztliche Berufsrecht, die KI-VO (bei autonomen oder unterstützenden KI-Funktionen), die DSGVO (Patientendaten) und das ProdHaftG/VO (EU) 2024/2853. Dieser Skill ordnet die Pflichten von Hersteller, Krankenhaus und Operateur sowie typische Risikofelder: Aufklärung über Roboter-Beteiligung, Schulungsstand des Operateurs, Wartungspflichten, Vigilanz-Meldungen, Behandlungsfehlernähe.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Krankenhausträger, Chefarzt/Operateur, MPDG-Beauftragter, Patient/Angehörige, Versicherer, BfArM, Notified Body.
 2. **Robotertyp:** telemanipuliert (z. B. da-Vinci-Architektur), teilautonom, vollautonom für definierte Schritte; mit oder ohne KI-Unterstützung.
@@ -343,7 +343,7 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 
 Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwiegend ab 12.09.2025 (Art. 50). Vernetzte Roboter (industriell, im Service, im Haushalt) sind "connected products" i. S. d. Art. 2 Nr. 5 Data Act. Das löst Pflichten aus: Nutzerzugang zu den vom Produkt erzeugten Daten (Art. 4), Bereitstellung an Dritte auf Verlangen des Nutzers (Art. 5), B2G-Datenzugang bei besonderen Notlagen (Art. 14 ff.), Vertragsregeln bei B2B (Art. 13 unlautere Klauseln), Cloud-Switching (Art. 23 ff.) sowie Interoperabilität (Art. 28 ff.). Dieser Skill ordnet die Pflichten und gibt Vertragsbausteine.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller des vernetzten Roboters, Datenhalter, Nutzer (B2B oder B2C), Drittanbieter, Cloud-Anbieter, öffentliche Stelle.
 2. **Rolle der Daten:** Predictive Maintenance, Performance-Optimierung, Trainingsdaten für KI, Servicegeschäft.

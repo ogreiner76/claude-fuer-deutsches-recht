@@ -31,7 +31,7 @@ Für **Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Registe
 
 # Ransomware Verhandlungsverbot
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sanktionslisten, Geldwäsche, Versicherer, Kommunikation, Wiederherstellung und Board-Protokoll.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Remote Access VPN Zero Trust
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Admin-Zugänge, MFA, Conditional Access, Geofencing, Drittanbieterwartung und Notfallzugang.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Risk Register Cyber
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Risiko, Asset, Bedrohung, Maßnahme, Eigentümer, Rest-Risiko, Budget und Nachweis verknüpfen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Screenshots Datenabfluss
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Kundendaten, Zugangsdaten, Gesundheitsdaten, Quellcode, Logdaten und Retention sichtbar machen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

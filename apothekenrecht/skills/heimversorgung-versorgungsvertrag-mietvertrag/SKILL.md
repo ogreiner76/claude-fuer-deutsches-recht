@@ -31,7 +31,7 @@ Für **Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurre
 # Heimversorgung Versorgungsvertrag
 
 ## Fachkern: Heimversorgung Versorgungsvertrag
-- **Spezialgegenstand:** Heimversorgung Versorgungsvertrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Heimversorgung Versorgungsvertrag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurre
 
 Versorgung von Bewohnern stationärer Pflegeeinrichtungen (Pflegeheime, betreute Wohnformen für Behinderte) durch eine "versorgende Apotheke". Versorgungsvertrag nach § 12a ApoG i.V.m. ApBetrO (Heimversorgungsrecht). Apotheke übernimmt Medikationsmanagement, regelmässige Lieferung, Verblisterung (manuell oder maschinell), Anwesenheit für Beratung. Zentrale Streitpunkte: Antikorruption, Patientenwahlfreiheit, Verblisterungsentgelt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Apotheke schliesst neuen Versorgungsvertrag mit Heim.
 - Aufsicht beanstandet Vertragskonditionen (Wahlfreiheit, Geldfluss).
@@ -144,14 +144,14 @@ Eingaben:
 # Mietvertrag Apothekenstandort Konkurrenzschutz
 
 ## Fachkern: Mietvertrag Apothekenstandort Konkurrenzschutz
-- **Spezialgegenstand:** Mietvertrag Apothekenstandort Konkurrenzschutz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mietvertrag Apothekenstandort Konkurrenzschutz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Mietvertrag Apothekenstandort Konkurrenzschutz** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 
@@ -189,7 +189,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Substitution Rabattvertrag Aut-idem
 
 ## Fachkern: Substitution Rabattvertrag Aut-idem
-- **Spezialgegenstand:** Substitution Rabattvertrag Aut-idem; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Substitution Rabattvertrag Aut-idem. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -199,7 +199,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 Beim Abgabevorgang an GKV-Versicherte ist die Apotheke verpflichtet, ein wirkstoffgleiches Arzneimittel ("aut idem") des Rabattpartners der Krankenkasse abzugeben, sofern der Arzt das nicht ausgeschlossen hat (Aut-idem-Kreuz). Bei Abweichungen drohen Retax bis zur Vollabsetzung ("Null-Retax"). Pharmazeutische Bedenken erlauben eine Ausnahme; sie müssen jedoch im Einzelfall, schriftlich und nachvollziehbar dokumentiert werden.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Substitution kollidiert mit Patientenwunsch oder Verträglichkeit.
 - Krankenkasse retaxiert wegen abweichender Abgabe.

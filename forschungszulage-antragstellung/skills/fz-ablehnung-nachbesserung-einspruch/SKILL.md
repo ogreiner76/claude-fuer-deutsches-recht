@@ -9,7 +9,7 @@ description: "Ablehnung oder Nachforderung bei Forschungszulage strukturiert bea
 
 Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable Schwächen in der Projektbeschreibung oder der Belegfähigkeit. Dieser Skill trennt sauber die beiden Ebenen (BSFZ vs. Finanzamt), führt durch den Reparaturprozess, sichert Fristen und liefert Mustertexte.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei BSFZ-Rückfrage oder ablehnender Bescheinigung.
 - Bei Finanzamt-Bescheid mit Kürzung oder Ablehnung.

@@ -24,7 +24,7 @@ Dieser Skill organisiert die anwaltliche Begleitung einer absehbaren Unternehmen
 
 Der Skill ist explizit für Großkanzlei-Mandate (gehobener Mittelstand und Konzern) geschrieben. Er versteht sich nicht als Einzeldokument, sondern als **Taktung der Beratung** über vier Quartale hinweg.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Der Mandant signalisiert in einem Strategie-Workshop oder Aufsichtsratstermin, dass sich die Ertragslage strukturell verschlechtert.
 - Die kreditgebenden Banken verlangen Forecasts mit Sanierungsalternative oder fordern einen IDW-S6-Vorbericht an.

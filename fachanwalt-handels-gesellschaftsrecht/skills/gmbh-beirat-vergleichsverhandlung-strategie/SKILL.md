@@ -60,7 +60,7 @@ Satzungs-/Geschäftsordnungsbaustein, Zustimmungskatalog und Konfliktmatrix mit 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Handels- und Gesellschaftsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Gesellschafterstreit, Anteilsabfindung, Geschaeftsfuehrer-Aufhebung.

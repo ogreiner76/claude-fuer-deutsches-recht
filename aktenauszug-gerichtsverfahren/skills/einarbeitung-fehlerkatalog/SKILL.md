@@ -7,7 +7,7 @@ description: "Einarbeitung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständ
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Aktenauszug Gerichtsverfahren** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Aktenauszug Gerichtsverfahren** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

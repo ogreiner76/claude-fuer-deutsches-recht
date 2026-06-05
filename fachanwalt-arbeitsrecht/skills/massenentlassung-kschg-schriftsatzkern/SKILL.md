@@ -70,7 +70,7 @@ KSchG § 17; MERL; EuGH/BAG live prüfen. Rechtsprechung wird nur mit Gericht, D
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Individual- und kollektives Arbeitsrecht erstellt werden, typischerweise: Kuendigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
@@ -418,6 +418,6 @@ Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführun
 - DSGVO-/BDSG-Fragen: aktuellen Normstand auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de) und DSK-Hinweise live prüfen.
 - Keine modellwissensbasierten Beweislastregel-Aussagen ohne Normgrundlage.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Beweismittelerhebung; Entscheidung über Beweisangebote bleibt dem Anwalt.
 - Keine abschließende DSGVO-Compliance-Prüfung für komplexe Überwachungssysteme.

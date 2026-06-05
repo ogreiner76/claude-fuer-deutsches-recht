@@ -38,7 +38,7 @@ Für **Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out 
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf lender liability, Sicherheiten, Waiver, NPL und Distressed M&A.
 
@@ -79,7 +79,7 @@ KWG/KAGB, KrZwMG, BGB, InsO/StaRUG, Sicherheiten.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Besonders wichtig für Sponsor Loans und Portfolio-Liquidität.
 
@@ -120,7 +120,7 @@ InsO §§ 39, 135, 129 ff., GmbHG, BGB, Steuer.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill übersetzt Carve-out-Plan in juristische Deliverables.
 
@@ -161,7 +161,7 @@ TSA, Asset Transfer, Datenschutz, IP, Arbeitsrecht, Regulatory.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf BaFin-Prozess, Fit & Proper und Closing-Vollzugsverbot.
 

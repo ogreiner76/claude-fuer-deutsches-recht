@@ -9,7 +9,7 @@ description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung d
 
 Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahmen des Auftragsverarbeiters gemaess Art. 32 DSGVO und Art. 28 Abs. 3 lit. c DSGVO. Purpose (EN): German-language TOM annex to a DPA under Article 32 GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - TOM-Anlage zum AVV ist zu erstellen, zu pruefen oder zu aktualisieren.
 - Aufsichtsbehoerde fordert Nachweis der TOM.

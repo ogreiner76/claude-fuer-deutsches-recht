@@ -11,7 +11,7 @@ Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker lauf
 
 **Alte-Hasen-Faustregel:** Der gute Kleinantrag verteidigt eine einzige scharfe Frage und lässt sichtbar Platz für eine Fortsetzung. Wer drei Themen in 180.000 Euro pressen will, baut sich seinen ersten Ablehnungsgrund selbst.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Dieser Skill ist Erste Wahl, wenn:
 

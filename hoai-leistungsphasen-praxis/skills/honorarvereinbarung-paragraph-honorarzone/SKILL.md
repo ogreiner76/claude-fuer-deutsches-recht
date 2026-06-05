@@ -64,7 +64,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Honorarvereinbarung, Textform, Ver
 
 ## Einsatz
 
-Nutze diesen Skill, wenn die Honorarzone streitig ist oder ein Projekt fälschlich als "durchschnittlich" durchgewinkt wird. Besonders wichtig bei Schulen, Kitas, Kliniken, Laboren, Denkmälern, Innenräumen und hochinstallierten Gebäuden.
+Dieses Fachmodul greift, wenn die Honorarzone streitig ist oder ein Projekt fälschlich als "durchschnittlich" durchgewinkt wird. Besonders wichtig bei Schulen, Kitas, Kliniken, Laboren, Denkmälern, Innenräumen und hochinstallierten Gebäuden.
 
 ## Normanker
 

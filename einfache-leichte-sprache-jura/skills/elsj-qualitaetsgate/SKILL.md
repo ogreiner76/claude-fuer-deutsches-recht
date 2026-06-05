@@ -5,7 +5,7 @@ description: "Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprach
 
 # Qualitätsgate
 
-Nutze diesen Skill vor jeder Herausgabe.
+Dieses Fachmodul vor jeder Herausgabe.
 
 
 ## Triage zu Beginn

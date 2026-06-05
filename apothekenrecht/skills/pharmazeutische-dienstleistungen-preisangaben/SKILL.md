@@ -31,7 +31,7 @@ Für **Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apot
 # Pharmazeutische Dienstleistungen Vergütung
 
 ## Fachkern: Pharmazeutische Dienstleistungen Vergütung
-- **Spezialgegenstand:** Pharmazeutische Dienstleistungen Vergütung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pharmazeutische Dienstleistungen Vergütung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apot
 
 Seit der ApothekenstärkungsG-Reform 2020 und nachfolgenden Vereinbarungen können Apotheken zusätzliche pharmazeutische Dienstleistungen (pDL) erbringen und gegenüber GKV abrechnen. Beispiele: erweiterte Medikationsberatung, Blutdruckmessung im Rahmen der Polymedikationsanalyse, Inhalator-Training, Beratung von Patienten mit Krebsmedikation. Die Vergütung erfolgt aus einem festen Topf (Apothekenhonorar) und ist an strikte Voraussetzungen geknüpft.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Apotheke will pDL anbieten und abrechnen.
 - Krankenkasse weist Abrechnung zurück — formale Mängel.
@@ -135,14 +135,14 @@ Eingaben:
 # Preisangaben E-Commerce Apotheke
 
 ## Fachkern: Preisangaben E-Commerce Apotheke
-- **Spezialgegenstand:** Preisangaben E-Commerce Apotheke; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Preisangaben E-Commerce Apotheke. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Preisangaben E-Commerce Apotheke** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 
@@ -180,7 +180,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Preisbindung Arzneimittel AMPreisV
 
 ## Fachkern: Preisbindung Arzneimittel AMPreisV
-- **Spezialgegenstand:** Preisbindung Arzneimittel AMPreisV; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Preisbindung Arzneimittel AMPreisV. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -190,7 +190,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 Die Arzneimittelpreisverordnung (AMPreisV) bindet die Endpreise verschreibungspflichtiger Arzneimittel auf einheitliche Höhe — unabhängig davon, in welcher inländischen Apotheke das Rx eingelöst wird. Die Preisbindung gilt für GKV-Patienten und PKV gleichermassen. Diskutiert wird die Geltung gegenüber EU-Versandapotheken (EuGH 2016; BGH-Folge-Rspr.). Boni, Rabatte und Gutscheine sind nur in engen Grenzen zulässig (siehe Skill `skonti-boni-rabatte-zuweisungsverbot`).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Bonus- oder Skonto-Programm geplant, Vereinbarkeit mit AMPreisV zu prüfen.
 - Wettbewerber gewährt Rabatte; Anspruch auf Unterlassung zu prüfen.

@@ -9,7 +9,7 @@ description: "Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbe
 
 Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen der Verarbeitungstaetigkeit nach Art. 35 Abs. 11 DSGVO. Ergebnis ist ein Revisionsplan mit Trigger-Liste, Aenderungsanalyse, Risikoreassessment und Versionshistorie. Ziel ist, die DSFA als lebendes Dokument zu fuehren und nicht als Einmalvorgang.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Aenderung der Zwecke einer Verarbeitung
 - Bei neuem Auftragsverarbeiter oder Sub-Auftragsverarbeiter

@@ -36,7 +36,7 @@ Für **Verl Redaktionsmemo Jahresplanung, Verl Redaktionssitzung Vorbereiten, Ve
 
 Einmal jaehrlich plant die Schriftleitung einer juristischen Fachzeitschrift das kommende Jahr: Welche Schwerpunktthemen werden gesetzt? Welche Aufmacher sind quartalsweise geplant? Welche Autorinnen werden adressiert? Welche Reserve fuer ueberraschende Rspr.? Das Redaktionsmemo Jahresplanung ist das Dokument, das diese Architektur sichtbar macht.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn jaehrlich (typisch September/Oktober fuer das Folgejahr) oder bei Strategiewechseln. Klaeren Sie:
 
@@ -143,7 +143,7 @@ Festlegung Schriftleitung: 15.10.2026
 
 Eine Redaktionssitzung in einem juristischen Fachverlag ist nicht "Brainstorming", sondern eine Reihe von Entscheidungen: welche Beitraege gehen ins naechste Heft, welche werden zurueckgestellt, welche werden abgelehnt, welche neuen Aufmacher werden vergeben. Sie brauchen eine Sitzungsvorbereitung, die Entscheidungen ermoeglicht statt verlaengert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn eine Sitzung in den naechsten 1-7 Tagen ansteht. Klaeren Sie:
 
@@ -251,7 +251,7 @@ Frist Druckfreigabe: 29.07.2026
 
 Ein juristischer Aufsatz steht oder faellt mit seinem Argumentationsgeruest. Die Relationslinien-Pruefung zeigt, ob die These mit den Argumenten verbunden ist, ob jedes Argument einen Beleg hat, ob Schluesse zwingend folgen oder Sprunglinien enthalten, ob Zirkelschluesse drinstecken oder ob eine Gegenposition unbearbeitet bleibt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen Lektoratsfreigabe. Klaeren Sie:
 
@@ -349,7 +349,7 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 
 Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tippfehler im Az., falsche Zuordnung, irrige Wertangabe, missverstaendliche Formulierung. Im Verhaeltnis zum Betroffenen gibt es drei Stufen: (1) freiwillige redaktionelle Korrektur (Erratum), (2) Berichtigungsanspruch nach allgemeinem Zivilrecht, (3) Gegendarstellung nach Landesmedienrecht / MStV § 20. Der Skill fuehrt durch die Wahl der richtigen Form und liefert Mustertexte.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Art der Korrektur (Tatsachenfehler, Wertungsfehler, Verwechslung, Verstoss gegen Persoenlichkeitsrecht)?
 2. Quelle der Beanstandung (Autor, Leser, Betroffener, Justiziariat)?
@@ -502,7 +502,7 @@ Die Erstfassung ist auf Anforderung beim Verlag erhaeltlich.
 
 Eine Autorin schickt 80 Seiten Notizen, fotografierte Buchseiten, ausgedruckte Urteile mit Anstreichungen, Zwischenueberschriften ohne Struktur. Sie soll daraus ein Essay machen. Sie - als Redaktion - muessen entscheiden, ob das ein Essay-Auftrag ist, eine Vorhauerarbeit fuer die Autorin oder eine echte Co-Autorenschaft, die im Druck transparent zu machen waere.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle fuer einen Verlagstext dienen sollen. Klaeren Sie zu Beginn:
 

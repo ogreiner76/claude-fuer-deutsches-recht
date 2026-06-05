@@ -31,7 +31,7 @@ Für **Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wi
 
 # Backup Ransomware Resilience
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Immutable Backups, Offline-Kopien, Restore-Tests, AD-Recovery, Prioritäten und Nachweis.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Banking Dual Control
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 EBICS, Adminrollen, Limits, Token, Vertretung, Urlaub und Notfall.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Besonders Wichtige Wichtige Einrichtung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Einordnung, Nachweisdichte, Registrierungs- und Meldewege sowie Bericht an die Leitung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Betriebsrat Mitbestimmung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 MDM, EDR, SIEM, Logging, Awareness, Standorttracking und Leistungs-/Verhaltenskontrolle.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

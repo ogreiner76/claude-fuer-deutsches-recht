@@ -24,7 +24,7 @@ Sanierungen in international tätigen Konzernen unterscheiden sich strukturell v
 
 Dieser Skill bearbeitet diese Spezialthemen für den Großkanzlei-Konzernmandanten.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Konzernrestrukturierung mit Forderungsverzichten der Muttergesellschaft gegenüber Tochtergesellschaften.
 - Holding-Refinanzierung mit Wirkungen auf operativ tätige Tochtergesellschaften.

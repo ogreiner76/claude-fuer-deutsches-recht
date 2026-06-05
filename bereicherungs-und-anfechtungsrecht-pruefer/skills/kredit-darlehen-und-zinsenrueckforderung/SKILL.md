@@ -7,7 +7,7 @@ description: "Bei darlehenszahlungen, Zinsen oder Entgelte positionengenau gepr�
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

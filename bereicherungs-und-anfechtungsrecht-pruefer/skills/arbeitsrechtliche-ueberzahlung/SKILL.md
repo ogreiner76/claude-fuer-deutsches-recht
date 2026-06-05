@@ -7,7 +7,7 @@ description: "Bei arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Ent
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

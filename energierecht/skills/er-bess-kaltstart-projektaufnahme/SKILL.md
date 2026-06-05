@@ -5,7 +5,7 @@ description: "Batteriespeicherprojekt aufnehmen: Projektgröße, Standort, Netze
 
 # BESS-Kaltstart: Projekt, Rolle und Genehmigungsweg
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill verhindert, dass Speicherrecht, Baurecht, Netzanschluss und Sicherheitsrecht nebeneinander herlaufen.
 

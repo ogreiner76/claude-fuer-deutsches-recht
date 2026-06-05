@@ -7,7 +7,7 @@ description: "Bei die Tatsachen für einen Bereicherungsfall erst strukturiert e
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

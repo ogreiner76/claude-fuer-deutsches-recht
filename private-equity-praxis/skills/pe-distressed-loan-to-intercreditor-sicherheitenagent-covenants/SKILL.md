@@ -38,7 +38,7 @@ Für **Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defa
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill trennt legitime Investmentstrategie von Anfechtungs-, Insider- und Haftungsrisiken.
 
@@ -79,7 +79,7 @@ InsO, StaRUG, BGB Abtretung, Sicherheiten, Kartell/FDI, MAR bei börsennahen Tar
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf deutsches Sicherheitenpaket im internationalen Kredit.
 
@@ -120,7 +120,7 @@ BGB/Sachenrecht, GmbHG § 30, AktG Kapitalerhaltung, Insolvenzrecht, LMA-Upload.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill macht aus Covenant-Bruch einen kontrollierten Verhandlungs- und Dokumentationspfad.
 
@@ -161,7 +161,7 @@ Kreditvertrag, BGB, InsO/StaRUG Frühwarnung, Geschäftsleiterpflichten.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Durchsetzbarkeit, Rang, Anfechtung und praktische Dokumente.
 

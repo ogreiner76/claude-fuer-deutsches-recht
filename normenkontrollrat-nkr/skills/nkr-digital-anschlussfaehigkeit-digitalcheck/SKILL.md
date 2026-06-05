@@ -33,7 +33,7 @@ Für **Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezuga
 
 Seit 2022 gilt der **Digitalcheck**: jedes Bundesregelungsvorhaben muss vor Kabinettsbefassung auf digitale Tauglichkeit geprueft werden. Der NKR begleitet diesen Check und kommentiert die Ergebnisse in der Stellungnahme.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben sieht digitale Verfahren vor
 - Vorhaben sieht analoge Verfahren vor (Pruefung, ob digital moeglich)
@@ -174,7 +174,7 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 
 Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Laender, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemaess § 9 NKRG) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral fuer die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben adressiert eine OZG-Leistung
 - Vorhaben sieht Antraege / Mitteilungen vor

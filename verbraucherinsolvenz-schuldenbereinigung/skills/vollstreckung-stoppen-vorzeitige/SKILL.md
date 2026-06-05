@@ -31,7 +31,7 @@ Für **Vollstreckung Stoppen, Vorzeitige Restschuldbefreiung, Wohnung Miete Ener
 # Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
 
 ## Fachkern: Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
-- **Spezialgegenstand:** Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ ZPO §§ 802c ff., 829 ff.; InsO §§ 88, 89. Entscheidend ist immer der aktuell
 # Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
 
 ## Fachkern: Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
-- **Spezialgegenstand:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO § 300. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlich
 # Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
 
 ## Fachkern: Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
-- **Spezialgegenstand:** Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

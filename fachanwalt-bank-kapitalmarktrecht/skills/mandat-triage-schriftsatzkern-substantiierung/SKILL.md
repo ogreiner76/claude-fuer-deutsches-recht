@@ -229,7 +229,7 @@ Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgeric
 
 # Schriftsatzkern und Substantiierung im Bank-, Kapitalmarkt- und Wertpapierrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Bank-, Kapitalmarkt- und Wertpapierrecht erstellt werden, typischerweise: Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

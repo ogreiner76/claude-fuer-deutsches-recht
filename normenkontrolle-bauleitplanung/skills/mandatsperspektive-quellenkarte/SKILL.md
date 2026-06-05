@@ -7,7 +7,7 @@ description: "Mandatsperspektive Quellenkarte: Quellenprüfung; Normenstand, Rec
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Normenkontrolle Bauleitplanung** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Normenkontrolle Bauleitplanung** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

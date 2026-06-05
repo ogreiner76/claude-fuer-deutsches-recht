@@ -31,13 +31,13 @@ Für **Open Source Software Lizenzen, Persoenlichkeitsrecht Stimme Deepfake, Pla
 # Open Source und Softwarelizenzen
 
 ## Fachkern: Open Source und Softwarelizenzen
-- **Spezialgegenstand:** Open Source und Softwarelizenzen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Open Source und Softwarelizenzen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -101,13 +101,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Stimme, Deepfake und Persönlichkeit
 
 ## Fachkern: Stimme, Deepfake und Persönlichkeit
-- **Spezialgegenstand:** Stimme, Deepfake und Persönlichkeit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Stimme, Deepfake und Persönlichkeit. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -173,13 +173,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Plagiatsanalyse Musik und Text
 
 ## Fachkern: Plagiatsanalyse Musik und Text
-- **Spezialgegenstand:** Plagiatsanalyse Musik und Text; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Plagiatsanalyse Musik und Text. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 

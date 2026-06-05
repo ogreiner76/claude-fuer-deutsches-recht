@@ -31,7 +31,7 @@ Für **Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Too
 
 # Massnahmenplan 100 Tage
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Quick wins, Pflichtlücken, Budget, Verantwortliche, Risiken und Board-Termine priorisieren.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Maturity Assessment
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Level, Nachweise, Lücken, Zielbild, Maßnahmen und realistische Zeitschiene ohne Theater.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Messenger Collaboration Tool Check
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Private Geräte, Screenshots, Gruppen, Löschung, Mandats-/Geschäftsgeheimnisse, Incident-Kommunikation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # MFA Passkeys
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Phishingresistenz, Adminkonten, Break-glass, Recovery, Hardwarekeys und Rollout-Kommunikation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

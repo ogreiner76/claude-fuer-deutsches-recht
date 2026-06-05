@@ -31,7 +31,7 @@ Für **Treuhaender Kommunikation, Unterhaltsschulden, Unternehmerische Restforde
 # Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.
 
 ## Fachkern: Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.
-- **Spezialgegenstand:** Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO §§ 80, 292, 295. Entscheidend ist immer der aktuelle Normstand der InsO, 
 # Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.
 
 ## Fachkern: Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.
-- **Spezialgegenstand:** Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz. Entscheidend ist immer d
 # Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.
 
 ## Fachkern: Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.
-- **Spezialgegenstand:** Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

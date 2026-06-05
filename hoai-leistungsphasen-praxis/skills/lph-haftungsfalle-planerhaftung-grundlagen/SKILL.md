@@ -131,7 +131,7 @@ Dieser Querschnitts-Skill bearbeitet **ordnet Honorarstreit, Mängelschaden, Bau
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Honorar, Abschlag, Schlussrechnung oder Nachtrag davon abhängen, welche Kosten in die HOAI-Berechnung eingehen. Nicht pauschal "Baukosten" übernehmen: anrechenbare Kosten sind eine eigene Prüfgröße.
+Dieses Fachmodul greift, wenn Honorar, Abschlag, Schlussrechnung oder Nachtrag davon abhängen, welche Kosten in die HOAI-Berechnung eingehen. Nicht pauschal "Baukosten" übernehmen: anrechenbare Kosten sind eine eigene Prüfgröße.
 
 ## Normanker
 

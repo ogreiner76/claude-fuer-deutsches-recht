@@ -44,7 +44,7 @@ Kerneckdaten Stand 2026 (vom Mandanten/Antragsteller mit aktueller Gesetzesfassu
 
 Konkrete Werte und Fristen aus `references/forschungszulage-quellen-und-zahlen.md` und Live-Prüfung Gesetz/BSFZ/BMF.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 Sie greifen zu `forschungszulage-antragstellung-allgemein`, wenn:
 

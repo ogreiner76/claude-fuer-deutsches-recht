@@ -869,7 +869,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 # Rückbau, Recycling und Batterierecht
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf End-of-Life schon im Projektvertrag.
 

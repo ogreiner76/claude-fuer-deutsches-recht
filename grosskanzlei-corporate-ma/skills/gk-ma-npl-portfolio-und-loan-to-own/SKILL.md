@@ -18,7 +18,7 @@ description: "Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, e
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf praktische DD, Transfer, Servicing, Sicherheiten und Insolvenz-/StaRUG-Hebel.
 

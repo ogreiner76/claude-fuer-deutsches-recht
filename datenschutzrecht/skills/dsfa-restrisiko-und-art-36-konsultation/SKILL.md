@@ -9,7 +9,7 @@ description: "Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36
 
 Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zustaendigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Wenn die DSFA-Risikoanalyse nach Massnahmen ein hohes Restrisiko ergibt
 - Wenn die Aufsichtsbehoerde von sich aus eine Konsultation anregt

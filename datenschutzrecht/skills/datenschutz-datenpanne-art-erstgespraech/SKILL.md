@@ -36,7 +36,7 @@ Für **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstg
 
 Dieser Skill fuehrt durch den Akutfall einer Datenpanne. Ziel ist die fristwahrende und zugleich bussgeldminimierende Meldung an die Aufsichtsbehoerde nach Art. 33 DSGVO und — falls erforderlich — die Benachrichtigung der Betroffenen nach Art. 34 DSGVO, ohne durch vorschnelle Selbstbelastung das Bussgeldrisiko nach Art. 83 DSGVO zu erhoehen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill ab dem Moment, in dem der Mandant Kenntnis von einem Vorfall erlangt: Ransomware, Phishing-Mail mit Anhangsverlust, falsch versendete Massen-E-Mail, gestohlener Laptop ohne Verschluesselung, fehlerhaft konfiguriertes Cloud-Bucket, unbefugter Mitarbeiterzugriff, Diebstahl USB, Druckdienstleister-Fehlversand.
 
@@ -176,7 +176,7 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 
 Dieser Skill fuehrt das erste Gespraech mit dem Mandanten in einem Datenschutzfall. Ziel ist nicht eine sofortige rechtliche Bewertung, sondern die saubere Einordnung des Falls in eine **Mandantenmatrix**, aus der hervorgeht: Welche Rolle hat der Mandant? Welche Frist laeuft? Welcher Folge-Skill ist als naechstes zu starten? Der Skill ersetzt keine Subsumtion, sondern ist die Weiche.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Fachmodul greift. Typische Anlaesse:
 
@@ -341,7 +341,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 Dieser Skill loest den haeufigen Konflikt zwischen Loeschpflicht nach Art. 17 DSGVO und gesetzlichen Aufbewahrungspflichten nach Handels-, Steuer- und Sozialrecht so auf, dass weder eine Loeschpflichtverletzung noch eine Aufbewahrungspflichtverletzung entsteht. Ergebnis ist regelmaessig eine Sperrung (Einschraenkung Art. 18 DSGVO) bis zum Ablauf der Aufbewahrungspflicht.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Loeschantrag eingeht, (b) Daten ohne Antrag rechtmaessig zu loeschen waeren oder (c) ein Loeschkonzept erstellt werden soll.
 
@@ -471,7 +471,7 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 
 Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zustaendigen Aufsichtsbehoerde — also BfDI fuer Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht fuer den oeffentlichen und privaten Bereich der Laender — so, dass der Mandant in Pruefungs-, Anhoerungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhoerung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
 

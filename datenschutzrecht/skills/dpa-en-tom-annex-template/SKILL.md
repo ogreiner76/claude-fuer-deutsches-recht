@@ -9,7 +9,7 @@ description: "English language technical and organisational measures (TOM) annex
 
 English-language annex template setting out the technical and organisational measures (TOM) required under Article 32 GDPR and incorporated by reference into the DPA. Purpose (DE): Englischsprachige TOM-Anlage zum DPA nach Art. 32 DSGVO.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Cross-border or English-language DPA needs a TOM annex.
 - Processor offers ISO 27001 / SOC 2 / BSI C5 alignment and the annex must reflect this.

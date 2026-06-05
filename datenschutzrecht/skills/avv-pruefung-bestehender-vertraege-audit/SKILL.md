@@ -9,7 +9,7 @@ description: "Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und V
 
 Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege auf Aktualitaet, Vollstaendigkeit der Pflichtinhalte, Sub-AV-Pflege und Drittlandbezug. Purpose (EN): Vendor inventory and audit of existing DPAs.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant hat AVV-Bestand und will im Rahmen eines Compliance-Programms pruefen.
 - Aufsichtsbehoerde hat eine Pruefung angekuendigt und der AVV-Bestand muss verteidigungsfaehig sein.

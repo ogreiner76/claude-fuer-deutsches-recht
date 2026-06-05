@@ -7,7 +7,7 @@ description: "Beweiswuerdigung Quellenkarte: Quellenprüfung; Normenstand, Recht
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Urteilsbauer Relationsmacher** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Urteilsbauer Relationsmacher** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

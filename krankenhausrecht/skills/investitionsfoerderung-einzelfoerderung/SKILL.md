@@ -31,7 +31,7 @@ Für **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budge
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
 
 ## Fachkern: Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
-- **Spezialgegenstand:** Investitionsfoerderung Einzelfoerderung Pauschalfoerderung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Investitionsfoerderung Einzelfoerderung Pauschalfoerderung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budge
 ## Worum geht es konkret
 Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern zu (§ 9 KHG). Es bestehen zwei Foerderwege: **Einzelfoerderung** fuer grosse Vorhaben (Bau, Generalsanierung) und **Pauschalfoerderung** fuer wiederkehrende Investitionen (Geraete, kleinere Massnahmen). Daneben Transformationsfonds (KHVVG) und KHZG-Digitalisierungsmittel.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welches Land foerdert, welches Landeskrankenhausgesetz gilt?
 - Geht es um Neu-/Umbau, Geraete, IT oder Transformationsfondsantrag?
 - Liegt Foerderbescheid (positiv/negativ) vor, drohen Frist oder Rueckforderung?
@@ -116,7 +116,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 # KHEntgG Budgetverhandlung DRG PEPP Abgrenzung
 
 ## Fachkern: KHEntgG Budgetverhandlung DRG PEPP Abgrenzung
-- **Spezialgegenstand:** KHEntgG Budgetverhandlung DRG PEPP Abgrenzung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** KHEntgG Budgetverhandlung DRG PEPP Abgrenzung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -125,7 +125,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 ## Worum geht es konkret
 Die jaehrliche Budgetverhandlung legt fuer jede Klinik den Erloesrahmen fest. **DRG** (Diagnosis-Related Groups, Somatik) basiert auf KHEntgG, **PEPP** (Pauschalierendes Entgeltsystem Psychiatrie/Psychosomatik) auf BPflV. Beide Systeme laufen parallel, mit unterschiedlichen Daten, Fristen und Verhandlungspartnern.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Steht eine Budgetverhandlung 2026 oder Nachverhandlung 2025 an?
 - Welche Datensaetze sind erstellt (AEB, L-Datensatz, E1, Pflegebudget)?
 - Bestehen Mehrleistungen, neue Versorgungsformen, Casemix-Veraenderung?
@@ -201,14 +201,14 @@ Die jaehrliche Budgetverhandlung legt fuer jede Klinik den Erloesrahmen fest. **
 # Kinder- und Jugendmedizin besondere Versorgung
 
 ## Fachkern: Kinder- und Jugendmedizin besondere Versorgung
-- **Spezialgegenstand:** Kinder- und Jugendmedizin besondere Versorgung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kinder- und Jugendmedizin besondere Versorgung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Kinder- und Jugendmedizin besondere Versorgung** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 

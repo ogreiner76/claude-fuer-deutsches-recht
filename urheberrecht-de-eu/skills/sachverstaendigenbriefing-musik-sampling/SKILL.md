@@ -31,13 +31,13 @@ Für **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat
 # Sachverständigenbriefing Musik
 
 ## Fachkern: Sachverständigenbriefing Musik
-- **Spezialgegenstand:** Sachverständigenbriefing Musik; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sachverständigenbriefing Musik. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -101,13 +101,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Sampling, Pastiche, Remix und Parodie
 
 ## Fachkern: Sampling, Pastiche, Remix und Parodie
-- **Spezialgegenstand:** Sampling, Pastiche, Remix und Parodie; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sampling, Pastiche, Remix und Parodie. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
@@ -175,13 +175,13 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 # Schranken: Zitat, Unterricht und Wissenschaft
 
 ## Fachkern: Schranken: Zitat, Unterricht und Wissenschaft
-- **Spezialgegenstand:** Schranken: Zitat, Unterricht und Wissenschaft; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Schranken: Zitat, Unterricht und Wissenschaft. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 

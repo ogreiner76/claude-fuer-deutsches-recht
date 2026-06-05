@@ -13,7 +13,7 @@ description: "Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaeh
 
 ## Einsatz
 
-Nutze diesen Skill, wenn eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
+Dieses Fachmodul greift, wenn eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
 
 ## Prüfroutine
 

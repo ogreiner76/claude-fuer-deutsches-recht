@@ -128,7 +128,7 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen; keine erfundenen Sozialplan-Formeln.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Sozialplanberechnung ohne konkrete Belegschaftsdaten.
 - Keine Verhandlungsführung; Strategie-Entscheidung bleibt beim Anwalt.
 
@@ -235,7 +235,7 @@ Wenn der Mandant eine Entscheidung treffen will, die nach Einschätzung des Anwa
 - Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für die individuelle Mandantenberatung.
 - Keine Muster-Vollmacht oder Mandatsvertrag.
 

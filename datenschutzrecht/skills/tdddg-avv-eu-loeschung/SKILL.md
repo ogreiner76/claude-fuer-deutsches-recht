@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln decken den AVV nach Art. 28 DSGVO ab und sind nicht zu verwechseln mit den Drittland-SCC nach Beschluss (EU) 2021/914. Purpose (EN): EU Commission standard contractual clauses between controller and processor under Decision (EU) 2021/915 of 04 June 2021.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mandant moechte einen vorgefertigten, von der EU-Kommission gebilligten AVV-Vertragssatz verwenden.
 - Aufsichtsbehoerde fragt, warum der eigene AVV nicht den EU-Musterklauseln folgt.
@@ -176,7 +176,7 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 
 Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, Formate, Fristen, Nachweise und Aufbewahrungsausnahmen. Purpose (EN): End-of-contract data return and deletion under Article 28 (3) (g) GDPR.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vertragsende eines AVV steht bevor oder ist eingetreten.
 - Es ist zu klaeren, ob Loeschung oder Rueckgabe verlangt wird.

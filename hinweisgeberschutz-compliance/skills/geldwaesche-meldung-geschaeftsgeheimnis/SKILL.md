@@ -31,7 +31,7 @@ Für **Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Verstoess
 
 # Geldwaesche Meldung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Verdachtsmeldung, Tipping-off, interne Untersuchung, Bank/Kanzlei, Dokumentation und Fristen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Geschaeftsgeheimnis Geschgehg
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Angemessene Geheimhaltung, Erforderlichkeit der Preisgabe, Schutzmaßnahmen und Missbrauch.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Geschuetzte Verstoesse Paragraf2
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 EU-Recht, Straf-/Bußgeldnormen, Arbeitsschutz, Geldwäsche, Umwelt, Datenschutz, Vergabe.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Hinweis Von Externer Person
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beruflicher Kontext, Zugang, Vertraulichkeit, Datenschutz und Folgemaßnahmen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

@@ -56,7 +56,7 @@ Die Tax-DD im Distressed-M&A unterscheidet sich strukturell von der Standard-Tax
 
 Dieser Skill ist das DD-Modul, das diese Lücke schließt.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Buy-side- oder Sell-side-Tax-DD eines Targets in der Krise oder im StaRUG-Verfahren.
 - Vendor-DD eines Verkäufers, der einen sanierungsbedürftigen Konzernteil verkauft.
@@ -193,7 +193,7 @@ In einer komplexen Restrukturierung entscheidet die **Reihenfolge** der Struktur
 
 Dieser Skill liefert das Strukturierungsraster für den Tax Step Plan.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Mehrgliedrige Restrukturierung mit Kapitalherabsetzung, Kapitalerhöhung, Anteilsübertragung und Forderungsverzicht in einer Transaktion.
 - Konzernumstrukturierung mit gleichzeitiger Sanierungsmaßnahme.
@@ -352,7 +352,7 @@ Die verbindliche Auskunft nach § 89 Abs. 2 AO ist im Sanierungskontext das zent
 
 Dieser Skill liefert die Anleitung für den verbindlichen Auskunftsantrag im Sanierungskontext.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor jeder Sanierungsmaßnahme, die § 3a EStG nutzen soll.
 - Vor einem Debt-Equity-Swap mit Sanierungs- und Anteilseignerwechsel-Wirkung.
@@ -758,7 +758,7 @@ Nach diesem Skill weiter mit:
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
 - `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
 - Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
 - Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.

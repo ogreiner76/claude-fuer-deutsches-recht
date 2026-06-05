@@ -18,7 +18,7 @@ description: "Ordnet unübersichtliche WEG- und Hausverwaltungsakten mit vielen 
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
+Dieses Fachmodul greift, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
 
 ## Vorgehen
 

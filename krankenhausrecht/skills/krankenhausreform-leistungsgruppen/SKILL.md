@@ -31,7 +31,7 @@ Für **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsr
 # Krankenhausreform Leistungsgruppen Routing
 
 ## Fachkern: Krankenhausreform Leistungsgruppen Routing
-- **Spezialgegenstand:** Krankenhausreform Leistungsgruppen Routing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankenhausreform Leistungsgruppen Routing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsr
 ## Worum geht es konkret
 Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz, in Kraft 01/2025) ist der groesste Umbau der stationaeren Versorgung seit Einfuehrung des DRG-Systems. Sie aendert KHG, KHEntgG und SGB V parallel. Der Skill ordnet jedes Mandat ein und routet zum passendes Fachmodul.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Geht es um Leistungsgruppen-Zuweisung, Vorhaltefinanzierung, Strukturqualitaet, Plankrankenhausstatus oder Reform-Uebergang?
 - Liegt eine Entscheidung der Landesplanungsbehoerde vor (Bescheid, Anhoerung, Konzept)?
 - Ist die Klinik Plan-/Hochschul-/Vertrags-/Sicherstellungskrankenhaus?
@@ -113,14 +113,14 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 # Krankenhausseelsorge Besuchsrecht Hausrecht
 
 ## Fachkern: Krankenhausseelsorge Besuchsrecht Hausrecht
-- **Spezialgegenstand:** Krankenhausseelsorge Besuchsrecht Hausrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Krankenhausseelsorge Besuchsrecht Hausrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Krankenhausseelsorge Besuchsrecht Hausrecht** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -158,14 +158,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # KRITIS Krankenhaus BSI-Gesetz NIS2
 
 ## Fachkern: KRITIS Krankenhaus BSI-Gesetz NIS2
-- **Spezialgegenstand:** KRITIS Krankenhaus BSI-Gesetz NIS2; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** KRITIS Krankenhaus BSI-Gesetz NIS2. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: KRITIS Krankenhaus BSI-Gesetz NIS2** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 

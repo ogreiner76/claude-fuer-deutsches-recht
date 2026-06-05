@@ -7,7 +7,7 @@ description: "ZAG-Red-Team nach BaFin-Arbeitslogik: Zahlungsfluss, Positivkatalo
 
 ## Zweck
 
-Nutze diesen Skill, wenn ein Bank-, FinTech-, Plattform-, Wallet-, Karten-, Loyalty-, Merchant-, Mobility- oder Embedded-Finance-Modell nach ZAG eingeordnet werden muss. Der Skill soll nicht beruhigen, sondern die aufsichtsrechtlich gefährliche Stelle finden: Wer nimmt Geld an, wer führt eine Zahlung aus, wer kontrolliert Konten oder Zahlungsinstrumente, und wer versucht, eine Ausnahme zu weit zu ziehen?
+Dieses Fachmodul greift, wenn ein Bank-, FinTech-, Plattform-, Wallet-, Karten-, Loyalty-, Merchant-, Mobility- oder Embedded-Finance-Modell nach ZAG eingeordnet werden muss. Der Skill soll nicht beruhigen, sondern die aufsichtsrechtlich gefährliche Stelle finden: Wer nimmt Geld an, wer führt eine Zahlung aus, wer kontrolliert Konten oder Zahlungsinstrumente, und wer versucht, eine Ausnahme zu weit zu ziehen?
 
 ## Start in drei Minuten
 

@@ -140,7 +140,7 @@ Zeitachse Markenverletzung
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Lücken ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Bewertung ohne vollständige Zeitachse.
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -248,7 +248,7 @@ Dieser Prüffeld führt einen systematischen Fristencheck durch und bewertet das
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Fristberechnung ohne vollständige Eingangsdaten.
 - Kein Ersatz für vollständige Mandantenberatung und laufende Fristenüberwachung.
 
@@ -399,6 +399,6 @@ Wir danken für das Vertrauen und stehen für künftige Mandate gerne zur Verfü
 - Keine inhaltlichen Urteile in diesem Skill (nur Kommunikationsstruktur).
 - Annahmen und Lücken ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine inhaltliche Rechtsprüfung (das machen die Fachmodule).
 - Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.

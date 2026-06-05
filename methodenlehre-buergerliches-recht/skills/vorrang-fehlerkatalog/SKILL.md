@@ -7,7 +7,7 @@ description: "Vorrang Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkei
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Methodenlehre Buergerliches Recht** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Methodenlehre Buergerliches Recht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

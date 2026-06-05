@@ -9,7 +9,7 @@ description: "Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bund
 
 Bei wesentlichen Vorhaben laedt der federfuehrende Ausschuss den NKR zur Anhoerung. Diese ist neben der schriftlichen Stellungnahme eine zentrale oeffentliche Wirksamkeit des NKR. Der Skill bereitet Eingangsaussage, Folien und Antworten vor.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ausschuss laedt NKR zur Anhoerung
 - Vorbereitung des Anhoerungstermins

@@ -38,7 +38,7 @@ Für **Tsa Transition Services / Supply Chain Material Contracts / Digital Asset
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Besonders wichtig bei Carve-out und Konzernverkäufen.
 
@@ -79,7 +79,7 @@ BGB Dienst-/Werkvertrag, Datenschutz, IP, Exit Assistance, Haftung.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Investment Case und SPA-Schutz.
 
@@ -120,7 +120,7 @@ BGB/AGB, HGB, Kartellrecht, LkSG/CSDDD, Incoterms.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill sortiert Modebegriffe in echte Rechtsfragen.
 
@@ -161,7 +161,7 @@ eWpG, MiCAR, KWG/Kryptoverwahrung, KAGB, GwG, Datenschutz.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ist Pflicht bei Portfoliounternehmen mit internationaler Lieferkette.
 

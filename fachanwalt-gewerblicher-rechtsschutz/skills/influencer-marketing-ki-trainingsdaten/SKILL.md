@@ -127,7 +127,7 @@ Anschluss-Skills: `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `uwg-syst
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine plattformspezifische Technikberatung (Algorithmus, Reichweite).
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -225,7 +225,7 @@ Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-syst
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf (insb. EU AI Act Umsetzungsstand) ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine technische Beratung zu KI-Architekturen.
 - Kein Ersatz für vollständige Mandantenberatung.
 

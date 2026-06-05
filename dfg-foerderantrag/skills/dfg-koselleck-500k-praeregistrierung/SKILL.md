@@ -36,7 +36,7 @@ Das Reinhart-Koselleck-Projekt ist die DFG-Schiene für **etablierte Forscher mi
 
 **Alte-Hasen-Faustregel:** Koselleck ist kein "größerer Sachbeihilfeantrag mit Etikett". Wer das nicht versteht, wird abgelehnt mit dem Hinweis "passt eher in die Sachbeihilfe" — und hat dann monatelang verloren. Faustregel: Wenn Sie ein detailliertes Arbeitsprogramm mit harten Meilensteinen aufstellen können und wollen, sind Sie in der Sachbeihilfe. Wenn Sie ein Vorhaben verfolgen, das Sie selbst nicht fünf Jahre durchplanen können, weil es zu visionär ist — dann Koselleck.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn ein etablierter Antragsteller einen risikoreichen Großantrag plant, oder wenn aus einer Sachbeihilfe-Idee plötzlich die Frage aufkommt: "Wäre das vielleicht Koselleck?".
 
@@ -230,7 +230,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -248,7 +248,7 @@ Die Projektbeschreibung ist das **Herzstück** jedes DFG-Antrags. Sie entscheide
 
 **Alte-Hasen-Faustregel:** Wer in der Einleitung keine prüfbare Hypothese hat, ist verloren. Wer in den Vorarbeiten keine drei referierten Volltexte zur Forschungsfrage hat, ist verloren. Wer im Arbeitsprogramm fünf Arbeitspakete und 18 Meilensteine in 30 Monaten unterbringen will, ist verloren. **Drei Mal verloren ergibt ablehnen.**
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Dieser Skill kommt zum Einsatz, wenn die Programmschiene feststeht und die eigentliche Textarbeit beginnt — oder wenn ein Entwurf vorliegt, der überarbeitet werden muss.
 

@@ -9,7 +9,7 @@ description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemess
 
 Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizierungspruefung und SCC-Fallback. Purpose (EN): Treatment of the EU-US Data Privacy Framework in DPAs, including self-certification check and SCC fallback.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - US-Anbieter wird als Auftragsverarbeiter beauftragt oder eingebunden.
 - Pruefung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.

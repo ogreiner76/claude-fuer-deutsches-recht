@@ -42,7 +42,7 @@ Für **Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Form
 
 Der Skill übersetzt Deal-Sprache in deutsche Rechts- und Arbeitsschritte, ohne akademische Vorlesung und ohne peinliche Rückfragen im Deal-Call. Ziel ist kein Glossar, sondern eine konkrete, deal-bezogene Funktionsübersicht: Wer macht was, wer trägt welches Risiko, welches Geld fließt wohin, und welcher deutsche Rechtsbegriff steht dahinter.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches PE-Stadium soll erklärt werden: Fundraising, Akquisition, Hold-Phase, Exit, Restructuring?
 2. Aus welcher Rolle heraus (Sponsor, LP, Management, Verkäufer, Berater)?
@@ -159,7 +159,7 @@ European Waterfall (Kurzfassung):
 
 Der Skill liefert ein präzises Investorprofil als Arbeitsgrundlage für Mandatsannahme, Fondsbeitritt, Side Letter, Co-Investment und IC-Memo. Das Profil entscheidet, welche Anlagebedingungen einschlägig sind, welche Sub-Doc-Variante (Spezial-AIF, ELTIF, EuVECA) gewählt wird und welche regulatorischen Sonderregeln (VAG, Versorgungswerke, kirchliche Stiftungen) zu beachten sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Anlegerkategorie nach § 1 Abs. 19 KAGB: professionell, semiprofessionell, Privatanleger?
 2. Domizil und steuerliche Ansässigkeit (DE, EU, Drittstaat; FATCA/CRS)?
@@ -252,7 +252,7 @@ Excuse Right (Standardklausel):
 
 Der Skill trennt echte Fondsverwaltung von Holding-, Club-Deal- und SPV-Strukturen und erstellt den ersten Regulierungsplan. Kernfrage: liegt ein Investmentvermögen im Sinne des § 1 Abs. 1 KAGB vor (Pooling, externer Kapitalgeber, definierter Anlagepolitik), was die Vollerlaubnis-Pflicht als KVG oder zumindest die Registrierungspflicht für kleine AIFM nach § 2 Abs. 4/5 KAGB nach sich zieht?
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wie viele externe Investoren und welche Ticketgrößen?
 2. Existiert eine vorab definierte Anlagepolitik oder ad-hoc-Entscheidung pro Deal?
@@ -347,7 +347,7 @@ Discretionary Mandate (Single-Investor-Carve-out):
 
 Der Skill liefert die Strukturlogik und Dokumentenmatrix für Spezial-AIF nach §§ 281 ff. KAGB. Fokus: deutsche institutionelle Investoren (Versicherer, Versorgungswerke, Family Offices) und semiprofessionelle Anleger (Mindestticket 200 000 EUR plus Eignungsprüfung). Spezial-AIF ist der dominierende Vehikeltyp für PE-, Infrastruktur- und Private-Credit-Fonds mit deutscher Anlegerbasis.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Asset-Strategie: Buyout, Venture, Mezzanine, Direct Lending, Infrastruktur, Secondaries?
 2. Geplante Anlegerstruktur (Anteile professionell vs. semiprofessionell)?

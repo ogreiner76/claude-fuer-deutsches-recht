@@ -38,7 +38,7 @@ Für **Schulgesetz Niedersachsen, Schulgesetz Nordrhein Westfalen, Schulgesetz R
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Niedersachsen: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 
@@ -105,7 +105,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Nordrhein-Westfalen: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 
@@ -172,7 +172,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Rheinland-Pfalz: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 
@@ -239,7 +239,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landesspezifischer Check für Saarland: Schulart, Schulpflicht, Aufnahme, Ordnungsmaßnahme, Inklusion, Zeugnis, Rechtsbehelf und Behörde.
 

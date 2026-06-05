@@ -7,7 +7,7 @@ description: "Epo Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Be
 
 ## Einsatzlage
 
-Nutze diese Quellenkarte, wenn im Bereich **Patentrecherche** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare oder aktuelle Leitlinien geprüft werden müssen.
+Diese Quellenkarte sichert im Bereich **Patentrecherche** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
 
 ## Suchraster
 

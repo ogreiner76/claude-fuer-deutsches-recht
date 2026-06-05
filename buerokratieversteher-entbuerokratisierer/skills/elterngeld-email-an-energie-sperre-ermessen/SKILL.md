@@ -161,7 +161,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Worum geht es konkret
 Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der Norm, sondern im **Ermessen** der Behoerde (Kennzeichen: "kann", "soll", "kann anordnen"). Ermessen erlaubt Spielraum — verlangt aber Pruefung der Belange und Begruendung. Wer Ermessen versteht, kann gezielt argumentieren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Steht im Gesetz "kann" oder "soll" (= Ermessen)?
 - Welche Belange muss die Behoerde abwaegen?
 - Ist die Begruendung nachvollziehbar?

@@ -31,7 +31,7 @@ Für **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterech
 # Leistungsgruppen und Qualitaetskriterien Reformlogik
 
 ## Fachkern: Leistungsgruppen und Qualitaetskriterien Reformlogik
-- **Spezialgegenstand:** Leistungsgruppen und Qualitaetskriterien Reformlogik; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Leistungsgruppen und Qualitaetskriterien Reformlogik. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterech
 ## Worum geht es konkret
 Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppen, die ICD-/OPS-basierte Versorgungstypen buendeln und an Strukturqualitaetsmerkmale gekoppelt sind. Der Skill prueft, ob eine Klinik die geforderte Struktur erfuellt und ob ein LG-Bescheid haltbar ist.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche LG wird gewollt/bestritten (z. B. LG 14 Allgemeine Innere, LG 27 Komplexe Wirbelsaeule)?
 - Liegen Personalbesetzungs-, Geraete-, OP-Bereitschafts-Nachweise vor?
 - Ist die Klinik in Notfallstufe 1/2/3 oder ohne Notfallstufe?
@@ -114,14 +114,14 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 # Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
 
 ## Fachkern: Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
-- **Spezialgegenstand:** Medizinprodukterecht Betreiberpflichten MDR MPBetreibV; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Medizinprodukterecht Betreiberpflichten MDR MPBetreibV. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Medizinprodukterecht Betreiberpflichten MDR MPBetreibV** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -159,7 +159,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Mindestmengen G-BA Qualitaetssicherung
 
 ## Fachkern: Mindestmengen G-BA Qualitaetssicherung
-- **Spezialgegenstand:** Mindestmengen G-BA Qualitaetssicherung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Mindestmengen G-BA Qualitaetssicherung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -168,7 +168,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Fruehgeborene < 1250 g, Lebertransplantation, Stammzelltransplantation) verlangt § 136b SGB V Mindestmengen pro Standort und Jahr. Bei Unterschreiten gilt grundsaetzlich ein Erbringungsverbot.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welcher Mindestmengen-Tatbestand betrifft die Klinik (OPS-Liste der G-BA-Mm-R)?
 - Liegen Prognose-/Negativfeststellung des Landes vor?
 - Wird Ausnahme nach G-BA-Mm-R § 5 (z. B. fuer Versorgungssicherstellung) beansprucht?

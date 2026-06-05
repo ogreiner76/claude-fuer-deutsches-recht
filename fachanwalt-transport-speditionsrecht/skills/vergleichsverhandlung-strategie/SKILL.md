@@ -28,7 +28,7 @@ Für **Vergleichsverhandlung Strategie** zuerst das tragende Prüffeld bestimmen
 
 # Vergleichsverhandlung und Einigung im Transport-, Speditions- und Logistikrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Transport-, Speditions- und Logistikrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Frachtschaden/Versicherung, Demurrage, Multimodal-Schaden.

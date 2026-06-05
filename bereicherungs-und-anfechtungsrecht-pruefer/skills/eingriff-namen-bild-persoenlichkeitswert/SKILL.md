@@ -7,7 +7,7 @@ description: "Bei kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wur
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

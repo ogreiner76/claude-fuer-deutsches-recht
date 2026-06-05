@@ -13,7 +13,7 @@ description: "Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtl
 
 ## Einsatz
 
-Nutze diesen Skill, wenn eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
+Dieses Fachmodul greift, wenn eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
 
 ## Prüfprogramm
 

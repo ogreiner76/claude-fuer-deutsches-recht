@@ -9,7 +9,7 @@ description: "Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeig
 
 Zwei Datenfundamente der SKM-Rechnung sind **Zeitwerte** (wie lange dauert eine Standardtaetigkeit?) und **Fallzahlen** (wie oft kommt die Pflicht zur Anwendung?). Beide haben standardisierte Quellen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme prueft Datengrundlage
 - Ressort gibt Zeitwerte ohne Quelle an

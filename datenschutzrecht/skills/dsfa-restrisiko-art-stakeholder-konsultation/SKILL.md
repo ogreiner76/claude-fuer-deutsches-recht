@@ -36,7 +36,7 @@ Für **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Ar
 
 Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zustaendigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Wenn die DSFA-Risikoanalyse nach Massnahmen ein hohes Restrisiko ergibt
 - Wenn die Aufsichtsbehoerde von sich aus eine Konsultation anregt
@@ -153,7 +153,7 @@ Mit freundlichen Gruessen
 
 Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im Rahmen einer DSFA. Art. 35 Abs. 9 DSGVO sieht vor, dass der Verantwortliche, soweit angemessen, den Standpunkt Betroffener oder ihrer Vertreter einholt. Ergebnis dieses Skills ist ein dokumentierter Konsultationsplan mit Begruendung, Form, Reichweite und Verwertung des Ergebnisses.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei DSFA mit Beschaeftigtendaten (Betriebsrat als Vertretung)
 - Bei DSFA mit Patientendaten oder Kundendaten in grossem Umfang
@@ -277,7 +277,7 @@ Unterschrift DSB: ____________________
 
 Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35 Abs. 7 DSGVO. Alle sechs Pflichtsektionen sind enthalten und mit Platzhaltern vorausgefuellt, so dass eine Kanzlei oder ein Unternehmen die DSFA direkt befuellen und der Aufsicht oder dem DSB vorlegen kann. Die Vorlage folgt der methodischen Struktur Beschreibung, Verhaeltnismaessigkeit, Risiken, Massnahmen, Restrisiko, Freigabe.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Wenn die Trigger-Pruefung ergeben hat, dass eine DSFA durchzufuehren ist
 - Wenn ein Hausformat fehlt und ein kanzleitaugliches Standardformat benoetigt wird
@@ -479,7 +479,7 @@ Trigger fuer ausserplanmaessige Pruefung: [Aenderung Datenarten / Empfaenger / T
 
 Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste fuer DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor Freigabe einer DSFA durch den Verantwortlichen
 - Bei Audit einer bestehenden DSFA
@@ -633,7 +633,7 @@ Unterschrift Pruefer: ____________________
 
 Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen der Verarbeitungstaetigkeit nach Art. 35 Abs. 11 DSGVO. Ergebnis ist ein Revisionsplan mit Trigger-Liste, Aenderungsanalyse, Risikoreassessment und Versionshistorie. Ziel ist, die DSFA als lebendes Dokument zu fuehren und nicht als Einmalvorgang.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Aenderung der Zwecke einer Verarbeitung
 - Bei neuem Auftragsverarbeiter oder Sub-Auftragsverarbeiter

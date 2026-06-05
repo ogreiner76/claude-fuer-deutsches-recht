@@ -11,7 +11,7 @@ Die Bescheinigungsstelle Forschungszulage (BSFZ) prüft im ersten Verfahrensschr
 
 Eingang ist das Portal https://www.bescheinigung-forschungszulage.de/. Der Antrag wird elektronisch eingereicht.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sobald die FuE-Eigenschaft durch `fz-fue-definition-frascati-abgrenzung` plausibilisiert ist.
 - Bei BSFZ-Rückfragen zu Inhalt oder Tiefe der Projektbeschreibung.

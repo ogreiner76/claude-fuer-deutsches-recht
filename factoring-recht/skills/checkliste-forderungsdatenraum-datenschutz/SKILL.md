@@ -31,7 +31,7 @@ Für **Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgv
 # Checkliste Forderungsdatenraum Factoring
 
 ## Fachkern: Checkliste Forderungsdatenraum Factoring
-- **Spezialgegenstand:** Checkliste Forderungsdatenraum Factoring; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Checkliste Forderungsdatenraum Factoring. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -43,7 +43,7 @@ Ein **Forderungsdatenraum** ist die strukturierte Sammlung aller Unterlagen, die
 
 Die Checkliste deckt vier Ebenen ab: (1) **Verkäuferebene** – Unterlagen zum Kunden selbst, (2) **Vertragsebene** – Verträge mit Debitoren, (3) **Forderungsebene** – Einzelforderungen mit Belegen, (4) **Sicherheitenebene** – Globalzessionen, Eigentumsvorbehalte, Bürgschaften. Dieser Skill liefert eine reproduzierbare Liste, die dem Datenraum-Inhalt-Index entspricht.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie nehmen ein neues Factoring-Mandat auf und brauchen einen vollständigen Dokumentensatz.
 - Eine Portfolio-Transaktion (Verkauf an Investor) steht an, Datenraum muss aufgebaut werden.
@@ -167,7 +167,7 @@ Antwort: Im Anhang Q&A-47.xlsx finden Sie die vollständige Liste. Insgesamt 23 
 # Datenschutz Debitorendaten DSGVO Informationspflichten
 
 ## Fachkern: Datenschutz Debitorendaten DSGVO Informationspflichten
-- **Spezialgegenstand:** Datenschutz Debitorendaten DSGVO Informationspflichten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Datenschutz Debitorendaten DSGVO Informationspflichten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -179,7 +179,7 @@ Beim Forderungsverkauf werden **personenbezogene Daten** der Debitoren mit über
 
 Dieser Skill behandelt: Rechtsgrundlagen, Informationspflichten, Auftragsverarbeitung versus Joint Controllership, Datenexport bei Auslandsfactoring, Löschpflichten, Betroffenenrechte und die DSGVO-Spezialfälle Bonitätsbewertung und Inkasso.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren ein neues Factoring und müssen das DSGVO-Konzept aufsetzen.
 - Ein Debitor verlangt nach Abtretungsanzeige Auskunft nach Art. 15 DSGVO.
@@ -280,7 +280,7 @@ Fragen zum Einstieg:
 # Debitorenbrief höflich aber rechtssicher
 
 ## Fachkern: Debitorenbrief höflich aber rechtssicher
-- **Spezialgegenstand:** Debitorenbrief höflich aber rechtssicher; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Debitorenbrief höflich aber rechtssicher. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -292,7 +292,7 @@ Der erste Brief, den ein Debitor vom Factor erhält, prägt die gesamte Folgekom
 
 Dieser Skill liefert die Bauanleitung für einen Debitorenbrief, der zugleich klar formuliert, juristisch belastbar und kommunikativ angemessen ist. Inkl. Eskalationsstufen vom ersten Hinweis bis zum harten Mahnen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie erstellen den Standard-Debitorenbrief für ein neues Factoring-Mandat.
 - Bei einem Großdebitor zahlen die Mahnungen nicht – die Eskalationsstufe muss neu kalibriert werden.

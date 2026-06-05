@@ -15,7 +15,7 @@ description: "Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d
 
 Vor jedem Antrag nach § 3a Abs. 4 EStG ist zu prüfen, ob die vorhandenen Verlustvorträge den voraussichtlichen Sanierungsertrag bereits ohne Antrag aufzehren. Das ist der häufigste vergessene Pfad: Wenn KSt-Verlustvortrag, ESt-Verlustvortrag und Gewerbeverlust ausreichen, ist der Sanierungsantrag entbehrlich — und Sie ersparen sich Bindungswirkung, FA-Streit und Dokumentationsaufwand für die vier Voraussetzungen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wie hoch ist der voraussichtliche Sanierungsertrag (Forderungsverzicht in EUR)?
 2. Wie hoch ist der Verlustvortrag zur Körperschaft- oder Einkommensteuer (§ 10d EStG)?

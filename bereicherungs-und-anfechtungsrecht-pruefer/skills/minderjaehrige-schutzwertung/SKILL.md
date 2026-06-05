@@ -13,10 +13,10 @@ In diesem Skill wird **Minderjaehrige Und Schutzwertung, Nichtleistungskondiktio
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `minderjaehrige-und-schutzwertung` | Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB. |
+| `minderjaehrige-und-schutzwertung` | Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB. |
 | `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2` | Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung). |
 | `nutzungen-verwendungen-gefahrtragung-818` | Nutzungen, Verwendungen, Surrogate, ersparte Aufwendungen und Gefahrtragung bei § 818 BGB strukturiert prüfen. Output: Wert- und Risiko-Tabelle. |
-| `nutzungen-zinsen-fruechte-gebrauchsvorteile` | Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB. |
+| `nutzungen-zinsen-fruechte-gebrauchsvorteile` | Dieses Fachmodul greift, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB. |
 
 ## Arbeitsweg
 
@@ -27,13 +27,13 @@ Für **Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundtatbestan
 
 ## 1. `minderjaehrige-und-schutzwertung`
 
-**Fokus:** Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB.
 
 # Minderjährige und Schutzwertung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -319,13 +319,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `nutzungen-zinsen-fruechte-gebrauchsvorteile`
 
-**Fokus:** Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB.
 
 # Nutzungen, Zinsen, Früchte und Gebrauchsvorteile
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

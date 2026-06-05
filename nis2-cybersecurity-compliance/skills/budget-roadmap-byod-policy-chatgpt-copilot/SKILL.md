@@ -31,7 +31,7 @@ Für **Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Controls Map
 
 # Budget Und Roadmap
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Business Impact, Risikoappetit, Pflichtmaßnahmen, Outsourcing, Make-or-buy und Vorstandsbeschluss.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # BYOD Policy
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Private Geräte, Container, Adminrechte, Beweise, Kosten, Offboarding, Datenschutz und Haftung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Chatgpt Copilot Policy
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Datenklassen, Repos, Pair Programming, Protokollierung, Freigabeprozesse und Incident-Regeln.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # CIS Controls Mapping
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Inventar, Hardening, Vulnerability, Adminrechte, Logs, Malware, Backup und Training.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

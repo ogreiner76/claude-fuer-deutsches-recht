@@ -143,7 +143,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 - Keine modellwissensbasierten Befristungsregeln ohne Normgrundlage.
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
 - Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).
 
@@ -262,7 +262,7 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Zuständigkeitsprüfung bei internationalem Sachverhalt (EuGVVO, Brüssel Ia-VO).
 - Keine Prüfung von Sondergerichtsbarkeiten (Verwaltungsgericht für Beamte, Sozialgericht für SGB-Ansprüche).
 
@@ -401,6 +401,6 @@ Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 - Annahmen explizit kennzeichnen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine automatische Fristenberechnung; individuelle Prüfung bleibt notwendig.
 - Keine Mandantenvertretung ohne ausdrücklichen Auftrag.

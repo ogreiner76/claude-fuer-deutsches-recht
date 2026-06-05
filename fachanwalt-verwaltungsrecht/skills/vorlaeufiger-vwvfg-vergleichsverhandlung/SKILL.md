@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 # Vergleichsverhandlung und Einigung im Allgemeines Verwaltungs- und Bauplanungsrecht
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Allgemeines Verwaltungs- und Bauplanungsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Abhilfe, Tausch-/Anpassungslosung, Mediation Behoerde-Buerger.

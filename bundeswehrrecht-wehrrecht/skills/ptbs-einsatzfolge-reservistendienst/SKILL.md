@@ -31,7 +31,7 @@ Für **Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflich
 # PTBS als Einsatzfolge – Beweisführung
 
 ## Fachkern: PTBS als Einsatzfolge – Beweisführung
-- **Spezialgegenstand:** PTBS als Einsatzfolge – Beweisführung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** PTBS als Einsatzfolge – Beweisführung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflich
 
 Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Erkrankung, die durch Extremereignisse im Einsatz ausgelöst werden kann (ICD-10 F43.1, ICD-11 6B40). Im Versorgungsrecht der Bundeswehr ist PTBS als Wehrdienstbeschädigung/Einsatzunfall anerkannt, wenn der Kausalzusammenhang nach den Versorgungsmedizinischen Grundsätzen wahrscheinlich gemacht ist. Der Skill ordnet Diagnose, Belastungsanamnese, Gutachten und Verfahren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Welche Diagnose (ICD-Code) wurde gestellt? Welche Fachärzte (Bundeswehrkrankenhaus, Vertragsarzt)?
 - Welches Belastungsereignis (Gefecht, Anschlag, Tod von Kameraden, Verletzung Zivilist, Unfall, Bedrohung)?
@@ -131,7 +131,7 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 # Reservistendienst und Dienstleistungspflicht
 
 ## Fachkern: Reservistendienst und Dienstleistungspflicht
-- **Spezialgegenstand:** Reservistendienst und Dienstleistungspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Reservistendienst und Dienstleistungspflicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -153,7 +153,7 @@ Praktische Fragen: Freistellung durch Arbeitgeber, Unterhaltssicherung, Beschwer
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -241,7 +241,7 @@ Vor Ausgabe prüfen:
 # Sanitätsdienst und Heilfürsorge
 
 ## Fachkern: Sanitätsdienst und Heilfürsorge
-- **Spezialgegenstand:** Sanitätsdienst und Heilfürsorge; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sanitätsdienst und Heilfürsorge. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -263,7 +263,7 @@ Probleme: Ablehnung von Behandlungen, Wahlleistungen, externe Spezialisten, WDB-
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 

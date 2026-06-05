@@ -7,7 +7,7 @@ description: "Bietet Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Mandantenanfragen Assistent** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Mandantenanfragen Assistent** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

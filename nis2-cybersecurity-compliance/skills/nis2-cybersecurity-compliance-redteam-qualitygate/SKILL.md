@@ -5,7 +5,7 @@ description: "Finaler Red-Team-Check gegen Papiercompliance und blinde Flecken."
 
 # Redteam Qualitygate
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Prüft, ob Aussagen belegbar sind, Maßnahmen technisch wirken und Haftungsargumente dokumentiert sind.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

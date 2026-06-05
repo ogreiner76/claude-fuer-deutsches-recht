@@ -31,7 +31,7 @@ Für **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abga
 # Arzneimittelabgabe Verschreibungspflicht
 
 ## Fachkern: Arzneimittelabgabe Verschreibungspflicht
-- **Spezialgegenstand:** Arzneimittelabgabe Verschreibungspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Arzneimittelabgabe Verschreibungspflicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -41,7 +41,7 @@ Für **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abga
 
 Abgabe verschreibungspflichtiger Arzneimittel (Rx) durch öffentliche Apotheken. Geregelt sind: Verschreibungspflicht, formale Anforderungen an die ärztliche Verordnung (Papierrezept, Muster-16, E-Rezept), Identitätsprüfung, Plausibilitätsprüfung, Aushändigung, Beratung, Dokumentation. Abgrenzung zur OTC-Abgabe (apothekenpflichtig, nicht verschreibungspflichtig) und zur BtM-Abgabe (gesondertes Regime).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Konflikt um eine zu Unrecht oder zu Recht durchgeführte Abgabe.
 - Retax wegen Formalfehler auf dem Rezept.
@@ -137,7 +137,7 @@ Eingaben:
 # Cannabis Medizinalcannabis Abgabe Dokumentation
 
 ## Fachkern: Cannabis Medizinalcannabis Abgabe Dokumentation
-- **Spezialgegenstand:** Cannabis Medizinalcannabis Abgabe Dokumentation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Cannabis Medizinalcannabis Abgabe Dokumentation. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -147,7 +147,7 @@ Eingaben:
 
 Medizinalcannabis (Cannabis-Blüten, Cannabis-Extrakte) ist seit dem Cannabisgesetz 2024 nicht mehr Betäubungsmittel im engeren Sinne, fällt aber unter besondere Verkehrs- und Verschreibungsregeln des Konsumcannabisgesetzes (KCanG) / Medizinal-Cannabisgesetz (MedCanG). Apotheken müssen verschreibungsrechtliche, lager- und dokumentationsrechtliche Pflichten beachten. Cannabis-Importe sind über die Cannabisagentur des BfArM (vormals) geregelt; aktueller Stand vom Anwender zu verifizieren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Patient bringt erstmals Cannabis-Rezept (BtM- oder normales Rx-Formular je nach Rechtsstand 2024+).
 - Apotheke baut neuen Cannabis-Bezugsweg auf.
@@ -241,14 +241,14 @@ Eingaben:
 # Tierarzneimittel Apothekenabgabe Versand ab 2026
 
 ## Fachkern: Tierarzneimittel Apothekenabgabe Versand ab 2026
-- **Spezialgegenstand:** Tierarzneimittel Apothekenabgabe Versand ab 2026; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Tierarzneimittel Apothekenabgabe Versand ab 2026. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Tierarzneimittel Apothekenabgabe Versand ab 2026** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 

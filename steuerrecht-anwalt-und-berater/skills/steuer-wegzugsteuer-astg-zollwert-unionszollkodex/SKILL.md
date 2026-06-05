@@ -16,7 +16,7 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 | `fa-stu-wegzugsteuer-6-astg` | Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und Liquiditaetsfolge. Behandelt Tatbestaende § 6 AStG Stundungsregeln § 6 Abs. 4 AStG Rueckkehrregelung § 6 Abs. 3 AStG und Sicherheitsleistung. Output Pruefraster Vorab-Berechnung Wegzugsteuer und Stundungsantragsmuster. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd. |
 | `fa-stu-zollwert-unionszollkodex` | Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoehten Zollwert fest. Behandelt Transaktionswertmethode Folgemethoden Anti-Dumping- und Ausgleichszoelle und das verbindliche Auskunftsverfahren VZTA. Output Pruefraster und Einspruchsmuster gegen Nacherhebungsbescheid. Abgrenzung zu fa-stu-energiesteuerentlastung. |
 | `rechtsabteilung-grunderwerbsteuer-share-deal-closing` | Rechtsabteilungs-Fachmodul für Grunderwerbsteuer-Share-Deal-Closing: Signing, Closing, Anteilsvereinigung und Doppelbelastungsrisiko werden in eine Steuermatrix übertragen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtliche Quellen, BFH/BMF/BZSt/Gesetze-im-Internet und verifizierte Gerichtsentscheidungen. |
+| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtliche Quellen, BFH/BMF/BZSt/Gesetze-im-Internet und verifizierte Gerichtsentscheidungen. |
 
 ## Arbeitsweg
 
@@ -180,7 +180,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsstand-mai-2026-faktenbank`
 
-**Fokus:** Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtliche Quellen, BFH/BMF/BZSt/Gesetze-im-Internet und verifizierte Gerichtsentscheidungen.
+**Fokus:** Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtliche Quellen, BFH/BMF/BZSt/Gesetze-im-Internet und verifizierte Gerichtsentscheidungen.
 
 
 # Rechtsstand Mai 2026 — Faktenbank Steuerrecht

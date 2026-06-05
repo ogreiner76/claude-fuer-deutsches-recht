@@ -31,7 +31,7 @@ Für **Er Bess Kritis Nis2 Cyber, Er Bess Marktrollen Bilanzkreis, Er Bess Natur
 
 # KRITIS, NIS2, BSI und Cybersecurity
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Berlin/Brandenburg-Resilienz, Fernzugriff, EMS, Lieferkette und Incident-Reporting.
 
@@ -64,7 +64,7 @@ BSIG, NIS2-Umsetzung live prüfen, EnWG-IT-Sicherheit, KRITIS-Dachgesetz live pr
 
 # Marktrollen, Bilanzkreis und Redispatch
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ordnet energiewirtschaftliche Rollen statt nur Anlagenrecht.
 
@@ -97,7 +97,7 @@ EnWG, MaStRV, Redispatch-Regeln, Bilanzkreisverträge, Marktkommunikation.
 
 # Naturschutz, Artenschutz und Flächenkonkurrenz
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill verhindert, dass Speicher als 'nur Container' ohne Umweltprüfung behandelt wird.
 
@@ -130,7 +130,7 @@ BNatSchG, BauGB Umweltbericht, Landesnaturschutz, Planunterlagen.
 
 # Netzanschluss: Hochspannung, Umspannwerk und Kapazität
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Speicher an 110/380-kV-Strukturen und Anschlusskonflikte.
 

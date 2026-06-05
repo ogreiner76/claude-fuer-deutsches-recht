@@ -33,7 +33,7 @@ Für **Nkr Leitfaden Ermittlung Und Darstellung, Nkr Mittelstandsfreundlichkeit 
 
 Der **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (herausgegeben von BMI in Abstimmung mit NKR) ist die methodische Hauptgrundlage. Jede Ressortbegruendung muss sich daran messen lassen. Jede NKR-Stellungnahme bezieht sich darauf.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme braucht methodische Verankerung
 - Ressort weicht von Leitfaden ab
@@ -140,7 +140,7 @@ In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz 
 
 Kleine und mittlere Unternehmen (KMU) tragen erfahrungsgemaess **ueberproportional** an Regulierungslasten. Der KMU-Test ist deshalb Pflichtelement jeder NKR-Pruefung bei wirtschaftsbezogenen Vorhaben.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben adressiert die Wirtschaft
 - Vorhaben hat keine KMU-Differenzierung

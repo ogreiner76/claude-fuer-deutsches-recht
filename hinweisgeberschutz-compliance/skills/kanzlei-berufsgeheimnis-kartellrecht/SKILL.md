@@ -31,7 +31,7 @@ Für **Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An Betroffene, Konfl
 
 # Kanzlei Berufsgeheimnis
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Mandatsgeheimnis, interne Meldung, Datenschutz, Arbeitsrecht und externe Meldestellen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Kartellrecht
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Absprachen, Preislisten, Vertrieb, Dawn Raid, Bonusregelung, Kronzeuge und Dokumente.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Kommunikation An Betroffene
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Fairness, Datenschutz, Vertraulichkeit, Anhörung, keine Stigmatisierung und Dokumentation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Konflikt NDA Due Diligence
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Hinweise auf Verstöße, Deal-NDA, Clean Team, Offenlegung an Käufer, Whistleblower-Schutz.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

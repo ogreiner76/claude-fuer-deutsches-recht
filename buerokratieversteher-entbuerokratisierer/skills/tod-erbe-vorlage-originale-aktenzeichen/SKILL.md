@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Worum geht es konkret
 Vor jedem belastenden Verwaltungsakt muss die Behoerde grundsaetzlich anhoeren — § 28 VwVfG. Die Anhoerung ist die letzte Chance, Sachverhalt und Argumente einzubringen, bevor der Bescheid ergeht. Wer nicht reagiert, kann meist nur noch im Widerspruch/Klage agieren.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt ein Anhoerungsschreiben mit Frist vor?
 - Welcher Bescheid wird angekuendigt (Rueckforderung, Aufhebung, Bussgeld, Massnahme)?
 - Welche Sachverhaltsfeststellung wird zugrunde gelegt? Stimmt sie?

@@ -11,7 +11,7 @@ Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von 
 
 Stand 2026 — alle Zahlen vom Antragsteller mit aktueller Gesetzesfassung und BMF-Verwaltungsanweisungen abzugleichen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor dem Finanzamt-Antrag, zur belastbaren Berechnung.
 - Bei Sanity-Check der ersten Förderhöhenschätzung.

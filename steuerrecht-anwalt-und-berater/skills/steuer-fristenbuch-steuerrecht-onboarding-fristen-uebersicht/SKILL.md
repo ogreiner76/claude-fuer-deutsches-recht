@@ -427,7 +427,7 @@ Stand: 05/2026.
 
 Der Antrag § 3a Abs. 4 EStG wandert nicht durch die Verwaltung wie eine normale Steuererklärung. Sachgebietsleiter / Veranlagungsbezirksleiter prüfen die vier Voraussetzungen kritisch; bei größeren Beträgen wird die Sache regelmäßig in die Betriebsprüfung verlagert. Dieser Skill stellt die FA-Praxis dar und wie man sich darin bewegt.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches FA ist zuständig — Sitz / Geschäftsleitung?
 2. Welche Größenklasse (§ 3 BpO 2000) — Kleinst-, Klein-, Mittel-, Großbetrieb?

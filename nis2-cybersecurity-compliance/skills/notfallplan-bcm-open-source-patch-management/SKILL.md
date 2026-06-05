@@ -31,7 +31,7 @@ Für **Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment
 
 # Notfallplan Und Bcm
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 RTO/RPO, Wiederanlauf, Krisenstab, Kommunikationsausfall, Lieferanten und Protokolle.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Open Source Vulnerability
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Maintainer-Risiko, Abandonware, Patchpfad, Lizenz/Security-Dualität und Lieferantenkommunikation.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Patch Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Patchfenster, Emergency Change, Legacy-Systeme, Test, Rollback, Nachweise und Verantwortliche.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Payment Fraud Bec
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Lieferantenstammdaten, IBAN-Änderung, Freigaben, Mailregeln, Bankrückruf und Versicherung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

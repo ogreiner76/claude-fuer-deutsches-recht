@@ -143,7 +143,7 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
+Dieses Fachmodul greift, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
 
 ## Prüfraster
 
@@ -208,7 +208,7 @@ Die Verwaltung wird beauftragt, die durch den Betrieb der Gewerbeeinheit Nr. [..
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
+Dieses Fachmodul greift, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
 
 ## Vorgehen
 

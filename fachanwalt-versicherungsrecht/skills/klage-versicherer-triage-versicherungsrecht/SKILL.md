@@ -478,7 +478,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 # Schriftsatzkern und Substantiierung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung) erstellt werden, typischerweise: Deckungsklage, Klage BU/UB, Klage Sachversicherung, RSV-Deckungsklage.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

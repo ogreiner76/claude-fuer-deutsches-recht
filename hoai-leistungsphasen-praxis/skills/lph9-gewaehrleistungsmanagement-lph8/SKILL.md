@@ -34,7 +34,7 @@ Für **Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahm
 
 ## Einsatz
 
-Nutze diesen Skill nach Abnahme, wenn Fristen verstreichen, Mängel wieder auftauchen oder niemand sicher weiß, welcher Unternehmer noch in Anspruch genommen werden kann.
+Dieses Fachmodul nach Abnahme, wenn Fristen verstreichen, Mängel wieder auftauchen oder niemand sicher weiß, welcher Unternehmer noch in Anspruch genommen werden kann.
 
 ## Normanker
 

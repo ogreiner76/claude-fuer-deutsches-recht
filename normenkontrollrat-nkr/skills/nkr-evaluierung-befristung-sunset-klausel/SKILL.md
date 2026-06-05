@@ -9,7 +9,7 @@ description: "Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen 
 
 Der NKR empfiehlt regelmaessig Evaluierungs- und Befristungsklauseln, wenn Wirksamkeit, Aufwand oder Zielereichung unsicher sind. Befristung (Sunset) heisst: das Gesetz tritt nach X Jahren automatisch ausser Kraft, wenn nicht verlaengert.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit hoher Wirksamkeitsunsicherheit
 - Vorhaben mit hohem Erfuellungsaufwand

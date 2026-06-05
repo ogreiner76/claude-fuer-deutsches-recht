@@ -36,7 +36,7 @@ Für **Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email 
 
 Eine Aussage in einem Fachaufsatz oder einer Anmerkung kann juristisch problematisch sein, selbst wenn Grammatik, Stil und Quellen stimmen: Sie kann ehrverletzend gegenueber Beteiligten sein, datenschutzrechtlich heikel, berufsrechtlich relevant (Mandantenidentifizierung!), oder einfach inhaltlich nicht hinreichend belegt. Dieser Skill ist das letzte inhaltliche Pruefraster vor Druck.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen mit erkennbarem Fall (Mandantenbezug), Beitraegen ueber konkret benannte Personen oder Institutionen. Klaeren Sie:
 
@@ -182,7 +182,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -198,7 +198,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 Manchmal liefert eine Autorin den Sachverhalt eines geplanten Beitrags als E-Mail-Wechsel: Mandant - Anwalt - Behoerde - Gericht. Daraus wird ein Praxisbericht, eine Anmerkung zu einer Behoerdenpraxis oder eine Fallanalyse. Sie muessen den Wust anonymisieren, chronologisieren, zitierbar machen und entscheiden, was tatsaechlich in den Druck soll.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag dienen sollen. Klaeren Sie:
 
@@ -292,7 +292,7 @@ EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 
 Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin kollidiert mit Imprimatur, Autorenkorrektur kommt nicht zurueck, Vertriebstermin steht. Der Skill liefert ein eskalationsstufenfestes Vorgehen, das nicht zu frueh und nicht zu spaet zur Verlagsleitung greift, und Texte fuer jede Stufe.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Frist ist gefaehrdet (Abgabe, Imprimatur, Druck, Erscheinen)?
 2. Wer haelt die Frist nicht ein (Autor, Lektorat, Herstellung, Vertrieb)?
@@ -435,7 +435,7 @@ Entscheidung bitte bis [Datum, Uhrzeit].
 
 Verlage haben Formatvorlagen (DOCX-Templates, LaTeX-Klassen, Schreibrichtlinien). Autorinnen halten sich selten daran. Der Format-Check ist die erste Pruefung nach Manuskripteingang: Stimmen Absatzformate, Ueberschriftenhierarchie, Fussnotenstil, Zitiernormen mit der Verlagsvorlage ueberein? Sie zeigen die Abweichungen, statt sie still zu korrigieren - sonst verlernt die Autorin nie.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 

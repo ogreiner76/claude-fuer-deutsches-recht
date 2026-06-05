@@ -9,7 +9,7 @@ description: "Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des
 
 Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Er enthaelt die Spaltenstruktur, ein Deckblatt, drei vollstaendig befuellte Beispiele und einen Versionierungs-Footer.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Erstaufbau eines Verarbeitungsverzeichnisses in der Kanzlei oder im Mandantenunternehmen.
 - Vorlage gegenueber Aufsichtsbehoerde gemaess Art. 30 Abs. 4 DSGVO.

@@ -20,7 +20,7 @@ description: "Prueft Recht als Adressierung verantwortlicher Personen: Wissen, P
 
 ## Einsatz
 
-Nutze diesen Skill, wenn ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
+Dieses Fachmodul greift, wenn ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
 
 ## Leitfrage
 

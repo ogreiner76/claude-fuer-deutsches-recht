@@ -7,7 +7,7 @@ description: "Entscheidungsgruende Fehlerkatalog: Fehlerbremse; prüft Fristen, 
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Urteilsbauer Relationsmacher** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Urteilsbauer Relationsmacher** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

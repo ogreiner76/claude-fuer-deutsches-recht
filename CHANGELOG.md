@@ -1,3 +1,25 @@
+# v212.0.0 — Rest-Boilerplate aus Skillanfängen entfernt
+
+## Schwerpunkt
+
+- Nach v211 erneut alle 9115 `SKILL.md`-Dateien auf sprachliche Konsolidierungsreste geprüft.
+- Restformeln wie `Nutze diesen Skill`, `Nutze diese Quellenkarte`, `Nutze diesen Fehlerkatalog`, `dieser Skill beginnt mit der Sachfrage` und variierende `Dieses Fachmodul greift ...`-Starter entfernt.
+- 2906 Skill-Dateien redaktionell nachpoliert: Workflow-Skills bleiben als Workflow erkennbar, Spezialskills starten nun stärker mit ihrem konkreten Abschnitts- oder Fachgegenstand.
+
+## Qualitätsbild
+
+- Kein neuer Wissensschnitt: die Änderung ist eine Sprach- und Auffindbarkeitsbereinigung nach der Verdichtung.
+- Artefakt-Scan über alle 9115 Skills: 0 Treffer für die alten Bündelungs-, Kompendiums-, Sammelskill-, Entstehungs- und `Nutze diesen Skill`-Muster.
+- First-80-Line-Scan über alle Skillanfänge: 0 Treffer für die definierte Boilerplate-Liste.
+
+## Checks
+
+- `validate-yaml-frontmatter` OK.
+- `validate-plugin-structure` OK.
+- `git diff --check` OK.
+
+---
+
 # v211.0.0 — Freistehende Skills ohne Bündel-Artefakte
 
 ## Schwerpunkt

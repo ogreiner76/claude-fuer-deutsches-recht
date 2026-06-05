@@ -5,7 +5,7 @@ description: "Startet Hochschulprüfungsrecht für Klausur, Hausarbeit, Abschlus
 
 # Allgemein
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Kommandocenter für Prüfungsordnung, Bewertungsspielraum, Verfahrensfehler, Akteneinsicht, Widerspruch, Remonstration und Eilrechtsschutz.
 

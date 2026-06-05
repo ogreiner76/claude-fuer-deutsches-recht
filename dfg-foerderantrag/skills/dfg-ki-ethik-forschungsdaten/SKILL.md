@@ -11,7 +11,7 @@ Seit etwa 2022 ist der **Datenmanagementplan (DMP)** Pflichtbestandteil jedes DF
 
 **Alte-Hasen-Faustregel:** Ein zu knapper DMP ist kein Beinbruch, ein **fehlender DMP** dagegen schon. KI-Nutzung darf — wer aber nicht transparent macht, was er mit KI tut, riskiert Rückfragen, die den Antrag in die nächste Sitzungsrunde schicken. Lieber zwei Sätze zur KI-Nutzung im Methodenteil als gar nichts.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn:
 

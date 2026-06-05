@@ -34,7 +34,7 @@ Für **Fz Insolvenz Verlust Liquiditaet, Forsch Konzernverbund Forschung Spezial
 
 Die Forschungszulage ist nach § 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. In Verlustjahren und Start-up-Phasen heißt das: Liquidität, obwohl keine Steuer zu zahlen ist. Genau dafür wurde die Erstattungslogik geschaffen. Dieser Skill behandelt die Krise und die Insolvenz mit allen Nebenfolgen.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Bei Verlustjahren mit hohen FuE-Personalkosten.
 - Bei drohender Zahlungsunfähigkeit (§ 18 InsO) oder Überschuldung (§ 19 InsO).
@@ -216,7 +216,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
@@ -269,7 +269,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Kommentare mit Bearbeiter und Randnummer.
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

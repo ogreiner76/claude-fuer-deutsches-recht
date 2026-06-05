@@ -9,7 +9,7 @@ description: "Behandlung von Formulierungshilfen der Bundesregierung an Koalitio
 
 Formulierungshilfen der Bundesregierung an Koalitionsfraktionen sind ein parlamentarisch eingespieltes Instrument. Sie umgehen formal die regulaere Ressortabstimmung — und damit auch die foermliche NKR-Befassungspflicht. Die Praxis hat sich aber so entwickelt, dass der NKR auch bei Formulierungshilfen befasst wird (faktisch).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorgang wird als "Formulierungshilfe" gekennzeichnet
 - Inhaltlich entspricht es einem Referentenentwurf

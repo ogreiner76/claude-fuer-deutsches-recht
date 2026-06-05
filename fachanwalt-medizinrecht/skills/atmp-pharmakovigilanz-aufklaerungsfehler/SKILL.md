@@ -41,7 +41,7 @@ Für **Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundhera
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: ATMP-Pharmakovigilanz und RMP** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation.
 
@@ -321,7 +321,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Befundherausgabe, ePA und Akte** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat.
 

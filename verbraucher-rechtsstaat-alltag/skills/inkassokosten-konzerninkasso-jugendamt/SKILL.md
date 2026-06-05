@@ -31,7 +31,7 @@ Für **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kinde
 # Inkassokosten Konzerninkasso Verzug
 
 ## Fachkern: Inkassokosten Konzerninkasso Verzug
-- **Spezialgegenstand:** Inkassokosten Konzerninkasso Verzug; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Inkassokosten Konzerninkasso Verzug. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -39,7 +39,7 @@ Für **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kinde
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Inkasso nicht nur die Hauptforderung, sondern Mahnkosten, Inkassovergütung, Auslagen, Kontoführungsgebühren, Bonitätskosten oder "Ermittlungskosten" verlangt.
+Dieses Fachmodul greift, wenn Inkasso nicht nur die Hauptforderung, sondern Mahnkosten, Inkassovergütung, Auslagen, Kontoführungsgebühren, Bonitätskosten oder "Ermittlungskosten" verlangt.
 
 ## Rechtsanker
 
@@ -87,7 +87,7 @@ Ruhig, knapp, keine emotionalen Vorwürfe. Der Text soll beweisbar machen: bestr
 # Jugendamt-Schreiben verstehen
 
 ## Fachkern: Jugendamt-Schreiben verstehen
-- **Spezialgegenstand:** Jugendamt-Schreiben verstehen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Jugendamt-Schreiben verstehen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -95,7 +95,7 @@ Ruhig, knapp, keine emotionalen Vorwürfe. Der Text soll beweisbar machen: bestr
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Jugendamt-Schreiben verstehen** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt.
 
@@ -140,7 +140,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 # Kindergeld und Kinderzuschlag Bescheid
 
 ## Fachkern: Kindergeld und Kinderzuschlag Bescheid
-- **Spezialgegenstand:** Kindergeld und Kinderzuschlag Bescheid; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Kindergeld und Kinderzuschlag Bescheid. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -148,7 +148,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+Dieser Abschnitt bearbeitet **Fachkern: Kindergeld und Kinderzuschlag Bescheid** im Bereich **Verbraucher im Rechtsstaat Alltag**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Familienkasse, Rückforderung, Einspruch, Nachweise und Fristen.
 

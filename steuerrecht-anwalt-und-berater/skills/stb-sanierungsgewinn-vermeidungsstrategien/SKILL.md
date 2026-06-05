@@ -15,7 +15,7 @@ description: "Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortr
 
 Der Antrag § 3a Abs. 4 EStG ist nicht in jedem Fall die beste Lösung. Die Bindungswirkung, der FA-Streit und der Dokumentationsaufwand machen es lohnend, alternative Strategien zu prüfen, die den Sanierungsertrag entweder gar nicht entstehen lassen oder ihn durch Verlustvortrag aufzehren. Dieser Skill ist die Synthese der Vermeidungs-Optionen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Steht der Antrag § 3a EStG bereits fest, oder ist die Strategie noch offen?
 2. Welche Höhe des Sanierungsertrags ist zu erwarten?

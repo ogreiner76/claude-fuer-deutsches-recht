@@ -43,7 +43,7 @@ Für **Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Br
 
 Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen unterschiedlicher Fähigkeiten. Das BFSG (Barrierefreiheitsstärkungsgesetz, Umsetzung der EU-RL 2019/882) verlangt seit 28.06.2025 von Herstellern und Dienstleistern bestimmter Produkte und Dienstleistungen Barrierefreiheit. Ergänzt durch das AGG bei Diskriminierung in der Bedienung und durch Art. 5 KI-VO (verbotene Praktiken bei Ausnutzung von Verletzlichkeiten). Dieser Skill prüft Robotikprodukte und ihre Nutzerinterfaces (UI/UX, Sprache, Höhe, Sensorik) auf Barrierefreiheit und Diskriminierungsarmut.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller eines Roboters mit Endkundenkontakt, Dienstleister mit Robotereinsatz im Publikumsverkehr, Behindertenverband, Antidiskriminierungsstelle.
 2. **Produkt:** Pflege-, Service-, Empfangs-, Lieferroboter, Selbstbedienungsterminals mit Robotik-Bestandteilen, Bankautomaten mit Sprachausgabe.
@@ -143,7 +143,7 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 
 Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend mit Lithium-Ionen-Akkus betrieben. Die Folge: erhebliche Anforderungen aus der Batterie-VO (EU) 2023/1542, dem Gefahrgutrecht (ADR/UN 38.3), dem vorbeugenden Brandschutz (Landesbauordnungen, Sachversicherer-Bedingungen VdS), der ProdSG/MaschinenVO sowie spezifische Pflichten bei Rückruf und Versicherung. Dieser Skill ordnet die Schichten und gibt praxisnahe Vorlagen für Lagerkonzept und Rückruf.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Hersteller, Importeur, Distributor, Betreiber, Versicherer, Feuerwehr, Berufsgenossenschaft.
 2. **Zellchemie:** Li-Ion (NMC, LFP), Festkörper, Bleisäure, NiMH; Spannung, Kapazität (kWh)?
@@ -248,7 +248,7 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 
 Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schweiß-, Tunnel-Inspektion, Rohrleitungs-Crawler, Drohnen-Vermessung, Fassaden-Reinigungsroboter) bewegen sich in einem Spannungsfeld zwischen BaustellV/SiGeKo, MaschinenVO, Arbeitsschutzrecht, Bauvertragsrecht (VOB/B), Versicherungsrecht und – bei Drittschäden – allgemeinem Deliktsrecht (§ 823 BGB) sowie Verkehrssicherungspflichten. Dieser Skill ordnet die Pflichten der Akteure (Bauherr, Generalunternehmer, Subunternehmer, Verleiher des Roboters), liefert Vorlagen für Baustellenanweisungen und gibt Hilfen zur Beweissicherung bei Vorfällen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Bauherr, Generalunternehmer, Subunternehmer, Verleiher des Roboters, Hersteller, SiGeKo, Versicherer, Geschädigter.
 2. **Robotertyp:** 3D-Druck-Roboter Beton, Mauer-Robot, Tunnel-Inspektion, Brücken-Inspektion, Schweißroboter, Demontage-Roboter mit Hochdruckwasserstrahl.
@@ -345,7 +345,7 @@ Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schwei
 
 Cobots erfassen regelmäßig Beschäftigtendaten: Pickrate je Schicht, Standortdaten innerhalb des Arbeitsplatzes, biometrische Marker (Hand-, Körpererkennung), ggf. Videoschnitt zur Sicherheit. Dazu kommt Cloud-Telemetrie für Predictive Maintenance. Das berührt DSGVO, § 26 BDSG (a. F.; nach EuGH C-34/21 "Hauptpersonalrat Hessen" eingeschränkt), den Beschäftigtendatenschutz-Entwurf (Bundesgesetzgebung in Vorbereitung), § 87 Abs. 1 Nr. 6 BetrVG und Art. 22, 35 DSGVO. Dieser Skill liefert Prüfschema, Betriebsvereinbarungsklauseln und Datenschutzhinweise.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. **Rolle:** Arbeitgeber, Datenschutzbeauftragter, Betriebsrat, Beschäftigte/r, Aufsichtsbehörde.
 2. **Cobot-Modell:** Welche Sensoren? Welche Daten werden lokal/Cloud verarbeitet? Anbieter im EWR oder Drittland?

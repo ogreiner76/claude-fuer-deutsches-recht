@@ -9,7 +9,7 @@ description: "Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksam
 
 Der NKR wirkt nicht nur durch die schriftliche Stellungnahme, sondern auch oeffentlich ueber Jahresbericht, Pressemitteilungen, Hintergrundgespraeche, Bilanz-Konferenz. Dieser Skill koordiniert die kommunikative Verstaerkung einzelner Stellungnahmen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme mit hoher politischer Bedeutung
 - Wiederholungsmahnung an ein Ressort

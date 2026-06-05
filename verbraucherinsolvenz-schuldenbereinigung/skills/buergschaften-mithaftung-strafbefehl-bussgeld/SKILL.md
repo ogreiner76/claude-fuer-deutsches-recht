@@ -31,7 +31,7 @@ Für **Buergschaften Und Mithaftung, Strafbefehl Bussgeld Und Insolvenz, Deliktf
 # Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
 
 ## Fachkern: Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
-- **Spezialgegenstand:** Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ BGB §§ 765 ff., 138; InsO Forderungsprüfung. Entscheidend ist immer der aktue
 # Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
 
 ## Fachkern: Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
-- **Spezialgegenstand:** Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO § 302; StGB Geldstrafe; OWiG. Entscheidend ist immer der aktuelle Normstan
 # Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
 
 ## Fachkern: Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
-- **Spezialgegenstand:** Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

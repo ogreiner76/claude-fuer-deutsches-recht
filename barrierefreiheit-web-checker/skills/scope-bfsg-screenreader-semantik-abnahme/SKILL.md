@@ -30,7 +30,7 @@ Für **Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Abnahme Formular Portal 
 
 # Scope: BFSG, BITV, WAD, freiwilliger Standard
 
-Nutze diesen Skill zuerst, wenn unklar ist, ob eine Website rechtlich barrierefrei sein muss und nach welchem Maßstab.
+Dieser Einstieg öffnet den Arbeitsgang, wenn unklar ist, ob eine Website rechtlich barrierefrei sein muss und nach welchem Maßstab.
 
 ## Prüffragen
 
@@ -99,7 +99,7 @@ Nicht jede Website fällt automatisch unter das BFSG. Aber wenn eine Website Tei
 
 # Screenreader, Semantik, ARIA
 
-Nutze diesen Skill, wenn die Website optisch funktioniert, aber semantisch unklar ist.
+Dieses Fachmodul greift, wenn die Website optisch funktioniert, aber semantisch unklar ist.
 
 ## Prüfschritte
 

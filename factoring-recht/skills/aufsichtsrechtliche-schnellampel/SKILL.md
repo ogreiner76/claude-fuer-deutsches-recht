@@ -31,7 +31,7 @@ Für **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export
 # Aufsichtsrechtliche Schnellampel KWG ZAG
 
 ## Fachkern: Aufsichtsrechtliche Schnellampel KWG ZAG
-- **Spezialgegenstand:** Aufsichtsrechtliche Schnellampel KWG ZAG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Aufsichtsrechtliche Schnellampel KWG ZAG. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -43,7 +43,7 @@ Im Factoring lauert die **aufsichtsrechtliche Frage** als ständige Hintergrunds
 
 Hintergrund: Factoring ist seit 25.12.2008 als **Finanzdienstleistung im Sinne des § 1 Abs. 1a Satz 2 Nr. 9 KWG** ausdrücklich erfasst. Daneben können je nach Struktur ZAG-Tatbestände (Geldtransfer, E-Geld) berührt sein. Die Schnellampel sortiert das.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie beraten einen Mandanten, der erstmals laufenden Forderungsankauf betreiben will.
 - Eine Plattform plant Forderungsmarktplatz/Reverse-Factoring und fragt nach Erlaubnispflicht.
@@ -152,7 +152,7 @@ Fragen zum Einstieg:
 # Auslandsfactoring Import Export Two-Factor-System
 
 ## Fachkern: Auslandsfactoring Import Export Two-Factor-System
-- **Spezialgegenstand:** Auslandsfactoring Import Export Two-Factor-System; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Auslandsfactoring Import Export Two-Factor-System. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -164,7 +164,7 @@ Auslandsfactoring ist Forderungsankauf mit **grenzüberschreitendem Element**: d
 
 Rechtlich entstehen die schwierigen Fragen aus dem **internationalen Privatrecht der Forderungsabtretung** (Rom I Art. 14, UNIDROIT/UNCITRAL-Konventionen) sowie aus den **devisen- und aufsichtsrechtlichen Vorgaben** des Importlandes. Dieser Skill prüft die typischen Stolperfallen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Ein deutscher Mittelständler exportiert in die EU/Drittstaat und überlegt, Export-Forderungen zu factorieren.
 - Ein deutscher Factor will Forderungen eines ausländischen Lieferanten gegen deutsche Abnehmer ankaufen (Import Factoring).
@@ -270,7 +270,7 @@ Fragen zum Einstieg:
 # B2B Lieferketten Forderungsbestand und Reklamationsrisiko
 
 ## Fachkern: B2B Lieferketten Forderungsbestand und Reklamationsrisiko
-- **Spezialgegenstand:** B2B Lieferketten Forderungsbestand und Reklamationsrisiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** B2B Lieferketten Forderungsbestand und Reklamationsrisiko. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -282,7 +282,7 @@ In B2B-Lieferketten ist die Forderung **nie isoliert**, sondern eingebettet in B
 
 Dieser Skill zeigt, wie das Reklamationsrisiko strukturell adressiert wird: durch Reklamationskorridore im Vertrag, Verzicht des Debitors auf Aufrechnungen, Auswahl reklamationsarmer Forderungen, Reklamationsmanagement zwischen Factor und Kunde, statistische Modellierung und vor allem klare Belegketten (Bestellung, Auftragsbestätigung, Lieferschein, Abnahme, Rechnung).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sie strukturieren ein Factoring für einen Lieferanten der Automobilindustrie mit hohem Reklamationsanteil.
 - Im laufenden Geschäft schießen die Reklamationen plötzlich hoch und der Factor erwägt Sperre.

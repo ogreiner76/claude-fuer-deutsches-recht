@@ -142,7 +142,7 @@ Ein Arbeitsprodukt wird freigegeben, wenn:
 - Quellen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein inhaltliches Tiefenreview ohne vollständiges Dokument.
 - Kein Ersatz für vollständige anwaltliche Prüfung.
 
@@ -256,7 +256,7 @@ Mit freundlichen Grüßen
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Kostenberechnung (RVG-Tabelle live prüfen).
 - Kein Ersatz für vollständige Mandantenberatung.
 
@@ -368,6 +368,6 @@ zu machen (§ [14 Abs. 6 MarkenG / 139 Abs. 2 PatG / 97 Abs. 2 UrhG]).
 - Lizenzsätze nicht aus Modellwissen; immer branchenspezifisch recherchieren.
 - Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Schadensberechnung ohne vollständige Daten zur Verletzungshistorie.
 - Kein Ersatz für vollständige Mandantenberatung.

@@ -406,7 +406,7 @@ III. Zahlungsstufe:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Erb- und Pflichtteilsrecht erstellt werden, typischerweise: Pflichtteilsklage, Erbschein-Antrag/Beschwerde, Erbenfeststellungsklage.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.

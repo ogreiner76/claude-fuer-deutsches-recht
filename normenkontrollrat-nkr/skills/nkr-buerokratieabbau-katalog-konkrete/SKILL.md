@@ -9,7 +9,7 @@ description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardreperto
 
 Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire fuer Empfehlungen in NKR-Stellungnahmen und fuer One-in-one-out-Gegenrechnung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme mit konkreten Aenderungsempfehlungen
 - One-in-one-out-Gegenrechnung — wo Entlastung finden?

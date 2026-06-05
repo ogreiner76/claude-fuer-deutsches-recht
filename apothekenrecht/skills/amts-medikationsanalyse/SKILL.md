@@ -31,14 +31,14 @@ Für **Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundp
 # AMTS Medikationsanalyse Beratungspflicht
 
 ## Fachkern: AMTS Medikationsanalyse Beratungspflicht
-- **Spezialgegenstand:** AMTS Medikationsanalyse Beratungspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** AMTS Medikationsanalyse Beratungspflicht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: AMTS Medikationsanalyse Beratungspflicht** im Bereich **Apothekenrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
 
@@ -76,7 +76,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Apothekenbetriebsordnung Grundpflichten
 
 ## Fachkern: Apothekenbetriebsordnung Grundpflichten
-- **Spezialgegenstand:** Apothekenbetriebsordnung Grundpflichten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Apothekenbetriebsordnung Grundpflichten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -84,9 +84,9 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Worum geht es konkret
 
-Die Apothekenbetriebsordnung (ApBetrO) regelt sämtliche operative Pflichten beim Betrieb einer öffentlichen Apotheke: Räume, Personal, Sortiment, Beratung, Dokumentation, Qualitätsmanagement (QMS), Hygiene, Defektur und Rezeptur. Dieser Skill fasst die zwölf zentralen Grundpflichten in einer Checkliste zusammen, die zur Selbstüberprüfung oder zur Antwort auf eine Apothekenrevision dient.
+Die Apothekenbetriebsordnung (ApBetrO) regelt sämtliche operative Pflichten beim Betrieb einer öffentlichen Apotheke: Räume, Personal, Sortiment, Beratung, Dokumentation, Qualitätsmanagement (QMS), Hygiene, Defektur und Rezeptur. Die Checkliste ordnet die zwölf zentralen Grundpflichten für Selbstüberprüfung, Übernahmeprüfung und Reaktion auf eine Apothekenrevision.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorbereitung einer Apothekenrevision durch die Landesaufsicht.
 - Übernahme einer Apotheke und Bestandsaufnahme.
@@ -189,7 +189,7 @@ Eingaben:
 # Apothekenerlaubnis ApoG persönliche Voraussetzungen
 
 ## Fachkern: Apothekenerlaubnis ApoG persönliche Voraussetzungen
-- **Spezialgegenstand:** Apothekenerlaubnis ApoG persönliche Voraussetzungen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Apothekenerlaubnis ApoG persönliche Voraussetzungen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -199,7 +199,7 @@ Eingaben:
 
 Erlaubnis zum Betrieb einer Apotheke nach §§ 1, 2 ApoG. Die Erlaubnis ist personengebunden, nicht übertragbar und an konkret bezeichnete Räume gebunden. Geprüft werden in diesem Skill ausschliesslich die **persönlichen** (subjektiven) Voraussetzungen des Apothekenleiters; sachliche Voraussetzungen (Räume, Ausstattung) sind im Skill `raeume-ausstattung-rezeptur-defektur-labor` abgebildet.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Neuerteilung einer Apothekenerlaubnis, Inhaberwechsel, Filialgründung, Wiederaufnahme nach Ruhen, Rückkehr aus dem Ausland.
 - Behörde droht mit Versagung oder Widerruf wegen "Unzuverlässigkeit", "fehlender Approbation" oder Insolvenz.

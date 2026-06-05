@@ -31,7 +31,7 @@ Für **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhause
 # Hybrid-DRG § 115f SGB V
 
 ## Fachkern: Hybrid-DRG § 115f SGB V
-- **Spezialgegenstand:** Hybrid-DRG § 115f SGB V; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Hybrid-DRG § 115f SGB V. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhause
 ## Worum geht es konkret
 Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen abschliessenden Katalog von Eingriffen — unabhaengig davon, ob die Leistung stationaer (Kurzliegerfall) oder ambulant erbracht wird. Ziel: gleiches Geld fuer gleichen medizinischen Inhalt, Hospitalisierungs-Anreiz beseitigen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Ist der konkrete Eingriff im Hybrid-DRG-Katalog (Verordnung BMG)?
 - Wird Patient stationaer mit Kurzliegerfall behandelt oder ambulant?
 - Liegen Strukturmerkmale fuer die Hybrid-DRG-Abrechnung vor (Personal, Geraete)?
@@ -113,14 +113,14 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen ab
 # Insolvenz eines Krankenhauses Versorgungssicherung
 
 ## Fachkern: Insolvenz eines Krankenhauses Versorgungssicherung
-- **Spezialgegenstand:** Insolvenz eines Krankenhauses Versorgungssicherung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Insolvenz eines Krankenhauses Versorgungssicherung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Insolvenz eines Krankenhauses Versorgungssicherung** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
 
@@ -158,7 +158,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Intensivmedizin Beatmung Verlegung
 
 ## Fachkern: Intensivmedizin Beatmung Verlegung
-- **Spezialgegenstand:** Intensivmedizin Beatmung Verlegung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Intensivmedizin Beatmung Verlegung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -167,7 +167,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 ## Worum geht es konkret
 Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), Strukturmerkmale fuer Beatmungs-OPS, Verlegung gemaess Intensivkapazitaeten, ausserklinische Beatmung nach IPReG (Intensivpflege- und Rehabilitationsstaerkungsgesetz). Fehleinordnung gefaehrdet Verguetung und Patientensicherheit.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Intensivstation (Erwachsene, Kinder, Neonatologie, Spezial)?
 - Wird Beatmung dokumentiert (Beatmungsstunden, Geraet, OPS 8-71x)?
 - Ist Verlegung intern oder zwischen Kliniken (Triage, Kapazitaet)?

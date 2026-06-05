@@ -345,7 +345,7 @@ Stand: 05/2026.
 
 § 3c Abs. 4 EStG ist die "stille" Norm, die regelmäßig übersehen wird. Sie ordnet an, dass vor der Steuerbefreiung des Sanierungsertrags nach § 3a EStG zunächst alle vorhandenen Verlustvorträge zu verrechnen sind. Erst der danach verbleibende Sanierungsertrag wird steuerfrei. Konsequenz: Der Verlustvortrag wird durch die Sanierung aufgezehrt, auch wenn er für andere Zwecke (Folgejahre) noch von Wert gewesen wäre.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wie hoch ist der Sanierungsertrag (vor Verlustverrechnung)?
 2. Welche Verlustvorträge bestehen — laufender Verlust, Vortrag § 10d EStG, Gewerbeverlust § 10a S. 1 GewStG?
@@ -524,7 +524,7 @@ Anlage zur Steuererklärung Sanierungsjahr:
 
 § 7b GewStG ist die gewerbesteuerliche Schwesternorm zu § 3a EStG. Der Sanierungsertrag wird auch von der Gewerbesteuer befreit — aber nur, wenn ein eigener Antrag mit der Gewerbesteuererklärung gestellt wird. Wer nur § 3a Abs. 4 EStG beantragt, bleibt auf der Gewerbesteuer sitzen. Die GewSt-Belastung des Sanierungsertrags ist bei einem Hebesatz von 400 % rund 14 % — das ist nicht unerheblich.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist die Mandantin gewerbesteuerpflichtig (Gewerbebetrieb)?
 2. Welcher Hebesatz gilt am Sitz / der Betriebsstätte?
@@ -697,7 +697,7 @@ Gewerbeverlust verbraucht
 
 § 10a Satz 1 GewStG regelt die Verlustverrechnung im Gewerbesteuerrecht. Im Sanierungskontext steht er parallel zu § 3c Abs. 4 EStG: Bevor § 7b GewStG den Sanierungsertrag freistellt, wird der Gewerbeverlust verrechnet. Auch hier gilt die Mindestbesteuerung (§ 10a Sätze 2-3 GewStG).
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Wie hoch ist der vortragsfähige Gewerbeverlust (gesonderter Feststellungsbescheid § 10a S. 6 GewStG)?
 2. Ist ein Unternehmer- oder Unternehmenswechsel erfolgt (§ 10a S. 8 GewStG)?
@@ -848,7 +848,7 @@ IV. Folge
 
 Bei grenzüberschreitenden Sachverhalten wirft die Sanierungsertragsbefreiung Fragen auf: Welche Betriebsstätte trägt den Ertrag? Wie wirkt das anwendbare Doppelbesteuerungsabkommen? Kann ein ausländischer Gläubiger die Voraussetzungen nach § 3a EStG erfüllen? § 3a EStG ist eine rein deutsche Norm; ausländische Steuersysteme behandeln Sanierungserträge oft anders.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Hat die Schuldnerin Betriebsstätten im Ausland?
 2. Sind ausländische Gläubiger beteiligt?
@@ -1004,7 +1004,7 @@ the German tax authorities.
 
 Der Debt-Equity-Swap ist die Umwandlung einer Forderung des Gläubigers in Anteile am Schuldner — typischerweise im Wege einer Kapitalerhöhung mit Sacheinlage (Forderung). Aus Sicht des Schuldners verschwindet die Verbindlichkeit, ohne dass ein Ertrag entsteht (im werthaltigen Bereich). Aus Sicht des Gläubigers werden Anteile geschaffen. Dieser Skill stellt den d/e-swap als Alternative zum Forderungsverzicht dar.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist der Gläubiger bereit, Anteile am Schuldner zu erwerben?
 2. Hat der Schuldner die Rechtsform für eine Kapitalerhöhung (GmbH, AG)?
@@ -1196,7 +1196,7 @@ nerin gem. § 364 BGB durch Konfusion.
 
 § 3a EStG ist eine Norm des Einkommensteuerrechts. Über § 8 Abs. 1 KStG findet sie auch im Körperschaftsteuerrecht Anwendung. Trotz dieser Brücke gibt es im Detail Unterschiede — etwa beim Verlustvortragsregime, bei der Mindestbesteuerung, bei § 8c KStG-Risiken und beim Antragsverfahren. Dieser Skill arbeitet die Unterschiede heraus.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Ist die Schuldnerin natürliche Person, Personengesellschaft oder Kapitalgesellschaft?
 2. Wer ist Antragsteller — Steuerpflichtiger der ESt (Einzelunternehmer / Mitunternehmer) oder Körperschaft?
@@ -1366,7 +1366,7 @@ Eine GmbH in solventer Liquidation mit einem hohen nachrangigen Gesellschafterda
 
 Dieser Skill behandelt die Konstellation systematisch.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Mandantin ist eine GmbH (oder UG, GmbH und Co. KG mit Komplementaer-GmbH) und steht vor der Liquidation — **nicht** Insolvenz.
 2. Besteht ein Gesellschafterdarlehen mit qualifiziertem Rangruecktritt? Hoehe in EUR?

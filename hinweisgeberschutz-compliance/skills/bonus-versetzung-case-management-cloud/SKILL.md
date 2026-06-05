@@ -31,7 +31,7 @@ Für **Bonus Versetzung Bewertung, Case Management Tool, Cloud Hosting Meldekana
 
 # Bonus Versetzung Bewertung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Vorher-Nachher-Vergleich, Zielerreichung, Dokumentation, Zeugen und plausible Gründe.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Case Management Tool
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Mandantentrennung, Verschlüsselung, Berechtigungen, Journal, Anhänge und Export.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Cloud Hosting Meldekanal
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Region, Subprozessoren, C5/ISO, Logs, Verschlüsselung, Supportzugriffe und Exit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Compliance Hotline Provider
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 AVV, Sicherheit, Vertraulichkeit, Rollen, Datenexport, Löschung und Audit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

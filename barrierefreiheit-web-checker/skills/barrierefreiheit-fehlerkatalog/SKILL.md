@@ -7,7 +7,7 @@ description: "Barrierefreiheit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zust
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Barrierefreiheit Web Checker** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Barrierefreiheit Web Checker** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

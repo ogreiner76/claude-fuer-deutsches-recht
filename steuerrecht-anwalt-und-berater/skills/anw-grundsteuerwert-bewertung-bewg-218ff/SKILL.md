@@ -35,7 +35,7 @@ Prüfe den Grundsteuerwertbescheid im Bundesmodell. Dieser Skill arbeitet nicht 
 
 ## Begründungsstruktur
 
-Nutze diese Reihenfolge:
+Arbeite in dieser Reihenfolge:
 
 1. angefochtener Bescheid mit Datum und Aktenzeichen,
 2. konkrete falsche Besteuerungsgrundlage,

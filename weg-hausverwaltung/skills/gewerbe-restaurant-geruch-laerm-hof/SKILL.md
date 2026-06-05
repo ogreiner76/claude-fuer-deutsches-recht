@@ -18,7 +18,7 @@ description: "Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen: Geruch
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Nutze diesen Skill, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
+Dieses Fachmodul greift, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
 
 ## Prüfraster
 

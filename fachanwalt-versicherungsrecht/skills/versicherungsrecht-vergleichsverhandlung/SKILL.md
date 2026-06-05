@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 # Vergleichsverhandlung und Einigung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
 - Typische Konstellationen: Vergleich BU-Rentenhoehe, Sachschaden-Regulierung.

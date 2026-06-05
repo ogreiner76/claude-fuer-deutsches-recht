@@ -345,7 +345,7 @@ Red-Team-Memo mit ersetzbaren Formulierungen für Schriftsatz oder Gutachten.
 
 Dieser Skill verkörpert die Methodenlehre und Falllösung im deutschen bürgerlichen Recht **aus Anwaltsperspektive**: Er bildet ab, wie Gerichte tatsächlich entscheiden und wie eine anwaltliche Bewertung daran ausgerichtet wird — nicht eine rein dogmatisch-wissenschaftliche Idealmethodik. Aktiviere ihn für jede juristische Bewertung, jedes Memo, jeden Schriftsatzentwurf, jede Auslegungsentscheidung im bürgerlichen Recht (BGB, HGB, Nebengesetze).
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Du bewertest eine bürgerlich-rechtliche Frage und musst eine Anspruchsgrundlage prüfen.
 - Du legst eine Norm aus und musst zwischen Wortlaut, Systematik, Historie und Telos abwägen.

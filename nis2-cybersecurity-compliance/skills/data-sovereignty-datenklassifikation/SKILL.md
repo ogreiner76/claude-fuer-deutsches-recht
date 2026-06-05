@@ -31,7 +31,7 @@ Für **Data Sovereignty Cloud Region, Datenklassifikation, Datenschutzfolgenabsc
 
 # Data Sovereignty Cloud Region
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 EU-Region, Supportzugriffe, Schlüssel, Exit, Anbieterabhängigkeit und öffentliche Auftraggeber.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Datenklassifikation
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Public/Internal/Confidential, Mandatsdaten, Source Code, HR, Board-Unterlagen und technische Controls.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Datenschutzfolgenabschaetzung Security
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 EDR, DLP, SIEM, Video, Standortdaten, KI-Detektion und Abhilfemaßnahmen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Deepfake Ceo Fraud
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Zahlungsfreigaben, Call-back, Vier-Augen-Prinzip, Awareness, Beweissicherung und Bankmeldung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

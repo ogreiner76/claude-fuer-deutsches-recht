@@ -9,7 +9,7 @@ description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und D
 
 Der **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (herausgegeben von BMI in Abstimmung mit NKR) ist die methodische Hauptgrundlage. Jede Ressortbegruendung muss sich daran messen lassen. Jede NKR-Stellungnahme bezieht sich darauf.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Stellungnahme braucht methodische Verankerung
 - Ressort weicht von Leitfaden ab

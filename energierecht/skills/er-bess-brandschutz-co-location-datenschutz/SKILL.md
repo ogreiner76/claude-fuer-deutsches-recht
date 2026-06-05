@@ -31,7 +31,7 @@ Für **Er Bess Brandschutz Lithium Ionen, Er Bess Co Location Pv Wind, Er Bess D
 
 # Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf belegbare Brandschutzauflagen und realistische Nachforderungen der Bauaufsicht.
 
@@ -64,7 +64,7 @@ Landesbauordnung, Sonderbau, Feuerwehr, DIN/VDE nur mit Nutzerquelle oder Livezu
 
 # Co-Location mit Wind/PV
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Förder- und Erlösrisiken bei hybridem Anlagenpark.
 
@@ -97,7 +97,7 @@ EEG, EnWG, Messstellenbetrieb, Netzanschluss, PPA/CPPA.
 
 # Datenschutz: Video, Leitwarte und Fernwartung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Speicherbetriebsstätte mit Leitwarte und Wartungsdienstleistern.
 
@@ -130,7 +130,7 @@ DSGVO, BDSG, TDDDG, NIS2/BSIG-Schnittstelle, AVV.
 
 # Dieselgenerator, Notstrom und Schwarzstart
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Backup für Leittechnik, Feuerwehr, Schwarzstartfähigkeit und Emissionsauflagen.
 

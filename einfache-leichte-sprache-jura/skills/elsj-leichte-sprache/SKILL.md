@@ -5,7 +5,7 @@ description: "Kanzlei oder Behoerde will juristischen Text für Menschen mit Ler
 
 # Leichte Sprache
 
-Nutze diesen Skill, wenn ein juristischer Text für Menschen mit sehr geringer
+Dieses Fachmodul, wenn ein juristischer Text für Menschen mit sehr geringer
 Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 
 

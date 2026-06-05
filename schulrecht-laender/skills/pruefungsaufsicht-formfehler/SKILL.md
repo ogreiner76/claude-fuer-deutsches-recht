@@ -38,7 +38,7 @@ Für **Pruefungsaufsicht Formfehler Schule, Religionsunterricht Ethik Befreiung,
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, Schülerinnen und Schüler, Schulleitung, Schulträger oder Behörde gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
@@ -99,7 +99,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Anmeldung, Abmeldung, Alter, Elternrechte, Ersatzfach, Bekenntnisschule und Neutralität.
 
@@ -166,7 +166,7 @@ Erzeuge bevorzugt: Befreiungsantrag. Am Ende immer drei Zeilen: **Frist**, **feh
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Entfernung, Gefahrenweg, Behinderung, Schulwahl, Schulträger, Satzung und Widerspruch.
 
@@ -233,7 +233,7 @@ Erzeuge bevorzugt: Beförderungsantrag. Am Ende immer drei Zeilen: **Frist**, **
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Neutralität, Schulbezug, Unterrichtszeit, Meinungsfreiheit, Ordnungsrecht und Aufsicht.
 

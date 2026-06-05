@@ -128,7 +128,7 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 - Steuerliche Aussagen als Hinweis kennzeichnen; steuerliche Beratung bleibt dem Steuerberater vorbehalten.
 - Annahmen explizit markieren; keine erfundenen BA-Dienstanweisungen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung oder steuerliche Beratung.
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
 - Keine individuelle Prognose zur BA-Sperrzeitentscheidung ohne aktuellen Quellenbeleg.
@@ -250,7 +250,7 @@ Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzi
 - Keine BeckRS-, juris- oder Kommentar-Blindzitate.
 - Annahmen explizit kennzeichnen; keine erfundenen BAG-Aktenzeichen.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine individuelle Steuerberatung zur Versteuerung der Karenzentschädigung.
 - Keine Aussage über gewerblichen Rechtsschutz oder Betriebsgeheimnis (§§ 1 ff. GeschGehG) ohne separaten Prüfauftrag.

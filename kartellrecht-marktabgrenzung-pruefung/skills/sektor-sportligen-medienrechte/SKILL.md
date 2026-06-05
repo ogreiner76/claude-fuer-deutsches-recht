@@ -32,7 +32,7 @@ Für **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infras
 # Sektor Sportligen, Medienrechte und Ticketing
 
 ## Fachkern: Sektor Sportligen, Medienrechte und Ticketing
-- **Spezialgegenstand:** Sektor Sportligen, Medienrechte und Ticketing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Sportligen, Medienrechte und Ticketing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -40,7 +40,7 @@ Für **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infras
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Verbandsregeln, Medienrechte, Ticketing-Plattformen, Solidaritätsmechanismen und Zugang zu Wettbewerben
 
@@ -75,7 +75,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Telekommunikation und Infrastructure Sharing
 
 ## Fachkern: Sektor Telekommunikation und Infrastructure Sharing
-- **Spezialgegenstand:** Sektor Telekommunikation und Infrastructure Sharing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Telekommunikation und Infrastructure Sharing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -83,7 +83,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Frequenzen, TowerCos, Netzzugang, Roaming, Kooperationen, Margin Squeeze und Regulierungsüberschneidung
 
@@ -118,7 +118,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Sektor Zahlungsverkehr, Card Schemes und FinTech
 
 ## Fachkern: Sektor Zahlungsverkehr, Card Schemes und FinTech
-- **Spezialgegenstand:** Sektor Zahlungsverkehr, Card Schemes und FinTech; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Sektor Zahlungsverkehr, Card Schemes und FinTech. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -126,7 +126,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 
 ## Einsatz
 
-Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Interchange Fees, Acquiring, Wallets, Open Banking, PSD-Schnittstellen und Plattformmacht
 
@@ -161,14 +161,14 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfin
 # Selektivvertrieb Luxus Internetplattform
 
 ## Fachkern: Selektivvertrieb Luxus Internetplattform
-- **Spezialgegenstand:** Selektivvertrieb Luxus Internetplattform; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Selektivvertrieb Luxus Internetplattform. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Kartellrecht — Marktabgrenzung und Wettbewerb**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Selektivvertrieb Luxus Internetplattform** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 

@@ -50,7 +50,7 @@ Für **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf praktische DD, Transfer, Servicing, Sicherheiten und Insolvenz-/StaRUG-Hebel.
 
@@ -114,7 +114,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erzeugt eine Closing-Checkliste für Arrangeur/Zahlstelle, Verkäufer, Käufer, Borrower und Sicherheitenagent.
 
@@ -184,7 +184,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 Dieser Skill ist die Praxisanleitung für das Corporate-/M&A-Team; nicht für die Steuerberatung im engeren Sinn.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sie strukturieren eine Sanierungstransaktion und müssen die steuerlichen Voraussetzungen früh in die Verhandlungsdokumentation einbauen.
 - Sie schreiben einen Sanierungsplan, einen Insolvenzplan oder ein Lock-up Agreement und brauchen die richtige steuerliche Diktion.
@@ -329,7 +329,7 @@ Die Sanierungsgewinn-Vorschriften des § 3a EStG und § 7b GewStG sind nicht sel
 
 Dieser Skill bearbeitet die Strategie zur Ankoppelung an die Verwaltungsauffassung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor Antrag § 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
 - Vor Antrag § 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.
@@ -483,7 +483,7 @@ Sanierungsmaßnahmen können EU-beihilferechtlich relevant werden, wenn sie aus 
 
 Dieser Skill liefert die Prüfanleitung für die EU-beihilferechtliche Würdigung im Sanierungsmandat.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sanierung einer Gesellschaft mit staatlicher Beteiligung (Bund, Land, Kommune) als Gläubiger oder Gesellschafter.
 - Anwendung der Sanierungsklausel § 8c Abs. 1a KStG.
@@ -644,7 +644,7 @@ Die wahrscheinlich häufigste Sanierungs-Falle in der Praxis ist die Kombination
 
 Dieser Skill löst das Konkurrenzverhältnis Schritt für Schritt auf.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Restrukturierung mit Eintritt eines neuen Investors (PE, Strategic) und gleichzeitigem Forderungsverzicht der Altgläubiger.
 - Debt-Equity-Swap, der einen oder mehrere Hauptgläubiger zu neuen Gesellschaftern mit über 50 % macht.
@@ -820,7 +820,7 @@ Die Strukturwahl Asset Deal vs. Share Deal entscheidet im Distressed-Mandat übe
 
 Dieser Skill liefert den Vergleichsraster für die Strukturentscheidung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Buy-side- oder Sell-side-Strukturentscheidung im Distressed-Deal.
 - Übertragende Sanierung im Insolvenzverfahren (Asset Deal aus der Insolvenz).

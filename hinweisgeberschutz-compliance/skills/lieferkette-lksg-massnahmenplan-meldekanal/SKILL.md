@@ -31,7 +31,7 @@ Für **Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess S
 
 # Lieferkette LkSG CSDDD
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Beschwerdeverfahren, LkSG, CSDDD, Zulieferer, Risikoanalyse und Abhilfemaßnahmen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Massnahmenplan
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Pflichtlücken, Governance, Tooling, Schulung, NDA-Redlines, Investigation und Monitoring.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Meldekanal Design
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Vertraulich, erreichbar, dokumentierbar, barrierearm, mehrsprachig und nicht abschreckend.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Meldeprozess SLA
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Eingang, Triage, Risiko, Bearbeiter, Eskalation, Rückmeldung und Abschluss.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

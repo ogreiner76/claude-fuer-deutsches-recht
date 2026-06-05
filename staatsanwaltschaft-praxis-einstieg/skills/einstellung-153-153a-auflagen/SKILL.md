@@ -14,7 +14,7 @@ description: "Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen: P
 
 ## Einsatz
 
-Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
+Dieser Abschnitt bearbeitet **Fachkern: Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Geringfügigkeit, öffentliches Interesse, Zustimmung, Auflagenhöhe und Opferinteressen
 

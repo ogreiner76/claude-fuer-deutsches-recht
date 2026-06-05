@@ -7,7 +7,7 @@ description: "Paragraph Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigk
 
 ## Einsatzlage
 
-Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Schriftform Und Textform Bgb** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+Dieser Fehlerkatalog prüft im Bereich **Schriftform Und Textform Bgb** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
 
 ## Fachspezifische Fehlerachsen
 

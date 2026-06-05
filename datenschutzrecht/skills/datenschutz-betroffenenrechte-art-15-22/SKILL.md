@@ -9,7 +9,7 @@ description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestrier
 
 Dieser Skill orchestriert die Bearbeitung mehrerer kombinierter Betroffenenrechte in einem Vorgang — etwa wenn ein Betroffener gleichzeitig Auskunft (Art. 15), Loeschung (Art. 17), Datenuebertragbarkeit (Art. 20) und Widerspruch (Art. 21) verlangt. Ziel ist Konfliktaufloesung, einheitliche Frist, Vermeidung von Doppelarbeit.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Antrag mehr als nur ein Betroffenenrecht enthaelt oder sich Rechte ueberlappen (z. B. Auskunft und Loeschung).
 

@@ -341,7 +341,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Wann dieser Skill greift
+## Wann dieser Arbeitsgang greift
 
 - Betriebsrat mandatiert einen Anwalt für ein Beschlussverfahren; Arbeitgeber rügt den Beschluss.
 - Mandatierungs- oder Anrufungsbeschluss des Betriebsrats ist formal fehlerhaft.

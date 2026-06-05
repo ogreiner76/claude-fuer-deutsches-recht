@@ -42,7 +42,7 @@ Für **Eltif Private Markets / Euveca Fonds / Kvg Erlaubnis Registrierung Auslag
 
 Der Skill stellt EU-Pass, Retail-Zugang, Anlagegrenzen, Liquidität und Vertrieb von ELTIF 2.0 gegenüber einem deutschen Spezial-AIF dar. Seit 10.01.2024 gilt die novellierte ELTIF-Verordnung (EU) 2023/606, die Retail-Hürden gesenkt, Master-Feeder zugelassen, Fund-of-Funds erleichtert und das semi-liquide Segment für Private Markets stark erweitert hat.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Soll der Fonds in mehreren EU-Mitgliedstaaten an Retail-Anleger vertrieben werden?
 2. Asset-Klasse: PE, Infrastruktur, Private Debt, Real Estate, Wachstumsfonds für KMU?
@@ -138,7 +138,7 @@ Redemption-Gate-Klausel:
 
 Der Skill liefert die Strukturentscheidung zwischen EuVECA-Label (VO 345/2013), klassischem Sub-Threshold-AIFM (§ 2 Abs. 4 KAGB) und vollerlaubnispflichtiger KVG für Venture-Capital-Fonds. Kerneinsatz bei Fondsmarketing und wenn ein VC-Fonds nicht wie ein Buyout-Fonds funktionieren soll — andere Anlegerlogik, andere Ticketgrößen, andere Reporting-Erwartungen.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Geplantes Fondsvolumen (EuVECA: < 500 Mio. EUR; sub-threshold-AIFM: typisch < 100/500 Mio. EUR)?
 2. Soll EU-weit vertrieben werden (EuVECA hat eigenen Pass)?
@@ -232,7 +232,7 @@ Founder Vesting (EN/DE):
 
 Der Skill baut die BaFin-Kommunikations- und Dokumentenmatrix für Fondsmanager. Kernfrage: Vollerlaubnis nach §§ 17 ff. KAGB, Registrierung als Sub-Threshold-AIFM nach § 2 Abs. 4/5 KAGB oder Auslagerung auf Service-KVG ("Master-KVG-Modell"). Setup-Zeit, Kosten, Personalanforderungen und EU-Pass-Verfügbarkeit unterscheiden sich erheblich.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Geplantes AuM-Wachstum (jetzt vs. 5 Jahre)?
 2. Sub-Threshold-Kriterien erfüllt: < 100 Mio. EUR mit Hebel oder < 500 Mio. EUR ohne Hebel und Lock-up >= 5 Jahre?
@@ -326,7 +326,7 @@ Auslagerungsregister (Pflichtfeld):
 
 Der Skill ordnet die Funktionstrennung zwischen Verwahrstelle (§ 80 KAGB), Fondsadministrator und KVG. Besonders wichtig, wenn Sponsor und Administrator Aufgaben unscharf verteilen — typische Streitpunkte sind NAV-Bewertung, Capital-Call-Berechnung, Waterfall-Berechnung, Reporting-Verantwortung und ILPA-Datenformate.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Fondsart (offener/geschlossener Spezial-AIF, ELTIF, EuVECA)?
 2. Verwahrstelle bereits ausgewählt? Verwahrstellenvertrag in welcher Phase?

@@ -23,7 +23,7 @@ description: "Prueft, ob formale Legalitaet moralisch relevant ist, ohne Positiv
 
 ## Einsatz
 
-Nutze diesen Skill, wenn in einer Debatte behauptet wird, formale Legalität sei entweder moralisch völlig leer oder schon für sich genommen moralisch ausreichend. Beides ist zu grob. Der Skill zeigt, wie Legalitätsmängel moralisch und rechtsstaatlich wichtig sein können, ohne die Trennung von Geltung und Bewertung aufzugeben.
+Dieses Fachmodul greift, wenn in einer Debatte behauptet wird, formale Legalität sei entweder moralisch völlig leer oder schon für sich genommen moralisch ausreichend. Beides ist zu grob. Der Skill zeigt, wie Legalitätsmängel moralisch und rechtsstaatlich wichtig sein können, ohne die Trennung von Geltung und Bewertung aufzugeben.
 
 ## Prüfprogramm
 

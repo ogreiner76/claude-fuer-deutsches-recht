@@ -31,7 +31,7 @@ Für **Fahrer Telematik, Forensik Beweissicherung, Geheimnisschutz Geschg, Ident
 
 # Fahrer Telematik
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Fahrerdaten, Standort, Tachodaten, Security, AirTags, Betriebsrat und Kundenpflichten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Forensik Beweissicherung
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Images, Logs, Chain of Custody, Cloud Exports, Zeitquellen, Datenschutz und Strafanzeige.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Geheimnisschutz Geschg
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Angemessene Geheimhaltungsmaßnahmen, Zugriff, Klassifikation, NDAs, Logs und Leaver.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Identity Access Management
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Least Privilege, Rezertifizierung, SSO, Joiner/Mover/Leaver, Dienstkonten und Mandantentrennung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.

@@ -24,7 +24,7 @@ description: "Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer G
 
 Dieser Skill ist die Praxisanleitung für das Corporate-/M&A-Team; nicht für die Steuerberatung im engeren Sinn.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Sie strukturieren eine Sanierungstransaktion und müssen die steuerlichen Voraussetzungen früh in die Verhandlungsdokumentation einbauen.
 - Sie schreiben einen Sanierungsplan, einen Insolvenzplan oder ein Lock-up Agreement und brauchen die richtige steuerliche Diktion.

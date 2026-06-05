@@ -9,7 +9,7 @@ description: "Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenu
 
 Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik fuer die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor der Erstdurchfuehrung einer DSFA, wenn keine Hausmethodik vorgegeben ist
 - Beim Aufbau eines Datenschutzmanagementsystems (DSMS)

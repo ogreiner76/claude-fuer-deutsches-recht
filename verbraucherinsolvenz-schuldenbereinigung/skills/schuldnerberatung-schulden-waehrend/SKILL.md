@@ -31,7 +31,7 @@ Für **Schuldnerberatung Workflow, Neue Schulden Waehrend Verfahren, Verfahrensk
 # mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.
 
 ## Fachkern: mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.
-- **Spezialgegenstand:** mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO § 305; Landesanerkennung Beratungsstellen. Entscheidend ist immer der aktu
 # Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.
 
 ## Fachkern: Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.
-- **Spezialgegenstand:** Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO §§ 290, 295, 296; Vertragsrecht. Entscheidend ist immer der aktuelle Norm
 # Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.
 
 ## Fachkern: Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.
-- **Spezialgegenstand:** Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

@@ -9,7 +9,7 @@ description: "Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte
 
 Dieser Skill fuehrt das erste Gespraech mit dem Mandanten in einem Datenschutzfall. Ziel ist nicht eine sofortige rechtliche Bewertung, sondern die saubere Einordnung des Falls in eine **Mandantenmatrix**, aus der hervorgeht: Welche Rolle hat der Mandant? Welche Frist laeuft? Welcher Folge-Skill ist als naechstes zu starten? Der Skill ersetzt keine Subsumtion, sondern ist die Weiche.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Fachmodul greift. Typische Anlaesse:
 

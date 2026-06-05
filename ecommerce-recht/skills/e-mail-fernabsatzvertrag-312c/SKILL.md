@@ -38,7 +38,7 @@ Für **E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, G
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: E-Mail Bestellbestätigung Vertragsschluss** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
@@ -86,7 +86,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (§ 312c BGB). Er löst zahlreiche besondere Pflichten aus: Informationspflichten (Art. 246a EGBGB), Widerrufsrecht (§ 312g BGB), Button-Lösung (§ 312j BGB), Bestellbestätigung (§ 312i BGB). Der Skill ordnet die Voraussetzungen und das Zusammenspiel der Folgepflichten.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Wer sind die Vertragsparteien (Verbraucher, Unternehmer)?
 - Welche Vertriebsform (Webshop, Telefon, E-Mail, Messenger, Social Commerce)?
@@ -185,7 +185,7 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 
 
 ## Einsatz
-Nutze diesen Skill im Plugin **E-Commerce-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Dieser Abschnitt bearbeitet **Fachkern: Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia** im Bereich **E-Commerce-Recht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 

@@ -7,7 +7,7 @@ description: "Bei unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindun
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

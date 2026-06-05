@@ -11,7 +11,7 @@ description: "Prüft hochgeladene LMA-basierte Kreditverträge aus deutscher Cor
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill übersetzt LMA-Marktstruktur in deutsche Deal- und Rechtsfolgen, ohne LMA-Mustertext zu reproduzieren.
 

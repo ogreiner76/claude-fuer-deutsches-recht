@@ -38,7 +38,7 @@ Für **Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct L
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Fokus auf Entscheidungsvorlage für Sponsor und Management.
 
@@ -79,7 +79,7 @@ WpPG/Prospektrecht, WpHG/MAR, SPA, Börsenregeln, Kartell/FDI.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Besonders wichtig bei wiederverwendeten DD-Berichten und Management-Roll-over.
 
@@ -120,7 +120,7 @@ SPA/W&I, DD-Reliance, Kartell/FDI, Management Participation.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill erklärt Kreditlogik für Corporate-Anwälte und übersetzt sie in Dokumentenarbeit.
 
@@ -161,7 +161,7 @@ Kreditvertrag, BGB Darlehen, Sicherheiten, KAGB/Kreditfonds, KWG/ZAG-Schnittstel
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Keine LMA-Textwiedergabe; der Skill arbeitet am konkreten Upload: Definitions, Conditions, Transfer, Covenants, Events of Default.
 

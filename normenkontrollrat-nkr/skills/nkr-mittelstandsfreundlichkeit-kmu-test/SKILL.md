@@ -9,7 +9,7 @@ description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement d
 
 Kleine und mittlere Unternehmen (KMU) tragen erfahrungsgemaess **ueberproportional** an Regulierungslasten. Der KMU-Test ist deshalb Pflichtelement jeder NKR-Pruefung bei wirtschaftsbezogenen Vorhaben.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben adressiert die Wirtschaft
 - Vorhaben hat keine KMU-Differenzierung

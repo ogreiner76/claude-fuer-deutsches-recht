@@ -14,7 +14,7 @@ description: "Kaltstart für beide Seiten: steuert gemeinsamer Einstieg für Kan
 
 ## Worum es geht
 
-Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+Dieser Abschnitt bearbeitet **Fachkern: Kaltstart für beide Seiten** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** gemeinsamer Einstieg für Kanzlei, Einzelanwalt, Rechtsabteilung und Fachabteilung mit Rollen, Zielbild, Budget und Vertraulichkeitsgrenzen
 

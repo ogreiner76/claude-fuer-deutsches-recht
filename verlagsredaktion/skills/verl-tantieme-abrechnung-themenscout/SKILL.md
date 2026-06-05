@@ -36,7 +36,7 @@ Für **Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, V
 
 Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligung an Verkauf oder Nutzung (Tantieme). Die Abrechnung wird einmal jaehrlich ausgekehrt, bei Loseblatt und Online ggf. quartalsweise. UrhG § 32d schafft eine spezialgesetzliche Auskunftspflicht. Der Skill fuehrt durch die Abrechnungslogik, die UStG-Behandlung und die Eskalation, wenn der Autor die Abrechnung beanstandet.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Vertragsart: Lehrbuch, Kommentar, Loseblatt, Festschrift, Online-Kommentar?
 2. Honorarmodell: pro verkauftem Stueck, prozentual vom Nettoladenpreis, prozentual vom Nettoumsatz, Mischmodell?
@@ -185,7 +185,7 @@ Mit freundlichen Gruessen
 
 Eine Fachzeitschrift lebt davon, fruehzeitig die Themen zu sehen, ueber die in 4-12 Wochen alle reden werden. Der Themenscout-Skill systematisiert diese Frueherkennung: Welche BGH-Vorlagebeschluesse koennen Sprengkraft entwickeln? Welche EuGH-Schlussantraege deuten auf Rechtsprechungsaenderungen? Welches BMF-Schreiben aendert die Beraterpraxis?
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn fuer die periodische Themenfindung (woechentlich / monatlich) oder bei punktueller Frage "was sollte ins Heft 09/2026?". Klaeren Sie:
 
@@ -293,7 +293,7 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 
 Anders als der Themenscout (der einzelne Entscheidungen scannt) sucht der Trend-Radar nach uebergeordneten Bewegungen: KI-Regulierung quer durch Zivilrecht, Strafrecht, Arbeitsrecht; ESG-Pflichten quer durch Gesellschaftsrecht, Steuerrecht, Umweltrecht; EU-Reformen, die Folgewellen in nationalen Rechtsgebieten ausloesen. Dieser Skill systematisiert die Querschnittsbeobachtung fuer Verlagsprogramme.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn fuer Programm- und Produktstrategie: neue Reihen, neue Zeitschriften, neue Loseblattwerke, neue Online-Kommentare. Klaeren Sie:
 
@@ -397,7 +397,7 @@ Programm-Empfehlung:
 
 Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach UrhG § 32a oder ein Manuskript-Verzug eskaliert. Bevor man zum Anwalt geht, lohnt der schriftlich oder muendlich gefuehrte Vergleich. Der Skill liefert Verhandlungslinie, Argumentationsraster, Mustertext fuer einen schriftlichen Vergleich mit Abgeltungsklausel und Hinweise auf typische Fallstricke.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Was ist der Streitgegenstand (Summe X, Manuskriptrueckgabe, Nutzungsrechte zurueck, Tantiemenanpassung)?
 2. Wer ist Verhandlungsfuehrer auf jeder Seite (Autor, Anwalt, Verlagsleitung, Justiziariat)?
@@ -556,7 +556,7 @@ Verlag Autor
 
 Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nicht oder falsch eintraegt, wird im Buchhandel nicht gefunden. Der Skill fuehrt durch ONIX-Pflichtfelder, Schlagwortlogik, Klappentextpflege, Preisbindung, Erscheinungstermin-Updates und stellt sicher, dass VLB-Daten mit Webshop, beck-online und Vertriebspartnern konsistent sind.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Neueintrag, Pflegeaktualisierung oder Abkuendigung?
 2. Werktyp (Buch, Loseblatt, E-Book, Hoerbuch, Online-Kommentar)?

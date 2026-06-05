@@ -32,13 +32,13 @@ Für **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Prue
 # Pruefungsrecht Mecklenburg Vorpommern
 
 ## Fachkern: Pruefungsrecht Mecklenburg Vorpommern
-- **Spezialgegenstand:** Pruefungsrecht Mecklenburg Vorpommern; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Mecklenburg Vorpommern. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Mecklenburg-Vorpommern: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -99,13 +99,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Niedersachsen
 
 ## Fachkern: Pruefungsrecht Niedersachsen
-- **Spezialgegenstand:** Pruefungsrecht Niedersachsen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Niedersachsen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Niedersachsen: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -166,13 +166,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Nordrhein Westfalen
 
 ## Fachkern: Pruefungsrecht Nordrhein Westfalen
-- **Spezialgegenstand:** Pruefungsrecht Nordrhein Westfalen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Nordrhein Westfalen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Nordrhein-Westfalen: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
@@ -233,13 +233,13 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 # Pruefungsrecht Rheinland Pfalz
 
 ## Fachkern: Pruefungsrecht Rheinland Pfalz
-- **Spezialgegenstand:** Pruefungsrecht Rheinland Pfalz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Pruefungsrecht Rheinland Pfalz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Landescheck Rheinland-Pfalz: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 

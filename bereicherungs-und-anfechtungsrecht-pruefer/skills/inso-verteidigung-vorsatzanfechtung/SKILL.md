@@ -15,8 +15,8 @@ In diesem Skill wird **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtu
 | --- | --- |
 | `inso-verteidigung-anfechtungsgegner` | Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatrix und Schriftsatzgerüst. |
 | `inso-vorsatzanfechtung-133` | Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht. |
-| `insolvenzrisiko-im-dreipersonenverhaeltnis` | Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO. |
-| `ip-lizenzanalogie-und-bereicherung` | Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie. |
+| `insolvenzrisiko-im-dreipersonenverhaeltnis` | Dieses Fachmodul greift, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO. |
+| `ip-lizenzanalogie-und-bereicherung` | Dieses Fachmodul greift, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie. |
 
 ## Arbeitsweg
 
@@ -219,13 +219,13 @@ Hinweis: Keine Rechtsberatung. § 133 InsO ist keine reine Mustererkennung; jede
 
 ## 3. `insolvenzrisiko-im-dreipersonenverhaeltnis`
 
-**Fokus:** Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
+**Fokus:** Dieses Fachmodul greift, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
 
 # Insolvenzrisiko im Dreipersonenverhältnis
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -314,13 +314,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `ip-lizenzanalogie-und-bereicherung`
 
-**Fokus:** Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie.
+**Fokus:** Dieses Fachmodul greift, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie.
 
 # IP-Lizenzanalogie und Bereicherung
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

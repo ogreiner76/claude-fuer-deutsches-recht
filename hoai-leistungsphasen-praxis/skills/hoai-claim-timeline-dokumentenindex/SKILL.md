@@ -94,7 +94,7 @@ Dieser Querschnitts-Skill bearbeitet **erstellt Aktenindex nach LPH, Datum, Plan
 
 ## Einsatz
 
-Nutze diesen Skill, wenn Pläne nicht zusammenpassen: Lüftung kollidiert mit Träger, Brandschutz verlangt andere Türen, TGA-Schächte fehlen oder Baugrundannahmen kippen.
+Dieses Fachmodul greift, wenn Pläne nicht zusammenpassen: Lüftung kollidiert mit Träger, Brandschutz verlangt andere Türen, TGA-Schächte fehlen oder Baugrundannahmen kippen.
 
 ## Normanker
 
@@ -152,7 +152,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Fördermittel, Vergabebindungen, N
 
 ## Einsatz
 
-Nutze diesen Skill bei Kita, Schule, Kommune, Verein, WEG oder gemeinnützigem Träger, wenn Fördermittelbedingungen die Planung, Vergabe und Abrechnung steuern.
+Dieses Fachmodul bei Kita, Schule, Kommune, Verein, WEG oder gemeinnützigem Träger, wenn Fördermittelbedingungen die Planung, Vergabe und Abrechnung steuern.
 
 ## Prüffragen
 

@@ -36,7 +36,7 @@ Für **Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Ve
 
 Ideen entstehen taeglich: Gespraech auf der Tagung, Mandantenfrage, Kollegenhinweis, Mediennotiz. Ohne System landen sie auf 17 Klebezetteln in einer Schublade und niemand sieht mehr, was schon dran ist. Der Ideenpool macht das Backlog sichtbar, priorisierbar und entscheidungsreif - zentrale Werkstatt der Verlagsredaktion.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn keine zentrale Themenverwaltung existiert oder die bestehende veraltet ist. Klaeren Sie:
 
@@ -135,7 +135,7 @@ Abgelehnt: Begruendung in Spalte "Notizen"
 
 Jedes Verlagsprodukt mit eigener oeffentlicher Wirkung braucht ein Impressum: Print-Heft, Buch, Online-Volltextangebot, Newsletter, Social-Media-Profil. Anforderungen verteilen sich auf DDG § 5 (Telemedien), MStV § 18 (journalistisch-redaktionelle Telemedien) und Landespressegesetze (Print). Der Skill bietet eine Pruefcheckliste und Mustertexte fuer alle Produkte des Verlags.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Produkt (Print-Heft, Buch, Online-Volltext, Datenbank, Newsletter, Social-Profil, Webinar-Plattform)?
 2. Mit oder ohne journalistisch-redaktionellen Charakter?
@@ -313,7 +313,7 @@ Datenschutz: [Link]
 
 Aus einer Stunde Tonbandgespraech mit einer Bundesrichterin oder einem Strafverteidiger werden vier Druckseiten Interview. Das ist nicht "abtippen", sondern Komposition. Sie kuerzen, sortieren, glaetten - und legen das Ergebnis der Interviewten zur Autorisierung vor. Dieser Skill fuehrt durch die Bearbeitung von Roh-Transkript bis zur autorisierten Druckfassung.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- oder Online-Interview werden soll. Klaeren Sie:
 
@@ -405,7 +405,7 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 
 Der Jourfixe (woechentlich oder vierzehntaeglich) ist der Routinetermin der Verlagsredaktion: 30-60 Min, Status aller laufenden Manuskripte, naechste Schritte, Eskalationen. Anders als die Heftsitzung (`verl-redaktionssitzung-vorbereiten`) entscheidet er nicht ueber Themenarchitektur, sondern ueber Tagesgeschaeft. Dieser Skill ist Vorbereitung und Protokoll.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn fuer jeden Jourfixe. Klaeren Sie vorab:
 
@@ -522,7 +522,7 @@ Naechster Jourfix: 19.06.2026, 10:00.
 
 Eine Anwaltskanzlei oder ein Lehrstuhl liefert den Mitschnitt einer ganzen Fachtagung (z. B. Karlsruher Forum, BB-Konferenz, ZIP-Insolvenz-Tag). Daraus soll ein Tagungsbericht im Heft entstehen: vier bis zwoelf Druckseiten, in denen Vortraege referiert und die Diskussion skizziert wird. Anders als beim Einzelinterview braucht ein Tagungsbericht eine andere Struktur.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn, wenn ein vollstaendiger Tagungsmitschnitt oder mehrere Einzelvortragsmitschnitte verarbeitet werden sollen. Klaeren Sie:
 

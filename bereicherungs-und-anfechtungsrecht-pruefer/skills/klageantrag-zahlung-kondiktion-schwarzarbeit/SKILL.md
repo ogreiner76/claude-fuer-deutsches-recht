@@ -13,9 +13,9 @@ In diesem Skill wird **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei
 
 | Prüffeld | Fokus |
 | --- | --- |
-| `klageantrag-zahlung-herausgabe-zug-um-zug` | Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung. |
-| `kondiktion-bei-schwarzarbeit-und-illegalitaet` | Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB. |
-| `kondiktionskarte-vollstaendiger-fallaufbau` | Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs. |
+| `klageantrag-zahlung-herausgabe-zug-um-zug` | Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung. |
+| `kondiktion-bei-schwarzarbeit-und-illegalitaet` | Dieses Fachmodul greift, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB. |
+| `kondiktionskarte-vollstaendiger-fallaufbau` | Dieses Fachmodul greift, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs. |
 | `konkurrenz-bereicherung-anfechtung-und-vindikation` | Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klären. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Prüfraster: Verdrängungsregeln, Subsidiarität, Parallelität der Ansprüche. Output: Konkurrenzübersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung innerhalb eines Regelungskreises. |
 
 ## Arbeitsweg
@@ -27,13 +27,13 @@ Für **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit U
 
 ## 1. `klageantrag-zahlung-herausgabe-zug-um-zug`
 
-**Fokus:** Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung.
+**Fokus:** Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung.
 
 # Klageantrag: Zahlung, Herausgabe, Zug um Zug
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -101,13 +101,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `kondiktion-bei-schwarzarbeit-und-illegalitaet`
 
-**Fokus:** Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB.
+**Fokus:** Dieses Fachmodul greift, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB.
 
 # Kondiktion bei Schwarzarbeit und Illegalität
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -175,13 +175,13 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `kondiktionskarte-vollstaendiger-fallaufbau`
 
-**Fokus:** Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs.
+**Fokus:** Dieses Fachmodul greift, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs.
 
 # Kondiktionskarte: vollständiger Fallaufbau
 
 ## Einsatzbereich
 
-Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Dieses Fachmodul greift, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

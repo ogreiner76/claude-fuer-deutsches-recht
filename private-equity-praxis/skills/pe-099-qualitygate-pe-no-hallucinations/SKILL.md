@@ -12,7 +12,7 @@ description: "Prüft alle PE-Outputs auf erfundene Marktstandards, falsche Norme
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 
 Der Skill ist der letzte Kamm vor Versand.
 

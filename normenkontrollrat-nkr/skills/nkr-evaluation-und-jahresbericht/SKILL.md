@@ -9,7 +9,7 @@ description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht d
 
 Der NKR wirkt nicht nur ex ante an Einzelvorhaben mit, sondern bilanziert ex post das Regelungsaufkommen und veroeffentlicht jaehrlich einen Bericht (§ 7 NKRG). Der Bericht ist das wichtigste oeffentlich wirksame Instrument des NKR.
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorbereitung Jahresbericht
 - Stellungnahme soll Evaluierungsklausel empfehlen

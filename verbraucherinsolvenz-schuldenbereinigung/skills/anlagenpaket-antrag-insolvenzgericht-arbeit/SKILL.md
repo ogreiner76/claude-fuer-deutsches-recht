@@ -31,7 +31,7 @@ Für **Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Me
 # Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
 
 ## Fachkern: Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
-- **Spezialgegenstand:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -72,7 +72,7 @@ InsO § 305 Abs. 1. Entscheidend ist immer der aktuelle Normstand der InsO, die 
 # Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
 
 ## Fachkern: Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
-- **Spezialgegenstand:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -113,7 +113,7 @@ InsO §§ 305, 287, 4a. Entscheidend ist immer der aktuelle Normstand der InsO, 
 # Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
 
 ## Fachkern: Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
-- **Spezialgegenstand:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Spezialgegenstand:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

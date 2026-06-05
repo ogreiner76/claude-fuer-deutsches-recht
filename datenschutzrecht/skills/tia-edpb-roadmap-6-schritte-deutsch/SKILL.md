@@ -9,7 +9,7 @@ description: "EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap fuer 
 
 Dieser Skill arbeitet die Sechs-Schritte-Roadmap aus der EDPB-Empfehlung 01/2020 (Final Version 18.06.2021) als operative Pruefkette ab. Sie ist die Standard-Architektur fuer das deutsche TIA-Dokument.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Erstes TIA-Dokument fuer einen konkreten Transfer.
 - Aktualisierung eines bestehenden TIA nach Provider-Wechsel oder neuer Behoerdenpraxis.

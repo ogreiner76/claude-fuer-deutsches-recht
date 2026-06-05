@@ -41,7 +41,7 @@ Dieser Skill baut das eigentliche **Plädoyer für die Forschungszulage**: nicht
 
 Das Plädoyer ist immer **adressatenspezifisch**: Die BSFZ will eine technische FuE-Geschichte; das Finanzamt will Zahlen und Belege; die Geschäftsführung will Cash, Risiko und Aufwand; das Gericht will Zuständigkeit, Verwaltungsakt, Rechtsweg und Substantiierung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Wenn ein BSFZ-Portaltext schon vorliegt, aber zu flach, werblich oder nicht beweisbar klingt.
 - Wenn eine Rückfrage oder Ablehnung in eine überzeugende Stellungnahme übersetzt werden muss.
@@ -258,7 +258,7 @@ Immer liefern:
 
 FuE-Vorhaben dauern oft 2 bis 4 Jahre. Die Forschungszulage ist nicht als Einmal-Bonus konzipiert, sondern soll mehrere Wirtschaftsjahre tragen. Wer das strategisch aufzieht, gewinnt Liquidität jedes Jahr, glättet die Außenprüfungsrisiken und kann Folgeanträge erheblich knapper halten als Erstanträge. Dieser Skill liefert die Mehrjahresplanung.
 
-## Wann brauchen Sie diesen Skill
+## Wann dieses Modul hilft
 
 - Vor dem ersten BSFZ-Antrag, wenn das Vorhaben mehrjährig ist.
 - Bei jährlicher Aktualisierung der Projektakte und Stundenaufzeichnung.
@@ -438,7 +438,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
 - Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
+## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz fuer eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.

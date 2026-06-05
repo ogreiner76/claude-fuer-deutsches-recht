@@ -31,7 +31,7 @@ Für **Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw
 
 # Mobile Device Loss
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Sperre, Remote Wipe, Logcheck, Datenschutzmeldung, Versicherer, Ersatzgerät und Lessons Learned.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -79,7 +79,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # OT Industrial Control
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Segmentierung, Remote Maintenance, Safety, Ersatzteile, Patchbarkeit, Notbetrieb und Lieferanten.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -127,7 +127,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Admin Offboarding
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Konten, Schlüssel, Secrets, Hardware, Tokens, SaaS, Cloud, Repos und Beweissicherung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
@@ -175,7 +175,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 # Airtags Lkw Tracking
 
-## Wofür dieser Skill da ist
+## Wofür dieser Arbeitsgang da ist
 Datenschutz, Beschäftigtenüberwachung, Diebstahlschutz, Flottenlogik, GPS/BT, Betriebsrat und Zweckbindung.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
