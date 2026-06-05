@@ -67,6 +67,6 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschrei
 | `lease-sicherungsuebereignung-leasingregister` | Lease Sicherungsuebereignung Leasingregister im Plugin Leasingrecht Praxis: prüft konkret Sicherungsübereignung im Leasingrecht, Kommunalleasing, Leasing von Energieanlagen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel un... |
 | `lease-steuer-umsatzsteuer-immobilienleasing` | Lease Steuer Umsatzsteuer Immobilienleasing im Plugin Leasingrecht Praxis: prüft konkret Umsatzsteuer im Leasingrecht, Immobilienleasing, Grenzüberschreitendes Leasing. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und näc... |
 | `lease-unternehmerleasing-gewaehrleistung` | Lease Unternehmerleasing Gewaehrleistung im Plugin Leasingrecht Praxis: prüft konkret Unternehmerleasing, Leasingdreieck, Mangel am Leasingobjekt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `leasingrecht-praxis-kaltstart-triage` | Leasingrecht Praxis: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `leasingrecht-praxis-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Leasingrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -72,6 +72,6 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `infl-vertragsarchiv-creator-hassrede` | Infl Vertragsarchiv Creator Hassrede im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `infl-wahlwerbung-durch-arbeitsrecht-social` | Infl Wahlwerbung Durch Arbeitsrecht Social im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `infl-werbekennzeichnung-instagram` | Infl Werbekennzeichnung Instagram im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `influencer-recht-kaltstart-triage` | Influencer-Recht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `influencer-recht-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Influencer- und Social-Media-Recht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arb... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

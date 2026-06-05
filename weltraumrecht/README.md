@@ -74,6 +74,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `space-weltraumdaten-datenbankrecht` | Space Weltraumdaten Datenbankrecht im Plugin Weltraumrecht: prüft konkret Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `space-weltraummedizin-probandenrecht-haftung` | Space Weltraummedizin Probandenrecht Haftung im Plugin Weltraumrecht: prüft konkret Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medi, Schadensfälle durch Raketenstufen – LIAB Art. Liefert priorisierten Out... |
 | `space-weltraumrecht-kommunen-bergung-fremder` | Space Weltraumrecht Kommunen Bergung Fremder im Plugin Weltraumrecht: prüft konkret Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächst... |
-| `weltraumrecht-kaltstart-triage` | Weltraumrecht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `weltraumrecht-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Weltraumrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokumen... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

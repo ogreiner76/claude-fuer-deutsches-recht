@@ -75,6 +75,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `verl-verlagsgesetz-kuendigung` | Verl Verlagsgesetz Kuendigung im Plugin Verlagsrecht Buchpreisbindung: prüft konkret Verlagsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `verl-verlagsvertrag-redaktionsvertrag` | Verl Verlagsvertrag Redaktionsvertrag im Plugin Verlagsrecht Buchpreisbindung: prüft konkret Verlagsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `verl-werbung-abmahnung` | Verl Werbung Abmahnung im Plugin Verlagsrecht Buchpreisbindung: prüft konkret Verlagsrecht, Buchpreisbindungsgesetz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `verlagsrecht-buchpreisbindung-kaltstart-triage` | Verlagsrecht und Buchpreisbindung: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `verlagsrecht-buchpreisbindung-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Verlagsrecht und Buchpreisbindung. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbe... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

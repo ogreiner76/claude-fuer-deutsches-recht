@@ -81,6 +81,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `franchise-warenbezugsbindung` | Franchise Warenbezugsbindung im Franchiserecht: Dieser Skill arbeitet Franchise Warenbezugsbindung als zusammenhängenden Arbeitsgang im Plugin Franchiserecht Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Ou... |
 | `franchiserecht-praxis-fran-rs-ausgleichsanspruch` | Fran RS Ausgleichsanspruch im Franchiserecht: prüft konkret Fachmodul Franchiserecht für Ausgleichsanspruch nach, Fachmodul Franchiserecht für Nachvertragliches, Franchise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `franchiserecht-praxis-fran-rs-systemhandbuch-vertikale-franchise` | Fran RS Systemhandbuch Vertikale Franchise im Franchiserecht: prüft konkret Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne, Fachmodul Franchiserecht für Vertikale Preisbindung im, Franchise im internationalen Kontext. Liefer... |
-| `franchiserecht-praxis-kaltstart-triage` | Franchiserecht Praxis: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `franchiserecht-praxis-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Franchiserecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokume... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
