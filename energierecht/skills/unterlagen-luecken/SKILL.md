@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Energierecht** ein Fall noch sortiert, Dok
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Energierecht (EnWG, EEG) oft fehlend: Netzanschlussvertrag, EEG-Vergütungsbescheid, Marktstammdatenregister-Eintrag.
+- **Pro Lücke.** Beweisthema, Beweismittel (Messdaten, Anschlussberichte), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Beschwerde BNetzA-Beschluss 1 Monat § 75 EnWG.
+- **Beschaffung extern.** BNetzA (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Energierecht (EnWG, EEG) typischerweise Netzanschlussvertrag, EEG-Vergütungsbescheid zuerst.
 
 ## Qualitätsanker
 

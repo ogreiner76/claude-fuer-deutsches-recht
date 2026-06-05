@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Immobilienrechtspraxis** ein Fall noch sor
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Immobilienrechtspraxis oft fehlend: Notarvertrag, Grundbuchauszug, Energieausweis.
+- **Pro Lücke.** Beweisthema, Beweismittel (Grundbuchauszug, Verkehrswertgutachten), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Vormerkung.
+- **Beschaffung extern.** Grundbuchamt (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Immobilienrechtspraxis typischerweise Notarvertrag, Grundbuchauszug zuerst.
 
 ## Qualitätsanker
 

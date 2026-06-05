@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Krisenfrueherkennung Starug** ein Fall noc
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Frühzeitige Indikatoren; Restrukturierungsanzeige.
+- **Normenanker.** StaRUG § 1 Krisenfrüherkennung, § 18 InsO drohende ZU. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Restrukturierungsgericht — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Krisenfrüherkennung StaRUG typische Eskalationsstufen: Frühwarn-Indikatoren-Set, Restrukturierungsplan, Geschäftsführerschutzmemo.
 
 ## Qualitätsanker
 

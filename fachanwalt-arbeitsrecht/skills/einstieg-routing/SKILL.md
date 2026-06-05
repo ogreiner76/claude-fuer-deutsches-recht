@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Arbeitsrecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Arbeitnehmer, Arbeitgeber, Betriebsrat) und welcher Output wird gebraucht?
+- **Fristen zuerst.** § 4 KSchG 3 Wochen Kündigungsschutzklage; § 7 KSchG Wirksamkeitsfiktion.
+- **Normenanker.** BGB §§ 611a ff., 623, KSchG §§ 1, 4, 7, AGG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Arbeitsgericht (1. Instanz) / LAG — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Arbeitsrecht typische Eskalationsstufen: Kündigungsschutzklage, Aufhebungsvertrag-Markup, Vergleichsvorschlag.
 
 ## Qualitätsanker
 

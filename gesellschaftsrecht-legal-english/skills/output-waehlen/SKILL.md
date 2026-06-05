@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Gesellschaftsrecht Legal English** ein Fal
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Gesellschaftsrecht in legal English typische Outputs: Memo English, SPA-Markup, Drag-Along/Tag-Along clauses.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Board of Directors, sachlich) / Behörde/Gericht (UK Companies House, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: UK confirmation statement annual.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Gesellschaftsrecht in legal English sofort: Memo English oder SPA-Markup.
 
 ## Qualitätsanker
 

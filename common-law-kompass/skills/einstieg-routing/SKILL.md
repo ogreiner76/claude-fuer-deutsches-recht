@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Common Law Kompass** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Mandant US/UK, Counsel local, Court) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Statutes of Limitations je Jurisdiction; Discovery deadlines.
+- **Normenanker.** UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** UK Supreme Court, US Supreme Court / Courts of Appeals — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Common Law Kompass typische Eskalationsstufen: Memo (US-Stil) IRAC, Comparative legal analysis, Choice-of-law-Notiz.
 
 ## Qualitätsanker
 

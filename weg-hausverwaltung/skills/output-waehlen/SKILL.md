@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Weg Hausverwaltung** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei WEG/Hausverwaltung typische Outputs: Beschlussklage, Beschlussersetzungsklage, Verwalter-Memo, Mandantenbrief Eigentümer.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Verwalter, sachlich) / Behörde/Gericht (Amtsgericht Belegenheit, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: § 44 WEG Beschlussanfechtung 1 Mon..
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei WEG/Hausverwaltung sofort: Beschlussklage oder Beschlussersetzungsklage.
 
 ## Qualitätsanker
 

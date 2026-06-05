@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Anwalt/Kanzlei, Mandant, KI-Anbieter) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Rechtzeitige Mandatsannahme; Schriftform-Erfordernisse.
+- **Normenanker.** § 43a BRAO, § 50 BRAO Aktenführung, DSGVO Art. 28 AVV. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** RAK / Datenschutzaufsicht — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Berufsrechts-KI bei Vertragsprüfung typische Eskalationsstufen: Mandanten-Hinweisblatt, AVV-Muster, Risikoampel KI-Einsatz.
 
 ## Qualitätsanker
 

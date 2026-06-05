@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Patentrecht** ein Fall noch sortiert, Doku
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Patentinhaber, Verletzer, Lizenznehmer) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Einspruch EPA 9 Monate; Beschwerde 4 Monate § 73 PatG.
+- **Normenanker.** PatG, IntPatÜG, EPÜ, UPCA, ArbnErfG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** DPMA / EPA — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Patentrecht (Verfahren, Verletzung) typische Eskalationsstufen: Nichtigkeitsklage, Einspruch EPA, Verletzungsklage UPC/LG.
 
 ## Qualitätsanker
 

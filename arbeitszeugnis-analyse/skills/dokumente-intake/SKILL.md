@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Arbeitszeugnis Analyse** ein Fall noch sor
 
 ## Arbeitsweg
 
-- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
-- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
-- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
-- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+- **Sortieren nach Dokumenttyp.** Bei Arbeitszeugnis-Analyse typisch: Erstes Zeugnis, Berichtigungszeugnis, Zwischenzeugnis, Endzeugnis.
+- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung, Verjährung 3 Jahre § 195 BGB).
+- **Beweiswert einordnen.** Leistungsbeurteilungen, E-Mail-Verkehr HR, Personalakte jeweils mit Tatsachenbezug.
+- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
+- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
 
 ## Output
 
-Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Mandant/Arbeitnehmer.
 
 ## Qualitätsanker
 

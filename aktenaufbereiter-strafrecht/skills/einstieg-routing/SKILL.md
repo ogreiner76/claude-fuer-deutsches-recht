@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Aktenaufbereiter Strafrecht** ein Fall noc
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Mandant/Beschuldigter, Staatsanwaltschaft, Verletzte/Zeugen) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Anklage-Erwiderungsfrist; Beweisantrag bis Schluss der Beweisaufnahme.
+- **Normenanker.** §§ 147 StPO Akteneinsicht, § 200 StPO Anklageschrift, § 397a StPO Nebenklage. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Staatsanwaltschaft / Amtsgericht/Landgericht — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Strafrechtliche Aktenaufbereitung typische Eskalationsstufen: Verteidigungsschrift, Beweisantrag, Plädoyer-Notiz.
 
 ## Qualitätsanker
 

@@ -28,14 +28,14 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer) und welcher Output wird gebraucht?
+- **Normenanker.** BGG § 11 Leichte Sprache, UN-BRK Art. 9, 21, BFSG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Behörden mit Verständlichkeitspflicht / Schule, Sozialamt — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Einfache/Leichte Sprache Jura typische Eskalationsstufen: Bescheid in Leichter Sprache, Mandantenbrief in einfacher Sprache, Glossar.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Datenschutzrecht** ein Fall noch sortiert,
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Verantwortlicher, Auftragsverarbeiter, Betroffener) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Art. 33 Meldung 72h; Art. 12 Antrag 1 Monat.
+- **Normenanker.** DSGVO Art. 5, 6, 13, 15, 28, 32, 33, 35, BDSG, TTDSG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** BfDI Bund / LfDI Länder — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Datenschutzrecht DSGVO/BDSG typische Eskalationsstufen: DSFA, TOM-Liste, Auskunfts-Antwort Art. 15.
 
 ## Qualitätsanker
 

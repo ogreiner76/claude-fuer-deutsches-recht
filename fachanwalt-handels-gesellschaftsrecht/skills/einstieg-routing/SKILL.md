@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Gesellschafter/Aktionäre, Vorstand/Geschäftsführung, Aufsichtsrat) und welcher Output wird gebraucht?
+- **Fristen zuerst.** § 246 AktG Anfechtung 1 Monat; § 325 HGB Bilanzpublizität.
+- **Normenanker.** HGB, GmbHG, AktG, BGB §§ 705 ff., UmwG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Handelsregister / Zivilgerichte — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Handels- und Gesellschaftsrecht typische Eskalationsstufen: Beschlussanfechtung, Squeeze-out-Klage, Geschäftsführerklage.
 
 ## Qualitätsanker
 

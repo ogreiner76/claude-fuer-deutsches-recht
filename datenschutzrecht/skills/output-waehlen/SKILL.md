@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Datenschutzrecht** ein Fall noch sortiert,
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Datenschutzrecht DSGVO/BDSG typische Outputs: DSFA, TOM-Liste, Auskunfts-Antwort Art. 15, Meldung Art. 33.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Auftragsverarbeiter, sachlich) / Behörde/Gericht (BfDI Bund, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Art. 33 Meldung 72h.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Datenschutzrecht DSGVO/BDSG sofort: DSFA oder TOM-Liste.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Ki Vo Ai Act Prüfer** ein Fall noch sorti
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Anbieter, Deployer, Importeur) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Verbotene Praktiken ab 2.2.2025; Hochrisiko ab 2.8.2026.
+- **Normenanker.** KI-VO EU 2024/1689, Anhang III Hochrisiko-Liste. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** KI-Aufsichtsbehörde national / Notifizierungsstellen — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei KI-VO/AI Act Prüfer typische Eskalationsstufen: Risikoklassifikation, Konformitätsbewertung, Compliance-Plan.
 
 ## Qualitätsanker
 

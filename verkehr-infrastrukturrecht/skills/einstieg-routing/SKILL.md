@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Verkehr Infrastrukturrecht** ein Fall noch
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Träger Planungshoheit, Behörde, Betroffene Anwohner) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Klagefrist Planfeststellung; Anhörungsverfahren.
+- **Normenanker.** FStrG, AEG, PBefG, BFStrG, VwVfG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Eisenbahn-BBundesamt / Bundesfernstraßen-Verwaltung — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Verkehr-Infrastrukturrecht typische Eskalationsstufen: Einwendung, Klage gegen Planfeststellungsbeschluss, Stellungnahme.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Vertragsausfueller** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Vertragsausfüller typische Outputs: Ausgefüllter Vertrag mit kommentierten Lücken, Issue List, Risikomemo.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Berater, sachlich) / Behörde/Gericht (zuständiges Gericht, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Schriftform/Textform-Fristen.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Vertragsausfüller sofort: Ausgefüllter Vertrag mit kommentierten Lücken oder Issue List.
 
 ## Qualitätsanker
 

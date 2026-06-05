@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Meinungspruefer** ein Fall noch sortiert, 
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Betroffener, Äußerer, Medium/Plattform) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Antrag eA wegen Eile; Frist Privatklage Beleidigung.
+- **Normenanker.** Art. 5 I GG, §§ 823, 1004 BGB analog, § 185 StGB. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Zivilgericht / Strafgericht — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Meinungsfreiheit/Persönlichkeitsrecht-Prüfer typische Eskalationsstufen: Abmahnung, Unterlassungsantrag eA, Gegendarstellung.
 
 ## Qualitätsanker
 

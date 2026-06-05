@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Common Law Kompass** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Common Law Kompass typische Outputs: Memo (US-Stil) IRAC, Comparative legal analysis, Choice-of-law-Notiz.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Counsel local, sachlich) / Behörde/Gericht (UK Supreme Court, US Supreme Court, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Statutes of Limitations je Jurisdiction.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Common Law Kompass sofort: Memo (US-Stil) IRAC oder Comparative legal analysis.
 
 ## Qualitätsanker
 

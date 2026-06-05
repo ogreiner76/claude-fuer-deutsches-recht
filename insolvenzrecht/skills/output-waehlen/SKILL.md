@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzrecht** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Insolvenzrecht (Allgemein) typische Outputs: Insolvenzantrag, Gutachten, Anfechtungsklage, Mandantenmemo Geschäftsführerhaftung.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Gläubiger, sachlich) / Behörde/Gericht (Insolvenzgericht (AG), formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: § 15a Antragspflicht 3 Wochen.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Insolvenzrecht (Allgemein) sofort: Insolvenzantrag oder Gutachten.
 
 ## Qualitätsanker
 

@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Ki Richtlinie Kanzleien** ein Fall noch so
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei KI-Richtlinie für Kanzleien typische Outputs: Interne KI-Richtlinie, Mandanten-Hinweisblatt, AVV-Checkliste.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Mandant, sachlich) / Behörde/Gericht (RAK, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: gesetzliche Form-/Fristerfordernisse.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei KI-Richtlinie für Kanzleien sofort: Interne KI-Richtlinie oder Mandanten-Hinweisblatt.
 
 ## Qualitätsanker
 

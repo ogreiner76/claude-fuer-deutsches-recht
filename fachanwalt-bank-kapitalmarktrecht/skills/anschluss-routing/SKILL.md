@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bank Kapitalmarktrecht** ein Fa
 
 ## Arbeitsweg
 
-- Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
-- Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
-- Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
+- **Engpass zuerst.** Bei Fachanwalt Bank- und Kapitalmarktrecht typischer Engpass: Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB oder Darlehensvertrag.
+- **Skill-Auswahl** nach Sachverhalt, Rolle (Anleger/Kunde, Bank/WPI), Frist und gewünschtem Output.
+- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
+- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
+- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
 
 ## Output
 
-Routing-Entscheidung mit Anschluss-Skills, Reihenfolge, Abbruchkriterien und nächster Aktion.
+Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Fachanwalt Bank- und Kapitalmarktrecht.
 
 ## Qualitätsanker
 

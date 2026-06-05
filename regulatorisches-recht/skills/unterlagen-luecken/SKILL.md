@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Regulatorisches Recht** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei Regulatorisches Recht (Sektoren) oft fehlend: Genehmigungsbescheid, Aufsichtsbescheid, Compliance-Manual.
+- **Pro Lücke.** Beweisthema, Beweismittel (Compliance-Logs, Audit-Reports), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Beschwerdefrist Aufsichtsbescheid.
+- **Beschaffung extern.** BNetzA (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Regulatorisches Recht (Sektoren) typischerweise Genehmigungsbescheid, Aufsichtsbescheid zuerst.
 
 ## Qualitätsanker
 

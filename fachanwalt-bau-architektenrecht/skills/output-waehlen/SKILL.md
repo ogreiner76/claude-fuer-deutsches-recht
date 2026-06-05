@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bau Architektenrecht** ein Fall
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Fachanwalt Bau- und Architektenrecht typische Outputs: Mängelrüge, Klage Werklohn / Schadensersatz Mängel, Selbstständiges Beweisverfahren, HOAI-Honorarklage.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Bauunternehmer, sachlich) / Behörde/Gericht (Zivilgericht (LG meist), formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Verjährung 5 Jahre § 634a BGB.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fachanwalt Bau- und Architektenrecht sofort: Mängelrüge oder Klage Werklohn / Schadensersatz Mängel.
 
 ## Qualitätsanker
 

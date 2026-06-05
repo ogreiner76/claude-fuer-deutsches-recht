@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Produktrecht** ein Fall noch sortiert, Dok
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Produktrecht (ProdSG/CE) typische Outputs: Konformitätsdossier, Rückrufaktion, Mängelfeststellung, Schadensersatz-Verteidigung.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Importeur, sachlich) / Behörde/Gericht (Marktüberwachung Länder, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: RAPEX-Meldung unverzüglich.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Produktrecht (ProdSG/CE) sofort: Konformitätsdossier oder Rückrufaktion.
 
 ## Qualitätsanker
 

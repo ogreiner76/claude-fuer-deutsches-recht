@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Zwangsvollstreckung** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Erinnerung § 766 ZPO 2 Wochen; PfÜB-Zustellung Drittschuldner.
+- **Normenanker.** ZPO §§ 704-945 (Vollstreckung), GVGA, InsO. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Vollstreckungsgericht / Gerichtsvollzieher — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Zwangsvollstreckung typische Eskalationsstufen: Vollstreckungsantrag, PfÜB, Erinnerung § 766 ZPO.
 
 ## Qualitätsanker
 

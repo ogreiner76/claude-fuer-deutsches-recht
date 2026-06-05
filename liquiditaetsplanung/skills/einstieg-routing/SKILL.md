@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Liquiditaetsplanung** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Geschäftsführung, Finanzen/CFO, Bank) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Rolling 13-week-Plan; Quartalsplan.
+- **Normenanker.** IDW S 11 (Sanierung), § 18 InsO drohende ZU. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Bank / Wirtschaftsprüfer — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Liquiditätsplanung typische Eskalationsstufen: 13-Wochen-Plan, 24-Monats-Plan, Cash-Pool-Aufstellung.
 
 ## Qualitätsanker
 

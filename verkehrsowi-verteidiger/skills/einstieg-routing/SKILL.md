@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Verkehrsowi Verteidiger** ein Fall noch so
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Betroffener, Bußgeldbehörde, AG) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Einspruch 2 Wochen § 67 OWiG; Verjährung 3 Mon. Fahrlässigkeit.
+- **Normenanker.** OWiG, StVO, StVG, BKatV. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Bußgeldbehörde / Amtsgericht — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Verkehrs-OWi-Verteidigung typische Eskalationsstufen: Einspruch, Akteneinsicht-Antrag, Sachverständigen-Antrag Messung.
 
 ## Qualitätsanker
 

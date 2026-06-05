@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Strafrecht** ein Fall noch sort
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Fachanwalt Strafrecht typische Outputs: Akteneinsicht-Antrag, Beweisantrag, Plädoyer, Revisionsbegründung.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Staatsanwaltschaft, sachlich) / Behörde/Gericht (Staatsanwaltschaft, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Revision 1 Woche/1 Mon. § 341 StPO.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fachanwalt Strafrecht sofort: Akteneinsicht-Antrag oder Beweisantrag.
 
 ## Qualitätsanker
 

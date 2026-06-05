@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Kartellrecht Marktabgrenzung Prüfung** ei
 
 ## Arbeitsweg
 
-- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
-- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
-- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
-- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+- **Sortieren nach Dokumenttyp.** Bei Kartellrecht-Marktabgrenzung typisch: Anmeldung, Marktstudien, Umsatzdaten, BKartA-Mitteilung.
+- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (FKVO 25 Arbeitstage Phase I, Beschwerdefrist BKartA-Beschluss 1 Monat).
+- **Beweiswert einordnen.** SSNIP-Test, Marktbefragung, Internationale Preise/Wettbewerb jeweils mit Tatsachenbezug.
+- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
+- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
 
 ## Output
 
-Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Anmelder.
 
 ## Qualitätsanker
 

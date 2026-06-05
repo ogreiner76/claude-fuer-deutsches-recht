@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Email Umformulierer Berufsrecht** ein Fall
 
 ## Arbeitsweg
 
-- Fehlende Tatsachen von fehlenden Belegen trennen.
-- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
-- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
-- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+- **Fehlende Tatsache vs. fehlender Beleg.** Bei E-Mail-Umformulierung im Berufsrecht oft fehlend: E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben.
+- **Pro Lücke.** Beweisthema, Beweismittel (Frühere Mails (Tonalitäts-Beleg)), Beschaffungsweg, Ersatznachweis.
+- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Mandantenkommunikation unverzüglich.
+- **Beschaffung extern.** RAK (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
+- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
 
 ## Output
 
-Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat E-Mail-Umformulierung im Berufsrecht typischerweise E-Mail-Entwurf, Mandantenkorrespondenz zuerst.
 
 ## Qualitätsanker
 

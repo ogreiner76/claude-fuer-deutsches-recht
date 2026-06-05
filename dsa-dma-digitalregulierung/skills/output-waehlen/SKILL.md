@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Dsa Dma Digitalregulierung** ein Fall noch
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei DSA/DMA Digitalregulierung typische Outputs: DSA-Compliance-Memo, Risk Assessment, T&C-Update, Auditplan.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Nutzer, sachlich) / Behörde/Gericht (EU-Kommission, formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: DSA Risikoberichte jährlich.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei DSA/DMA Digitalregulierung sofort: DSA-Compliance-Memo oder Risk Assessment.
 
 ## Qualitätsanker
 

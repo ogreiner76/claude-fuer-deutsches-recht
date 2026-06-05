@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Betreuungsrecht** ein Fall noch sortiert, 
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Betreuungsrecht typische Outputs: Betreuungsantrag, Beschwerde, Mandantenbrief Betroffener/Angehörige, Rechnungslegung.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Betreuer, sachlich) / Behörde/Gericht (Betreuungsgericht (AG), formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: Beschwerde 1 Monat § 63 FamFG.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Betreuungsrecht sofort: Betreuungsantrag oder Beschwerde.
 
 ## Qualitätsanker
 

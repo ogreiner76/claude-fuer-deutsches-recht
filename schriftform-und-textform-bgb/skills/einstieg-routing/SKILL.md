@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Schriftform Und Textform Bgb** ein Fall no
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Vertragsparteien) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Form vor Wirksamkeit.
+- **Normenanker.** §§ 126, 126a, 126b BGB, § 127 BGB, § 130 BGB Zugang. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Zivilgerichte — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Schriftform/Textform BGB typische Eskalationsstufen: Schriftform-Memo, Vertrags-Markup, Zugangsnachweis-Plan.
 
 ## Qualitätsanker
 

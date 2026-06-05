@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Betreuungsrecht** ein Fall noch sortiert, 
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Betroffener, Betreuer, Familie/Angehörige) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Beschwerde 1 Monat § 63 FamFG; Genehmigung gerichtlich vor Maßnahme.
+- **Normenanker.** §§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** Betreuungsgericht (AG) / Betreuungsbehörde Stadt/Kreis — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Betreuungsrecht typische Eskalationsstufen: Betreuungsantrag, Beschwerde, Mandantenbrief Betroffener/Angehörige.
 
 ## Qualitätsanker
 

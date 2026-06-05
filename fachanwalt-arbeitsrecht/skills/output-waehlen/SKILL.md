@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Arbeitsrecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- Zweck des Ergebnisses bestimmen: interne Einschätzung, Mandantenmail, Behörden-/Gegnerschreiben, Schriftsatz, Checkliste, Tabelle oder Entscheidungsnotiz.
-- Ton und Detailtiefe an Rolle und Risiko anpassen.
-- Bei Außenkommunikation keine unnötigen Tatsachen preisgeben.
-- Ausgabe immer mit offenen Punkten und nächstem Schritt schließen.
+- **Zweck zuerst.** Bei Fachanwalt Arbeitsrecht typische Outputs: Kündigungsschutzklage, Aufhebungsvertrag-Markup, Vergleichsvorschlag, Abfindungs-Memo.
+- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Arbeitgeber, sachlich) / Behörde/Gericht (Arbeitsgericht (1. Instanz), formal, mit Norm- und Az-Angabe).
+- **Frist und Form** der Außenkommunikation beachten: § 4 KSchG 3 Wochen Kündigungsschutzklage.
+- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
+- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
 
 ## Output
 
-Passendes Format mit kurzer Begründung, Alternativformat und fertigem Text-/Tabellenbaustein.
+Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fachanwalt Arbeitsrecht sofort: Kündigungsschutzklage oder Aufhebungsvertrag-Markup.
 
 ## Qualitätsanker
 

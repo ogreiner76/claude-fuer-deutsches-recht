@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzrecht** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- Tragende Normen zuerst amtlich prüfen; dynamisches Recht und Behördenpraxis nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Paywall-Fundstellen nicht als alleinige Verifikation nutzen.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen.
+- **Tragende Normen amtlich.** Bei Insolvenzrecht (Allgemein): InsO, EuInsVO, InsVV — gesetze-im-internet, Eur-Lex oder amtliche Datenbank.
+- **Behördenpraxis.** Insolvenzgericht (AG) (Bescheide, Auslegungserlasse, FAQ); Stand-Datum prüfen.
+- **Rechtsprechung.** Gericht, Entscheidungsform, Datum, Az, Rn, frei prüfbare Fundstelle. Keine BeckRS-/juris-Blindzitate aus Modellwissen.
+- **Kommentare/Literatur** nur mit Nutzerquelle oder lizenziertem Live-Zugriff; alte Auflage explizit markieren.
+- **Quellenstand und Unsicherheit** im Output sichtbar machen — keine Scheinpräzision.
 
 ## Output
 
-Quellenkarte mit Primärquellen, Rechtsprechungssuche, Behördenhinweisen und Zitierstandard.
+Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.
 
 ## Qualitätsanker
 

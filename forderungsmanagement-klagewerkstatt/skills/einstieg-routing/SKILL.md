@@ -28,14 +28,15 @@ Nutze diesen Skill, wenn im Bereich **Forderungsmanagement Klagewerkstatt** ein 
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
-- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
-- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
-- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Gläubiger, Schuldner, Gerichtsvollzieher) und welcher Output wird gebraucht?
+- **Fristen zuerst.** Mahnbescheid-Widerspruch 2 Wochen; Vollstreckungstitel.
+- **Normenanker.** BGB §§ 280, 286, 288, ZPO §§ 688 ff. Mahnbescheid, RVG/RDG. Tragende Norm vor Detail prüfen.
+- **Zuständigkeit.** AG Mahngericht (zentral) / Streit-AG/LG — Verfahrens- und Verwaltungsweg trennen.
+- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
 
 ## Output
 
-Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Forderungsmanagement Klagewerkstatt typische Eskalationsstufen: Mahnung, Mahnbescheid online (zentrales MB-Gericht), Klage.
 
 ## Qualitätsanker
 
