@@ -1,0 +1,44 @@
+---
+name: dokumente-intake
+description: "Nutze dies, wenn Dokumentenintake im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+---
+
+# Dokumentenintake
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Bereich **Fortbestehensprognose** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+
+## Fachlandkarte dieses Plugins
+
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `annahmen-sammeln-bilanzieller-status-comfortletter-weich` — Annahmen Sammeln Bilanzieller Status Comfortletter Weich
+- `comfortletter-sonderfall-edge-forderungsverzicht` — Comfortletter Sonderfall Edge Forderungsverzicht
+- `fbp-bankenkommunikation-fbp-integrierte-fbp-stresstest` — Fbp Bankenkommunikation Fbp Integrierte Fbp Stresstest
+- `fbp-zahlungsunfaehigkeit-fortbestehensprognose-zusammenfuehren` — Fbp Zahlungsunfaehigkeit Fortbestehensprognose Zusammenfuehren
+- `fortbestehensdokumentation-insolvenzrecht-fortbestehensprognose` — Fortbestehensdokumentation Insolvenzrecht Fortbestehensprognose
+- `fortbestehensprognose-kaltstart-interview` — Fortbestehensprognose Kaltstart Interview
+- `fp-gerichtsfaehigkeit-fp-einfuehrung-fp-zeitraum` — Fp Gerichtsfaehigkeit Fp Einfuehrung Fp Zeitraum
+- `gesellschafterdarlehen-rangruecktritt-liquiditaet-monate` — Gesellschafterdarlehen Rangruecktritt Liquiditaet Monate
+- `liquiditaet-patronatserklaerung-interessen-plausibilisierung` — Liquiditaet Patronatserklaerung Interessen Plausibilisierung
+- `negativer-fristennotiz-ausloesendes-ereignis-forderungsverzicht` — Negativer Fristennotiz Ausloesendes Ereignis Forderungsverzicht
+- `prognose-stichtag-stundungsanfrage-glaeubiger-annahmen` — Prognose Stichtag Stundungsanfrage Glaeubiger Annahmen
+- `rangruecktritt-sanierungsbausteine-selbstdokumentation` — Rangruecktritt Sanierungsbausteine Selbstdokumentation
+- `sanierungsbausteine-vorschlagen-annahmen-bilanzstatus` — Sanierungsbausteine Vorschlagen Annahmen Bilanzstatus
+
+## Arbeitsweg
+
+- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
+- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
+- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
+- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+
+## Output
+
+Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

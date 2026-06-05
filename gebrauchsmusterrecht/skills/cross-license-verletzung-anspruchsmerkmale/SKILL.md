@@ -1,6 +1,6 @@
 ---
 name: cross-license-verletzung-anspruchsmerkmale
-description: "Vergleich Und Cross License, Verletzung Anspruchsmerkmale: Vergleich Und Cross License; Verletzung Anspruchsmerkmale. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vergleich Und Cross License, Verletzung Anspruchsmerkmale im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Und Cross License, Verletzung Anspruchsmerkmale prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Und Cross License, Verletzung Anspruchsmerkmale.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vergleich Und Cross License, Verletzung Anspruchsmerkmale
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vergleich-und-cross-license` | Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung. |
 | `verletzung-anspruchsmerkmale` | Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vergleich Und Cross License, Verletzung Anspruchsmerkmale** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

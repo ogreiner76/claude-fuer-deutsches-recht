@@ -1,6 +1,6 @@
 ---
 name: zinsberechnung-bgb
-description: "Zinsberechnung 288 Bgb: Zinsberechnung 288 Bgb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zinsberechnung 288 Bgb im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Zinsberechnung 288 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Zinsberechnung 288 Bgb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zinsberechnung 288 Bgb
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zinsberechnung-288-bgb` | Zinsberechnung § 288 BGB: Verbraucherzinsen 5 Prozentpunkte ueber Basiszins, B2B 9 Prozentpunkte. Verzugseintritt § 286 BGB. Pauschale 40 EUR § 288 Abs. 5 BGB im B2B-Geschaeft. Output: Zinsberechnungs-Tabelle. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zinsberechnung 288 Bgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

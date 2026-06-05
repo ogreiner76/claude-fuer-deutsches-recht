@@ -1,6 +1,6 @@
 ---
 name: chn-local-chn-government-chn-anti-chn-dawn
-description: "Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory: Chn 059 Local Counsel Management; Chn 060 Government Relations Clean Compliance; Chn 061 Anti Bribery And Gifts; Chn 062 Dawn Raid Inspection Factory. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory prüfen.; Erstelle eine Arbeitsfassung zu Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-061-anti-bribery-and-gifts` | Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan. |
 | `chn-062-dawn-raid-inspection-factory` | Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

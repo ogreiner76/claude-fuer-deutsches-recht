@@ -1,6 +1,6 @@
 ---
 name: werden-zahlungsklage-urkundenprozess
-description: "Spezial Werden Internationaler Bezug Und Schnittstellen, Spezial Zahlungsklage Behörden Gericht Und Registerweg, Urkundenprozess Prüfen: Spezial Werden Internationaler Bezug Und Schnittstellen; Spezial Zahlungsklage Behörden Gericht Und Registerweg; Urkundenprozess Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Werden Internationaler Bezug Und Schnittstellen, Spezial Zahlungsklage Behörden Gericht Und Registerweg, Urkundenprozess Prüfen im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Werden Internationaler Bezug Und Schnittstellen, Spezial Zahlungsklage Behörden Gericht Und Registerweg, Urkundenprozess Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Werden Internationaler Bezug Und Schnittstellen, Spezial Zahlungsklage Behörden Gericht Und Registerweg, Urkundenprozess Prüfen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Werden Internationaler Bezug Und Schnittstellen, Spezial Zahlungsklage Behörden Gericht Und Registerweg, Urkundenprozess Prüfen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-zahlungsklage-behoerden-gericht-und-registerweg` | Zahlungsklage: Behörden-, Gerichts- oder Registerweg im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `urkundenprozess-pruefen` | Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Wechsel, Scheck). Vorteil: schnelles Vorbehaltsurteil. Pruefraster: passt der Fall? Output: Klageschrift im Urkundenprozess. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Werden Internationaler Bezug Und Schnittstellen, Spezial Zahlungsklage Behörden Gericht Und Registerweg, Urkundenprozess Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: verdachtsmeldung-interessen
-description: "Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen: Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen im Plugin Geldwaeschepraevention Aml Kyc konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-verdachtsmeldung-mehrparteien-konflikt-und-interessen` | Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Verdachtsmeldung Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `geldwaeschepraevention-aml-kyc` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

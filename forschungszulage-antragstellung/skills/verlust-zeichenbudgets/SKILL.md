@@ -1,6 +1,6 @@
 ---
 name: verlust-zeichenbudgets
-description: "Spezial Verlust Formular Portal Und Einreichung, Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation: Spezial Verlust Formular Portal Und Einreichung; Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Verlust Formular Portal Und Einreichung, Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verlust Formular Portal Und Einreichung, Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verlust Formular Portal Und Einreichung, Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Verlust Formular Portal Und Einreichung, Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-verlust-formular-portal-und-einreichung` | Verlust: Formular, Portal und Einreichungslogik im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zeichenbudgets-verhandlung-vergleich-und-eskalation` | Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Verlust Formular Portal Und Einreichung, Spezial Zeichenbudgets Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

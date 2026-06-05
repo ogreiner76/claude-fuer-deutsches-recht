@@ -1,6 +1,6 @@
 ---
 name: chn-hong-chn-tibet-chn-free-chn-board
-description: "Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk: Chn 071 Hong Kong Risk Scenario; Chn 072 Tibet Xinjiang Public Communications; Chn 073 Free Economy And Human Rights Positioning; Chn 074 Board Paper China Risk. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk prüfen.; Erstelle eine Arbeitsfassung zu Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-073-free-economy-and-human-rights-positioning` | Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper. |
 | `chn-074-board-paper-china-risk` | Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

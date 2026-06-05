@@ -1,6 +1,6 @@
 ---
 name: local-counsel-loeschung-erwiderung
-description: "Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber: Local Counsel Briefing Ausland; Löschung Erwiderung Inhaber. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber prüfen.; Erstelle eine Arbeitsfassung zu Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `local-counsel-briefing-ausland` | Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme. |
 | `loeschung-erwiderung-inhaber` | Erwiderung des Inhabers im Löschungsverfahren: Verteidigung, Hilfsanträge, Beschränkung, Belege und Vergleichsoptionen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Local Counsel Briefing Ausland, Löschung Erwiderung Inhaber** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

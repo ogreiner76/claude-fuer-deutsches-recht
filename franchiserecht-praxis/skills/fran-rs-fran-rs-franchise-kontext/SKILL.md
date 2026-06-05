@@ -1,6 +1,6 @@
 ---
 name: fran-rs-fran-rs-franchise-kontext
-description: "Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext: Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz; Fran Rs Vertikale Preisbindung Im Franchisesystem; Franchise Internationaler Kontext. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fran-rs-vertikale-preisbindung-im-franchisesystem` | Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

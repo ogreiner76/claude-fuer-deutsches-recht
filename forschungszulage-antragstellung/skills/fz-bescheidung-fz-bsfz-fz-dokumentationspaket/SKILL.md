@@ -1,6 +1,6 @@
 ---
 name: fz-bescheidung-fz-bsfz-fz-dokumentationspaket
-description: "Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung: Fz Bescheidung Rechtsmittel; Fz Bsfz Bescheinigung Projektbeschreibung; Fz Dokumentationspaket Betriebspruefung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fz-bsfz-bescheinigung-projektbeschreibung` | BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich erstellen: Portaltexte mit Zeichenbudgets, Ausgangsproblem, Stand der Technik, Neuheit, technisches Risiko, systematisches Vorgehen, Arbeitspakete, Prüferlogik, Anti-Floskel-Regeln und Strategie Einzelantrag vs. Projektbündel. |
 | `fz-dokumentationspaket-betriebspruefung` | Dokumentationspaket Forschungszulage prüfungsfest aufbauen: Projektakte mit BSFZ-Antrag und Bescheid, Stundenaufzeichnung je Mitarbeiter Tag Vorhaben, Personalkostenbeleg aus Lohnabrechnung, Auftragsforschungsbeleg mit Vertrag und Rechnung, GoBD-Logik. Mit Spaltenstruktur, 10-Jahres-Aufbewahrung und Stichprobenstrategie für die Außenprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

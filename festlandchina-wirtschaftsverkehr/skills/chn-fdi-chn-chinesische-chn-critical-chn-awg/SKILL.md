@@ -1,6 +1,6 @@
 ---
 name: chn-fdi-chn-chinesische-chn-critical-chn-awg
-description: "Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung: Chn 015 Fdi Screening Deutschland Eu; Chn 016 Chinesische Investoren In Deutschland; Chn 017 Critical Infrastructure Risk; Chn 018 Awg Awv Investitionspruefung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung prüfen.; Erstelle eine Arbeitsfassung zu Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-017-critical-infrastructure-risk` | Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan. |
 | `chn-018-awg-awv-investitionspruefung` | Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

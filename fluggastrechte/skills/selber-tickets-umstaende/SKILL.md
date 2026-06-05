@@ -1,6 +1,6 @@
 ---
 name: selber-tickets-umstaende
-description: "Spezial Selber Tatbestand Beweis Und Belege, Spezial Tickets Risikoampel Und Gegenargumente, Spezial Umstaende Compliance Dokumentation Und Akte: Spezial Selber Tatbestand Beweis Und Belege; Spezial Tickets Risikoampel Und Gegenargumente; Spezial Umstaende Compliance Dokumentation Und Akte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Selber Tatbestand Beweis Und Belege, Spezial Tickets Risikoampel Und Gegenargumente, Spezial Umstaende Compliance Dokumentation Und Akte im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Spezial Selber Tatbestand Beweis Und Belege, Spezial Tickets Risikoampel Und Gegenargumente, Spezial Umstaende Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Selber Tatbestand Beweis Und Belege, Spezial Tickets Risikoampel Und Gegenargumente, Spezial Umstaende Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Selber Tatbestand Beweis Und Belege, Spezial Tickets Risikoampel Und Gegenargumente, Spezial Umstaende Compliance Dokumentation Und Akte
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-tickets-risikoampel-und-gegenargumente` | Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-umstaende-compliance-dokumentation-und-akte` | Umstaende: Compliance-Dokumentation und Aktenvermerk im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Selber Tatbestand Beweis Und Belege, Spezial Tickets Risikoampel Und Gegenargumente, Spezial Umstaende Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fluggastrechte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

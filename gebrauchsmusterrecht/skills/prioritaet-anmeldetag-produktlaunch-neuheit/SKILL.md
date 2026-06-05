@@ -1,6 +1,6 @@
 ---
 name: prioritaet-anmeldetag-produktlaunch-neuheit
-description: "Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit: Prioritaet Und Anmeldetag; Produktlaunch Und Neuheit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit prüfen.; Erstelle eine Arbeitsfassung zu Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `prioritaet-und-anmeldetag` | Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen: Paris-Priorität, Patentbezug, Offenbarungsidentität und Fristen. |
 | `produktlaunch-und-neuheit` | Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

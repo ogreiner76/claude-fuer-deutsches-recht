@@ -1,6 +1,6 @@
 ---
 name: chn-trade-chn-nda-chn-tooling-chn-technology
-description: "Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk: Chn 043 Trade Secret Protection; Chn 044 Nda Nnn Agreement China; Chn 045 Tooling And Molds Ownership; Chn 046 Technology Transfer Risk. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk prüfen.; Erstelle eine Arbeitsfassung zu Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-045-tooling-and-molds-ownership` | Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie. |
 | `chn-046-technology-transfer-risk` | Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

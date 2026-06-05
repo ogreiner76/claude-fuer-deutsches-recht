@@ -1,6 +1,6 @@
 ---
 name: fz-plaedoyer-fz-roadmap-fz-start
-description: "Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft: Fz Plaedoyer Begründung Und Verteidigung; Fz Roadmap Mehrjahresantrag; Fz Start Up Und Personengesellschaft. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fz-roadmap-mehrjahresantrag` | Mehrjahresstrategie Forschungszulage: BSFZ-Bescheinigung für mehrjährige Vorhaben, jährliche Aktualisierung der Stundenaufzeichnung und Projektakte, Folgeanträge knapp halten, Roadmap-Pflege, Liquiditätsplanung über Wirtschaftsjahre, rückwirkende Jahre, Fristen. Mit Anschlussantrag-Vorlage und Jahresabschluss-Trade-off. |
 | `fz-start-up-und-personengesellschaft` | Start-up- und Personengesellschafts-Konstellation Forschungszulage: GmbH und Co KG, atypisch stille Beteiligung, Mitunternehmerschaft, Verluste in Anfangsjahren mit Zulage als Liquiditaetshebel. Beispielrechnungen, typische Pruefpunkte. Schnittstelle zu Finanzbuchhaltung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

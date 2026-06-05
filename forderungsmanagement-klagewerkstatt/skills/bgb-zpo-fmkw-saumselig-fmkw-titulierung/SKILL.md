@@ -1,6 +1,6 @@
 ---
 name: bgb-zpo-fmkw-saumselig-fmkw-titulierung
-description: "Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden: Bgb Zpo Forderungsnormcheck; Fmkw Saumselig Streitig Erfahrung Spezial; Fmkw Titulierung Streckung Leitfaden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fmkw-saumselig-streitig-erfahrung-spezial` | Spezialfall saeumiges Verfahren und streitiges Verfahren nach Widerspruch: prozessuale Weichen, Beweislast, Schriftsaetze. Pruefraster fuer Klaegeranwalt. |
 | `fmkw-titulierung-streckung-leitfaden` | Leitfaden Titulierung mit Ratenzahlung und Streckung: Anerkenntnis, Schuldanerkenntnis, Ratenvereinbarung mit Vollstreckungsmoeglichkeit. Pruefraster fuer Inkassoanwalt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

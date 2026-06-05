@@ -1,6 +1,6 @@
 ---
 name: vernichtung-rueckruf-vorbenutzungsrecht
-description: "Vernichtung Rueckruf Und Entfernung, Vorbenutzungsrecht: Vernichtung Rueckruf Und Entfernung; Vorbenutzungsrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vernichtung Rueckruf Und Entfernung, Vorbenutzungsrecht im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Vernichtung Rueckruf Und Entfernung, Vorbenutzungsrecht prüfen.; Erstelle eine Arbeitsfassung zu Vernichtung Rueckruf Und Entfernung, Vorbenutzungsrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vernichtung Rueckruf Und Entfernung, Vorbenutzungsrecht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vernichtung-rueckruf-und-entfernung` | Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen. |
 | `vorbenutzungsrecht` | Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vernichtung Rueckruf Und Entfernung, Vorbenutzungsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: uebertragung-sicherheit-us-provisional
-description: "Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster: Übertragung Und Sicherheit; Us Provisional Vs Gebrauchsmuster. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster prüfen.; Erstelle eine Arbeitsfassung zu Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `uebertragung-und-sicherheit` | Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug. |
 | `us-provisional-vs-gebrauchsmuster` | US-Provisional, Design Patent und deutsches Gebrauchsmuster vergleichen: Zweck, Fristen, Offenbarung, Kosten und spätere Durchsetzung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

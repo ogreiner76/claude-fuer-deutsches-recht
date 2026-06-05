@@ -1,6 +1,6 @@
 ---
 name: recherche-nach-schutzgegenstand-ausschluesse
-description: "Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse: Recherche Nach Paragraph 7 Gebrmg; Schutzgegenstand Und Ausschluesse. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse prüfen.; Erstelle eine Arbeitsfassung zu Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `recherche-nach-paragraph-7-gebrmg` | Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko. |
 | `schutzgegenstand-und-ausschluesse` | Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

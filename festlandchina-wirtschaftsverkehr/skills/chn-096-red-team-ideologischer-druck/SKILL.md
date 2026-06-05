@@ -1,6 +1,6 @@
 ---
 name: chn-096-red-team-ideologischer-druck
-description: 'Red-Team: Ideologischer Druck auf Unternehmen in China: Staatliche Kampagnen zur ideologischen Konformität (CCP-Zellen in Unternehmen), Druck auf Markennamen/Kartographiepolitik (Taiwan als China), Mitarbeiterloyalitäts-Anforderungen, Gegenstrategien (Distanz wahren, Dokumentation), Rechtliche Grenzen CN-staatlicher Eingriffe. Output: Red-Team-Analyse ideologischer Risiken und Gegenstrategiepapier.'
+description: "'Red-Team: Ideologischer Druck auf Unternehmen in China: Staatliche Kampagnen zur ideologischen Konformität (CCP-Zellen in Unternehmen), Druck auf Markennamen/Kartographiepolitik (Taiwan als China), Mitarbeiterloyalitäts-Anforderungen, Gegenstrategien (Distanz wahren, Dokumentation), Rechtliche Grenzen CN-staatlicher Eingriffe. Output: Red-Team-Analyse ideologischer Risiken und Gegenstrategiepapier.'"
 ---
 
 # Red-Team: Ideologischer Druck auf Unternehmen in China

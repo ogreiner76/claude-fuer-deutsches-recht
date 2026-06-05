@@ -1,6 +1,6 @@
 ---
 name: gutachten-rechtsbestand-insolvenz-verwertung
-description: "Gutachten Rechtsbestand, Insolvenz Und Verwertung: Gutachten Rechtsbestand; Insolvenz Und Verwertung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gutachten Rechtsbestand, Insolvenz Und Verwertung im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Gutachten Rechtsbestand, Insolvenz Und Verwertung prüfen.; Erstelle eine Arbeitsfassung zu Gutachten Rechtsbestand, Insolvenz Und Verwertung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gutachten Rechtsbestand, Insolvenz Und Verwertung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gutachten-rechtsbestand` | Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko. |
 | `insolvenz-und-verwertung` | Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gutachten Rechtsbestand, Insolvenz Und Verwertung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

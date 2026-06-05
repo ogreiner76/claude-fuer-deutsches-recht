@@ -1,6 +1,6 @@
 ---
 name: stand-technik-startup-schnellschutz
-description: "Stand Der Technik Belegpaket, Startup Schnellschutz: Stand Der Technik Belegpaket; Startup Schnellschutz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Stand Der Technik Belegpaket, Startup Schnellschutz im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Stand Der Technik Belegpaket, Startup Schnellschutz prüfen.; Erstelle eine Arbeitsfassung zu Stand Der Technik Belegpaket, Startup Schnellschutz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Stand Der Technik Belegpaket, Startup Schnellschutz
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stand-der-technik-belegpaket` | Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise. |
 | `startup-schnellschutz` | Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Stand Der Technik Belegpaket, Startup Schnellschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

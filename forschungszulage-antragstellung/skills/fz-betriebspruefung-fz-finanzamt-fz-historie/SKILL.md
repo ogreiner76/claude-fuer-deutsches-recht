@@ -1,6 +1,6 @@
 ---
 name: fz-betriebspruefung-fz-finanzamt-fz-historie
-description: "Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen: Fz Betriebspruefung Strategie; Fz Finanzamt Festsetzung Auszahlung; Fz Historie Und Rechtsgrundlagen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen prüfen.; Erstelle eine Arbeitsfassung zu Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fz-finanzamt-festsetzung-auszahlung` | Forschungszulage beim Finanzamt beantragen, festsetzen und auszahlen lassen: ELSTER-Antrag, Vorlage der BSFZ-Bescheinigung, Forschungszulagenbescheid, Anrechnung auf Einkommen- oder Körperschaftsteuer, Auszahlung eines Überschusses, Vorauszahlungssenkung. Mit Zeitlinie Q1 bis Q4, Trade-offs Sofortauszahlung vs. Verrechnung und Schritt-für-Schritt-Antragsroute. |
 | `fz-historie-und-rechtsgrundlagen` | Historie und Rechtsgrundlagen der steuerlichen Forschungszulage einfuehrend: FZulG seit 2020, Wachstumschancengesetz 2024 mit Erhoehung auf 10 Mio. Euro Bemessungsgrundlage, KMU-Bonus 5 Mio. Euro. Verhaeltnis zu Projektfoerderung (Bund, Land, EU). Steuerliche Behandlung als Zulage, nicht Subvention. Beispielrechnung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

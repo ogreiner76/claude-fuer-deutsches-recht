@@ -1,6 +1,6 @@
 ---
 name: japan-utility-klageantraege-verletzung
-description: "Japan Utility Model Vergleich, Klageantraege Verletzung: Japan Utility Model Vergleich; Klageantraege Verletzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Japan Utility Model Vergleich, Klageantraege Verletzung im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Japan Utility Model Vergleich, Klageantraege Verletzung prüfen.; Erstelle eine Arbeitsfassung zu Japan Utility Model Vergleich, Klageantraege Verletzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Japan Utility Model Vergleich, Klageantraege Verletzung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `japan-utility-model-vergleich` | Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen. |
 | `klageantraege-verletzung` | Klageanträge bei Gebrauchsmusterverletzung bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf und Schadensersatzfeststellung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Japan Utility Model Vergleich, Klageantraege Verletzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

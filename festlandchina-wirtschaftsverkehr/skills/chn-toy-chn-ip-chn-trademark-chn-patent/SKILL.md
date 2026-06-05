@@ -1,6 +1,6 @@
 ---
 name: chn-toy-chn-ip-chn-trademark-chn-patent
-description: "Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China: Chn 039 Toy And Consumer Goods; Chn 040 Ip Strategy Before China Entry; Chn 041 Trademark China First To File; Chn 042 Patent And Utility Model China. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China prüfen.; Erstelle eine Arbeitsfassung zu Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-041-trademark-china-first-to-file` | Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan. |
 | `chn-042-patent-and-utility-model-china` | Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

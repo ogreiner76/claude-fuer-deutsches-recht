@@ -1,6 +1,6 @@
 ---
 name: zoll-plattformdurchsetzung
-description: "Zoll Und Plattformdurchsetzung: Zoll Und Plattformdurchsetzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zoll Und Plattformdurchsetzung im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Zoll Und Plattformdurchsetzung prüfen.; Erstelle eine Arbeitsfassung zu Zoll Und Plattformdurchsetzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zoll Und Plattformdurchsetzung
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zoll-und-plattformdurchsetzung` | Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produktmerkmale, Registerrecht, technische Prüfung, DSA, Marktplätze und Beweissicherung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zoll Und Plattformdurchsetzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

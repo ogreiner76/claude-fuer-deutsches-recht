@@ -1,6 +1,6 @@
 ---
 name: chn-supplier-chn-forced-chn-human-chn-lksg
-description: "Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure: Chn 063 Supplier Audit Without Window Dressing; Chn 064 Forced Labour Risk Xinjiang; Chn 065 Human Rights Due Diligence; Chn 066 Lksg Complaints Procedure. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure prüfen.; Erstelle eine Arbeitsfassung zu Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-065-human-rights-due-diligence` | Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan. |
 | `chn-066-lksg-complaints-procedure` | LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

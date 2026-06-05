@@ -1,6 +1,6 @@
 ---
 name: chn-wfoe-chn-asset-chn-tax-chn-platform
-description: "Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China: Chn 013 Wfoe Joint Venture Repraesentanz; Chn 077 Asset Protection And Cash Repatriation; Chn 080 Tax And Transfer Pricing Touchpoints; Chn 086 Platform Ecommerce China. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China prüfen.; Erstelle eine Arbeitsfassung zu Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-080-tax-and-transfer-pricing-touchpoints` | Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen. |
 | `chn-086-platform-ecommerce-china` | E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

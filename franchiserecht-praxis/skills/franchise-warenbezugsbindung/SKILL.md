@@ -1,6 +1,6 @@
 ---
 name: franchise-warenbezugsbindung
-description: "Franchise Warenbezugsbindung Vbe: Franchise Warenbezugsbindung Vbe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Franchise Warenbezugsbindung Vbe im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Franchise Warenbezugsbindung Vbe prüfen.; Erstelle eine Arbeitsfassung zu Franchise Warenbezugsbindung Vbe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Franchise Warenbezugsbindung Vbe
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `franchise-warenbezugsbindung-vbe` | Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Pruefung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Liefert Pruefraster. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Franchise Warenbezugsbindung Vbe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

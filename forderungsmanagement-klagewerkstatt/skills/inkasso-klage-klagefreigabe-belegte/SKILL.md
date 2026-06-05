@@ -1,6 +1,6 @@
 ---
 name: inkasso-klage-klagefreigabe-belegte
-description: "Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung: Spezial Inkasso Risikoampel Und Gegenargumente; Spezial Klage Formular Portal Und Einreichung; Spezial Klagefreigabe Belegte Forderung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-klage-formular-portal-und-einreichung` | Klage: Formular, Portal und Einreichungslogik im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-klagefreigabe-belegte-forderung` | Klagefreigabe nur für fällige, belegte und prozessreife Forderungen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

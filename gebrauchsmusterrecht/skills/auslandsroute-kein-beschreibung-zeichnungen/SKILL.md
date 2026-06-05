@@ -1,6 +1,6 @@
 ---
 name: auslandsroute-kein-beschreibung-zeichnungen
-description: "Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen: Auslandsroute Kein Eu Gebrauchsmuster; Beschreibung Und Zeichnungen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen prüfen.; Erstelle eine Arbeitsfassung zu Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `auslandsroute-kein-eu-gebrauchsmuster` | Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing. |
 | `beschreibung-und-zeichnungen` | Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

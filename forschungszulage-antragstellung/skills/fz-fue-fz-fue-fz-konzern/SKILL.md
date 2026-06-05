@@ -1,6 +1,6 @@
 ---
 name: fz-fue-fz-fue-fz-konzern
-description: "Fz Fue Abgrenzung Grenzfaelle, Fz Fue Definition Frascati Abgrenzung, Fz Konzern Und Organschaft Spezial: Fz Fue Abgrenzung Grenzfaelle; Fz Fue Definition Frascati Abgrenzung; Fz Konzern Und Organschaft Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fz Fue Abgrenzung Grenzfaelle, Fz Fue Definition Frascati Abgrenzung, Fz Konzern Und Organschaft Spezial im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Fz Fue Abgrenzung Grenzfaelle, Fz Fue Definition Frascati Abgrenzung, Fz Konzern Und Organschaft Spezial prüfen.; Erstelle eine Arbeitsfassung zu Fz Fue Abgrenzung Grenzfaelle, Fz Fue Definition Frascati Abgrenzung, Fz Konzern Und Organschaft Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fz Fue Abgrenzung Grenzfaelle, Fz Fue Definition Frascati Abgrenzung, Fz Konzern Und Organschaft Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fz-fue-definition-frascati-abgrenzung` | FuE-Definition für die Forschungszulage praxisnah prüfen: Grundlagenforschung, industrielle Forschung, experimentelle Entwicklung, Frascati-Kriterien (Neuheit, Schöpferisch, Ungewissheit, Systematik, Reproduzierbarkeit), AGVO-Definitionen, Abgrenzung zu Routineentwicklung, Customizing, Bugfixing und Serienpflege. Mit Mustersätzen für die BSFZ-Projektbeschreibung. |
 | `fz-konzern-und-organschaft-spezial` | Spezialfall Konzern und Organschaft: Zurechnung von FuE-Aktivitaeten zwischen Mutter und Tochter, Auftragsforschung im Konzernverbund, Verrechnungspreise mit Fremdvergleich, KMU-Status bei Konzernzugehoerigkeit nach KMU-Empfehlung 2003 361 EG. Pruefraster fuer Tax und Legal gemeinsam. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fz Fue Abgrenzung Grenzfaelle, Fz Fue Definition Frascati Abgrenzung, Fz Konzern Und Organschaft Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

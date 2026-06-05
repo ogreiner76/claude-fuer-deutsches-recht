@@ -1,6 +1,6 @@
 ---
 name: chn-dual-chn-us-chn-china-chn-rare
-description: "Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials: Chn 019 Dual Use Bafa Check; Chn 020 Us Ear China Touchpoints; Chn 021 China Export Control Law Touchpoints; Chn 022 Rare Earths And Critical Raw Materials. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials prüfen.; Erstelle eine Arbeitsfassung zu Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chn-021-china-export-control-law-touchpoints` | Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste. |
 | `chn-022-rare-earths-and-critical-raw-materials` | Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

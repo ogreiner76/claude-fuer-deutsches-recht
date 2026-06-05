@@ -1,6 +1,6 @@
 ---
 name: doppelschutz-patent-dpma-anmeldung
-description: "Doppelschutz Patent Gebrauchsmuster, Dpma Anmeldung Formalien: Doppelschutz Patent Gebrauchsmuster; Dpma Anmeldung Formalien. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Doppelschutz Patent Gebrauchsmuster, Dpma Anmeldung Formalien im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Doppelschutz Patent Gebrauchsmuster, Dpma Anmeldung Formalien prüfen.; Erstelle eine Arbeitsfassung zu Doppelschutz Patent Gebrauchsmuster, Dpma Anmeldung Formalien.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Doppelschutz Patent Gebrauchsmuster, Dpma Anmeldung Formalien
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `doppelschutz-patent-gebrauchsmuster` | Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie. |
 | `dpma-anmeldung-formalien` | DPMA-Gebrauchsmusteranmeldung vorbereiten: Antrag, Beschreibung, Schutzansprüche, Zeichnungen, Gebühren, DPMAdirekt und Registereintragung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Doppelschutz Patent Gebrauchsmuster, Dpma Anmeldung Formalien** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

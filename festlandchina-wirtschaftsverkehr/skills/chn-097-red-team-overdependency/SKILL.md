@@ -1,6 +1,6 @@
 ---
 name: chn-097-red-team-overdependency
-description: 'Red-Team: Überabhängigkeit von China analysieren und abbauen: Selbstkritische Analyse Abhängigkeitspfade (Umsatz/Beschaffung/Technologie), Frühwarnindikator-System, Exit-Trigger-Kriterien, Vergleich mit Benchmark-Unternehmen, Board-Diskussion De-risking-Realismus, Kosten des Status quo vs. Kosten des Ausstiegs. Output: Abhängigkeits-Red-Team-Bericht und Handlungsempfehlungen.'
+description: "'Red-Team: Überabhängigkeit von China analysieren und abbauen: Selbstkritische Analyse Abhängigkeitspfade (Umsatz/Beschaffung/Technologie), Frühwarnindikator-System, Exit-Trigger-Kriterien, Vergleich mit Benchmark-Unternehmen, Board-Diskussion De-risking-Realismus, Kosten des Status quo vs. Kosten des Ausstiegs. Output: Abhängigkeits-Red-Team-Bericht und Handlungsempfehlungen.'"
 ---
 
 # Red-Team: Überabhängigkeit China analysieren und abbauen

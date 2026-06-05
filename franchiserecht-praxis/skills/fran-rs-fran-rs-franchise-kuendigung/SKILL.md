@@ -1,6 +1,6 @@
 ---
 name: fran-rs-fran-rs-franchise-kuendigung
-description: "Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten, Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise, Franchise Kündigung Und Nachvertragliche Wettbewerb: Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten; Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise; Franchise Kündigung Und Nachvertragliche Wettbewerb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten, Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise, Franchise Kündigung Und Nachvertragliche Wettbewerb im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten, Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise, Franchise Kündigung Und Nachvertragliche Wettbewerb prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten, Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise, Franchise Kündigung Und Nachvertragliche Wettbewerb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten, Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise, Franchise Kündigung Und Nachvertragliche Wettbewerb
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fran-rs-nachvertragliches-wettbewerbsverbot-im-franchise` | Spezialskill Franchiserecht für Nachvertragliches Wettbewerbsverbot im Franchise: Wettbewerbsverbote werden nach Vertragsende nicht pauschal akzeptiert, sondern räumlich, sachlich, zeitlich und systemschutzbezogen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur Wirksamkeit. Liefert Pruefraster. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fran Rs Ausgleichsanspruch Nach Vertragsende Und Kundendaten, Fran Rs Nachvertragliches Wettbewerbsverbot Im Franchise, Franchise Kündigung Und Nachvertragliche Wettbewerb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

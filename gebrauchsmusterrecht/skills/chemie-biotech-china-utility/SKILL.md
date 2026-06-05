@@ -1,6 +1,6 @@
 ---
 name: chemie-biotech-china-utility
-description: "Chemie Biotech Und Stoffschutz, China Utility Model Vergleich: Chemie Biotech Und Stoffschutz; China Utility Model Vergleich. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Chemie Biotech Und Stoffschutz, China Utility Model Vergleich im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Chemie Biotech Und Stoffschutz, China Utility Model Vergleich prüfen.; Erstelle eine Arbeitsfassung zu Chemie Biotech Und Stoffschutz, China Utility Model Vergleich.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Chemie Biotech Und Stoffschutz, China Utility Model Vergleich
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `chemie-biotech-und-stoffschutz` | Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute. |
 | `china-utility-model-vergleich` | China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Chemie Biotech Und Stoffschutz, China Utility Model Vergleich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gebrauchsmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
