@@ -2,6 +2,7 @@
 name: unechte-goa-paragraph-687
 description: "Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes."
 ---
+
 # Unechte GoA § 687 BGB
 
 ## Fachkern: Unechte GoA § 687 BGB

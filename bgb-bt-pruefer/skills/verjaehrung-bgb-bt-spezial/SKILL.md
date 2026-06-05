@@ -2,6 +2,7 @@
 name: verjaehrung-bgb-bt-spezial
 description: "Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB."
 ---
+
 # Verjährung BGB-BT Spezial
 
 ## Fachkern: Verjährung BGB-BT Spezial

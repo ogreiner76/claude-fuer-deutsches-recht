@@ -2,6 +2,7 @@
 name: leasing-bgb-bt-schnittstelle
 description: "Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährleistungskette und Verbraucherschutz."
 ---
+
 # Leasing BGB-BT Schnittstelle
 
 ## Fachkern: Leasing BGB-BT Schnittstelle

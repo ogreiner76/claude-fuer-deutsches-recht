@@ -2,6 +2,7 @@
 name: vergleich-paragraph-779
 description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung."
 ---
+
 # Vergleich § 779 BGB
 
 ## Fachkern: Vergleich § 779 BGB

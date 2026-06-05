@@ -2,6 +2,7 @@
 name: buergschaft-grundschema-paragraph-765
 description: "Prüft Bürgschaft §§ 765 ff. BGB: Tatbestand, Akzessorietät, Inanspruchnahme und Regressanspruch des Bürgen."
 ---
+
 # Bürgschaft Grundschema § 765 BGB
 
 ## Fachkern: Bürgschaft Grundschema § 765 BGB

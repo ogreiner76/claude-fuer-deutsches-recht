@@ -2,6 +2,7 @@
 name: vertragstypen-mischvertrag-router
 description: "Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT."
 ---
+
 # Vertragstypen und Mischvertrag Router
 
 ## Fachkern: Vertragstypen und Mischvertrag Router

@@ -1,6 +1,6 @@
 ---
 name: procedural-calendar-protective-measures
-description: "Procedural Calendar Timetable Order, Protective Measures Confidential Exhibits: Procedural Calendar Timetable Order; Protective Measures Confidential Exhibits. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Procedural Calendar Timetable Order, Protective Measures Confidential Exhibits im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Procedural Calendar Timetable Order, Protective Measures Confidential Exhibits prüfen.; Erstelle eine Arbeitsfassung zu Procedural Calendar Timetable Order, Protective Measures Confidential Exhibits.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Procedural Calendar Timetable Order, Protective Measures Confidential Exhibits
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `procedural-calendar-timetable-order` | Erstellt einen prozessualen Verfahrenskalender mit Schriftsatzfristen, Anlagen, Übersetzungen, Witness Statements, Sachverständigen und Hearing Date. |
 | `protective-measures-confidential-exhibits` | Plant Schutzmaßnahmen für vertrauliche Anlagen: redactions, confidentiality club, restricted access, sealed bundles und Verhandlungsorganisation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Procedural Calendar Timetable Order, Protective Measures Confidential Exhibits** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

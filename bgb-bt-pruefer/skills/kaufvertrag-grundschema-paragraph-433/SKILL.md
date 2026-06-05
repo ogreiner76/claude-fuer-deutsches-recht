@@ -2,6 +2,7 @@
 name: kaufvertrag-grundschema-paragraph-433
 description: "Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz."
 ---
+
 # Kaufvertrag Grundschema § 433 BGB
 
 ## Fachkern: Kaufvertrag Grundschema § 433 BGB

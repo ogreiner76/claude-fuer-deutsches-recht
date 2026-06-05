@@ -2,6 +2,7 @@
 name: deliktsrecht-schutzgesetz-paragraph-823-2
 description: "Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eigenschaft, Tatbestand und Schutzzweck."
 ---
+
 # Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB
 
 ## Fachkern: Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB

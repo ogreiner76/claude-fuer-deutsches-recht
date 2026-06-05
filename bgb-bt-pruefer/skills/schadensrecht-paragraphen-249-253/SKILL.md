@@ -2,6 +2,7 @@
 name: schadensrecht-paragraphen-249-253
 description: "Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld."
 ---
+
 # Schadensrecht §§ 249-253 BGB
 
 ## Fachkern: Schadensrecht §§ 249-253 BGB

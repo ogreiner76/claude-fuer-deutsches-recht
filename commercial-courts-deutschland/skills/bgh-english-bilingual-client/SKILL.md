@@ -1,6 +1,6 @@
 ---
 name: bgh-english-bilingual-client
-description: "Bgh English Proceedings 184B Gvg, Bilingual Client Board Briefing: Bgh English Proceedings 184B Gvg; Bilingual Client Board Briefing. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bgh English Proceedings 184B Gvg, Bilingual Client Board Briefing im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Bgh English Proceedings 184B Gvg, Bilingual Client Board Briefing prüfen.; Erstelle eine Arbeitsfassung zu Bgh English Proceedings 184B Gvg, Bilingual Client Board Briefing.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bgh English Proceedings 184B Gvg, Bilingual Client Board Briefing
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `bgh-english-proceedings-184b-gvg` | Routet englischsprachige Fortführung vor dem Bundesgerichtshof: Voraussetzungen, Übersetzungen, Revisionsbegründung, Tenor und Mandantenkommunikation. |
 | `bilingual-client-board-briefing` | Erstellt bilinguale Board- und Mandantenbriefings zu Commercial-Court-Verfahren: risk, timeline, budget, settlement range, next decisions. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bgh English Proceedings 184B Gvg, Bilingual Client Board Briefing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -2,6 +2,7 @@
 name: allgemein
 description: "Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output."
 ---
+
 # BGB BT Kommandocenter
 
 ## Sofortstart

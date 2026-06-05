@@ -2,6 +2,7 @@
 name: buergschaft-einreden-und-akzessorietaet
 description: "Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen."
 ---
+
 # Bürgschaft: Einreden und Akzessorietät
 
 ## Fachkern: Bürgschaft: Einreden und Akzessorietät

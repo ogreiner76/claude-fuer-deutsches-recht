@@ -1,6 +1,6 @@
 ---
 name: verbatim-transcript-video-hearing
-description: "Verbatim Transcript 613 Zpo, Video Hearing 128A 284 Zpo: Verbatim Transcript 613 Zpo; Video Hearing 128A 284 Zpo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verbatim Transcript 613 Zpo, Video Hearing 128A 284 Zpo im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Verbatim Transcript 613 Zpo, Video Hearing 128A 284 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Verbatim Transcript 613 Zpo, Video Hearing 128A 284 Zpo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verbatim Transcript 613 Zpo, Video Hearing 128A 284 Zpo
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verbatim-transcript-613-zpo` | Plant das Wortprotokoll/verbatim transcript: Antrag, Kosten, Verhandlungsstrategie, Korrektur, Zitierfähigkeit und Nutzung im Rechtsmittel. |
 | `video-hearing-128a-284-zpo` | Prüft Videoverhandlung, hybride Beweisaufnahme, ausländische Zeugen, Techniktest und Protokollierung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verbatim Transcript 613 Zpo, Video Hearing 128A 284 Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

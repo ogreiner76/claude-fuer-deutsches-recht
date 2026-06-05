@@ -2,6 +2,7 @@
 name: geschaeftsbesorgung-auftrag-mandat
 description: "Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler."
 ---
+
 # Geschäftsbesorgung, Auftrag und Mandat
 
 ## Fachkern: Geschäftsbesorgung, Auftrag und Mandat

@@ -2,6 +2,7 @@
 name: werkvertrag-grundschema-paragraph-631
 description: "Werkvertrag § 631 BGB: Grundschema, Vergütung, Abnahme, Mängelrechte und Kündigung."
 ---
+
 # Werkvertrag Grundschema § 631 BGB
 
 ## Fachkern: Werkvertrag Grundschema § 631 BGB

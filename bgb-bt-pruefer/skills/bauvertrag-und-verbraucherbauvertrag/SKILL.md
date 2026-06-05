@@ -2,6 +2,7 @@
 name: bauvertrag-und-verbraucherbauvertrag
 description: "Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung."
 ---
+
 # Bauvertrag und Verbraucherbauvertrag
 
 ## Fachkern: Bauvertrag und Verbraucherbauvertrag

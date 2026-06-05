@@ -2,6 +2,7 @@
 name: delikt-vertrag-konkurrenz
 description: "Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede."
 ---
+
 # Delikt-Vertrag Konkurrenz
 
 ## Fachkern: Delikt-Vertrag Konkurrenz

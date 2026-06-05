@@ -2,6 +2,7 @@
 name: maklervertrag-und-provision
 description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip."
 ---
+
 # Maklervertrag und Provision §§ 652 ff. BGB
 
 ## Fachkern: Maklervertrag und Provision §§ 652 ff. BGB

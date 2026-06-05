@@ -2,6 +2,7 @@
 name: werkvertrag-maengelrechte
 description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz."
 ---
+
 # Werkvertrag Mängelrechte §§ 633-638 BGB
 
 ## Fachkern: Werkvertrag Mängelrechte §§ 633-638 BGB

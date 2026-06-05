@@ -1,6 +1,6 @@
 ---
 name: zugangsvereitelung-annahmeverweigerung
-description: "Zugangsvereitelung Und Annahmeverweigerung: Zugangsvereitelung Und Annahmeverweigerung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zugangsvereitelung Und Annahmeverweigerung im Plugin Bgb At Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Zugangsvereitelung Und Annahmeverweigerung prüfen.; Erstelle eine Arbeitsfassung zu Zugangsvereitelung Und Annahmeverweigerung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zugangsvereitelung Und Annahmeverweigerung
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zugangsvereitelung-und-annahmeverweigerung` | Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zugangsvereitelung Und Annahmeverweigerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

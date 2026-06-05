@@ -2,6 +2,7 @@
 name: buergschaft-form-und-verbraucherbuerge
 description: "Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln."
 ---
+
 # Bürgschaft: Form und Verbraucherbürge
 
 ## Fachkern: Bürgschaft: Form und Verbraucherbürge

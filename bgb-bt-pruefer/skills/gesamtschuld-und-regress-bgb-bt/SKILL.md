@@ -2,6 +2,7 @@
 name: gesamtschuld-und-regress-bgb-bt
 description: "Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT."
 ---
+
 # Gesamtschuld und Regress BGB BT
 
 ## Fachkern: Gesamtschuld und Regress BGB BT

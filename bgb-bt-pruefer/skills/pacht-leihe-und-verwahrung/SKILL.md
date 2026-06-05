@@ -2,6 +2,7 @@
 name: pacht-leihe-und-verwahrung
 description: "Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung."
 ---
+
 # Pacht, Leihe und Verwahrung BGB
 
 ## Fachkern: Pacht, Leihe und Verwahrung BGB

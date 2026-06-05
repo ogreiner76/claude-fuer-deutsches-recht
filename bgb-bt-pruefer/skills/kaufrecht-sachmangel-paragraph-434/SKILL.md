@@ -2,6 +2,7 @@
 name: kaufrecht-sachmangel-paragraph-434
 description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung."
 ---
+
 # Kaufrecht: Sachmangel § 434 BGB
 
 ## Fachkern: Kaufrecht: Sachmangel § 434 BGB

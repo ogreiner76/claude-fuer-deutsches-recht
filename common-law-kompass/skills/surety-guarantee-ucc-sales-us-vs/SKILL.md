@@ -1,6 +1,6 @@
 ---
 name: surety-guarantee-ucc-sales-us-vs
-description: "Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting: Common Law Surety Guarantee Indemnity; Common Law Ucc Sales Goods; Common Law Us Vs Uk Drafting. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting prüfen.; Erstelle eine Arbeitsfassung zu Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `common-law-ucc-sales-goods` | Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln). |
 | `common-law-us-vs-uk-drafting` | Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `common-law-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

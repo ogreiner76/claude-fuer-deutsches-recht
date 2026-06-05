@@ -2,6 +2,7 @@
 name: werk-dienst-abgrenzung-erfolg
 description: "Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft § 631 BGB vs. Tätigkeitsschuldnerschaft § 611 BGB."
 ---
+
 # Werk-Dienst-Abgrenzung: Erfolg vs. Tätigkeit
 
 ## Fachkern: Werk-Dienst-Abgrenzung: Erfolg vs. Tätigkeit

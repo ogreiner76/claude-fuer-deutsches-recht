@@ -2,6 +2,7 @@
 name: kaufrecht-rechtsmangel-paragraph-435
 description: "Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingliche Rechte, öffentlich-rechtliche Lasten und Rechtsfolgen."
 ---
+
 # Kaufrecht: Rechtsmangel § 435 BGB
 
 ## Fachkern: Kaufrecht: Rechtsmangel § 435 BGB

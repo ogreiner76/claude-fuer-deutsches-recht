@@ -1,6 +1,6 @@
 ---
 name: judgment-publication-jurisdiction-clause
-description: "Judgment Publication And Anonymisation, Jurisdiction Clause Drafting De En: Judgment Publication And Anonymisation; Jurisdiction Clause Drafting De En. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Judgment Publication And Anonymisation, Jurisdiction Clause Drafting De En im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Judgment Publication And Anonymisation, Jurisdiction Clause Drafting De En prüfen.; Erstelle eine Arbeitsfassung zu Judgment Publication And Anonymisation, Jurisdiction Clause Drafting De En.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Judgment Publication And Anonymisation, Jurisdiction Clause Drafting De En
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `judgment-publication-and-anonymisation` | Prüft Urteil, Veröffentlichung, Anonymisierung, Geheimnisschutz, Übersetzungsbedarf und externe Kommunikation nach Entscheidung. |
 | `jurisdiction-clause-drafting-de-en` | Entwirft deutsch-englische Commercial-Court-Gerichtsstands- und Sprachklauseln für Verträge, AGB-nahe Konstellationen und M&A/Finance-Deals. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Judgment Publication And Anonymisation, Jurisdiction Clause Drafting De En** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

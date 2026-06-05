@@ -2,6 +2,7 @@
 name: arbeitsnaher-dienstvertrag-bgb
 description: "Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB."
 ---
+
 # Arbeitsnaher Dienstvertrag im BGB
 
 ## Fachkern: Arbeitsnaher Dienstvertrag im BGB

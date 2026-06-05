@@ -2,6 +2,7 @@
 name: goa-grundschema-paragraph-677
 description: "Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA, Fremdgeschäftsführungswille, Aufwendungsersatz und Herausgabepflicht."
 ---
+
 # GoA Grundschema § 677 BGB
 
 ## Fachkern: GoA Grundschema § 677 BGB

@@ -2,6 +2,7 @@
 name: schnittstelle-bgb-at-methodenlehre-agb
 description: "Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz."
 ---
+
 # Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB
 
 ## Fachkern: Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB

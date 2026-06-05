@@ -2,6 +2,7 @@
 name: auftrag-und-unentgeltliche-taetigkeit
 description: "Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung."
 ---
+
 # Auftrag und unentgeltliche Tätigkeit
 
 ## Fachkern: Auftrag und unentgeltliche Tätigkeit

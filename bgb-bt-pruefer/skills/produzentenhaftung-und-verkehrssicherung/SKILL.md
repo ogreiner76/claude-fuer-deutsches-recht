@@ -2,6 +2,7 @@
 name: produzentenhaftung-und-verkehrssicherung
 description: "Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten."
 ---
+
 # Produzentenhaftung und Verkehrssicherung
 
 ## Fachkern: Produzentenhaftung und Verkehrssicherung

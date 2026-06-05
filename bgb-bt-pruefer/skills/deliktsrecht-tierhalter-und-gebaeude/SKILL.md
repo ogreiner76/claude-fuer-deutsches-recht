@@ -2,6 +2,7 @@
 name: deliktsrecht-tierhalter-und-gebaeude
 description: "Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB."
 ---
+
 # Deliktsrecht: Tierhalter und Gebäude
 
 ## Fachkern: Deliktsrecht: Tierhalter und Gebäude

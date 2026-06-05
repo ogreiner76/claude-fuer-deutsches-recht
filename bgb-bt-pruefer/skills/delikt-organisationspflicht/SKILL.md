@@ -2,6 +2,7 @@
 name: delikt-organisationspflicht
 description: "Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung."
 ---
+
 # Delikt: Organisationspflicht
 
 ## Fachkern: Delikt: Organisationspflicht

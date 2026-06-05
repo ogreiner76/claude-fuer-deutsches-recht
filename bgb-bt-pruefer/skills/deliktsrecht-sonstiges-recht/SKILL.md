@@ -2,6 +2,7 @@
 name: deliktsrecht-sonstiges-recht
 description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte."
 ---
+
 # Deliktsrecht: Sonstiges Recht
 
 ## Fachkern: Deliktsrecht: Sonstiges Recht

@@ -2,6 +2,7 @@
 name: mietrecht-mangel-minderung
 description: "Mietrechtliche Mängel und Minderung §§ 536 ff. BGB: Anzeigepflicht, Minderungsquote, Schadensersatz, Kündigung."
 ---
+
 # Mietrecht: Mangel und Minderung §§ 536 ff. BGB
 
 ## Fachkern: Mietrecht: Mangel und Minderung §§ 536 ff. BGB

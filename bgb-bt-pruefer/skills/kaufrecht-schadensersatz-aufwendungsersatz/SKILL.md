@@ -2,6 +2,7 @@
 name: kaufrecht-schadensersatz-aufwendungsersatz
 description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht."
 ---
+
 # Kaufrecht: Schadensersatz und Aufwendungsersatz
 
 ## Fachkern: Kaufrecht: Schadensersatz und Aufwendungsersatz

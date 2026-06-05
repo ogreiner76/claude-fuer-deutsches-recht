@@ -2,6 +2,7 @@
 name: delikt-psychische-schaeden
 description: "Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Schockschaden, PTBS, Gesundheitsverletzung § 823 Abs. 1 BGB."
 ---
+
 # Delikt: Psychische Schäden
 
 ## Fachkern: Delikt: Psychische Schäden

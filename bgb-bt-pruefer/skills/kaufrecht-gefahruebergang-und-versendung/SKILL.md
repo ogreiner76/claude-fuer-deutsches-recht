@@ -2,6 +2,7 @@
 name: kaufrecht-gefahruebergang-und-versendung
 description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf."
 ---
+
 # Kaufrecht: Gefahrübergang und Versendung
 
 ## Fachkern: Kaufrecht: Gefahrübergang und Versendung

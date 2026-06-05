@@ -2,6 +2,7 @@
 name: kaufrecht-right-to-repair-und-nacherfuellung
 description: "Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf."
 ---
+
 # Kaufrecht: Right to Repair und Nacherfüllung
 
 ## Fachkern: Kaufrecht: Right to Repair und Nacherfüllung

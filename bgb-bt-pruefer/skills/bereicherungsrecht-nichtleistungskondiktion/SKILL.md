@@ -2,6 +2,7 @@
 name: bereicherungsrecht-nichtleistungskondiktion
 description: "Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion."
 ---
+
 # Bereicherungsrecht: Nichtleistungskondiktion
 
 ## Fachkern: Bereicherungsrecht: Nichtleistungskondiktion

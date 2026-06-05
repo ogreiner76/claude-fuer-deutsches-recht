@@ -2,6 +2,7 @@
 name: deliktsrecht-paragraph-823-1
 description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB."
 ---
+
 # Deliktsrecht § 823 Abs. 1 BGB
 
 ## Fachkern: Deliktsrecht § 823 Abs. 1 BGB

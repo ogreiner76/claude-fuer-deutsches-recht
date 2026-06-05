@@ -2,6 +2,7 @@
 name: delikt-verkehrspflicht-digital
 description: "Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaftung, IT-Sicherheit, Datenpannen und deliktische Haftung."
 ---
+
 # Delikt: Verkehrspflicht Digital
 
 ## Fachkern: Delikt: Verkehrspflicht Digital

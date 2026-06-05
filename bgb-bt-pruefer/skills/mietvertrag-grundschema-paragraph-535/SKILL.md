@@ -2,6 +2,7 @@
 name: mietvertrag-grundschema-paragraph-535
 description: "Mietvertrag § 535 BGB: Pflichten, Gebrauchsüberlassung, Kündigung, Kaution und Schönheitsreparaturen."
 ---
+
 # Mietvertrag Grundschema § 535 BGB
 
 ## Fachkern: Mietvertrag Grundschema § 535 BGB

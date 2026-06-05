@@ -1,6 +1,6 @@
 ---
 name: confidentiality-trade-contract-interpretation
-description: "Confidentiality Trade Secrets 273A Zpo, Contract Interpretation De En: Confidentiality Trade Secrets 273A Zpo; Contract Interpretation De En. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Confidentiality Trade Secrets 273A Zpo, Contract Interpretation De En im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Confidentiality Trade Secrets 273A Zpo, Contract Interpretation De En prüfen.; Erstelle eine Arbeitsfassung zu Confidentiality Trade Secrets 273A Zpo, Contract Interpretation De En.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Confidentiality Trade Secrets 273A Zpo, Contract Interpretation De En
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `confidentiality-trade-secrets-273a-zpo` | Schützt Geschäftsgeheimnisse: Geheimhaltungsantrag, abgestufter Zugang, redacted exhibits, in camera concerns, Trade Secrets Act und Prozessstrategie. |
 | `contract-interpretation-de-en` | Erklärt und prüft englische Vertragsbegriffe unter deutschem Recht: reasonable efforts, best endeavours, indemnity, warranty, termination, material adverse change. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Confidentiality Trade Secrets 273A Zpo, Contract Interpretation De En** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

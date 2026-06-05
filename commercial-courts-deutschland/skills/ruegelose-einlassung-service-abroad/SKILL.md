@@ -1,6 +1,6 @@
 ---
 name: ruegelose-einlassung-service-abroad
-description: "Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu: Ruegelose Einlassung Und Sprache; Service Abroad Hague Eu. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu prüfen.; Erstelle eine Arbeitsfassung zu Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ruegelose-einlassung-und-sprache` | Warnt vor rügeloser Einlassung: Zuständigkeit, Sprache, Einlassungsfrist, Verteidigungsanzeige, Prozessstrategie und Mandantenfreigabe. |
 | `service-abroad-hague-eu` | Plant Zustellung ins Ausland: EuZVO, Haager Zustellungsübereinkommen, Übersetzung, service agents, Fristen und Nachweis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ruegelose Einlassung Und Sprache, Service Abroad Hague Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: evidence-map-exhibits-translation
-description: "Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo: Evidence Map Zpo Vs Common Law; Exhibits Translation 608 Zpo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `evidence-map-zpo-vs-common-law` | Erklärt Mandanten den Unterschied zwischen deutscher Beweisaufnahme und Common-Law-Erwartungen; erstellt Evidence Map ohne Discovery-Fantasien. |
 | `exhibits-translation-608-zpo` | Plant Anlagen, Übersetzungen und Sprache: welche Dokumente englisch bleiben können, wann Übersetzung nötig ist, wie Exhibit Index und Bundle aussehen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Evidence Map Zpo Vs Common Law, Exhibits Translation 608 Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

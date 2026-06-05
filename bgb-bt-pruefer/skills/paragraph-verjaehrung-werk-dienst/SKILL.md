@@ -1,6 +1,6 @@
 ---
 name: paragraph-verjaehrung-werk-dienst
-description: "Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg: Vergleich Paragraph 779; Verjaehrung Bgb Bt Spezial; Werk Dienst Abgrenzung Erfolg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verjaehrung-bgb-bt-spezial` | Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB. |
 | `werk-dienst-abgrenzung-erfolg` | Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft § 631 BGB vs. Tätigkeitsschuldnerschaft § 611 BGB. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

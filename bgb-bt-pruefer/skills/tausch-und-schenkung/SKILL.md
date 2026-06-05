@@ -2,6 +2,7 @@
 name: tausch-und-schenkung
 description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede."
 ---
+
 # Tausch und Schenkung §§ 480 und 516 ff. BGB
 
 ## Fachkern: Tausch und Schenkung §§ 480 und 516 ff. BGB

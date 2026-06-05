@@ -1,6 +1,6 @@
 ---
 name: cross-border-default-judgment
-description: "Cross Border Jurisdiction Brussels Ia, Default Judgment And Nonappearance: Cross Border Jurisdiction Brussels Ia; Default Judgment And Nonappearance. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Cross Border Jurisdiction Brussels Ia, Default Judgment And Nonappearance im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Cross Border Jurisdiction Brussels Ia, Default Judgment And Nonappearance prüfen.; Erstelle eine Arbeitsfassung zu Cross Border Jurisdiction Brussels Ia, Default Judgment And Nonappearance.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Cross Border Jurisdiction Brussels Ia, Default Judgment And Nonappearance
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `cross-border-jurisdiction-brussels-ia` | Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, Brüssel Ia, Lugano-Bezug, Drittstaaten und Anti-suit-/lis-pendens-Risiken. |
 | `default-judgment-and-nonappearance` | Prüft Versäumnis, Anerkenntnis, Säumnisfolgen, Einspruch und taktische Nichtteilnahme in Commercial-Court-Verfahren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Cross Border Jurisdiction Brussels Ia, Default Judgment And Nonappearance** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

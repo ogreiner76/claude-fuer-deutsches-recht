@@ -1,6 +1,6 @@
 ---
 name: costs-court-counterclaim-setoff
-description: "Costs Court Fees Risk Budget, Counterclaim Setoff Claim Amendment: Costs Court Fees Risk Budget; Counterclaim Setoff Claim Amendment. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Costs Court Fees Risk Budget, Counterclaim Setoff Claim Amendment im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Costs Court Fees Risk Budget, Counterclaim Setoff Claim Amendment prüfen.; Erstelle eine Arbeitsfassung zu Costs Court Fees Risk Budget, Counterclaim Setoff Claim Amendment.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Costs Court Fees Risk Budget, Counterclaim Setoff Claim Amendment
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `costs-court-fees-risk-budget` | Erstellt Kosten- und Risikobudget: Gerichtskosten, Anwaltskosten, Übersetzung, Transcript, Sachverständige, Security, Settlement und Enforcement. |
 | `counterclaim-setoff-claim-amendment` | Plant Widerklage, Hilfswiderklage, Aufrechnung, Klageänderung und amendment strategy in englischsprachigen Wirtschaftsprozessen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Costs Court Fees Risk Budget, Counterclaim Setoff Claim Amendment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

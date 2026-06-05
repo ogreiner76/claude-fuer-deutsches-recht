@@ -2,6 +2,7 @@
 name: bt-vertragsentwurf-modellvertrag
 description: "Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle."
 ---
+
 # BT-Vertragsentwurf und Modellvertrag
 
 ## Fachkern: BT-Vertragsentwurf und Modellvertrag

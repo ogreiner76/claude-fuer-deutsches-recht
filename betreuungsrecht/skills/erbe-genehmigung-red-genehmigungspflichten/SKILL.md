@@ -1,6 +1,6 @@
 ---
 name: erbe-genehmigung-red-genehmigungspflichten
-description: "Spezial Erbe Compliance Dokumentation Und Akte, Spezial Genehmigung Red Team Und Qualitaetskontrolle, Spezial Genehmigungspflichten Dokumentenmatrix Und Lueckenliste: Spezial Erbe Compliance Dokumentation Und Akte; Spezial Genehmigung Red Team Und Qualitaetskontrolle; Spezial Genehmigungspflichten Dokumentenmatrix Und Lueckenliste. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Erbe Compliance Dokumentation Und Akte, Spezial Genehmigung Red Team Und Qualitaetskontrolle, Spezial Genehmigungspflichten Dokumentenmatrix Und Lueckenliste im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Spezial Erbe Compliance Dokumentation Und Akte, Spezial Genehmigung Red Team Und Qualitaetskontrolle, Spezial Genehmigungspflichten Dokumentenmatrix Und Lueckenliste
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-genehmigung-red-team-und-qualitaetskontrolle` | Genehmigung: Red-Team und Qualitätskontrolle im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-genehmigungspflichten-dokumentenmatrix-und-lueckenliste` | Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Erbe Compliance Dokumentation Und Akte, Spezial Genehmigung Red Team Und Qualitaetskontrolle, Spezial Genehmigungspflichten Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -2,6 +2,7 @@
 name: schuldversprechen-schuldanerkenntnis
 description: "Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Form, Wirkung und Abgrenzung."
 ---
+
 # Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB
 
 ## Fachkern: Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB

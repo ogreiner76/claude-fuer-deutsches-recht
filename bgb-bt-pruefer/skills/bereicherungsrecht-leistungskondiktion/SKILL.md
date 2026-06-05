@@ -2,6 +2,7 @@
 name: bereicherungsrecht-leistungskondiktion
 description: "Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität."
 ---
+
 # Bereicherungsrecht: Leistungskondiktion
 
 ## Fachkern: Bereicherungsrecht: Leistungskondiktion

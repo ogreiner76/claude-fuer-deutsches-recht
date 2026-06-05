@@ -1,6 +1,6 @@
 ---
 name: forumwahl-court-glossary-court
-description: "Forumwahl Commercial Court Vs Schiedsgericht, Glossary Commercial Court De En: Forumwahl Commercial Court Vs Schiedsgericht; Glossary Commercial Court De En. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Forumwahl Commercial Court Vs Schiedsgericht, Glossary Commercial Court De En im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Forumwahl Commercial Court Vs Schiedsgericht, Glossary Commercial Court De En prüfen.; Erstelle eine Arbeitsfassung zu Forumwahl Commercial Court Vs Schiedsgericht, Glossary Commercial Court De En.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Forumwahl Commercial Court Vs Schiedsgericht, Glossary Commercial Court De En
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `forumwahl-commercial-court-vs-schiedsgericht` | Vergleicht Commercial Court, ordentliche Kammer, Schiedsgericht, DIS/ICC/LCIA und Gerichtsstandsvereinbarung; Output ist eine Vorstandsvorlage mit Empfehlung. |
 | `glossary-commercial-court-de-en` | Erstellt ein DE/EN-Glossar für Commercial-Court-Mandate: ZPO-Begriffe, Anträge, Beweis, Tenor, Vergleich, Rechtsmittel und falsche Freunde. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Forumwahl Commercial Court Vs Schiedsgericht, Glossary Commercial Court De En** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `commercial-courts-deutschland` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

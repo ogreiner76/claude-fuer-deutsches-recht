@@ -2,6 +2,7 @@
 name: darlehen-und-finanzierung
 description: "Prüft Darlehensvertrag §§ 488 ff. BGB, Verbraucherdarlehen §§ 491 ff. BGB, Zinsen, Kündigung und Widerruf."
 ---
+
 # Darlehen und Finanzierung
 
 ## Fachkern: Darlehen und Finanzierung

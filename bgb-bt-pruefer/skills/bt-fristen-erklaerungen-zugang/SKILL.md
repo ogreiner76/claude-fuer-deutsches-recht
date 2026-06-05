@@ -2,6 +2,7 @@
 name: bt-fristen-erklaerungen-zugang
 description: "Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist."
 ---
+
 # BT-Fristen, Erklärungen und Zugang
 
 ## Fachkern: BT-Fristen, Erklärungen und Zugang

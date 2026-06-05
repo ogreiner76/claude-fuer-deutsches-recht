@@ -2,6 +2,7 @@
 name: dienstvertrag-und-behandlungsvertrag
 description: "Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung."
 ---
+
 # Dienstvertrag und Behandlungsvertrag
 
 ## Fachkern: Dienstvertrag und Behandlungsvertrag

@@ -2,6 +2,7 @@
 name: verbrauchsgueterkauf-digitales
 description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB."
 ---
+
 # Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
 
 ## Fachkern: Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB

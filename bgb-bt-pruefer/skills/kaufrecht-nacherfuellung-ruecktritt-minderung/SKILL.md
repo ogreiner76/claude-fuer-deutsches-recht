@@ -2,6 +2,7 @@
 name: kaufrecht-nacherfuellung-ruecktritt-minderung
 description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung und Schadensersatz bei Sachmangel."
 ---
+
 # Kaufrecht: Nacherfüllung, Rücktritt und Minderung
 
 ## Fachkern: Kaufrecht: Nacherfüllung, Rücktritt und Minderung

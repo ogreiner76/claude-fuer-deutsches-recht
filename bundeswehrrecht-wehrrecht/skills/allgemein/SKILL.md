@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing im Bundeswehrrecht und Wehrrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Spezial-Skills aus diesem Plugin vor."
 ---
 
-
 # Bundeswehrrecht und Wehrrecht — Allgemein
 
 ## Sofortstart
