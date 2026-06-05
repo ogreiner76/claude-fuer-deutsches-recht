@@ -1,6 +1,6 @@
 ---
 name: pe-bank-pe-shareholder-pe-carve-pe-regulated
-description: "Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target: Pe 089 Private Equity In Bank Restructuring; Pe 091 Shareholder Loans In Crisis; Pe 092 Carve Out Operating Model; Pe 093 Regulated Bank Fintech Target. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target prüfen.; Erstelle eine Arbeitsfassung zu Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-092-carve-out-operating-model` | Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services. |
 | `pe-093-regulated-bank-fintech-target` | Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

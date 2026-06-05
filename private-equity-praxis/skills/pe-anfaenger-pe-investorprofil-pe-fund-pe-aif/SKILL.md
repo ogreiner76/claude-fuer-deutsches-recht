@@ -1,6 +1,6 @@
 ---
 name: pe-anfaenger-pe-investorprofil-pe-fund-pe-aif
-description: "Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger: Pe 002 Anfaenger Modus Pe Begriffe; Pe 003 Investorprofil Lp Gp Family Office; Pe 004 Fund Formation Deutschland Kagb Scope; Pe 005 Spezial Aif Und Professionelle Anleger. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger prüfen.; Erstelle eine Arbeitsfassung zu Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-004-fund-formation-deutschland-kagb-scope` | Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb des KAGB funktionieren kann. |
 | `pe-005-spezial-aif-und-professionelle-anleger` | Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

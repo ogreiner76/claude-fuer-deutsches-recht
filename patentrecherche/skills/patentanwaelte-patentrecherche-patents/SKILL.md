@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-patentrecherche-patents
-description: "Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg: Spezial Patentanwaelte Tatbestand Beweis Und Belege; Spezial Patentrecherche Erstpruefung Und Mandatsziel; Spezial Patents Behörden Gericht Und Registerweg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-patentrecherche-erstpruefung-und-mandatsziel` | Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-patents-behoerden-gericht-und-registerweg` | Patents: Behörden-, Gerichts- oder Registerweg im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

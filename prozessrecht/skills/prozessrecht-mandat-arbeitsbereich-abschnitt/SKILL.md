@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-mandat-arbeitsbereich-abschnitt
-description: "Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt: Prozessrecht Anpassen; Prozessrecht Mandat Arbeitsbereich; Schriftsatz Abschnitt. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt prüfen.; Erstelle eine Arbeitsfassung zu Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `prozessrecht-mandat-arbeitsbereich` | Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill. |
 | `schriftsatz-abschnitt` | Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollständige Klageschrift. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

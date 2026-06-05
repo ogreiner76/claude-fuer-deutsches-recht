@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-entwurf-anwaltsgeheimnis
-description: "Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team: Mahnschreiben Entwurf; Anwaltsgeheimnis Prüfung; Argumentationsverbesserung Red Team. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team prüfen.; Erstelle eine Arbeitsfassung zu Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anwaltsgeheimnis-pruefung` | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO. |
 | `argumentationsverbesserung-red-team` | Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prueft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

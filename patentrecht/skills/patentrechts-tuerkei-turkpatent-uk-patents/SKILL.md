@@ -1,6 +1,6 @@
 ---
 name: patentrechts-tuerkei-turkpatent-uk-patents
-description: "Spezial Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo: Spezial Patentrechts Erstpruefung Und Mandatsziel; Tuerkei Patentrecht Turkpatent Ip Courts; Uk Patentrecht Patents Court Ipec Ukipo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo prüfen.; Erstelle eine Arbeitsfassung zu Spezial Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tuerkei-patentrecht-turkpatent-ip-courts` | Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle. |
 | `uk-patentrecht-patents-court-ipec-ukipo` | Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

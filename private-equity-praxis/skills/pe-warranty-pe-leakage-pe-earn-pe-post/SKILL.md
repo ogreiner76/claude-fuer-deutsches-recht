@@ -1,6 +1,6 @@
 ---
 name: pe-warranty-pe-leakage-pe-earn-pe-post
-description: "Pe 081 Warranty Claims Und Notices, Pe 082 Leakage Claim Locked Box, Pe 083 Earn Out Dispute, Pe 084 Post Closing Covenant Breach: Pe 081 Warranty Claims Und Notices; Pe 082 Leakage Claim Locked Box; Pe 083 Earn Out Dispute; Pe 084 Post Closing Covenant Breach. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 081 Warranty Claims Und Notices, Pe 082 Leakage Claim Locked Box, Pe 083 Earn Out Dispute, Pe 084 Post Closing Covenant Breach im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 081 Warranty Claims Und Notices, Pe 082 Leakage Claim Locked Box, Pe 083 Earn Out Dispute, Pe 084 Post Closing Covenant Breach prüfen.; Erstelle eine Arbeitsfassung zu Pe 081 Warranty Claims Und Notices, Pe 082 Leakage Claim Locked Box, Pe 083 Earn Out Dispute, Pe 084 Post Closing Covenant Breach.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 081 Warranty Claims Und Notices, Pe 082 Leakage Claim Locked Box, Pe 083 Earn Out Dispute, Pe 084 Post Closing Covenant Breach
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-083-earn-out-dispute` | Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination. |
 | `pe-084-post-closing-covenant-breach` | Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 081 Warranty Claims Und Notices, Pe 082 Leakage Claim Locked Box, Pe 083 Earn Out Dispute, Pe 084 Post Closing Covenant Breach** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

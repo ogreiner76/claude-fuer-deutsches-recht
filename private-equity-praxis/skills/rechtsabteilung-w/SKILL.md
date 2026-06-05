@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-w
-description: "Rechtsabteilung W I Claim Nach Financial Statements Breach: Rechtsabteilung W I Claim Nach Financial Statements Breach. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rechtsabteilung W I Claim Nach Financial Statements Breach im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung W I Claim Nach Financial Statements Breach prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung W I Claim Nach Financial Statements Breach.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rechtsabteilung W I Claim Nach Financial Statements Breach
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `rechtsabteilung-w-i-claim-nach-financial-statements-breach` | Rechtsabteilungs-Spezialskill für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rechtsabteilung W I Claim Nach Financial Statements Breach** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

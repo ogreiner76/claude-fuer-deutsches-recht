@@ -1,6 +1,6 @@
 ---
 name: pe-dual-pe-secondary-pe-credit-pe-lma
-description: "Pe 043 Dual Track Exit Ipo Sale, Pe 044 Secondary Buyout Und Sbo, Pe 045 Private Credit Direct Lending, Pe 046 Lma Facility Review Deutsch: Pe 043 Dual Track Exit Ipo Sale; Pe 044 Secondary Buyout Und Sbo; Pe 045 Private Credit Direct Lending; Pe 046 Lma Facility Review Deutsch. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 043 Dual Track Exit Ipo Sale, Pe 044 Secondary Buyout Und Sbo, Pe 045 Private Credit Direct Lending, Pe 046 Lma Facility Review Deutsch im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Pe 043 Dual Track Exit Ipo Sale, Pe 044 Secondary Buyout Und Sbo, Pe 045 Private Credit Direct Lending, Pe 046 Lma Facility Review Deutsch
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-045-private-credit-direct-lending` | Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket. |
 | `pe-046-lma-facility-review-deutsch` | Prüft hochgeladene LMA-basierte Facility Agreements auf deutsche Rechts-/Deal-Schnittstellen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 043 Dual Track Exit Ipo Sale, Pe 044 Secondary Buyout Und Sbo, Pe 045 Private Credit Direct Lending, Pe 046 Lma Facility Review Deutsch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

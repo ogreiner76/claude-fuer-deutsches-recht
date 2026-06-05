@@ -1,6 +1,6 @@
 ---
 name: pangv-prodr-produktbeobachtung
-description: "Spezial Pangv Risikoampel Und Gegenargumente, Spezial Prodr Zahlen Schwellen Und Berechnung, Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation: Spezial Pangv Risikoampel Und Gegenargumente; Spezial Prodr Zahlen Schwellen Und Berechnung; Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Pangv Risikoampel Und Gegenargumente, Spezial Prodr Zahlen Schwellen Und Berechnung, Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pangv Risikoampel Und Gegenargumente, Spezial Prodr Zahlen Schwellen Und Berechnung, Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pangv Risikoampel Und Gegenargumente, Spezial Prodr Zahlen Schwellen Und Berechnung, Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Pangv Risikoampel Und Gegenargumente, Spezial Prodr Zahlen Schwellen Und Berechnung, Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-prodr-zahlen-schwellen-und-berechnung` | Prodr: Zahlen, Schwellenwerte und Berechnung im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-produktbeobachtung-verhandlung-vergleich-und-eskalation` | Produktbeobachtung: Verhandlung, Vergleich und Eskalation im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Pangv Risikoampel Und Gegenargumente, Spezial Prodr Zahlen Schwellen Und Berechnung, Spezial Produktbeobachtung Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

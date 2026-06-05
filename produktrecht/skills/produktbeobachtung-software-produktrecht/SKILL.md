@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-software-produktrecht
-description: "Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich: Produktbeobachtung Software Ota; Produktrecht Anpassen; Produktrecht Mandat Arbeitsbereich. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich prüfen.; Erstelle eine Arbeitsfassung zu Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `produktrecht-anpassen` | Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt "mein [Ding] ändern", "mein Profil aktualisieren", "mein Framework bearbeiten", "meine Kalibrierung anpassen" oder "anpassen". |
 | `produktrecht-mandat-arbeitsbereich` | Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren parallelen Produktrechtsmandaten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

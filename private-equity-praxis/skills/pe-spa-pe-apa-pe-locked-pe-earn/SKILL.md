@@ -1,6 +1,6 @@
 ---
 name: pe-spa-pe-apa-pe-locked-pe-earn
-description: "Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan: Pe 027 Spa Share Deal Pe; Pe 028 Apa Carve Out Pe; Pe 029 Locked Box Completion Accounts; Pe 030 Earn Out Und Vendor Loan. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan prüfen.; Erstelle eine Arbeitsfassung zu Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-029-locked-box-completion-accounts` | Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik. |
 | `pe-030-earn-out-und-vendor-loan` | Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

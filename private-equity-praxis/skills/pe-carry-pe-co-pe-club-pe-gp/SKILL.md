@@ -1,6 +1,6 @@
 ---
 name: pe-carry-pe-co-pe-club-pe-gp
-description: "Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund: Pe 014 Carry Waterfall Und Clawback; Pe 015 Co Investment Und Spv; Pe 016 Club Deal Und Investorenkonsortium; Pe 017 Gp Led Secondary Continuation Fund. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund prüfen.; Erstelle eine Arbeitsfassung zu Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-016-club-deal-und-investorenkonsortium` | Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln. |
 | `pe-017-gp-led-secondary-continuation-fund` | Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

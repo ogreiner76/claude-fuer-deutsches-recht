@@ -1,6 +1,6 @@
 ---
 name: pe-wi-pe-merger-pe-closing-pe-management
-description: "Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep: Pe 031 Wi Insurance Underwriting; Pe 032 Merger Control Fdi Pe; Pe 033 Closing Cp Funds Flow; Pe 034 Management Participation Mep. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep prüfen.; Erstelle eine Arbeitsfassung zu Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-033-closing-cp-funds-flow` | Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan. |
 | `pe-034-management-participation-mep` | Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

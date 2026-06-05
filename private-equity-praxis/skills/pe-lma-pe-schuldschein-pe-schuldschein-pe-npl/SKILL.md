@@ -1,6 +1,6 @@
 ---
 name: pe-lma-pe-schuldschein-pe-schuldschein-pe-npl
-description: "Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg: Pe 047 Lma Transfer Assignment Novation; Pe 048 Schuldschein Darlehen Struktur; Pe 049 Schuldschein Transfer; Pe 050 Npl Kauf Und Krzwmg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg prüfen.; Erstelle eine Arbeitsfassung zu Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-049-schuldschein-transfer` | Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik. |
 | `pe-050-npl-kauf-und-krzwmg` | Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

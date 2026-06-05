@@ -1,6 +1,6 @@
 ---
 name: streitwert-verkehrsunfall-vollstreckung
-description: "Streitwert, Verkehrsunfall, Vollstreckung: Streitwert; Verkehrsunfall; Vollstreckung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Streitwert, Verkehrsunfall, Vollstreckung im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Streitwert, Verkehrsunfall, Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Streitwert, Verkehrsunfall, Vollstreckung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Streitwert, Verkehrsunfall, Vollstreckung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verkehrsunfall` | Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten. |
 | `vollstreckung` | Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Streitwert, Verkehrsunfall, Vollstreckung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

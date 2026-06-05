@@ -1,6 +1,6 @@
 ---
 name: upc-einstweilige-upc-verletzung-upc-widerruf
-description: "Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation: Upc Einstweilige Massnahmen; Upc Verletzung Und Rechtsbestand; Upc Widerruf Und Widerklage Revocation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation prüfen.; Erstelle eine Arbeitsfassung zu Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `upc-verletzung-und-rechtsbestand` | Prüft Einheitliches Patentgericht UPC: Verletzungsklage, Zentral-/Lokal-/Regionalkammer, Widerklage auf Nichtigerklärung, Opt-out, Einheitspatent und klassische europäische Patente. |
 | `upc-widerruf-und-widerklage-revocation` | Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

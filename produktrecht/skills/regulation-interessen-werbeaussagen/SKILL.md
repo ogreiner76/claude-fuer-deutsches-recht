@@ -1,6 +1,6 @@
 ---
 name: regulation-interessen-werbeaussagen
-description: "Spezial Regulation Mehrparteien Konflikt Und Interessen, Werbeaussagen Prüfung: Spezial Regulation Mehrparteien Konflikt Und Interessen; Werbeaussagen Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Regulation Mehrparteien Konflikt Und Interessen, Werbeaussagen Prüfung im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Regulation Mehrparteien Konflikt Und Interessen, Werbeaussagen Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Regulation Mehrparteien Konflikt Und Interessen, Werbeaussagen Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Regulation Mehrparteien Konflikt Und Interessen, Werbeaussagen Prüfung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-regulation-mehrparteien-konflikt-und-interessen` | Regulation: Mehrparteienkonflikt und Interessenmatrix im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `werbeaussagen-pruefung` | Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen", "Marketingaussagen freigeben", "UWG-Prüfung", "Health Claims", "klimaneutral prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Regulation Mehrparteien Konflikt Und Interessen, Werbeaussagen Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

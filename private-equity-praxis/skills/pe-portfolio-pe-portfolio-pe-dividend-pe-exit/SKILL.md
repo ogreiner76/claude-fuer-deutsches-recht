@@ -1,6 +1,6 @@
 ---
 name: pe-portfolio-pe-portfolio-pe-dividend-pe-exit
-description: "Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd: Pe 039 Portfolio Add On Akquisition; Pe 040 Portfolio Governance Board Pack; Pe 041 Dividend Recap Und Refinancing; Pe 042 Exit Readiness Und Vendor Dd. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd prüfen.; Erstelle eine Arbeitsfassung zu Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-041-dividend-recap-und-refinancing` | Prüft Ausschüttungen, Refinanzierung, Kapitalerhaltung, Covenants, Solvency und Gläubigerschutz. |
 | `pe-042-exit-readiness-und-vendor-dd` | Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: japan-jpo-kanada-cipo-loeschung-widerruf
-description: "Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route: Japan Patentrecht Jpo Ip High Court; Kanada Patentrecht Cipo Federal Court; Löschung Widerruf Nichtigkeit Global Route. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route prüfen.; Erstelle eine Arbeitsfassung zu Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanada-patentrecht-cipo-federal-court` | Prüft kanadische Patentfragen: CIPO-Recherche und Prosecution, Patent Appeal Board, Re-examination, Federal Court, PM(NOC)-Schnittstellen und bilinguale Local-Counsel-Fragen. |
 | `loeschung-widerruf-nichtigkeit-global-route` | Koordiniert Rechtsbestandsangriffe international: EPA-Einspruch, UPC-Revocation, deutsche Nichtigkeit, UK revocation, US PTAB, Kanada, Japan, Schweiz, Türkei und Israel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

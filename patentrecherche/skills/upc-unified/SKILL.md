@@ -1,6 +1,6 @@
 ---
 name: upc-unified
-description: "Upc Unified Patent Court Spezial: Upc Unified Patent Court Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Upc Unified Patent Court Spezial im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Upc Unified Patent Court Spezial prüfen.; Erstelle eine Arbeitsfassung zu Upc Unified Patent Court Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Upc Unified Patent Court Spezial
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `upc-unified-patent-court-spezial` | Unified Patent Court UPC seit 2023 Spezial: Zustaendigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation. Pruefraster fuer Patentinhaber und potentielle Verletzer. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Upc Unified Patent Court Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

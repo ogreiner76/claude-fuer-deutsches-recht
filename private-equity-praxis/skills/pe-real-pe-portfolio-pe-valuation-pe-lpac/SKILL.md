@@ -1,6 +1,6 @@
 ---
 name: pe-real-pe-portfolio-pe-valuation-pe-lpac
-description: "Pe 067 Real Estate Pe Und Opco Propco, Pe 069 Portfolio Reporting Lp, Pe 070 Valuation Und Fairness, Pe 071 Lpac Und Conflicts: Pe 067 Real Estate Pe Und Opco Propco; Pe 069 Portfolio Reporting Lp; Pe 070 Valuation Und Fairness; Pe 071 Lpac Und Conflicts. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 067 Real Estate Pe Und Opco Propco, Pe 069 Portfolio Reporting Lp, Pe 070 Valuation Und Fairness, Pe 071 Lpac Und Conflicts im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 067 Real Estate Pe Und Opco Propco, Pe 069 Portfolio Reporting Lp, Pe 070 Valuation Und Fairness, Pe 071 Lpac Und Conflicts prüfen.; Erstelle eine Arbeitsfassung zu Pe 067 Real Estate Pe Und Opco Propco, Pe 069 Portfolio Reporting Lp, Pe 070 Valuation Und Fairness, Pe 071 Lpac Und Conflicts.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 067 Real Estate Pe Und Opco Propco, Pe 069 Portfolio Reporting Lp, Pe 070 Valuation Und Fairness, Pe 071 Lpac Und Conflicts
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-070-valuation-und-fairness` | Prüft Bewertung in Secondary, Management Roll-over, Exit, Impairment und Streitfällen. |
 | `pe-071-lpac-und-conflicts` | Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 067 Real Estate Pe Und Opco Propco, Pe 069 Portfolio Reporting Lp, Pe 070 Valuation Und Fairness, Pe 071 Lpac Und Conflicts** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

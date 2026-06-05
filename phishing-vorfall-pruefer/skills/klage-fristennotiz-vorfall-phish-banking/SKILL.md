@@ -1,6 +1,6 @@
 ---
 name: klage-fristennotiz-vorfall-phish-banking
-description: "Spezial Klage Fristennotiz Und Naechster Schritt, Spezial Vorfall Fristen Form Und Zustaendigkeit, Phish Banking Trojaner Haftung Spezial: Spezial Klage Fristennotiz Und Naechster Schritt; Spezial Vorfall Fristen Form Und Zustaendigkeit; Phish Banking Trojaner Haftung Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Klage Fristennotiz Und Naechster Schritt, Spezial Vorfall Fristen Form Und Zustaendigkeit, Phish Banking Trojaner Haftung Spezial im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Klage Fristennotiz Und Naechster Schritt, Spezial Vorfall Fristen Form Und Zustaendigkeit, Phish Banking Trojaner Haftung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Klage Fristennotiz Und Naechster Schritt, Spezial Vorfall Fristen Form Und Zustaendigkeit, Phish Banking Trojaner Haftung Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Klage Fristennotiz Und Naechster Schritt, Spezial Vorfall Fristen Form Und Zustaendigkeit, Phish Banking Trojaner Haftung Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-vorfall-fristen-form-und-zustaendigkeit` | Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `phish-banking-trojaner-haftung-spezial` | Spezialfall Banking-Trojaner und Haftung bei nicht autorisierten Zahlungen § 675u BGB / § 675v BGB: grob fahrlaessig, starke Kundenauthentifizierung PSD2. Pruefraster Bank und Kunde. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Klage Fristennotiz Und Naechster Schritt, Spezial Vorfall Fristen Form Und Zustaendigkeit, Phish Banking Trojaner Haftung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

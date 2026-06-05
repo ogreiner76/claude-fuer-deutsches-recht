@@ -1,6 +1,6 @@
 ---
 name: pe-healthcare-pe-energy-pe-real-pe-cross
-description: "Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment: Pe 094 Healthcare Pe Target; Pe 095 Energy Infrastructure Pe; Pe 096 Real Estate Npl Pe; Pe 097 Cross Border Fund Investment. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment prüfen.; Erstelle eine Arbeitsfassung zu Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-096-real-estate-npl-pe` | Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz. |
 | `pe-097-cross-border-fund-investment` | Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

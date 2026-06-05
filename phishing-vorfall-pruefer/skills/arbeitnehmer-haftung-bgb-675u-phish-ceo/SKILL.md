@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-haftung-bgb-675u-phish-ceo
-description: "Phishing Arbeitnehmer Haftung, Phishing Bgb 675U Haftung, Phish Ceo Fraud Konzern Spezial: Phishing Arbeitnehmer Haftung; Phishing Bgb 675U Haftung; Phish Ceo Fraud Konzern Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Phishing Arbeitnehmer Haftung, Phishing Bgb 675U Haftung, Phish Ceo Fraud Konzern Spezial im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Phishing Arbeitnehmer Haftung, Phishing Bgb 675U Haftung, Phish Ceo Fraud Konzern Spezial prüfen.; Erstelle eine Arbeitsfassung zu Phishing Arbeitnehmer Haftung, Phishing Bgb 675U Haftung, Phish Ceo Fraud Konzern Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Phishing Arbeitnehmer Haftung, Phishing Bgb 675U Haftung, Phish Ceo Fraud Konzern Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `phishing-bgb-675u-haftung` | § 675u BGB Haftung des Zahlungsdienstleisters bei nicht autorisierter Zahlung: Erstattungspflicht, Beweislast bei Bank, dass Kunde authentifiziert hat. Ausnahmen § 675v BGB. Pruefraster. |
 | `phish-ceo-fraud-konzern-spezial` | Spezialfall CEO-Fraud im Konzern: interne Kontrollen, Vier-Augen-Prinzip, Schadensersatz Geschaeftsleitung, Versicherer D-and-O / Cyber. Pruefraster fuer Konzern. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Phishing Arbeitnehmer Haftung, Phishing Bgb 675U Haftung, Phish Ceo Fraud Konzern Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

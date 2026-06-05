@@ -1,6 +1,6 @@
 ---
 name: pe-esg-pe-gwg-pe-teaser-pe-loi
-description: "Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer: Pe 018 Esg Sfdr Und Lieferketten; Pe 019 Gwg Kyc Ubo Und Sanctions; Pe 021 Teaser Nda Process Letter; Pe 022 Loi Nbo Binding Offer. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer prüfen.; Erstelle eine Arbeitsfassung zu Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-021-teaser-nda-process-letter` | Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit. |
 | `pe-022-loi-nbo-binding-offer` | Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

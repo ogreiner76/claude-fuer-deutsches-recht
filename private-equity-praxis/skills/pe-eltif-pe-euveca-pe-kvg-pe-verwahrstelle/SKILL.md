@@ -1,6 +1,6 @@
 ---
 name: pe-eltif-pe-euveca-pe-kvg-pe-verwahrstelle
-description: "Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen: Pe 006 Eltif 2 0 Private Markets; Pe 007 Euveca Und Vc Fonds; Pe 008 Kvg Erlaubnis Registrierung Auslagerung; Pe 009 Verwahrstelle Und Admin Funktionen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen prüfen.; Erstelle eine Arbeitsfassung zu Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-008-kvg-erlaubnis-registrierung-auslagerung` | Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist. |
 | `pe-009-verwahrstelle-und-admin-funktionen` | Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

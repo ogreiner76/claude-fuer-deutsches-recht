@@ -1,6 +1,6 @@
 ---
 name: stand-technik-uspto-interessen
-description: "Spezial Stand Internationaler Bezug Und Schnittstellen, Spezial Technik Formular Portal Und Einreichung, Spezial Uspto Mehrparteien Konflikt Und Interessen: Spezial Stand Internationaler Bezug Und Schnittstellen; Spezial Technik Formular Portal Und Einreichung; Spezial Uspto Mehrparteien Konflikt Und Interessen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Stand Internationaler Bezug Und Schnittstellen, Spezial Technik Formular Portal Und Einreichung, Spezial Uspto Mehrparteien Konflikt Und Interessen im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Spezial Stand Internationaler Bezug Und Schnittstellen, Spezial Technik Formular Portal Und Einreichung, Spezial Uspto Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Stand Internationaler Bezug Und Schnittstellen, Spezial Technik Formular Portal Und Einreichung, Spezial Uspto Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Stand Internationaler Bezug Und Schnittstellen, Spezial Technik Formular Portal Und Einreichung, Spezial Uspto Mehrparteien Konflikt Und Interessen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-technik-formular-portal-und-einreichung` | Technik: Formular, Portal und Einreichungslogik im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-uspto-mehrparteien-konflikt-und-interessen` | USPTO: Mehrparteienkonflikt und Interessenmatrix im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Stand Internationaler Bezug Und Schnittstellen, Spezial Technik Formular Portal Und Einreichung, Spezial Uspto Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

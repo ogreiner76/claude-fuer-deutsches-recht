@@ -1,6 +1,6 @@
 ---
 name: pe-law-pe-pe-pe-translation-pe-negotiation
-description: "Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe: Pe 098 Law Firm Pe Project Control; Pe 100 Pe Document Generator Pack; Pe 101 Translation De En Pe Terms; Pe 102 Negotiation Playbook Pe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe prüfen.; Erstelle eine Arbeitsfassung zu Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-101-translation-de-en-pe-terms` | Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache. |
 | `pe-102-negotiation-playbook-pe` | Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

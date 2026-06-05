@@ -1,6 +1,6 @@
 ---
 name: pe-data-pe-deal-pe-bidco-pe-management
-description: "Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover: Pe 077 Data Room Index Pe; Pe 078 Deal Timeline Und Workstreams; Pe 079 Bidco Stack Und Holdingstruktur; Pe 080 Management Rollover. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover prüfen.; Erstelle eine Arbeitsfassung zu Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-079-bidco-stack-und-holdingstruktur` | Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten. |
 | `pe-080-management-rollover` | Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: erfinderische-taetigkeit-freedom-to-ki-patent
-description: "Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie: Erfinderische Taetigkeit Prüfen; Freedom To Operate Recherche; Ki Und Patent Strategie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie prüfen.; Erstelle eine Arbeitsfassung zu Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `freedom-to-operate-recherche` | Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-Recherche: Filter auf erteilte und rechtsstandfähige Schutzrechte (DPMAregister EPO Register Status erteilt nicht erloschen), Territorium passt zum Zielmarkt, Schutzbereich passt zum Produkt. Liefert Risiko-Ampel pro Treffer rot gelb gruen mit Begründung Pinpoint auf Hauptanspruch und Empfehlung Vermeidung Lizenz Vernichtungsklage Nichtigkeitsklage. Disclaimer keine Rechtsberatung kein Ersatz für Patentanwaltsbewertung. |
 | `ki-und-patent-strategie` | Spezialfall KI-Erfindungen Patent-Strategie: DABUS-Entscheidungen DPMA und EPA und BPatG, Erfinderbenennung nur natuerliche Person, Beitrag der KI in Beschreibung, Daten- und Modellrechte. Strategie fuer KI-getriebene FuE und Patent-Portfolio. Mustertexte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erfinderische Taetigkeit Prüfen, Freedom To Operate Recherche, Ki Und Patent Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

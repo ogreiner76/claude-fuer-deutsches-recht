@@ -1,6 +1,6 @@
 ---
 name: bea-notfall-bgb-675v-erstkontakt-mandant
-description: "Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant: Phishing Bea Notfall Anwalt; Phishing Bgb 675V Grobfahrlaessig; Phishing Erstkontakt Mandant. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant prüfen.; Erstelle eine Arbeitsfassung zu Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `phishing-bgb-675v-grobfahrlaessig` | § 675v Abs. 3 BGB Haftung Kunde bei grober Fahrlaessigkeit: Vollhaftung. Pruefraster: PIN/TAN weitergegeben? Auf Phishing-Seite eingegeben? Bei pushTAN: Geraetebindung umgangen? Rechtsprechung BGH XI ZR 91/14, XI ZR 96/11. |
 | `phishing-erstkontakt-mandant` | Erstkontakt Mandant nach Phishing-Vorfall: Eilfragen, Schaden Vorfall, Bank kontaktiert (Sperre Konto, Sperre Karten), Polizei (Strafanzeige § 263a StGB), beA-Notruf (bei Anwalts-PC). Output: Sofortmassnahmen-Liste und Fakten-Aufnahme. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

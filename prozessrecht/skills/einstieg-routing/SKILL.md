@@ -1,0 +1,44 @@
+---
+name: einstieg-routing
+description: "Nutze dies, wenn Einstieg und Routing im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Prozessrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+---
+
+# Einstieg und Routing
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Bereich **Prozessrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+
+## Fachlandkarte dieses Plugins
+
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `amtlicher-zpo-proz-bauleiter-eilverfahren` — Amtlicher Zpo Proz Bauleiter Eilverfahren
+- `anspruchstabelle` — Anspruchstabelle
+- `anspruchstabelle-gegenseite-interessen-mahnbescheid` — Anspruchstabelle Gegenseite Interessen Mahnbescheid
+- `beweissicherung-chronologie-einstweilige-verfuegung` — Beweissicherung Chronologie Einstweilige Verfuegung
+- `gegenseite-status-mahnbescheid-mahnschreiben-aufnahme` — Gegenseite Status Mahnbescheid Mahnschreiben Aufnahme
+- `mahnschreiben-entwurf-anwaltsgeheimnis` — Mahnschreiben Entwurf Anwaltsgeheimnis
+- `mahnschreiben-erhalten-aktualisierung-aufnahme` — Mahnschreiben Erhalten Aktualisierung Aufnahme
+- `mandat-briefing-mandat-schliessen-portfolio-status` — Mandat Briefing Mandat Schliessen Portfolio Status
+- `mandat-mandate-prozessrecht` — Mandat Mandate Prozessrecht
+- `proz-beweismittel-leitfaden-mediationsklage-guete` — Proz Beweismittel Leitfaden Mediationsklage Guete
+- `prozessrecht-kaltstart-interview` — Prozessrecht Kaltstart Interview
+- `prozessrecht-mandat-arbeitsbereich-abschnitt` — Prozessrecht Mandat Arbeitsbereich Abschnitt
+- `prozessrechtliche-schriftsaetze-status` — Prozessrechtliche Schriftsaetze Status
+
+## Arbeitsweg
+
+- Rolle und Ziel klären: Wer fragt, welches Ergebnis wird gebraucht, welches Verfahren oder Dokument liegt vor?
+- Fristen und Sofortgefahren isolieren: Zustellung, Einspruch, Widerspruch, Klage, Zahlung, Vollzug, Haftung, Register- oder Behördenfrist.
+- Fachpfad wählen: materielles Recht, Verfahrensrecht, Dokumentenarbeit, Verhandlung, Behördenkommunikation oder gerichtlicher Output.
+- Nur die Rückfragen stellen, die die nächste Weiche ändern.
+
+## Output
+
+Kurzbild, Risikomatrix, Anschluss-Skill-Vorschlag, Unterlagenliste und ein sofort nutzbarer nächster Schritt.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

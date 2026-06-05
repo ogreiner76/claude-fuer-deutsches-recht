@@ -1,6 +1,6 @@
 ---
 name: pe-fees-pe-broken-pe-ic-pe-pe
-description: "Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe: Pe 072 Fees Expenses Und Billing; Pe 073 Broken Deal Und Abbruch; Pe 075 Ic Memo Und Entscheidungsvorlage; Pe 076 Mandantenkommunikation Pe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe prüfen.; Erstelle eine Arbeitsfassung zu Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-075-ic-memo-und-entscheidungsvorlage` | Erstellt IC-Memo mit Deal-These, Struktur, Risiken, Schutzmechanismen, offenen Punkten und Beschlussvorschlag. |
 | `pe-076-mandantenkommunikation-pe` | Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare Partner-/Mandantenmails. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

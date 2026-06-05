@@ -1,6 +1,6 @@
 ---
 name: amtlicher-zpo-proz-bauleiter-eilverfahren
-description: "Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Spezial Eilverfahren Risikoampel Und Gegenargumente: Amtlicher Zpo Verfahrenscheck; Proz Zustaendigkeit Bauleiter; Spezial Eilverfahren Risikoampel Und Gegenargumente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Spezial Eilverfahren Risikoampel Und Gegenargumente im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Spezial Eilverfahren Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Spezial Eilverfahren Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Spezial Eilverfahren Risikoampel Und Gegenargumente
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `proz-zustaendigkeit-bauleiter` | Bauleiter Zustaendigkeit ZPO: sachlich, oertlich, funktionell, internationale Zustaendigkeit. Pruefraster typische Klagearten. |
 | `spezial-eilverfahren-risikoampel-und-gegenargumente` | Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin prozessrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Spezial Eilverfahren Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

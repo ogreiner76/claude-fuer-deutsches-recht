@@ -1,6 +1,6 @@
 ---
 name: pe-tsa-pe-supply-pe-digital-pe-sanctions
-description: "Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk: Pe 085 Tsa Transition Services; Pe 086 Supply Chain Und Material Contracts; Pe 087 Digital Assets Tokenization Pe; Pe 088 Sanctions Russia China Risk. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk prüfen.; Erstelle eine Arbeitsfassung zu Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-087-digital-assets-tokenization-pe` | Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register. |
 | `pe-088-sanctions-russia-china-risk` | Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
