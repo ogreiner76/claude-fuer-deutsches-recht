@@ -1,6 +1,6 @@
 ---
 name: fair-disclosure-kg-personengesellschaften
-description: "Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften: Corporate Kanzlei Fair Disclosure Knowledge; Corporate Kanzlei Kg Personengesellschaften. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-fair-disclosure-knowledge` | Fair Disclosure und Knowledge Management: Steuert Informationsfluss in M&A-Transaktionen nach MAR, Kartellrecht-Clean-Team und Insider-Regelungen. Normen: Art. 17-18 MAR, §§ 1 und 41 GWB, § 43a BRAO. Insider-Log, Need-to-know, Firewall. |
 | `corporate-kanzlei-kg-personengesellschaften` | KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Prüfraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

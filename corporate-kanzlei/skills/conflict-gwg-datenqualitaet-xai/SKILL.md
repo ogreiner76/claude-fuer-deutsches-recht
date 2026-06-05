@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-datenqualitaet-xai
-description: "Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle: Corporate Kanzlei Conflict Gwg Sanctions; Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-conflict-gwg-sanctions` | Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken. |
 | `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle` | Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette vollständig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Prüfung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-auskunft-abmahnung-designrecht
-description: "Schadensersatz Auskunft Vernichtung, Abmahnung Designrecht: Schadensersatz Auskunft Vernichtung; Abmahnung Designrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Schadensersatz Auskunft Vernichtung, Abmahnung Designrecht im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Schadensersatz Auskunft Vernichtung, Abmahnung Designrecht prüfen.; Erstelle eine Arbeitsfassung zu Schadensersatz Auskunft Vernichtung, Abmahnung Designrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Schadensersatz Auskunft Vernichtung, Abmahnung Designrecht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `schadensersatz-auskunft-vernichtung` | Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert. |
 | `abmahnung-designrecht` | Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Schadensersatz Auskunft Vernichtung, Abmahnung Designrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

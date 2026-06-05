@@ -1,6 +1,6 @@
 ---
 name: db-metadaten-db-machine-db-verlag
-description: "Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag: Db 054 Metadaten Katalog Und Thesaurus; Db 055 Datenbankrecht Und Machine Learning Features; Db 056 Datenbankrecht Im Verlag. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag prüfen.; Erstelle eine Arbeitsfassung zu Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-055-datenbankrecht-und-machine-learning-features` | Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams. |
 | `db-056-datenbankrecht-im-verlag` | Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregatoren und Bibliotheken sowie EuGH-relevante Fälle. Erstellt Schutzstrategie und Lizenzmodell für Fach- und Wissenschaftsverlage. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

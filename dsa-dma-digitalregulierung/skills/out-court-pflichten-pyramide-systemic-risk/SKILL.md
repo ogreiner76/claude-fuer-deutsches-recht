@@ -1,6 +1,6 @@
 ---
 name: out-court-pflichten-pyramide-systemic-risk
-description: "Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen: Dsa Out Of Court Streitbeilegung; Dsa Pflichten Pyramide Uebersicht; Dsa Systemic Risk Assessment Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `dsa-pflichten-pyramide-uebersicht` | Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele fuer Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen. |
 | `dsa-systemic-risk-assessment-pruefen` | Spezialfall Systemic-Risk-Assessment Art. 34 DSA: Methode der VLOP-Risikobewertung pruefen, vier Kategorien (illegale Inhalte, Grundrechte, Wahlen, Wohlbefinden Minderjaehriger), Independent Audit Art. 37. Pruefraster und Mustertext. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsrecherche-spa-apa
-description: "Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf: Corporate Kanzlei Rechtsprechungsrecherche; Corporate Kanzlei Spa Apa Entwurf. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-rechtsprechungsrecherche` | Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz für Vertrag, Memo oder Board Paper. |
 | `corporate-kanzlei-spa-apa-entwurf` | SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Prüfraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

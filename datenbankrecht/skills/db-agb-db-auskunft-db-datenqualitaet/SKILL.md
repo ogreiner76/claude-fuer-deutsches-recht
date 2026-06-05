@@ -1,6 +1,6 @@
 ---
 name: db-agb-db-auskunft-db-datenqualitaet
-description: "Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung: Db 042 Datenbankrecht In Agb Klauseln; Db 029 Auskunft Rechnungslegung Schadensschaetzung; Db 041 Datenqualitaet Haftung Und Gewährleistung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-029-auskunft-rechnungslegung-schadensschaetzung` | Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge. |
 | `db-041-datenqualitaet-haftung-und-gewaehrleistung` | Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

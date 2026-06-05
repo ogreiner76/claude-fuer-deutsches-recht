@@ -1,6 +1,6 @@
 ---
 name: post-closing-umwandlungssteuerrecht
-description: "Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht: Corporate Kanzlei Post Closing Integration; Corporate Kanzlei Umwandlungssteuerrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-post-closing-integration` | Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranmeldungen, Vertragsanpassungen, Konzernanpassungen, Organschaft-Prüfung. Output PMI-Checkliste, Zeitplan, Aktionsprotokoll, § 613a-Informationsschreiben. Abgrenzung: Closing selbst siehe signing-closing-conditions; Umwandlung siehe umwandlungsrecht. |
 | `corporate-kanzlei-umwandlungssteuerrecht` | Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Formwechsel nach UmwStG auf Steuerneutralitaet, Buchwertfortführung, Sperrfristen, Verlustnutzung und Grunderwerbsteuer. Normen: §§ 11-25 UmwStG, §§ 1 ff. GrEStG, § 8c KStG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

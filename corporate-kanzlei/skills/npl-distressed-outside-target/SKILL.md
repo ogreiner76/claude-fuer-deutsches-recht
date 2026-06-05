@@ -1,6 +1,6 @@
 ---
 name: npl-distressed-outside-target
-description: "Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening: Corporate Kanzlei Npl Distressed Loan Transfer; Corporate Kanzlei Outside In Target Screening. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-npl-distressed-loan-transfer` | Prüft Erwerb/Verkauf notleidender Darlehen im Corporate-Kontext: KrZwMG-Rollen, Datenschutz, Sicherheiten, Borrower Notices, Portfolio-DD und Enforcement. |
 | `corporate-kanzlei-outside-in-target-screening` | Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen für M&A-Vorprüfung: M&A-Team benoetigt schnellen Überblick über Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 33 ff. (Stimmrechtsmitteilungen). Prüfraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

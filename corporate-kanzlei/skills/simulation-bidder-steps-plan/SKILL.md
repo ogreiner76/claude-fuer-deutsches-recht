@@ -1,6 +1,6 @@
 ---
 name: simulation-bidder-steps-plan
-description: "Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo: Corporate Kanzlei Simulation Bidder Process; Corporate Kanzlei Steps Plan Pmo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-simulation-bidder-process` | Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exklusivitaet. Output Process-Letter-Entwurf, Bieter-Vergleichsmatrix, NBO-Template. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; Public M&A siehe public-ma-kapitalmarkt-mar. |
 | `corporate-kanzlei-steps-plan-pmo` | Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

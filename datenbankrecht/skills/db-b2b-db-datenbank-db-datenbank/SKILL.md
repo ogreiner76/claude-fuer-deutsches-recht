@@ -1,6 +1,6 @@
 ---
 name: db-b2b-db-datenbank-db-datenbank
-description: "Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence: Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter; Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette; Db 019 Datenbank Als Kreditsicherheit Due Diligence. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence prüfen.; Erstelle eine Arbeitsfassung zu Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette` | Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse. |
 | `db-019-datenbank-als-kreditsicherheit-due-diligence` | Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

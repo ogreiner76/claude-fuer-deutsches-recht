@@ -1,6 +1,6 @@
 ---
 name: datenraum-aufbau-datenraum-gap
-description: "Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room: Corporate Kanzlei Datenraum Aufbau; Corporate Kanzlei Datenraum Gap Clean Room. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-datenraum-aufbau` | Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests. |
 | `corporate-kanzlei-datenraum-gap-clean-room` | Gap-Analyse des Datenraums und Clean-Room-Protokoll für M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Prüfraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragsprüfung siehe due-diligence-commercial-contracts. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

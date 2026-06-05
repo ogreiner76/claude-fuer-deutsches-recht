@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-gegenangriff-ui-icons
-description: "Schutzschrift Und Gegenangriff, Ui Icons Graphical User Interface: Schutzschrift Und Gegenangriff; Ui Icons Graphical User Interface. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Schutzschrift Und Gegenangriff, Ui Icons Graphical User Interface im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Schutzschrift Und Gegenangriff, Ui Icons Graphical User Interface prüfen.; Erstelle eine Arbeitsfassung zu Schutzschrift Und Gegenangriff, Ui Icons Graphical User Interface.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Schutzschrift Und Gegenangriff, Ui Icons Graphical User Interface
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `schutzschrift-und-gegenangriff` | Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Nichtigkeit, fehlende Dringlichkeit, Vorbekanntes, Rechtekette und Marktfolgen. |
 | `ui-icons-graphical-user-interface` | UI-Icons, grafische Benutzeroberflächen und digitale Designs prüfen: Bildschirmanzeigen, Icons, Animationen, EU-Designreform und Software-Schnittstellen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Schutzschrift Und Gegenangriff, Ui Icons Graphical User Interface** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

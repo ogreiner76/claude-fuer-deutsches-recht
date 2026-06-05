@@ -1,6 +1,6 @@
 ---
 name: werbearchiv-aufbauen-klage-gegen-account
-description: "Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen: Dsa Werbearchiv Aufbauen; Klage Gegen Vlop Einordnung Art 263 Aeuv; Spezial Account Internationaler Bezug Und Schnittstellen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
 | `spezial-account-internationaler-bezug-und-schnittstellen` | Account: Internationaler Bezug und Schnittstellen im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: db-cease-db-abmahnung-db-datenbankvergleich
-description: "Db 046 Cease And Desist Letter Datenbankrecht, Db 047 Abmahnung Prüfen Datenbankrecht, Db 049 Datenbankvergleich Und Bereinigungsplan: Db 046 Cease And Desist Letter Datenbankrecht; Db 047 Abmahnung Prüfen Datenbankrecht; Db 049 Datenbankvergleich Und Bereinigungsplan. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 046 Cease And Desist Letter Datenbankrecht, Db 047 Abmahnung Prüfen Datenbankrecht, Db 049 Datenbankvergleich Und Bereinigungsplan im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 046 Cease And Desist Letter Datenbankrecht, Db 047 Abmahnung Prüfen Datenbankrecht, Db 049 Datenbankvergleich Und Bereinigungsplan prüfen.; Erstelle eine Arbeitsfassung zu Db 046 Cease And Desist Letter Datenbankrecht, Db 047 Abmahnung Prüfen Datenbankrecht, Db 049 Datenbankvergleich Und Bereinigungsplan.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 046 Cease And Desist Letter Datenbankrecht, Db 047 Abmahnung Prüfen Datenbankrecht, Db 049 Datenbankvergleich Und Bereinigungsplan
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-047-abmahnung-pruefen-datenbankrecht` | Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungstatbestand (§ 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (§ 339 BGB) und Handlungsoptionen (Unterzeichnung, Widerspruch, Schutzschrift). Erstellt Antwortschreiben und Risikoabwägung. |
 | `db-049-datenbankvergleich-und-bereinigungsplan` | Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 046 Cease And Desist Letter Datenbankrecht, Db 047 Abmahnung Prüfen Datenbankrecht, Db 049 Datenbankvergleich Und Bereinigungsplan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

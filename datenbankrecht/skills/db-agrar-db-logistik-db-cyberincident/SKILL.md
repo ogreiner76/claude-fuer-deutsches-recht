@@ -1,6 +1,6 @@
 ---
 name: db-agrar-db-logistik-db-cyberincident
-description: "Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident: Db 060 Datenbankrecht Agrar Und Sensordaten; Db 061 Datenbankrecht Im Logistik Tracking; Db 062 Datenbankrecht Und Cyberincident. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident prüfen.; Erstelle eine Arbeitsfassung zu Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-061-datenbankrecht-im-logistik-tracking` | Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister. |
 | `db-062-datenbankrecht-und-cyberincident` | Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach §§ 87a-87e UrhG (Herstellerrecht), § 202a StGB (Datenzugang), DSGVO Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransomware-Angriff oder Datenleck aus eigenem Datenbankbestand. Output: Notfall-Checkliste, Meldepflichtprüfung BSI/Aufsichtsbehörde, Beweissicherungsprotokoll, Schadensersatzansprüche gegen Angreifer und Dritte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

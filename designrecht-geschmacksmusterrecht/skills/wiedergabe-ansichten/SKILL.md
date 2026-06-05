@@ -1,6 +1,6 @@
 ---
 name: wiedergabe-ansichten
-description: "Wiedergabe Ansichten Fotos Linien: Wiedergabe Ansichten Fotos Linien. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wiedergabe Ansichten Fotos Linien im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Wiedergabe Ansichten Fotos Linien prüfen.; Erstelle eine Arbeitsfassung zu Wiedergabe Ansichten Fotos Linien.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wiedergabe Ansichten Fotos Linien
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `wiedergabe-ansichten-fotos-linien` | Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis; was fehlt, ist später schwer zu retten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wiedergabe Ansichten Fotos Linien** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

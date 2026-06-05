@@ -1,6 +1,6 @@
 ---
 name: design-patent-design-urheberrecht
-description: "Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst: Design Und Patent Gebrauchsmuster Abgrenzung; Design Und Urheberrecht Angewandte Kunst. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst prüfen.; Erstelle eine Arbeitsfassung zu Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `design-und-patent-gebrauchsmuster-abgrenzung` | Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen. |
 | `design-und-urheberrecht-angewandte-kunst` | Schnittstelle Designrecht und Urheberrecht bei angewandter Kunst prüfen: Designschutz, Werkqualität, Doppelschutz, Schutzdauer und prozessuale Vorteile. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

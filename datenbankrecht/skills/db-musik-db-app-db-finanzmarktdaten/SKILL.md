@@ -1,6 +1,6 @@
 ---
 name: db-musik-db-app-db-finanzmarktdaten
-description: "Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten: Db 057 Datenbankrecht Musik Film Bildarchiv; Db 058 Datenbankrecht App Store Und App Daten; Db 059 Datenbankrecht Bei Finanzmarktdaten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten prüfen.; Erstelle eine Arbeitsfassung zu Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-058-datenbankrecht-app-store-und-app-daten` | Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse. |
 | `db-059-datenbankrecht-bei-finanzmarktdaten` | Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-bw-mv-rlp-saarland
-description: "Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland: Dsv Meldung Lfdi Bremen; Dsv Meldung Lfdi Bw; Dsv Meldung Lfdi Mv; Dsv Meldung Lfdi Rlp; Dsv Meldung Lfdi Saarland. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland prüfen.; Erstelle eine Arbeitsfassung zu Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `dsv-meldung-lfdi-rlp` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland-Pfalz und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Rheinland-Pfalz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-lfdi-saarland` | Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Saarland und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SDSG Saarländisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

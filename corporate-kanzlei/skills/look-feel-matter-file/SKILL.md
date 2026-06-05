@@ -1,6 +1,6 @@
 ---
 name: look-feel-matter-file
-description: "Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File: Corporate Kanzlei Look And Feel; Corporate Kanzlei Matter File. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-look-and-feel` | Corporate-Cowork-Design: Definiert die visuelle Oberflaeche für Partner, Counsel und Associates. Ruhig, edel, blaeulich-silbern; Orange für Entscheidungspunkte. Statuskarten, Ampeln und dichte Deal-Information statt Marketing. Keine Spielerei, keine Dekoration. |
 | `corporate-kanzlei-matter-file` | Transaktionsakte strukturieren und verwalten für Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO (Aufbewahrungspflichten), BRAO § 50 (Aktenaufbewahrung). Prüfraster: Dokumententypen, Versionierung, Vernichtungsfristen, DSGVO-Archivierung. Output Matter-File-Struktur, Versionierungsprotokoll, Aufbewahrungskalender. Abgrenzung: Closing Bible am Ende siehe closing-bible-archiv; Datenraum-Aufbau siehe datenraum-aufbau. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

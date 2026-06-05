@@ -1,6 +1,6 @@
 ---
 name: nationale-widerklage-neuheit-eigenart
-description: "Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart: Nationale Widerklage Nichtigkeit; Neuheit Und Eigenart. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart prüfen.; Erstelle eine Arbeitsfassung zu Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nationale-widerklage-nichtigkeit` | Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast. |
 | `neuheit-und-eigenart` | Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

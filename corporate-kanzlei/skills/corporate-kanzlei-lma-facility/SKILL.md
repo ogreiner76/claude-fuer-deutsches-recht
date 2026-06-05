@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-lma-facility
-description: "Corporate Kanzlei Kommandocenter, Corporate Kanzlei Lma Facility Und Transfer: Corporate Kanzlei Kommandocenter; Corporate Kanzlei Lma Facility Und Transfer. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Kommandocenter, Corporate Kanzlei Lma Facility Und Transfer im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Kommandocenter, Corporate Kanzlei Lma Facility Und Transfer prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Kommandocenter, Corporate Kanzlei Lma Facility Und Transfer.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Kommandocenter, Corporate Kanzlei Lma Facility Und Transfer
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-kommandocenter` | Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register). |
 | `corporate-kanzlei-lma-facility-und-transfer` | Prüft hochgeladene LMA-basierte Kreditverträge aus deutscher Corporate-Sicht: Transfer, Assignment, Novation, Agent, Conditions, Covenants und Default. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Kommandocenter, Corporate Kanzlei Lma Facility Und Transfer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

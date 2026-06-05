@@ -1,6 +1,6 @@
 ---
 name: db-unwesentliche-db-scraping-db-ki
-description: "Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme, Db 006 Scraping Website Datenbank Und Robots Txt, Db 008 Ki Training Mit Datenbankbestand: Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme; Db 006 Scraping Website Datenbank Und Robots Txt; Db 008 Ki Training Mit Datenbankbestand. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme, Db 006 Scraping Website Datenbank Und Robots Txt, Db 008 Ki Training Mit Datenbankbestand im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme, Db 006 Scraping Website Datenbank Und Robots Txt, Db 008 Ki Training Mit Datenbankbestand prüfen.; Erstelle eine Arbeitsfassung zu Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme, Db 006 Scraping Website Datenbank Und Robots Txt, Db 008 Ki Training Mit Datenbankbestand.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme, Db 006 Scraping Website Datenbank Und Robots Txt, Db 008 Ki Training Mit Datenbankbestand
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-006-scraping-website-datenbank-und-robots-txt` | Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Scraper. |
 | `db-008-ki-training-mit-datenbankbestand` | Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 005 Unwesentliche Teile Wiederholte Systematische Entnahme, Db 006 Scraping Website Datenbank Und Robots Txt, Db 008 Ki Training Mit Datenbankbestand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

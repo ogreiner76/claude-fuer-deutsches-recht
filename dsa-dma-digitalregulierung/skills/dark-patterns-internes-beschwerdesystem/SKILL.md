@@ -1,6 +1,6 @@
 ---
 name: dark-patterns-internes-beschwerdesystem
-description: "Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36: Dsa Dark Patterns Anti Design; Dsa Internes Beschwerdesystem Aufbau; Dsa Krisenreaktionsmechanismus Art 36. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36 im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36 prüfen.; Erstelle eine Arbeitsfassung zu Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `dsa-internes-beschwerdesystem-aufbau` | Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Pruefung, Statement of Reasons. Technische Anforderungen, Beispielprozess, Eskalation in Streitbeilegung Art. 21 DSA. |
 | `dsa-krisenreaktionsmechanismus-art-36` | Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaengerbar. Beispiel Ukraine-Krieg. Compliance-Playbook fuer VLOP zur schnellen Reaktion. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

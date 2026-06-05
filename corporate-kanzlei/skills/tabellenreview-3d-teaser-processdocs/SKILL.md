@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-teaser-processdocs
-description: "Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs: Corporate Kanzlei Tabellenreview 3D Datenraum; Corporate Kanzlei Teaser Im Processdocs. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-tabellenreview-3d-datenraum` | Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Kategorie, Konsistenz Angaben, Offenlegungsrisiken, Red-Flag-Felder. Output 3D-Tabellenreview (Ist/Soll/Luecke), Qualitaetsbericht, Nachforderungs-IRL. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Gap-Analyse siehe datenraum-gap-clean-room. |
 | `corporate-kanzlei-teaser-im-processdocs` | Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Prüfraster: Anonymisierungsgrad, Disclaimer, Materialitaet, Konsistenz mit DR-Inhalt. Output Teaser-Entwurf, IM-Gliederung, Management-Presentation-Template. Abgrenzung: Bieter-Prozess siehe simulation-bidder-process; Datenraum siehe datenraum-aufbau. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

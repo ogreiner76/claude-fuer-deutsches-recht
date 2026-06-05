@@ -1,6 +1,6 @@
 ---
 name: drg-historische
-description: "Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations: Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations konkret bearbeitet werden soll: Unterlagen sortieren, Normen und Fristen prüfen, typische Fehler vermeiden und einen verwertbaren nächsten Schritt formulieren."
 ---
 
 # Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations
@@ -13,20 +13,18 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `drg-neu-020-historische-verfassungsvergleiche-als-argumentations` | Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-020-historische-verfassungsvergleiche-als-argumentations` | Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
 ## 1. `drg-neu-020-historische-verfassungsvergleiche-als-argumentations`
 
-**Fokus:** Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 # Deutsche Rechtsgeschichte: 020 Historische Verfassungsvergleiche Als Argumentations
 

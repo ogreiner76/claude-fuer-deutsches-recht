@@ -1,6 +1,6 @@
 ---
 name: db-policy-db-abschlussmemo
-description: "Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo: Db 063 Datenbankrecht Compliance Policy; Db 064 Datenbankrecht Abschlussmemo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo prüfen.; Erstelle eine Arbeitsfassung zu Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-063-datenbankrecht-compliance-policy` | Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT. |
 | `db-064-datenbankrecht-abschlussmemo` | Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

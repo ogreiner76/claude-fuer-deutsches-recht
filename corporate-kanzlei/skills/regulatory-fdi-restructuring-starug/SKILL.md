@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi-restructuring-starug
-description: "Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan: Corporate Kanzlei Regulatory Fdi Merger Control; Corporate Kanzlei Restructuring Starug Insolvenzplan. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-regulatory-fdi-merger-control` | Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions. |
 | `corporate-kanzlei-restructuring-starug-insolvenzplan` | StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

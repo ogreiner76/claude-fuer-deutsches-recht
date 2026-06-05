@@ -1,6 +1,6 @@
 ---
 name: zustellung-vertreter
-description: "Zustellung Und Vertreter Art 13 Dsa Art 37 Dma: Zustellung Und Vertreter Art 13 Dsa Art 37 Dma. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zustellung Und Vertreter Art 13 Dsa Art 37 Dma im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Zustellung Und Vertreter Art 13 Dsa Art 37 Dma prüfen.; Erstelle eine Arbeitsfassung zu Zustellung Und Vertreter Art 13 Dsa Art 37 Dma.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zustellung Und Vertreter Art 13 Dsa Art 37 Dma
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Prüfraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zuständigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zustellung Und Vertreter Art 13 Dsa Art 37 Dma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: public-ma-qa-information
-description: "Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests: Corporate Kanzlei Public Ma Kapitalmarkt Mar; Corporate Kanzlei Qa Information Requests. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-public-ma-kapitalmarkt-mar` | Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis. |
 | `corporate-kanzlei-qa-information-requests` | Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Prüfraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

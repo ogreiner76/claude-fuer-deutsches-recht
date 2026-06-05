@@ -1,6 +1,6 @@
 ---
 name: hager-system-internationale-country
-description: "Hager System Wipo, Internationale Country Route Design: Hager System Wipo; Internationale Country Route Design. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Hager System Wipo, Internationale Country Route Design im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Hager System Wipo, Internationale Country Route Design prüfen.; Erstelle eine Arbeitsfassung zu Hager System Wipo, Internationale Country Route Design.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Hager System Wipo, Internationale Country Route Design
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `hager-system-wipo` | Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing. |
 | `internationale-country-route-design` | Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Hager System Wipo, Internationale Country Route Design** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

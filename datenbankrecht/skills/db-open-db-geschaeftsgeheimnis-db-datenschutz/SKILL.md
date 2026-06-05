@@ -1,6 +1,6 @@
 ---
 name: db-open-db-geschaeftsgeheimnis-db-datenschutz
-description: "Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet: Db 010 Open Data Portal Und Nutzungsbedingungen; Db 011 Datenbankrecht Und Geschaeftsgeheimnis; Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet prüfen.; Erstelle eine Arbeitsfassung zu Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-011-datenbankrecht-und-geschaeftsgeheimnis` | Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung. |
 | `db-012-datenbankrecht-und-datenschutz-personenbezogene-datensaet` | Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

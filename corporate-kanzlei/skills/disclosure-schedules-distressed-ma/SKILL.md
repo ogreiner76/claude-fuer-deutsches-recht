@@ -1,6 +1,6 @@
 ---
 name: disclosure-schedules-distressed-ma
-description: "Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma: Corporate Kanzlei Disclosure Schedules; Corporate Kanzlei Distressed Ma. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-disclosure-schedules` | Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: je Warranty-Abschnitt korrespondierender Schedule, Vollständigkeits-Prüfung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance. |
 | `corporate-kanzlei-distressed-ma` | Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

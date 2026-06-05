@@ -1,6 +1,6 @@
 ---
 name: db-gerichtsstand-db-api-db-datenbanklizenz
-description: "Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit: Db 048 Gerichtsstand Und Anwendbares Recht; Db 007 Api Nutzung Rate Limits Und Vertragsbruch; Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit prüfen.; Erstelle eine Arbeitsfassung zu Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-007-api-nutzung-rate-limits-und-vertragsbruch` | Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers. |
 | `db-009-datenbanklizenz-entwurf-nutzungsumfang-und-audit` | Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

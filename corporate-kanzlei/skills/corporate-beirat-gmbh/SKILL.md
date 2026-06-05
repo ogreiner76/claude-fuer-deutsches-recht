@@ -1,6 +1,6 @@
 ---
 name: corporate-beirat-gmbh
-description: "Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix: Spezial Corporate Erstpruefung Und Mandatsziel; Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix prüfen.; Erstelle eine Arbeitsfassung zu Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-corporate-erstpruefung-und-mandatsziel` | Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` | Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

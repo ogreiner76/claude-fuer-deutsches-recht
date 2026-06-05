@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf-ki-governance
-description: "Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht: Corporate Kanzlei Handelsregisterabruf; Corporate Kanzlei Ki Governance Berufsrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-handelsregisterabruf` | Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening. |
 | `corporate-kanzlei-ki-governance-berufsrecht` | KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen für den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation für BJR-Schutz. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

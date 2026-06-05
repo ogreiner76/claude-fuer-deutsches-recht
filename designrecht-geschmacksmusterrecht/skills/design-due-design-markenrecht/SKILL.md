@@ -1,6 +1,6 @@
 ---
 name: design-due-design-markenrecht
-description: "Design Due Diligence Ma, Design Und Markenrecht Formmarke: Design Due Diligence Ma; Design Und Markenrecht Formmarke. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Design Due Diligence Ma, Design Und Markenrecht Formmarke im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Design Due Diligence Ma, Design Und Markenrecht Formmarke prüfen.; Erstelle eine Arbeitsfassung zu Design Due Diligence Ma, Design Und Markenrecht Formmarke.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Design Due Diligence Ma, Design Und Markenrecht Formmarke
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `design-due-diligence-ma` | Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber. |
 | `design-und-markenrecht-formmarke` | Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Design Due Diligence Ma, Design Und Markenrecht Formmarke** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

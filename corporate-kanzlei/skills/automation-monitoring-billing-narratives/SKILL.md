@@ -1,6 +1,6 @@
 ---
 name: automation-monitoring-billing-narratives
-description: "Corporate Kanzlei Automation Monitoring, Corporate Kanzlei Billing Narratives: Corporate Kanzlei Automation Monitoring; Corporate Kanzlei Billing Narratives. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Automation Monitoring, Corporate Kanzlei Billing Narratives im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Automation Monitoring, Corporate Kanzlei Billing Narratives prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Automation Monitoring, Corporate Kanzlei Billing Narratives.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Automation Monitoring, Corporate Kanzlei Billing Narratives
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-automation-monitoring` | Automationen und Monitoring: Entwirft Monitore für Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines, Registerupdates, MAR-Signale und PMI-Aufgaben im Corporate/M&A-Kontext. Normen: MAR Art. 17, § 41 GWB (Vollzugsverbot), § 56 AWV. |
 | `corporate-kanzlei-billing-narratives` | Corporate Billing Narratives: Erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, Cap/Success-Fee-Hinweise und Matter-Controlling. Normen: RVG (wenn anwendbar), Stundenhonorar-Vereinbarung, BRAO § 49b. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Automation Monitoring, Corporate Kanzlei Billing Narratives** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

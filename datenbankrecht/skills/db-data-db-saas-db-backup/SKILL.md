@@ -1,6 +1,6 @@
 ---
 name: db-data-db-saas-db-backup
-description: "Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In: Db 035 Data Act Und Zugang Zu Iot Daten; Db 036 Datenbankrecht Bei Saas Und Cloudmigration; Db 037 Backup Export Und Vendor Lock In. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In prüfen.; Erstelle eine Arbeitsfassung zu Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-036-datenbankrecht-bei-saas-und-cloudmigration` | Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden. |
 | `db-037-backup-export-und-vendor-lock-in` | Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

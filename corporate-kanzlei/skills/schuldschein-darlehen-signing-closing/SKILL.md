@@ -1,6 +1,6 @@
 ---
 name: schuldschein-darlehen-signing-closing
-description: "Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions: Corporate Kanzlei Schuldschein Darlehen Transfer; Corporate Kanzlei Signing Closing Conditions. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-schuldschein-darlehen-transfer` | Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades: Darlehensgeberregister, Zahlstelle, Abtretung, Zustimmung, Sicherheiten und Notice. |
 | `corporate-kanzlei-signing-closing-conditions` | Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

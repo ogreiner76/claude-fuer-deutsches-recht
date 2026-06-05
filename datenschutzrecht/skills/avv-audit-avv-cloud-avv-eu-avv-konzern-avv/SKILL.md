@@ -1,6 +1,6 @@
 ---
 name: avv-audit-avv-cloud-avv-eu-avv-konzern-avv
-description: "Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung: Avv Audit Und Kontrollrechte; Avv Cloud Und Subverarbeitung Art 28 Iv; Avv Eu Us Data Privacy Framework Bezug; Avv Konzern Und Multi Party Konstellation; Avv Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `avv-konzern-und-multi-party-konstellation` | AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konzern-AVV mit zentraler Group-IT Shared-Service-Center und konzernweiter Liste der Auftragsverarbeiter. Klaert die Frage ob Konzern als Einheit auftritt oder jede Gesellschaft eigenstaendig. Output: Konzern-AVV-Klauselgeruest mit Beitrittsmechanik. |
 | `avv-pruefung` | Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rückgabe Lösung Audits. Output: AVV-Prüfmemo oder Vertragsentwurf. Abgrenzung: nicht für Joint-Controller-Vereinbarungen (joint-controller-vereinbarung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

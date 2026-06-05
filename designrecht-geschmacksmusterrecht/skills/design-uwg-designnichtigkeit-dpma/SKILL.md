@@ -1,6 +1,6 @@
 ---
 name: design-uwg-designnichtigkeit-dpma
-description: "Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma: Design Und Uwg Nachahmungsschutz; Designnichtigkeit Dpma. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma prüfen.; Erstelle eine Arbeitsfassung zu Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `design-und-uwg-nachahmungsschutz` | Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung. |
 | `designnichtigkeit-dpma` | Designnichtigkeit beim DPMA vorbereiten: fehlende Schutzfähigkeit, ältere Designs, technische Bedingtheit, Rechte Dritter, Antrag, Belege und Kostenrisiko. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

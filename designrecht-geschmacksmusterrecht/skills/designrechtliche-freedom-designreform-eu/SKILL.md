@@ -1,6 +1,6 @@
 ---
 name: designrechtliche-freedom-designreform-eu
-description: "Designrechtliche Freedom To Operate, Designreform Eu 2024 Check: Designrechtliche Freedom To Operate; Designreform Eu 2024 Check. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Designrechtliche Freedom To Operate, Designreform Eu 2024 Check im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Designrechtliche Freedom To Operate, Designreform Eu 2024 Check prüfen.; Erstelle eine Arbeitsfassung zu Designrechtliche Freedom To Operate, Designreform Eu 2024 Check.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Designrechtliche Freedom To Operate, Designreform Eu 2024 Check
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `designrechtliche-freedom-to-operate` | Designrechtliche Freedom-to-Operate-Prüfung: Wettbewerberdesigns, Produktlaunch, Ähnlichkeitsrisiko, Registerstand, Design-around und Markteintritt. |
 | `designreform-eu-2024-check` | EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Designrechtliche Freedom To Operate, Designreform Eu 2024 Check** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: nicht-eingetragenes-rechtekette-entwerfer
-description: "Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber: Nicht Eingetragenes Eu Design; Rechtekette Entwerfer Arbeitgeber. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber prüfen.; Erstelle eine Arbeitsfassung zu Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nicht-eingetragenes-eu-design` | Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung. |
 | `rechtekette-entwerfer-arbeitgeber` | Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

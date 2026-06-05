@@ -1,6 +1,6 @@
 ---
 name: board-paper-closing-bible
-description: "Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv: Corporate Kanzlei Board Paper Business Judgment; Corporate Kanzlei Closing Bible Archiv. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-board-paper-business-judgment` | Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage für Vorstand/Geschäftsführung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Prüfraster: Informationsgrundlage, Entscheidungsalternativen, Interessenkonflikte, KI-Einsatztransparenz. Output strukturiertes Board Paper mit Beschlussempfehlung, Risikoabwaegung, BJR-Dokumentation. Abgrenzung: nicht für Hauptversammlungs-Beschluesse (siehe Gesellschaftsrecht-Register) und nicht für Insolvenz-Entscheidungen (siehe StaRUG-Skill). |
 | `corporate-kanzlei-closing-bible-archiv` | Closing Bible und Deal-Archiv nach M&A-Closing erstellen: Mandant oder Partner benoetigt vollständige Vertragsdokumentation mit Signaturketten, Registerbelegen, Notarbestätigungen und Anlagen. Normen: SPA Deliverables-Checkliste, § 15 GmbHG, § 130 AktG. Prüfraster Vollständigkeit aller Closing-Dokumente, Versionierung, Zugriffsrechte. Output Closing Bible (PDF/ZIP), Deal-Memo, Archivierungsprotokoll. Abgrenzung: Vorstufe ist signing-closing-conditions; für Handelsregisteranmeldungen siehe gesellschaftsrecht-register. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

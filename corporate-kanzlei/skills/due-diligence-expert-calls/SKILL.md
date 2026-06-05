@@ -1,6 +1,6 @@
 ---
 name: due-diligence-expert-calls
-description: "Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte: Corporate Kanzlei Due Diligence Reporting; Corporate Kanzlei Expert Calls Transkripte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-due-diligence-reporting` | DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance. |
 | `corporate-kanzlei-expert-calls-transkripte` | Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

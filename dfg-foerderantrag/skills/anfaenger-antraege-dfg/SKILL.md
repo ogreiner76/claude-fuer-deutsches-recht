@@ -1,6 +1,6 @@
 ---
 name: anfaenger-antraege-dfg
-description: "Spezial Anfaenger Risikoampel Und Gegenargumente, Spezial Antraege Zahlen Schwellen Und Berechnung, Spezial Dfg Erstpruefung Und Mandatsziel: Spezial Anfaenger Risikoampel Und Gegenargumente; Spezial Antraege Zahlen Schwellen Und Berechnung; Spezial Dfg Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Anfaenger Risikoampel Und Gegenargumente, Spezial Antraege Zahlen Schwellen Und Berechnung, Spezial Dfg Erstpruefung Und Mandatsziel im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anfaenger Risikoampel Und Gegenargumente, Spezial Antraege Zahlen Schwellen Und Berechnung, Spezial Dfg Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anfaenger Risikoampel Und Gegenargumente, Spezial Antraege Zahlen Schwellen Und Berechnung, Spezial Dfg Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Anfaenger Risikoampel Und Gegenargumente, Spezial Antraege Zahlen Schwellen Und Berechnung, Spezial Dfg Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-antraege-zahlen-schwellen-und-berechnung` | Antraege: Zahlen, Schwellenwerte und Berechnung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-dfg-erstpruefung-und-mandatsziel` | DFG: Erstprüfung, Rollenklärung und Mandatsziel im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Anfaenger Risikoampel Und Gegenargumente, Spezial Antraege Zahlen Schwellen Und Berechnung, Spezial Dfg Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dfg-foerderantrag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

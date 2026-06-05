@@ -1,6 +1,6 @@
 ---
 name: db-grenzueberschreitende-db-text-db-tdm
-description: "Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen: Db 031 Grenzueberschreitende Datenbank Eu Uk Usa; Db 033 Datenbankrecht Und Text And Data Mining Schranken; Db 034 Tdm Opt Out Maschinenlesbar Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-033-datenbankrecht-und-text-and-data-mining-schranken` | Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer. |
 | `db-034-tdm-opt-out-maschinenlesbar-pruefen` | Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

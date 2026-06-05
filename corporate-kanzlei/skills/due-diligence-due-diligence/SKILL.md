@@ -1,6 +1,6 @@
 ---
 name: due-diligence-due-diligence
-description: "Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal: Corporate Kanzlei Due Diligence Commercial Contracts; Corporate Kanzlei Due Diligence Legal. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting. |
 | `corporate-kanzlei-due-diligence-legal` | Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: pyramide-check-dsgvo-p2b-anti-steering
-description: "Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design: Digitalregulierung Pyramide Check; Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb; Dma Anti Steering App Store Design. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design prüfen.; Erstelle eine Arbeitsfassung zu Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` | Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
 | `dma-anti-steering-app-store-design` | Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste fuer Gatekeeper und Entwicklerschriftsatz bei Verstoss. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

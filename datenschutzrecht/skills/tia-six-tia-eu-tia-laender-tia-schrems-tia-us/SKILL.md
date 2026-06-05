@@ -1,6 +1,6 @@
 ---
 name: tia-six-tia-eu-tia-laender-tia-schrems-tia-us
-description: "Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung: Tia En Six Step Roadmap; Tia Eu Us Data Privacy Framework Aktueller Stand; Tia Länder Bewertung China India Brazil Uk; Tia Schrems Ii Eugh C 311 18 Grundlagen; Tia Us Fisa 702 Und Eo 12333 Bewertung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung prüfen.; Erstelle eine Arbeitsfassung zu Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tia-schrems-ii-eugh-c-311-18-grundlagen` | Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen fuer Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung. |
 | `tia-us-fisa-702-und-eo-12333-bewertung` | Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 fuer das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen fuer Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten fuer Schritt 3 EDPB-Roadmap. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

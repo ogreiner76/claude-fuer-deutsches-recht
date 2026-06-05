@@ -1,6 +1,6 @@
 ---
 name: rechtsgrundlage-mandantenentscheidung-review
-description: "Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status: Spezial Rechtsgrundlage Mandantenentscheidung; Spezial Review Risikoampel Und Gegenargumente; Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung; Tia Edpb Roadmap 6 Schritte Deutsch; Tia En Data Privacy Framework Status. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `tia-edpb-roadmap-6-schritte-deutsch` | EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen. |
 | `tia-en-data-privacy-framework-status` | English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DPF reliance and residual risk. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

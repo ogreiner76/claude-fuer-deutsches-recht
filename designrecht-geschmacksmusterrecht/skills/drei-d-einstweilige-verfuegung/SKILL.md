@@ -1,6 +1,6 @@
 ---
 name: drei-d-einstweilige-verfuegung
-description: "Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht: Drei D Druck Digitales Design; Einstweilige Verfuegung Designrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht prüfen.; Erstelle eine Arbeitsfassung zu Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `drei-d-druck-digitales-design` | 3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung. |
 | `einstweilige-verfuegung-designrecht` | Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

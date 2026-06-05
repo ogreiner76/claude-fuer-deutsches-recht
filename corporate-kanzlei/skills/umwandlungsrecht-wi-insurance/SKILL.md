@@ -1,6 +1,6 @@
 ---
 name: umwandlungsrecht-wi-insurance
-description: "Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance: Corporate Kanzlei Umwandlungsrecht; Corporate Kanzlei Wi Insurance. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `corporate-kanzlei-umwandlungsrecht` | Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG. |
 | `corporate-kanzlei-wi-insurance` | W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Prüfraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Claims-Declaration, Deckungsluecken, Enhanced-Disclosure. Output Policy-Review-Memo, Gap-Analyse Deckung vs. SPA-Exposure, Underwriting-Information-Pack. Abgrenzung: SPA-Reps siehe spa-apa-entwurf; Disclosure Schedules siehe disclosure-schedules. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

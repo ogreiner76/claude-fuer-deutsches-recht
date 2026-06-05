@@ -1,6 +1,6 @@
 ---
 name: db-e-db-verletzung-db-einstweilige
-description: "Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit: Db 026 Datenbankrecht Im E Commerce Marktplatz; Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko; Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit prüfen.; Erstelle eine Arbeitsfassung zu Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protoko` | Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing. |
 | `db-028-einstweilige-verfuegung-datenbankrecht-dringlichkeit` | Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

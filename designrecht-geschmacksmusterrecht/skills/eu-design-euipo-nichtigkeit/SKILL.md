@@ -1,6 +1,6 @@
 ---
 name: eu-design-euipo-nichtigkeit
-description: "Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design: Eu Design Anmeldung Euipo; Euipo Nichtigkeit Eu Design. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design prüfen.; Erstelle eine Arbeitsfassung zu Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `eu-design-anmeldung-euipo` | EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024. |
 | `euipo-nichtigkeit-eu-design` | Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

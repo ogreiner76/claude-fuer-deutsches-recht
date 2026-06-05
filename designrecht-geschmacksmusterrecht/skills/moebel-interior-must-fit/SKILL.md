@@ -1,6 +1,6 @@
 ---
 name: moebel-interior-must-fit
-description: "Moebel Interior Produktdesign, Must Fit Must Match Ersatzteile: Moebel Interior Produktdesign; Must Fit Must Match Ersatzteile. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Moebel Interior Produktdesign, Must Fit Must Match Ersatzteile im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Moebel Interior Produktdesign, Must Fit Must Match Ersatzteile prüfen.; Erstelle eine Arbeitsfassung zu Moebel Interior Produktdesign, Must Fit Must Match Ersatzteile.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Moebel Interior Produktdesign, Must Fit Must Match Ersatzteile
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `moebel-interior-produktdesign` | Möbel-, Interior- und Produktdesign prüfen: Gesamteindruck, Gestaltungsfreiheit, technische Vorgaben, Katalogoffenbarung und Messebeweise. |
 | `must-fit-must-match-ersatzteile` | Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Moebel Interior Produktdesign, Must Fit Must Match Ersatzteile** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `designrecht-geschmacksmusterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

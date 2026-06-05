@@ -1,6 +1,6 @@
 ---
 name: db-m-db-open-db-kollektive
-description: "Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen: Db 038 M A Datenraum Datenbankrechte; Db 039 Open Source Datenbank Und Open Data Commons; Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen prüfen.; Erstelle eine Arbeitsfassung zu Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `db-039-open-source-datenbank-und-open-data-commons` | Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan. |
 | `db-040-kollektive-datensammlung-und-miturheberschaftsfallen` | Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
