@@ -1,6 +1,6 @@
 ---
 name: verl-rueckruf-verl-muster
-description: "Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation: Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage; Verl 049 Muster Buchpreisfreigabe Dokumentation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation prüfen.; Erstelle eine Arbeitsfassung zu Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-046-rueckruf-vergriffenes-werk-und-neuauflage` | Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag. |
 | `verl-049-muster-buchpreisfreigabe-dokumentation` | Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

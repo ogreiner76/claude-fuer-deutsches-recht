@@ -1,6 +1,6 @@
 ---
 name: verl-schulbuch-verl-presserecht
-description: "Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung: Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung; Verl 031 Presserecht Gegendarstellung Und Unterlassung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung prüfen.; Erstelle eine Arbeitsfassung zu Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-028-schulbuch-zulassung-und-oeffentliche-beschaffung` | Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht. |
 | `verl-031-presserecht-gegendarstellung-und-unterlassung` | Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: punkte-rotlicht-verkehrsowi
-description: "Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel: Spezial Punkte Risikoampel Und Gegenargumente; Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine; Spezial Verkehrsowi Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-rotlicht-schriftsatz-brief-und-memo-bausteine` | Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verkehrsowi-erstpruefung-und-mandatsziel` | Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

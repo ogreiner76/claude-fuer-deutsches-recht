@@ -1,6 +1,6 @@
 ---
 name: kundgebung-stationaer-landesrecht-behoerde
-description: "Kundgebung Stationaer Platzwahl, Landesrecht Und Behörde Finden: Kundgebung Stationaer Platzwahl; Landesrecht Und Behörde Finden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kundgebung Stationaer Platzwahl, Landesrecht Und Behörde Finden im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Kundgebung Stationaer Platzwahl, Landesrecht Und Behörde Finden prüfen.; Erstelle eine Arbeitsfassung zu Kundgebung Stationaer Platzwahl, Landesrecht Und Behörde Finden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kundgebung Stationaer Platzwahl, Landesrecht Und Behörde Finden
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kundgebung-stationaer-platzwahl` | Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte. |
 | `landesrecht-und-behoerde-finden` | Findet das anwendbare Landesversammlungsgesetz und die konkrete zuständige Versammlungsbehörde oder Polizei anhand von Ort und Route. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kundgebung Stationaer Platzwahl, Landesrecht Und Behörde Finden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

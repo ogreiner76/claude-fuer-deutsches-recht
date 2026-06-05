@@ -1,6 +1,6 @@
 ---
 name: verl-verlagsgesetz-verl-kuendigung
-description: "Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung: Verl 044 Verlagsgesetz Paragraphen Navigator; Verl 045 Kündigung Wegen Nichtausuebung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung prüfen.; Erstelle eine Arbeitsfassung zu Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-044-verlagsgesetz-paragraphen-navigator` | Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB. |
 | `verl-045-kuendigung-wegen-nichtausuebung` | Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

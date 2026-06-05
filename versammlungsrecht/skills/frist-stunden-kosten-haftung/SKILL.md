@@ -1,6 +1,6 @@
 ---
 name: frist-stunden-kosten-haftung
-description: "Frist 48 Stunden Bekanntgabe, Kosten Haftung Und Versicherung: Frist 48 Stunden Bekanntgabe; Kosten Haftung Und Versicherung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Frist 48 Stunden Bekanntgabe, Kosten Haftung Und Versicherung im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Frist 48 Stunden Bekanntgabe, Kosten Haftung Und Versicherung prüfen.; Erstelle eine Arbeitsfassung zu Frist 48 Stunden Bekanntgabe, Kosten Haftung Und Versicherung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Frist 48 Stunden Bekanntgabe, Kosten Haftung Und Versicherung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `frist-48-stunden-bekanntgabe` | Berechnet die versammlungsrechtliche 48-Stunden-Frist bis zur Bekanntgabe oder Einladung und markiert Landesabweichungen. |
 | `kosten-haftung-und-versicherung` | Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Frist 48 Stunden Bekanntgabe, Kosten Haftung Und Versicherung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

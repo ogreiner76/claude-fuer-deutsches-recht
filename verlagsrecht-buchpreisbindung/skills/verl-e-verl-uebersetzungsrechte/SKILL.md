@@ -1,6 +1,6 @@
 ---
 name: verl-e-verl-uebersetzungsrechte
-description: "Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition: Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio; Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition prüfen.; Erstelle eine Arbeitsfassung zu Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-006-e-book-rechte-print-rechte-hoerbuch-und-audio` | Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten. |
 | `verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition` | Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

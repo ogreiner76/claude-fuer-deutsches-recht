@@ -1,6 +1,6 @@
 ---
 name: verl-verlagsvertrag-verl-redaktionsvertrag
-description: "Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer: Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru; Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-ru` | Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen. |
 | `verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer` | Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

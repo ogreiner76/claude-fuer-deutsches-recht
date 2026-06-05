@@ -1,6 +1,6 @@
 ---
 name: verl-podcast-verl-onlineportal
-description: "Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle: Verl 035 Podcast Und Verlag Content Recycling; Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-035-podcast-und-verlag-content-recycling` | Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen. |
 | `verl-036-onlineportal-paywall-datenbankrecht-schnittstelle` | Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

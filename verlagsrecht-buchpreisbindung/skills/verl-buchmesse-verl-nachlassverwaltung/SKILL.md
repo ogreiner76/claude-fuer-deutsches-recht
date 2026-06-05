@@ -1,6 +1,6 @@
 ---
 name: verl-buchmesse-verl-nachlassverwaltung
-description: "Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe: Verl 037 Buchmesse Rechtehandel Und Nda; Verl 039 Nachlassverwaltung Autorenerbe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe prüfen.; Erstelle eine Arbeitsfassung zu Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-037-buchmesse-rechtehandel-und-nda` | Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis. |
 | `verl-039-nachlassverwaltung-autorenerbe` | Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

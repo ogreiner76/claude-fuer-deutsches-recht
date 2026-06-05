@@ -1,6 +1,6 @@
 ---
 name: infrastrukturrecht-intake-ladeinfrastruktur
-description: "Spezial Infrastrukturrecht Tatbestand Beweis Und Belege, Spezial Intake Mandantenkommunikation Entscheidungsvorlage, Spezial Ladeinfrastruktur Behörden Gericht Und Registerweg: Spezial Infrastrukturrecht Tatbestand Beweis Und Belege; Spezial Intake Mandantenkommunikation Entscheidungsvorlage; Spezial Ladeinfrastruktur Behörden Gericht Und Registerweg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Infrastrukturrecht Tatbestand Beweis Und Belege, Spezial Intake Mandantenkommunikation Entscheidungsvorlage, Spezial Ladeinfrastruktur Behörden Gericht Und Registerweg im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Spezial Infrastrukturrecht Tatbestand Beweis Und Belege, Spezial Intake Mandantenkommunikation Entscheidungsvorlage, Spezial Ladeinfrastruktur Behörden Gericht Und Registerweg
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-intake-mandantenkommunikation-entscheidungsvorlage` | Intake: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-ladeinfrastruktur-behoerden-gericht-und-registerweg` | Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Infrastrukturrecht Tatbestand Beweis Und Belege, Spezial Intake Mandantenkommunikation Entscheidungsvorlage, Spezial Ladeinfrastruktur Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

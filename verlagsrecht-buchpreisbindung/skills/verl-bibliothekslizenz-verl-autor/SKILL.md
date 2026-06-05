@@ -1,6 +1,6 @@
 ---
 name: verl-bibliothekslizenz-verl-autor
-description: "Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette: Verl 033 Bibliothekslizenz E Lending Und Zugriff; Verl 003 Autor Herausgeber Mitwirkende Rechtekette. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette prüfen.; Erstelle eine Arbeitsfassung zu Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-033-bibliothekslizenz-e-lending-und-zugriff` | Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung. |
 | `verl-003-autor-herausgeber-mitwirkende-rechtekette` | Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: ordnerliste-mitteilung-partei-gewerkschaft
-description: "Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter: Ordnerliste Und Mitteilung; Partei Gewerkschaft Verein Veranstalter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter prüfen.; Erstelle eine Arbeitsfassung zu Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ordnerliste-und-mitteilung` | Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht. |
 | `partei-gewerkschaft-verein-veranstalter` | Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

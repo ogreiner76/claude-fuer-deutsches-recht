@@ -1,6 +1,6 @@
 ---
 name: verl-isbn-verl-vg
-description: "Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung: Verl 016 Isbn Metadaten Vlb Und Meldeprozesse; Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung prüfen.; Erstelle eine Arbeitsfassung zu Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-016-isbn-metadaten-vlb-und-meldeprozesse` | Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards. |
 | `verl-017-vg-wort-meldung-beteiligung-und-ausschuettung` | VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

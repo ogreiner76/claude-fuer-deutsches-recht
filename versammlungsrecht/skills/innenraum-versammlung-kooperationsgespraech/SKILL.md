@@ -1,6 +1,6 @@
 ---
 name: innenraum-versammlung-kooperationsgespraech
-description: "Innenraum Versammlung Abgrenzen, Kooperationsgespraech: Innenraum Versammlung Abgrenzen; Kooperationsgespraech. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Innenraum Versammlung Abgrenzen, Kooperationsgespraech im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Innenraum Versammlung Abgrenzen, Kooperationsgespraech prüfen.; Erstelle eine Arbeitsfassung zu Innenraum Versammlung Abgrenzen, Kooperationsgespraech.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Innenraum Versammlung Abgrenzen, Kooperationsgespraech
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `innenraum-versammlung-abgrenzen` | Grenzt öffentliche und private Versammlungen in geschlossenen Räumen von anzeigepflichtigen Versammlungen unter freiem Himmel ab. |
 | `kooperationsgespraech` | Bereitet Kooperationsgespräche mit Versammlungsbehörde und Polizei vor und protokolliert sie. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Innenraum Versammlung Abgrenzen, Kooperationsgespraech** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

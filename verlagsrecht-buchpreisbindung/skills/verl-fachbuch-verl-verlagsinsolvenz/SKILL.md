@@ -1,6 +1,6 @@
 ---
 name: verl-fachbuch-verl-verlagsinsolvenz
-description: "Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand: Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank; Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand prüfen.; Erstelle eine Arbeitsfassung zu Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank` | Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung. |
 | `verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand` | Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

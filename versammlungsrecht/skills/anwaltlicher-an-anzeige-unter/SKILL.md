@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-an-anzeige-unter
-description: "Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel: Anwaltlicher Brief An Behörde; Anzeige Unter Freiem Himmel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel prüfen.; Erstelle eine Arbeitsfassung zu Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anwaltlicher-brief-an-behoerde` | Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation. |
 | `anzeige-unter-freiem-himmel` | Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

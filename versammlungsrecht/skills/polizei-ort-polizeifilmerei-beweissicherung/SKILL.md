@@ -1,6 +1,6 @@
 ---
 name: polizei-ort-polizeifilmerei-beweissicherung
-description: "Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb: Polizei Vor Ort Deeskalation; Polizeifilmerei Beweissicherung Kug 201 Stgb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb prüfen.; Erstelle eine Arbeitsfassung zu Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `polizei-vor-ort-deeskalation` | Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag. |
 | `polizeifilmerei-beweissicherung-kug-201-stgb` | Versammlungsrecht: Polizeieinsätze, Gegenaufnahmen, Beweissicherung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Presse- und Versammlungsfreiheit, Vor-Ort-Kommunikation und Nachbereitung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

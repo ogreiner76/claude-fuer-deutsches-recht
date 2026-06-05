@@ -1,6 +1,6 @@
 ---
 name: auflagen-auflagenverstoss-owi
-description: "Auflagen Prüfen, Auflagenverstoss Und Owi: Auflagen Prüfen; Auflagenverstoss Und Owi. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Auflagen Prüfen, Auflagenverstoss Und Owi im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Auflagen Prüfen, Auflagenverstoss Und Owi prüfen.; Erstelle eine Arbeitsfassung zu Auflagen Prüfen, Auflagenverstoss Und Owi.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Auflagen Prüfen, Auflagenverstoss Und Owi
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `auflagen-pruefen` | Prüft Beschränkungen, Auflagen und Nebenbestimmungen auf Rechtsgrundlage, Tatsachenbasis und Verhältnismäßigkeit. |
 | `auflagenverstoss-und-owi` | Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlungen, Auflagenverstößen und Auflösung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Auflagen Prüfen, Auflagenverstoss Und Owi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

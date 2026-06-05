@@ -1,6 +1,6 @@
 ---
 name: verl-marketplace-verl-titelschutz
-description: "Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname: Verl 014 Marketplace Haendler Amazon Und Preisdisziplin; Verl 015 Titelschutz Werktitel Und Reihenname. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname prüfen.; Erstelle eine Arbeitsfassung zu Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-014-marketplace-haendler-amazon-und-preisdisziplin` | Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und anderen Online-Händlern — Durchsetzung des Ladenpreises, Abmahnung, Monitoring und Compliance-Praxis. |
 | `verl-015-titelschutz-werktitel-und-reihenname` | Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschriftentitel — UrhG § 5, MarkenG § 5, UWG-Titelschutz, Kollisionsrisiken und Durchsetzung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

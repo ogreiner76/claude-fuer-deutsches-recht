@@ -1,6 +1,6 @@
 ---
 name: blockade-sitzblockade-bundeslaender-synopse
-description: "Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse: Blockade Sitzblockade Friedlichkeit; Bundeslaender Synopse. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse prüfen.; Erstelle eine Arbeitsfassung zu Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `blockade-sitzblockade-friedlichkeit` | Prüft Blockaden, Sitzblockaden, Zufahrtsnähe und Friedlichkeitsgrenzen. |
 | `bundeslaender-synopse` | Erstellt eine Arbeits-Synopse der Landesversammlungsgesetze und markiert, was vor Ausgabe live amtlich zu prüfen ist. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Blockade Sitzblockade Friedlichkeit, Bundeslaender Synopse** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

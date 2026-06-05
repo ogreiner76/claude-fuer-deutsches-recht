@@ -1,6 +1,6 @@
 ---
 name: verl-rabatte-verl-maengelexemplar
-description: "Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung: Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien; Verl 011 Maengelexemplar Remittenden Und Preisbindung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung prüfen.; Erstelle eine Arbeitsfassung zu Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-010-rabatte-bibliotheken-schulen-bundles-und-serien` | Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel. |
 | `verl-011-maengelexemplar-remittenden-und-preisbindung` | Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

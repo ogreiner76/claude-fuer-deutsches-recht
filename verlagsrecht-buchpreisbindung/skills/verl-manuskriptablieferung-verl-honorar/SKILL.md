@@ -1,6 +1,6 @@
 ---
 name: verl-manuskriptablieferung-verl-honorar
-description: "Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung: Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug; Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung prüfen.; Erstelle eine Arbeitsfassung zu Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug` | Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge. |
 | `verl-005-honorar-vorschuss-absatzhonorar-und-abrechnung` | Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

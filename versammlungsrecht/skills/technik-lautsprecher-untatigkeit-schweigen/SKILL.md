@@ -1,6 +1,6 @@
 ---
 name: technik-lautsprecher-untatigkeit-schweigen
-description: "Technik Lautsprecher Musik, Untatigkeit Und Schweigen: Technik Lautsprecher Musik; Untatigkeit Und Schweigen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Technik Lautsprecher Musik, Untatigkeit Und Schweigen im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Technik Lautsprecher Musik, Untatigkeit Und Schweigen prüfen.; Erstelle eine Arbeitsfassung zu Technik Lautsprecher Musik, Untatigkeit Und Schweigen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Technik Lautsprecher Musik, Untatigkeit Und Schweigen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `technik-lautsprecher-musik` | Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz. |
 | `untatigkeit-und-schweigen` | Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Technik Lautsprecher Musik, Untatigkeit Und Schweigen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

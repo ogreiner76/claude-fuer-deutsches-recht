@@ -1,6 +1,6 @@
 ---
 name: verl-subskriptionspreis-verl-e
-description: "Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte: Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion; Verl 013 E Book Preisbindung Und Plattformrabatte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte prüfen.; Erstelle eine Arbeitsfassung zu Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verl-012-subskriptionspreis-einfuehrungspreis-und-aktion` | Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen. |
 | `verl-013-e-book-preisbindung-und-plattformrabatte` | Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

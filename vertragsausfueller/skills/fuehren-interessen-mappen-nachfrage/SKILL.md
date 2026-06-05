@@ -1,6 +1,6 @@
 ---
 name: fuehren-interessen-mappen-nachfrage
-description: "Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe: Spezial Fuehren Mehrparteien Konflikt Und Interessen; Spezial Mappen Zahlen Schwellen Und Berechnung; Spezial Nachfrage Abschlussprodukt Und Übergabe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe im Plugin Vertragsausfueller konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-mappen-zahlen-schwellen-und-berechnung` | Mappen: Zahlen, Schwellenwerte und Berechnung im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-nachfrage-abschlussprodukt-und-uebergabe` | Nachfrage: Abschlussprodukt und Übergabe im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

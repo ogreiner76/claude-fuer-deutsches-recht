@@ -1,6 +1,6 @@
 ---
 name: camp-dauerversammlung-datenschutz-fotos
-description: "Camp Dauerversammlung, Datenschutz Fotos Livestream: Camp Dauerversammlung; Datenschutz Fotos Livestream. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Camp Dauerversammlung, Datenschutz Fotos Livestream im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Camp Dauerversammlung, Datenschutz Fotos Livestream prüfen.; Erstelle eine Arbeitsfassung zu Camp Dauerversammlung, Datenschutz Fotos Livestream.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Camp Dauerversammlung, Datenschutz Fotos Livestream
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `camp-dauerversammlung` | Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG. |
 | `datenschutz-fotos-livestream` | Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Camp Dauerversammlung, Datenschutz Fotos Livestream** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

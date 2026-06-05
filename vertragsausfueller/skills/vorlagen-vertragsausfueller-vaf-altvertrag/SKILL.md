@@ -1,6 +1,6 @@
 ---
 name: vorlagen-vertragsausfueller-vaf-altvertrag
-description: "Spezial Vorlagen Fristen Form Und Zustaendigkeit, Spezial Vertragsausfueller Erstpruefung Und Mandatsziel, Vaf Altvertrag Nachziehen: Spezial Vorlagen Fristen Form Und Zustaendigkeit; Spezial Vertragsausfueller Erstpruefung Und Mandatsziel; Vaf Altvertrag Nachziehen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Vorlagen Fristen Form Und Zustaendigkeit, Spezial Vertragsausfueller Erstpruefung Und Mandatsziel, Vaf Altvertrag Nachziehen im Plugin Vertragsausfueller konkret bearbeitet werden soll. Auslöser: Bitte Spezial Vorlagen Fristen Form Und Zustaendigkeit, Spezial Vertragsausfueller Erstpruefung Und Mandatsziel, Vaf Altvertrag Nachziehen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Vorlagen Fristen Form Und Zustaendigkeit, Spezial Vertragsausfueller Erstpruefung Und Mandatsziel, Vaf Altvertrag Nachziehen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Vorlagen Fristen Form Und Zustaendigkeit, Spezial Vertragsausfueller Erstpruefung Und Mandatsziel, Vaf Altvertrag Nachziehen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-vertragsausfueller-erstpruefung-und-mandatsziel` | Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vaf-altvertrag-nachziehen` | Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Prüfraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung für neue Vorlagen und zu Redline-QA. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Vorlagen Fristen Form Und Zustaendigkeit, Spezial Vertragsausfueller Erstpruefung Und Mandatsziel, Vaf Altvertrag Nachziehen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

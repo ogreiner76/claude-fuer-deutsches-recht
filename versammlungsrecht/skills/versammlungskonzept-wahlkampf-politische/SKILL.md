@@ -1,6 +1,6 @@
 ---
 name: versammlungskonzept-wahlkampf-politische
-description: "Versammlungskonzept, Wahlkampf Und Politische Kundgebung: Versammlungskonzept; Wahlkampf Und Politische Kundgebung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Versammlungskonzept, Wahlkampf Und Politische Kundgebung im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Versammlungskonzept, Wahlkampf Und Politische Kundgebung prüfen.; Erstelle eine Arbeitsfassung zu Versammlungskonzept, Wahlkampf Und Politische Kundgebung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Versammlungskonzept, Wahlkampf Und Politische Kundgebung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `versammlungskonzept` | Erstellt ein belastbares Versammlungskonzept als Anlage zur Anzeige oder als Antwort auf Behördenfragen. |
 | `wahlkampf-und-politische-kundgebung` | Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Versammlungskonzept, Wahlkampf Und Politische Kundgebung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
