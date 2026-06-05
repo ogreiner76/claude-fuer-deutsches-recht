@@ -1,6 +1,6 @@
 ---
 name: kv-qualitaetsgate
-description: "Kv 080 Qualitaetsgate Krankenversicherungsakte: Kv 080 Qualitaetsgate Krankenversicherungsakte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 080 Qualitaetsgate Krankenversicherungsakte im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Kv 080 Qualitaetsgate Krankenversicherungsakte
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `kv-080-qualitaetsgate-krankenversicherungsakte` | Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 080 Qualitaetsgate Krankenversicherungsakte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

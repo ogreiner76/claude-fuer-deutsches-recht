@@ -1,6 +1,6 @@
 ---
 name: kv-krankengeld-kv-reha-kv-kassenwahl
-description: "Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif: Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl; Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche; Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif prüfen.; Erstelle eine Arbeitsfassung zu Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-010-reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche` | Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha. |
 | `kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif` | Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kündigung Bindungsfrist Wahltarif** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

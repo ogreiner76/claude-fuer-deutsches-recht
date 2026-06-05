@@ -1,6 +1,6 @@
 ---
 name: hinweisen-kanzleien-pflegt
-description: "Spezial Hinweisen Formular Portal Und Einreichung, Spezial Kanzleien Dokumentenmatrix Und Lueckenliste, Spezial Pflegt Erstpruefung Und Mandatsziel: Spezial Hinweisen Formular Portal Und Einreichung; Spezial Kanzleien Dokumentenmatrix Und Lueckenliste; Spezial Pflegt Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Hinweisen Formular Portal Und Einreichung, Spezial Kanzleien Dokumentenmatrix Und Lueckenliste, Spezial Pflegt Erstpruefung Und Mandatsziel im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Spezial Hinweisen Formular Portal Und Einreichung, Spezial Kanzleien Dokumentenmatrix Und Lueckenliste, Spezial Pflegt Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Hinweisen Formular Portal Und Einreichung, Spezial Kanzleien Dokumentenmatrix Und Lueckenliste, Spezial Pflegt Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Hinweisen Formular Portal Und Einreichung, Spezial Kanzleien Dokumentenmatrix Und Lueckenliste, Spezial Pflegt Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-kanzleien-dokumentenmatrix-und-lueckenliste` | Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-pflegt-erstpruefung-und-mandatsziel` | Pflegt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Hinweisen Formular Portal Und Einreichung, Spezial Kanzleien Dokumentenmatrix Und Lueckenliste, Spezial Pflegt Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

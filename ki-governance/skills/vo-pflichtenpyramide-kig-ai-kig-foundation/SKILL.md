@@ -1,6 +1,6 @@
 ---
 name: vo-pflichtenpyramide-kig-ai-kig-foundation
-description: "Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial: Ki Vo Pflichtenpyramide Einfuehrung; Kig Ai Act Rollenmodell Bauleiter; Kig Foundation Model Anbieterpflichten Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial prüfen.; Erstelle eine Arbeitsfassung zu Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kig-ai-act-rollenmodell-bauleiter` | Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster fuer Identifikation und Pflichtenkatalog je Rolle. |
 | `kig-foundation-model-anbieterpflichten-spezial` | Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. 53 ff. AI Act: Transparenz, Trainingsdaten, systemisches Risiko ab Schwellenwert. Pruefraster fuer Anbieter und Downstream-Deployer. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

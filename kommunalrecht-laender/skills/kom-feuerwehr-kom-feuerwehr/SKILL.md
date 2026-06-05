@@ -1,6 +1,6 @@
 ---
 name: kom-feuerwehr-kom-feuerwehr
-description: "Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen: Kom 157 Feuerwehr Landesrecht Routen; Kom 159 Feuerwehr Beschluss Bauen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen im Plugin Kommunalrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen prüfen.; Erstelle eine Arbeitsfassung zu Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kom-157-feuerwehr-landesrecht-routen` | Kommunalrecht der Länder: Feuerwehr: Landesrecht routen. Landesrecht routen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-159-feuerwehr-beschluss-bauen` | Kommunalrecht der Länder: Feuerwehr: Beschluss bauen. Beschluss bauen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

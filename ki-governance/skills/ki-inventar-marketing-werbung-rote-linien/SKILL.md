@@ -1,6 +1,6 @@
 ---
 name: ki-inventar-marketing-werbung-rote-linien
-description: "Ki Inventar, Ki Marketing Und Werbung, Ki Rote Linien Art 5 Prüfen: Ki Inventar; Ki Marketing Und Werbung; Ki Rote Linien Art 5 Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ki Inventar, Ki Marketing Und Werbung, Ki Rote Linien Art 5 Prüfen im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Ki Inventar, Ki Marketing Und Werbung, Ki Rote Linien Art 5 Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Ki Inventar, Ki Marketing Und Werbung, Ki Rote Linien Art 5 Prüfen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ki Inventar, Ki Marketing Und Werbung, Ki Rote Linien Art 5 Prüfen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ki-marketing-und-werbung` | KI im Marketing und Werbung: KI-VO-Transparenzpflichten bei synthetischen Inhalten Art. 50, Persoenlichkeitsrecht bei Stimmen- und Gesichtssimulation, UWG bei irrefuehrender Werbung, Empfehlungslogiken und Manipulationsverbot. Compliance-Workflow und Reviewer-Checkliste. |
 | `ki-rote-linien-art-5-pruefen` | Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im oeffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Pruefraster und Risikomatrix. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ki Inventar, Ki Marketing Und Werbung, Ki Rote Linien Art 5 Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

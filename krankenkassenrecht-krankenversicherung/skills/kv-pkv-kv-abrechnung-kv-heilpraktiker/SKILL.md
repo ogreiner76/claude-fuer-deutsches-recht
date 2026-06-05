@@ -1,6 +1,6 @@
 ---
 name: kv-pkv-kv-abrechnung-kv-heilpraktiker
-description: "Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen: Kv 036 Pkv Auslandsreise Und Ruecktransport; Kv 037 Abrechnung Goae Goz Und Erstattung; Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen prüfen.; Erstelle eine Arbeitsfassung zu Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-037-abrechnung-goae-goz-und-erstattung` | Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe. |
 | `kv-038-heilpraktiker-alternative-medizin-und-tarifbedingungen` | Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin in PKV und GKV: Tarif­bedingungen, Leistungsumfang, Evidenzanforderungen und Ablehnungsgründe. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

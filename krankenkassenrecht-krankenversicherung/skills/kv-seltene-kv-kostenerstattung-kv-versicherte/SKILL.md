@@ -1,6 +1,6 @@
 ---
 name: kv-seltene-kv-kostenerstattung-kv-versicherte
-description: "Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente: Kv 053 Seltene Erkrankung Einzelfallentscheidung; Kv 054 Kostenerstattung Privatarzt In Der Gkv; Kv 055 Versicherte Im Ausland Lebend Deutsche Rente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente prüfen.; Erstelle eine Arbeitsfassung zu Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-054-kostenerstattung-privatarzt-in-der-gkv` | Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV. |
 | `kv-055-versicherte-im-ausland-lebend-deutsche-rente` | Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: bora-brak-dsgvo
-description: "Spezial Bora Zahlen Schwellen Und Berechnung, Spezial Brak Internationaler Bezug Und Schnittstellen, Spezial Dsgvo Compliance Dokumentation Und Akte: Spezial Bora Zahlen Schwellen Und Berechnung; Spezial Brak Internationaler Bezug Und Schnittstellen; Spezial Dsgvo Compliance Dokumentation Und Akte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Bora Zahlen Schwellen Und Berechnung, Spezial Brak Internationaler Bezug Und Schnittstellen, Spezial Dsgvo Compliance Dokumentation Und Akte im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bora Zahlen Schwellen Und Berechnung, Spezial Brak Internationaler Bezug Und Schnittstellen, Spezial Dsgvo Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bora Zahlen Schwellen Und Berechnung, Spezial Brak Internationaler Bezug Und Schnittstellen, Spezial Dsgvo Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Bora Zahlen Schwellen Und Berechnung, Spezial Brak Internationaler Bezug Und Schnittstellen, Spezial Dsgvo Compliance Dokumentation Und Akte
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-brak-internationaler-bezug-und-schnittstellen` | Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-dsgvo-compliance-dokumentation-und-akte` | DSGVO: Compliance-Dokumentation und Aktenvermerk im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Bora Zahlen Schwellen Und Berechnung, Spezial Brak Internationaler Bezug Und Schnittstellen, Spezial Dsgvo Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: kirk-leitfaden-kirk-prompts-kr-executive
-description: "Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template: Kirk Mandantenkommunikation Leitfaden; Kirk Prompts Templates Versionierung Spezial; Kr Richtlinie Executive Summary 1 Pager Template. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template prüfen.; Erstelle eine Arbeitsfassung zu Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kirk-prompts-templates-versionierung-spezial` | Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster fuer Knowledge-Management. |
 | `kr-richtlinie-executive-summary-1-pager-template` | Ein-Seiten-Executive-Summary fuer KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und 26 sowie BRAO Paragraf 43a und Paragraf 43e und DSGVO Artikel 5 und 6 und 28 und 32 ab und ist als Anlage zur Vollrichtlinie oder als Aushang fuer Onboarding und Schulungen einsetzbar. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

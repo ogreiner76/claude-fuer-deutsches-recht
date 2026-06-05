@@ -1,6 +1,6 @@
 ---
 name: strukturpruefung-ops-telemedizin-krankenhaus
-description: "Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination: Strukturpruefung Ops Und Md; Telemedizin Im Krankenhaus Und Fernbehandlung; Transplantationsrecht Koordination. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination prüfen.; Erstelle eine Arbeitsfassung zu Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `telemedizin-im-krankenhaus-und-fernbehandlung` | Telemedizin im Krankenhaus und Fernbehandlung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 | `transplantationsrecht-koordination` | Transplantationsrecht Koordination: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Strukturpruefung Ops Und Md, Telemedizin Im Krankenhaus Und Fernbehandlung, Transplantationsrecht Koordination** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

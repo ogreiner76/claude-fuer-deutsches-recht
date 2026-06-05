@@ -1,6 +1,6 @@
 ---
 name: kv-psychotherapie-kv-long-kv-transidentitaet
-description: "Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe, Kv 015 Long Covid Post Vac Und Beweisprobleme, Kv 016 Transidentitaet Geschlechtsangleichende Behandlung: Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe; Kv 015 Long Covid Post Vac Und Beweisprobleme; Kv 016 Transidentitaet Geschlechtsangleichende Behandlung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe, Kv 015 Long Covid Post Vac Und Beweisprobleme, Kv 016 Transidentitaet Geschlechtsangleichende Behandlung im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe, Kv 015 Long Covid Post Vac Und Beweisprobleme, Kv 016 Transidentitaet Geschlechtsangleichende Behandlung prüfen.; Erstelle eine Arbeitsfassung zu Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe, Kv 015 Long Covid Post Vac Und Beweisprobleme, Kv 016 Transidentitaet Geschlechtsangleichende Behandlung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe, Kv 015 Long Covid Post Vac Und Beweisprobleme, Kv 016 Transidentitaet Geschlechtsangleichende Behandlung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-015-long-covid-post-vac-und-beweisprobleme` | Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-Vac-Syndrom: Leistungsansprüche, Beweisschwierigkeiten, MDK-Problematik und Kausalitätsfragen. |
 | `kv-016-transidentitaet-geschlechtsangleichende-behandlung` | GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Hormontherapie, operative Eingriffe, Diagnostik, MDK-Prüfung und aktuelle BSG-Rechtsprechung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 014 Psychotherapie Kostenerstattung Systemversagen Und Akutbe, Kv 015 Long Covid Post Vac Und Beweisprobleme, Kv 016 Transidentitaet Geschlechtsangleichende Behandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

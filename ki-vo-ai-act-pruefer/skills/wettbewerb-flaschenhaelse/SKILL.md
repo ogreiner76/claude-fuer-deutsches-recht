@@ -1,6 +1,6 @@
 ---
 name: wettbewerb-flaschenhaelse
-description: "Wettbewerb Ki Flaschenhaelse Big Tech: Wettbewerb Ki Flaschenhaelse Big Tech. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wettbewerb Ki Flaschenhaelse Big Tech im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Wettbewerb Ki Flaschenhaelse Big Tech prüfen.; Erstelle eine Arbeitsfassung zu Wettbewerb Ki Flaschenhaelse Big Tech.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wettbewerb Ki Flaschenhaelse Big Tech
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `wettbewerb-ki-flaschenhaelse-big-tech` | KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wettbewerb Ki Flaschenhaelse Big Tech** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

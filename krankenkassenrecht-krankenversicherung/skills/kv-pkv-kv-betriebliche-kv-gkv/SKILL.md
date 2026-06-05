@@ -1,6 +1,6 @@
 ---
 name: kv-pkv-kv-betriebliche-kv-gkv
-description: "Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun: Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht; Kv 039 Betriebliche Krankenversicherung Und Datenschutz; Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun prüfen.; Erstelle eine Arbeitsfassung zu Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-039-betriebliche-krankenversicherung-und-datenschutz` | Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität. |
 | `kv-002-gkv-mitgliedschaft-pflicht-freiwillig-familienversicherun` | Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Familienversicherung (§ 10 SGB V) prüfen und abgrenzen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

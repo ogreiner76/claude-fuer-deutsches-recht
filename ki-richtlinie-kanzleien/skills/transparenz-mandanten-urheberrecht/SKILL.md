@@ -1,6 +1,6 @@
 ---
 name: transparenz-mandanten-urheberrecht
-description: "Transparenz Mandanten, Urheberrecht Bausteine: Transparenz Mandanten; Urheberrecht Bausteine. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Transparenz Mandanten, Urheberrecht Bausteine im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Transparenz Mandanten, Urheberrecht Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Transparenz Mandanten, Urheberrecht Bausteine.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Transparenz Mandanten, Urheberrecht Bausteine
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `transparenz-mandanten` | Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine. |
 | `urheberrecht-bausteine` | Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Transparenz Mandanten, Urheberrecht Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

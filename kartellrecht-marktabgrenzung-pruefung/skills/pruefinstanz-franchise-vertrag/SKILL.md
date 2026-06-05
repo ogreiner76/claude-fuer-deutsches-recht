@@ -1,6 +1,6 @@
 ---
 name: pruefinstanz-franchise-vertrag
-description: "Spezial Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht: Spezial Pruefinstanz Fristen Form Und Zustaendigkeit; Franchise Vertrag Kartellrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `spezial-pruefinstanz-fristen-form-und-zustaendigkeit` | Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `franchise-vertrag-kartellrecht` | Franchise-Vertrag Kartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Pruefinstanz Fristen Form Und Zustaendigkeit, Franchise Vertrag Kartellrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

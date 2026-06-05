@@ -1,6 +1,6 @@
 ---
 name: kv-impfleistungen-kv-digitale-kv-telemedizin
-description: "Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz: Kv 050 Impfleistungen Reiseimpfung Und Stiko; Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung; Kv 052 Telemedizin Epa Erezept Und Datenschutz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-051-digitale-gesundheitsanwendungen-diga-antrag-und-erprobung` | GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM. |
 | `kv-052-telemedizin-epa-erezept-und-datenschutz` | Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

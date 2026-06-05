@@ -1,6 +1,6 @@
 ---
 name: art-aeuv-auswirkungen-marktanteile
-description: "Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung: Art 102 Aeuv Missbrauchspruefung Einstieg; Auswirkungen Marktanteile Marktbeherrschung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung prüfen.; Erstelle eine Arbeitsfassung zu Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `art-102-aeuv-missbrauchspruefung-einstieg` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Missbrauchsprüfung Einstieg. |
 | `auswirkungen-marktanteile-marktbeherrschung` | Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der Markt abgegrenzt wird. Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Normen § 18 Abs. 4 GWB 40-Prozent-Einzelmarktbeherrschungs-Vermutung § 18 Abs. 6 GWB gemeinsame Beherrschung Art. 102 AEUV. Prüfraster Marktanteilsberechnung je Marktdefinition rechtliche Konsequenzen Untersagung Missbrauch Zulassung. Output Sensitivitaets-Tabelle Marktanteil pro Szenario mit Ampelbewertung. Abgrenzung: gesamtbewertung-tragfähigkeit für das Gesamturteil. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

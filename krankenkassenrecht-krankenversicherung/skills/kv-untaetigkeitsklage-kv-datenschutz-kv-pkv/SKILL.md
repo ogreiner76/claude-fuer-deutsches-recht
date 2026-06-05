@@ -1,6 +1,6 @@
 ---
 name: kv-untaetigkeitsklage-kv-datenschutz-kv-pkv
-description: "Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit: Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht; Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber; Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-027-datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber` | Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte. |
 | `kv-029-pkv-leistungspflicht-medizinische-notwendigkeit` | Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

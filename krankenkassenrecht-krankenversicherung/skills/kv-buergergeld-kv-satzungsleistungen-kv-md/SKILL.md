@@ -1,6 +1,6 @@
 ---
 name: kv-buergergeld-kv-satzungsleistungen-kv-md
-description: "Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten: Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht; Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung; Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten prüfen.; Erstelle eine Arbeitsfassung zu Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung` | Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse. |
 | `kv-023-md-gutachten-angreifen-befundbericht-und-gegengutachten` | Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qualitätsprüfung, Gegengutachten, prozessuale Sachverständigenfragen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: persoenlicher-anwendungsbereich-polizeiliche
-description: "Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun: Persoenlicher Anwendungsbereich Rollen Art 3; Polizeiliche Ki Vertrauenswuerdigkeit Din Spec; Public Sector Ai Procurement Ausschreibung; Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun prüfen.; Erstelle eine Arbeitsfassung zu Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `public-sector-ai-procurement-ausschreibung` | KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme. |
 | `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun` | Rechtsabteilungs-Spezialskill für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
