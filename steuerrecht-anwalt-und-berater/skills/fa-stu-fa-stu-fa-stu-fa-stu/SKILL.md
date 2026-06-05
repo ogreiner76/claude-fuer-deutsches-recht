@@ -1,6 +1,6 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu
-description: "Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg: Fa Stu Ust Rechnungspflicht 14 Ustg; Fa Stu Ust Vorsteuerabzug 15 Ustg; Fa Stu Vga Pruefraster; Fa Stu Vorbehaltsaufgaben Stberg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `fa-stu-vga-pruefraster` | Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Gesellschafterdarlehen als verdeckte Ausschuettung und fordert Hinzurechnung. Behandelt klassische Fallgruppen Geschaeftsfuehrer-Gehaltsexzess Beherrschende-Gesellschafter Klarheits- und Rueckwirkungsverbot sowie Folgen Kapitalertragsteuer Anrechnung. Output Argumentationsraster mit Kompensationspruefung. Abgrenzung zu fa-stu-kst-organschaft-14-kstg. |
 | `fa-stu-vorbehaltsaufgaben-stberg` | Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte Befugnisse oder eine Werkstattgesellschaft will steuerliche Hilfe ohne Berater anbieten. Behandelt Vollberater Lohnsteuerhilfevereine Buchstellen Bilanzbuchhalter und § 5 StBerG Ordnungswidrigkeit. Output Pruefraster und Stellungnahmemuster. Abgrenzung zu fa-stu-stberg-vereinbare-taetigkeit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

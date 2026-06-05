@@ -1,6 +1,6 @@
 ---
 name: anzeige-sachbeschaedigung-anzeige-sachverhalt
-description: "Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive: Anzeige Sachbeschaedigung 303; Anzeige Sachverhalt Ohne Adjektive. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-sachbeschaedigung-303` | Sachbeschädigung: Beschädigung/Zerstörung/Veränderung, Fotos, Kostenvoranschlag, Strafantrag, Zivilforderung. |
 | `anzeige-sachverhalt-ohne-adjektive` | Entfernt Polemik und Rechtswertungen aus Anzeigen; schreibt nüchtern, präzise und beweisnah. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Sachbeschaedigung 303, Anzeige Sachverhalt Ohne Adjektive** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

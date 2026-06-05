@@ -1,0 +1,254 @@
+---
+name: stv-tempo-regel-zeichen-auslegen-anordnung
+description: "Nutze dies, wenn Stv 031 Tempo 30 Regel Prüfen, Stv 032 Tempo 30 Zeichen Auslegen, Stv 033 Tempo 30 Anordnung Angreifen, Stv 034 Tempo 30 Antrag Schreiben im Plugin Strassenverkehrsrecht Stvo konkret bearbeitet werden soll. Auslöser: Bitte Stv 031 Tempo 30 Regel Prüfen, Stv 032 Tempo 30 Zeichen Auslegen, Stv 033 Tempo 30 Anordnung Angreifen, Stv 034 Tempo 30 Antrag Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Stv 031 Tempo 30 Regel Prüfen, Stv 032 Tempo 30 Zeichen Auslegen, Stv 033 Tempo 30 Anordnung Angreifen, Stv 034 Tempo 30 Antrag Schreiben.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Stv 031 Tempo 30 Regel Prüfen, Stv 032 Tempo 30 Zeichen Auslegen, Stv 033 Tempo 30 Anordnung Angreifen, Stv 034 Tempo 30 Antrag Schreiben
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `stv-031-tempo-30-regel-pruefen` | Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-032-tempo-30-zeichen-auslegen` | Straßenverkehrsrecht StVO: Tempo 30: Zeichen auslegen. Zeichen auslegen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-033-tempo-30-anordnung-angreifen` | Straßenverkehrsrecht StVO: Tempo 30: Anordnung angreifen. Anordnung angreifen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-034-tempo-30-antrag-schreiben` | Straßenverkehrsrecht StVO: Tempo 30: Antrag schreiben. Antrag schreiben für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+
+## Arbeitsweg
+
+Für **Stv 031 Tempo 30 Regel Prüfen, Stv 032 Tempo 30 Zeichen Auslegen, Stv 033 Tempo 30 Anordnung Angreifen, Stv 034 Tempo 30 Antrag Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `stv-031-tempo-30-regel-pruefen`
+
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Tempo 30 Regel Pruefen
+
+## Arbeitsauftrag
+
+Tempo 30 Regel Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 2. `stv-032-tempo-30-zeichen-auslegen`
+
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Zeichen auslegen. Zeichen auslegen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Tempo 30 Zeichen Auslegen
+
+## Arbeitsauftrag
+
+Tempo 30 Zeichen Auslegen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 3. `stv-033-tempo-30-anordnung-angreifen`
+
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Anordnung angreifen. Anordnung angreifen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Tempo 30 Anordnung Angreifen
+
+## Arbeitsauftrag
+
+Tempo 30 Anordnung Angreifen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 4. `stv-034-tempo-30-antrag-schreiben`
+
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Antrag schreiben. Antrag schreiben für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Tempo 30 Antrag Schreiben
+
+## Arbeitsauftrag
+
+Tempo 30 Antrag Schreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.

@@ -1,6 +1,6 @@
 ---
 name: anzeige-druckmittel-anzeige-falsche
-description: "Anzeige Druckmittel Verbot Noetigung, Anzeige Falsche Verdaechtigung 164: Anzeige Druckmittel Verbot Noetigung; Anzeige Falsche Verdaechtigung 164. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Druckmittel Verbot Noetigung, Anzeige Falsche Verdaechtigung 164 im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Druckmittel Verbot Noetigung, Anzeige Falsche Verdaechtigung 164 prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Druckmittel Verbot Noetigung, Anzeige Falsche Verdaechtigung 164.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Druckmittel Verbot Noetigung, Anzeige Falsche Verdaechtigung 164
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-druckmittel-verbot-noetigung` | Prüft, ob Drohung mit Strafanzeige oder Anzeige selbst als unzulässiges Druckmittel/Nötigung wirken kann. |
 | `anzeige-falsche-verdaechtigung-164` | Warn- und Prüfskill zu § 164 StGB: niemanden sicher beschuldigen, wenn nur Verdachtsmomente oder Hörensagen vorliegen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Druckmittel Verbot Noetigung, Anzeige Falsche Verdaechtigung 164** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: anzeige-muster-anzeige-noetigung
-description: "Anzeige Muster Strafanzeige Generator, Anzeige Noetigung 240: Anzeige Muster Strafanzeige Generator; Anzeige Noetigung 240. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Muster Strafanzeige Generator, Anzeige Noetigung 240 im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Muster Strafanzeige Generator, Anzeige Noetigung 240 prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Muster Strafanzeige Generator, Anzeige Noetigung 240.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Muster Strafanzeige Generator, Anzeige Noetigung 240
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-muster-strafanzeige-generator` | Erzeugt eine nüchterne Strafanzeige mit optionalem Strafantrag, Anlagen, Beweismatrix und Risikoformulierungen. |
 | `anzeige-noetigung-240` | Nötigung prüfen: Gewalt/Drohung, empfindliches Übel, Verwerflichkeit, legitime Anzeigeandrohung vs. Missbrauch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Muster Strafanzeige Generator, Anzeige Noetigung 240** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

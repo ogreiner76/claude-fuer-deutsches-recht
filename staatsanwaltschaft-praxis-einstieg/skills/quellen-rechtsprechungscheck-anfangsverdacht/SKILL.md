@@ -1,6 +1,6 @@
 ---
 name: quellen-rechtsprechungscheck-anfangsverdacht
-description: "Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft: Quellen Und Rechtsprechungscheck; Anfangsverdacht Und Verfahrenseinleitung; Beschleunigtes Verfahren 418 Stpo; Frist Und Zustaendigkeit Cockpit; Fristenkalender Staatsanwaltschaft. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
 ---
 
 # Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `frist-und-zustaendigkeit-cockpit` | Fristen- und Zuständigkeitscockpit: Praxis-Skill für neue Staatsanwälte zu macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `fristenkalender-staatsanwaltschaft` | Fristenkalender im Dezernat: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

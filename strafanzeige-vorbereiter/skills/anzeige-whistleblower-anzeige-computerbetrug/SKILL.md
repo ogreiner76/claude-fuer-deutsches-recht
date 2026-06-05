@@ -1,6 +1,6 @@
 ---
 name: anzeige-whistleblower-anzeige-computerbetrug
-description: "Anzeige Compliance Whistleblower Hinschg, Anzeige Computerbetrug Phishing: Anzeige Compliance Whistleblower Hinschg; Anzeige Computerbetrug Phishing. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Compliance Whistleblower Hinschg, Anzeige Computerbetrug Phishing im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Compliance Whistleblower Hinschg, Anzeige Computerbetrug Phishing prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Compliance Whistleblower Hinschg, Anzeige Computerbetrug Phishing.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Compliance Whistleblower Hinschg, Anzeige Computerbetrug Phishing
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-compliance-whistleblower-hinschg` | Hinweisgebermeldung, interne Stelle, externe Meldung, Strafanzeige und Schutz vor Repressalien koordinieren. |
 | `anzeige-computerbetrug-phishing` | Computerbetrug/Phishing anzeigen: Zahlungsdaten, TAN, Social Engineering, Bankkommunikation, Logs und Sofortmaßnahmen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Compliance Whistleblower Hinschg, Anzeige Computerbetrug Phishing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

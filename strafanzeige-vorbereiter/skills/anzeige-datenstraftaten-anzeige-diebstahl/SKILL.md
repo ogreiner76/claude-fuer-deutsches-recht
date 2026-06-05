@@ -1,6 +1,6 @@
 ---
 name: anzeige-datenstraftaten-anzeige-diebstahl
-description: "Anzeige Datenstraftaten 202A 303A, Anzeige Diebstahl Unterschlagung: Anzeige Datenstraftaten 202A 303A; Anzeige Diebstahl Unterschlagung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Datenstraftaten 202A 303A, Anzeige Diebstahl Unterschlagung im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Datenstraftaten 202A 303A, Anzeige Diebstahl Unterschlagung prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Datenstraftaten 202A 303A, Anzeige Diebstahl Unterschlagung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Datenstraftaten 202A 303A, Anzeige Diebstahl Unterschlagung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-datenstraftaten-202a-303a` | Ausspähen, Abfangen, Datenveränderung, Computersabotage: technische Beweise, Logs, Forensik und ZAC. |
 | `anzeige-diebstahl-unterschlagung` | Diebstahl/Unterschlagung anzeigen: Gewahrsam, Eigentum, Wegnahme, Zueignung, Beweise, Herausgabeverlangen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Datenstraftaten 202A 303A, Anzeige Diebstahl Unterschlagung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

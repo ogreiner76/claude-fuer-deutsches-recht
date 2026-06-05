@@ -1,6 +1,6 @@
 ---
 name: anzeige-onlinewache-anzeige-opferschutz
-description: "Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage: Anzeige Onlinewache Vs Staatsanwaltschaft; Anzeige Opferschutz Nebenklage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-onlinewache-vs-staatsanwaltschaft` | Adressat und Form: Onlinewache, Polizeidienststelle, Staatsanwaltschaft, Spezialdienststelle Cybercrime, Zoll oder Finanzbehörde. |
 | `anzeige-opferschutz-nebenklage` | Rechte Verletzter: Nebenklage, psychosoziale Prozessbegleitung, Adhäsion, Schutzanordnung, Akteneinsicht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Onlinewache Vs Staatsanwaltschaft, Anzeige Opferschutz Nebenklage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

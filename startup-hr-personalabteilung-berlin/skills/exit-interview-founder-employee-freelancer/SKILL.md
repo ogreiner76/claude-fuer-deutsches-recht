@@ -1,6 +1,6 @@
 ---
 name: exit-interview-founder-employee-freelancer
-description: "Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf: Exit Interview Und Retention Lernen; Founder Employee Boundary; Freelancer Scheinselbststaendigkeit Router; Gehaltsband Transparenz Und Entgtranspg; Gehaltsfaelligkeiten Und Zahlungslauf. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf prüfen.; Erstelle eine Arbeitsfassung zu Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gehaltsband-transparenz-und-entgtranspg` | Berliner Start-up-HR: Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `gehaltsfaelligkeiten-und-zahlungslauf` | Berliner Start-up-HR: Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

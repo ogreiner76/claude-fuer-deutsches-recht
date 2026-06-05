@@ -1,0 +1,254 @@
+---
+name: stv-lieferzone-regel-zeichen-auslegen
+description: "Nutze dies, wenn Stv 071 Lieferzone Regel Prüfen, Stv 072 Lieferzone Zeichen Auslegen, Stv 073 Lieferzone Anordnung Angreifen, Stv 074 Lieferzone Antrag Schreiben im Plugin Strassenverkehrsrecht Stvo konkret bearbeitet werden soll. Auslöser: Bitte Stv 071 Lieferzone Regel Prüfen, Stv 072 Lieferzone Zeichen Auslegen, Stv 073 Lieferzone Anordnung Angreifen, Stv 074 Lieferzone Antrag Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Stv 071 Lieferzone Regel Prüfen, Stv 072 Lieferzone Zeichen Auslegen, Stv 073 Lieferzone Anordnung Angreifen, Stv 074 Lieferzone Antrag Schreiben.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Stv 071 Lieferzone Regel Prüfen, Stv 072 Lieferzone Zeichen Auslegen, Stv 073 Lieferzone Anordnung Angreifen, Stv 074 Lieferzone Antrag Schreiben
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `stv-071-lieferzone-regel-pruefen` | Straßenverkehrsrecht StVO: Lieferzone: Regel prüfen. Regel prüfen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-072-lieferzone-zeichen-auslegen` | Straßenverkehrsrecht StVO: Lieferzone: Zeichen auslegen. Zeichen auslegen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-073-lieferzone-anordnung-angreifen` | Straßenverkehrsrecht StVO: Lieferzone: Anordnung angreifen. Anordnung angreifen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-074-lieferzone-antrag-schreiben` | Straßenverkehrsrecht StVO: Lieferzone: Antrag schreiben. Antrag schreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+
+## Arbeitsweg
+
+Für **Stv 071 Lieferzone Regel Prüfen, Stv 072 Lieferzone Zeichen Auslegen, Stv 073 Lieferzone Anordnung Angreifen, Stv 074 Lieferzone Antrag Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `stv-071-lieferzone-regel-pruefen`
+
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Regel prüfen. Regel prüfen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Lieferzone Regel Pruefen
+
+## Arbeitsauftrag
+
+Lieferzone Regel Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 2. `stv-072-lieferzone-zeichen-auslegen`
+
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Zeichen auslegen. Zeichen auslegen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Lieferzone Zeichen Auslegen
+
+## Arbeitsauftrag
+
+Lieferzone Zeichen Auslegen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 3. `stv-073-lieferzone-anordnung-angreifen`
+
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Anordnung angreifen. Anordnung angreifen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Lieferzone Anordnung Angreifen
+
+## Arbeitsauftrag
+
+Lieferzone Anordnung Angreifen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 4. `stv-074-lieferzone-antrag-schreiben`
+
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Antrag schreiben. Antrag schreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Lieferzone Antrag Schreiben
+
+## Arbeitsauftrag
+
+Lieferzone Antrag Schreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tat-/Anordnungscheck
+- Verkehrszeichen- und Bekanntgabematrix
+- Einspruchs-/Widerspruchsfahrplan
+- Beweisplan mit Fotos, Messung, Zeugen, Akteneinsicht
+
+## Red-Team-Fragen
+
+- StVO-Verstoß und Verwaltungsakt vermischt
+- Zeichen nicht wirksam bekanntgegeben
+- Fahrer/Halter/Betroffener verwechselt
+- Fristen und Fahrverbot nicht getrackt
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.

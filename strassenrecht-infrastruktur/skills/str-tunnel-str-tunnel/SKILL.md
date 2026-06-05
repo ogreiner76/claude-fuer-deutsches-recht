@@ -1,6 +1,6 @@
 ---
 name: str-tunnel-str-tunnel
-description: "Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren: Str 098 Tunnel Unterhaltung Ruegen; Str 099 Tunnel Dokumente Sortieren. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Bitte Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren prüfen.; Erstelle eine Arbeitsfassung zu Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `str-098-tunnel-unterhaltung-ruegen` | Straßenrecht und Infrastruktur: Tunnel: Unterhaltung rügen. Unterhaltung rügen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-099-tunnel-dokumente-sortieren` | Straßenrecht und Infrastruktur: Tunnel: Dokumente sortieren. Dokumente sortieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

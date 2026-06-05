@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-257c
-description: "Verstaendigung 257C Stpo Strafzumessung: Verstaendigung 257C Stpo Strafzumessung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verstaendigung 257C Stpo Strafzumessung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Verstaendigung 257C Stpo Strafzumessung prüfen.; Erstelle eine Arbeitsfassung zu Verstaendigung 257C Stpo Strafzumessung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verstaendigung 257C Stpo Strafzumessung
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `verstaendigung-257c-stpo-strafzumessung` | Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung. Strafrahmen statt Strafmass; Bindungswirkung bei vollstaendiger Belehrung; Belehrungspflicht Abs. 4 und 5. BVerfG 2 BvR 2628/10 vom 19.03.2013 Verfassungskonformitaet. BGH 1 StR 525/11 vom 07.02.2012 Belehrungspflicht. Typischer Gestaendnisrabatt 25 bis 33 Prozent. Schnittstelle TOA Strafmilderung Plaedoyer. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verstaendigung 257C Stpo Strafzumessung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

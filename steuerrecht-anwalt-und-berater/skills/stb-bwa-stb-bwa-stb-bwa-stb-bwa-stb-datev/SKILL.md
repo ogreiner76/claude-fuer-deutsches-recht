@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-stb-bwa-stb-bwa-stb-bwa-stb-datev
-description: "Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen: Stb Bwa Kennzahlen Rentabilitaet Eigenkapital; Stb Bwa Kontenrahmen Skr03 Skr04; Stb Bwa Mandantenreport Monatlich; Stb Bwa Statische Liquiditaet Kennzahlen; Stb Bwa Vorlaeufiges Ergebnis Darstellung; ...; Stb Datev Bwa Modul Bedienen Tipps. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen
@@ -23,12 +23,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stb-datentransfer-mandant-cloud-dsgvo` | Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument. |
 | `stb-datev-bwa-modul-bedienen-tipps` | DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: anzeige-beweismatrix-anzeige-chatverlaeufe
-description: "Anzeige Beweismatrix Tatsachen Meinungen, Anzeige Chatverlaeufe Emails Header: Anzeige Beweismatrix Tatsachen Meinungen; Anzeige Chatverlaeufe Emails Header. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Beweismatrix Tatsachen Meinungen, Anzeige Chatverlaeufe Emails Header im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Beweismatrix Tatsachen Meinungen, Anzeige Chatverlaeufe Emails Header prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Beweismatrix Tatsachen Meinungen, Anzeige Chatverlaeufe Emails Header.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Beweismatrix Tatsachen Meinungen, Anzeige Chatverlaeufe Emails Header
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-beweismatrix-tatsachen-meinungen` | Ordnet jedes Element der Anzeige nach Tatsachenwissen, Beleg, Zeuge, Dokument, Meinung und Vermutung. |
 | `anzeige-chatverlaeufe-emails-header` | Chatverläufe, EML-Dateien, E-Mail-Header, Messenger-Screenshots, Export und Kontext sichern. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Beweismatrix Tatsachen Meinungen, Anzeige Chatverlaeufe Emails Header** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

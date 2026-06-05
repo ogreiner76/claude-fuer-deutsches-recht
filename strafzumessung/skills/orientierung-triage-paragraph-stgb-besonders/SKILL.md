@@ -1,6 +1,6 @@
 ---
 name: orientierung-triage-paragraph-stgb-besonders
-description: "Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung: Orientierung Strafzumessung Triage; Paragraph 46 Stgb Grundsatz Strafzumessung; Spezial Besonders Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `paragraph-46-stgb-grundsatz-strafzumessung` | Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revision. Schnittstelle zu §§ 46a 47 49 56 StGB und § 267 Abs. 3 StPO. |
 | `spezial-besonders-formular-portal-und-einreichung` | Besonders: Formular, Portal und Einreichungslogik im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: anzeige-umweltstraftaten-anzeige-unternehmen
-description: "Anzeige Umweltstraftaten 324Ff, Anzeige Unternehmen Internal Investigation: Anzeige Umweltstraftaten 324Ff; Anzeige Unternehmen Internal Investigation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Umweltstraftaten 324Ff, Anzeige Unternehmen Internal Investigation im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Umweltstraftaten 324Ff, Anzeige Unternehmen Internal Investigation prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Umweltstraftaten 324Ff, Anzeige Unternehmen Internal Investigation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Umweltstraftaten 324Ff, Anzeige Unternehmen Internal Investigation
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-umweltstraftaten-324ff` | Umweltstraftaten anzeigen: Gewässer, Boden, Luft, Abfall, Genehmigungen, Beweise und Umweltbehörde. |
 | `anzeige-unternehmen-internal-investigation` | Unternehmensanzeige nach interner Untersuchung: Legal Hold, Mitarbeiterinterviews, Datenschutz, Arbeitsrecht, Beschlagnahmerisiko und Bericht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Umweltstraftaten 324Ff, Anzeige Unternehmen Internal Investigation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

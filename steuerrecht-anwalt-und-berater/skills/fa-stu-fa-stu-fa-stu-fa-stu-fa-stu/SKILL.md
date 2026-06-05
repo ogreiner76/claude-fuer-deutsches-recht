@@ -1,6 +1,6 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu-fa-stu
-description: "Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg, Fa Stu Investmentsteuer Invstg und 4 weitere Themen: Fa Stu Grunderwerbsteuer Share Deal; Fa Stu Grundsteuer Bundesmodell; Fa Stu Handels Vs Steuerbilanz; Fa Stu Int Verrechnungspreise 1 Astg; Fa Stu Investmentsteuer Invstg; ...; Fa Stu Onboarding Beratungsstruktur. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg, Fa Stu Investmentsteuer Invstg und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg, Fa Stu Investmentsteuer Invstg und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg, Fa Stu Investmentsteuer Invstg und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg, Fa Stu Investmentsteuer Invstg und 4 weitere Themen
@@ -23,12 +23,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fa-stu-nichtigkeit-125-ao` | Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertatbestand oder Anhoerungsmangel von Verfassungsrang. Behandelt Pruefraster Abgrenzung zur Rechtswidrigkeit Antrag auf Nichtigkeitsfeststellung Anwendung im Klage- und Vollstreckungsverfahren. Output Antragsmuster Nichtigkeitsfeststellung. Abgrenzung zu fa-stu-onboarding-bescheid-lesen und fa-stu-finanzgerichtsklage-78-fgo. |
 | `fa-stu-onboarding-beratungsstruktur` | Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest fuer steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg, Fa Stu Investmentsteuer Invstg und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

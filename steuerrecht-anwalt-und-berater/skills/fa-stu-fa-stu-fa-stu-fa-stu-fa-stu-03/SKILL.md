@@ -1,6 +1,6 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu-fa-stu-03
-description: "Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen: Fa Stu Rueckstellungen 249 Hgb; Fa Stu Rvg Steuerstreit; Fa Stu Selbstanzeige 371 Ao; Fa Stu Stberg Vereinbare Taetigkeit; Fa Stu Steuerhinterziehung 370 Ao; ...; Fa Stu Ust Organschaft 2 Abs 2 Ustg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen
@@ -23,12 +23,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fa-stu-ust-innergemeinschaftlich-6a-ustg` | Praxispruefung der Steuerbefreiung fuer innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbestaetigung oder Verdacht auf Reihengeschaeft. Behandelt § 6a UStG iVm § 17a UStDV gueltige USt-IdNr Abgleich VIES Sammelmeldung. Output Pruefraster mit Nachweismatrix. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg. |
 | `fa-stu-ust-organschaft-2-abs-2-ustg` | Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder verneint sie nach EuGH-Rechtsprechung — Mandant braucht Strategie und ggf. Aenderung der Verhaeltnisse. Behandelt EuGH-Praejudiz zur Organtraeger-Stellung von Personengesellschaften die Wirkungen von Insolvenz der Organgesellschaft und § 73 AO Haftung. Output Pruefraster und Schaubild Innenumsatzgrenzen. Abgrenzung zu fa-stu-kst-organschaft-14-kstg. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

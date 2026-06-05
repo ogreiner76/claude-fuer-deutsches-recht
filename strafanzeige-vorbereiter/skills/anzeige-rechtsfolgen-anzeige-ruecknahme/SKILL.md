@@ -1,6 +1,6 @@
 ---
 name: anzeige-rechtsfolgen-anzeige-ruecknahme
-description: "Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153: Anzeige Rechtsfolgen Und Zivilstrategie; Anzeige Rücknahme Einstellung 170 153. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153 im Plugin Strafanzeige Vorbereiter konkret bearbeitet werden soll. Auslöser: Bitte Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153 prüfen.; Erstelle eine Arbeitsfassung zu Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anzeige-rechtsfolgen-und-zivilstrategie` | Strafanzeige mit Zivilrecht koordinieren: Schadensersatz, Unterlassung, einstweilige Verfügung, Kündigung, Versicherung, Adhäsion. |
 | `anzeige-ruecknahme-einstellung-170-153` | Was nach Anzeige passiert: Einstellung, Rücknahme Strafantrag, Opportunität, Beschwerde, Kommunikation mit StA. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anzeige Rechtsfolgen Und Zivilstrategie, Anzeige Rücknahme Einstellung 170 153** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

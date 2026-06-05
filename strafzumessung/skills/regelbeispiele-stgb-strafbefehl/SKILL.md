@@ -1,6 +1,6 @@
 ---
 name: regelbeispiele-stgb-strafbefehl
-description: "Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste: Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen; Spezial Stgb Schriftsatz Brief Und Memo Bausteine; Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-stgb-schriftsatz-brief-und-memo-bausteine` | Stgb: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

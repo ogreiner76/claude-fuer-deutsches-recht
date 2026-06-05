@@ -1,6 +1,6 @@
 ---
 name: stv-schulstrasse-stv-schulstrasse
-description: "Stv 098 Schulstrasse Behörde Anschreiben, Stv 099 Schulstrasse Karte Bauen: Stv 098 Schulstrasse Behörde Anschreiben; Stv 099 Schulstrasse Karte Bauen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Stv 098 Schulstrasse Behörde Anschreiben, Stv 099 Schulstrasse Karte Bauen im Plugin Strassenverkehrsrecht Stvo konkret bearbeitet werden soll. Auslöser: Bitte Stv 098 Schulstrasse Behörde Anschreiben, Stv 099 Schulstrasse Karte Bauen prüfen.; Erstelle eine Arbeitsfassung zu Stv 098 Schulstrasse Behörde Anschreiben, Stv 099 Schulstrasse Karte Bauen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Stv 098 Schulstrasse Behörde Anschreiben, Stv 099 Schulstrasse Karte Bauen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stv-098-schulstrasse-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Schulstraße: Behörde anschreiben. Behörde anschreiben für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-099-schulstrasse-karte-bauen` | Straßenverkehrsrecht StVO: Schulstraße: Karte bauen. Karte bauen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Stv 098 Schulstrasse Behörde Anschreiben, Stv 099 Schulstrasse Karte Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-stb-bwa-stb-bwa-stb-bwa-stb-bwa
-description: "Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen: Stb Bwa Betriebsergebnis Deckungsbeitrag; Stb Bwa Betriebsuebersicht Erstellen; Stb Bwa Bewegungsbilanz Erstellen; Stb Bwa Branchenvergleich Bbe Datev; Stb Bwa Cashflow Laienverstaendlich; ...; Stb Bwa Kapitalflussrechnung Iduk. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen
@@ -23,12 +23,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stb-bwa-jahres-bwa-erstellen` | Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-PDF. |
 | `stb-bwa-kapitalflussrechnung-iduk` | Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. Anwendungsfall Jahresabschluss Bankreporting Sanierungskonzept Konzernabschluss. Methodik DRS 21 indirekte Ableitung aus Jahresueberschuss Mittelfluss laufende Geschäftstätigkeit Investitionstätigkeit Finanzierungstätigkeit. Output Kapitalflussrechnung als Standalone-Anhang. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

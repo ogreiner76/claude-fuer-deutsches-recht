@@ -1,6 +1,6 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu-fa-stu-02
-description: "Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen: Fa Stu Onboarding Bescheid Lesen; Fa Stu Onboarding Festsetzungsverjaehrung; Fa Stu Onboarding Korrekturnormen; Fa Stu Onboarding Mandantenkommunikation; Fa Stu Onboarding Mandatsannahme; ...; Fa Stu Quellensteuer 50A Estg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen
@@ -23,12 +23,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fa-stu-onboarding-verzinsung` | Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungsfall Berater muss Zinsfolge eines Bescheids quantifizieren und pruefen ob Zinsen angreifbar sind. Behandelt Zinsbeginn Karenzzeit 15 Monate Zinslauf Zinsfestsetzung und Aenderungen nach § 233a Abs. 5 AO sowie Verfassungsmaessigkeit des Zinssatzes. Output Berechnungsschema und Argumentationsraster gegen Zinsbescheide. Abgrenzung zu anw-aussetzung-vollziehung. |
 | `fa-stu-quellensteuer-50a-estg` | Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpflichtigen (Kuenstler Sportler Aufsichtsrat Lizenzen) und muss Steuer einbehalten. Behandelt Schuldner Glaeubiger Bemessungsgrundlage Bruttoabzug 15 Prozent bzw. 30 Prozent Erstattung nach § 50c EStG und DBA-Bezug. Output Pruefraster und Antragsmuster Freistellungsbescheinigung. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

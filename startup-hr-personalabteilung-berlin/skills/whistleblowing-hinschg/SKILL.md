@@ -1,6 +1,6 @@
 ---
 name: whistleblowing-hinschg
-description: "Whistleblowing Hinschg Hr Schnittstelle: Whistleblowing Hinschg Hr Schnittstelle. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Whistleblowing Hinschg Hr Schnittstelle im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Whistleblowing Hinschg Hr Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Whistleblowing Hinschg Hr Schnittstelle.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Whistleblowing Hinschg Hr Schnittstelle
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `whistleblowing-hinschg-hr-schnittstelle` | Berliner Start-up-HR: Hinweisgeberschutz und HR: Meldekanal, Vertraulichkeit, Repressalienverbot, NDA-Konflikte und Personalmaßnahmen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Whistleblowing Hinschg Hr Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
