@@ -1,13 +1,13 @@
 ---
-name: mahnverfahren-beweislast-darlegungslast
-description: "Mahnverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forderungsmanagement: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+name: inkasso-risikoampel
+description: "Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forderungsmanagement: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Mahnverfahren: Beweislast, Darlegungslast und Substantiierung
+# Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Arbeitsbereich
 
-Mahnverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -17,7 +17,7 @@ Mahnverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin forderun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Mahnverfahren: Beweislast, Darlegungslast und Substantiierung
+## Fachkern: Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
 - **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
 
@@ -32,22 +32,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mahnverfahren** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Inkasso** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Materielle Weichen Mahnverfahren (§§ 688 ff. ZPO)
-- **Anwendungsbereich (§ 688 ZPO):** Bezifferte Geldforderungen in Euro; ausgeschlossen sind unbezifferte Forderungen, Verbraucher-Darlehen mit Zinssatz über 12% pa, Verbraucherkredite bei sittenwidrigen Vereinbarungen.
-- **Antragstellung (§ 690 ZPO):** Online unter www.online-mahnantrag.de oder Formular; zentrales Mahngericht jedes Bundeslandes (z. B. AG Hagen für NRW, AG Stuttgart für BW). Anwaltszwang besteht nicht.
-- **Inhalt des Mahnantrags (§ 690 ZPO):** Parteien (Antragsteller, Antragsgegner mit Anschrift), Anspruchsgrund mit Datum und Bezugsfall (z. B. "Rechnung vom 15.03.2025 Nr. 2025-001"), Hauptforderung, Zinsen, Mahn-/Inkassokosten, Erklärung dass keine Gegenleistung mehr offen.
-- **Schwellenwert:** Keine - jede Geldforderung darf im Mahnverfahren betrieben werden, auch Klein- und Großforderungen.
-- **Mahnbescheid (§ 692 ZPO):** Wird vom Mahngericht erlassen und an den Antragsgegner zugestellt. Schuldnerbelehrung über Widerspruchsfrist.
-- **Widerspruch (§ 694 ZPO):** Innerhalb von zwei Wochen ab Zustellung. Widerspruch muss nicht begründet werden. Folge: Übergang ins streitige Verfahren bei AG/LG (je nach Streitwert), Antragsteller muss binnen zwei Wochen Anspruch begründen (§ 696 Abs. 1 ZPO).
-- **Vollstreckungsbescheid (§ 699 ZPO):** Bei fehlendem Widerspruch und Antrag (frühestens 14 Tage nach Mahnbescheidzustellung). Wirkt als Vollstreckungstitel.
-- **Einspruch gegen Vollstreckungsbescheid (§ 700 ZPO):** Innerhalb von zwei Wochen ab Zustellung. Führt zum Übergang ins streitige Verfahren. Vollstreckungsbescheid bleibt aber vorläufig vollstreckbar (§ 700 Abs. 1 S. 2 ZPO).
-- **Verjährungshemmung (§ 204 Abs. 1 Nr. 3 BGB):** Mahnverfahren hemmt die Verjährung mit Eingang des Antrags beim Gericht (auf alle Forderungspositionen, die im Antrag bezeichnet sind).
-- **Praktiker-Tipp:** Bei rechtskräftigem Vollstreckungsbescheid Verjährung 30 Jahre (§ 197 Abs. 1 Nr. 4 BGB). Mahnverfahren also auch sinnvoll, um Verjährung zu vermeiden, wenn streitige Klage noch nicht reif ist - aber Achtung: Mahnverfahren wird zur Klage, wenn Widerspruch eingelegt.
+## Materielle Weichen Inkasso
+- **Registrierungspflicht (§ 10 Abs. 1 Nr. 1 RDG):** Inkassodienstleister benötigen Registrierung beim zuständigen Oberlandesgericht für Rechtsdienstleistung. Verstoß: Nichtigkeit der Forderungseinziehung; eingezogene Forderungen ggf. zurückzuerstatten.
+- **Inkassokostenerstattung (§ 13e RDGEG):** Geltend gemacht werden können Inkassokosten als Verzugsschaden (§§ 280, 286, 288 BGB i.V.m. § 13e RDGEG), aber nur in Höhe der gesetzlichen Anwaltsgebühren (RVG). Verbraucher- und Kleinforderungsschutz seit 01.10.2021: deutlich reduzierte Sätze in Verbrauchersachen.
+- **Höchstgrenzen RVG-Inkasso:**
+ - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
+ - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
+ - Detailliert nach RVG-VV Nrn. 2300 ff. und § 13b-d RDGEG.
+- **Informationspflichten Inkasso (§ 11a RDG):** Inkassodienstleister muss bei erstem Kontakt mitteilen: Auftraggeber, Forderungsgrund mit Bezug auf konkrete Vereinbarung (Datum, Aktenzeichen), Zinsen und Kostenrechnung detailliert.
+- **Anwaltskosten als Verzugsschaden:** Mahn- und außergerichtliche Vertretungskosten eines Rechtsanwalts sind nach Verzug erstattbar (§§ 280, 286 BGB), wenn Beauftragung erforderlich war (BGH ständige Rspr. zur Erforderlichkeit der Anwaltsbeauftragung im Inkasso).
+- **Doppelbeauftragung Inkasso + Anwalt:** Geht regelmäßig zu Lasten des Gläubigers - er bekommt nur einmal Erstattung (BGH ständige Rspr. seit Beschluss IX ZR 280/14).
+- **Anspruchsgrundlagenkette:** § 288 Abs. 4 BGB stellt klar, dass Verzugszinsen den Schadensersatzanspruch nicht ausschließen; Inkasso- und Anwaltskosten sind konkurrierender Schadensersatz nach §§ 280, 286 BGB.
+- **Konsequenzen bei unzulässigen Forderungen:** Wenn Inkasso-Kostenanteil materiell zu hoch oder nicht erstattbar, kann Schuldner Verrechnung nach § 366 BGB verlangen - Tilgung dann zuerst auf die nicht streitige Hauptforderung.
+- **Praktiker-Tipp:** Vor Klagewerkstatt prüfen: Ist Inkasso-Kostenanteil korrekt nach RVG/RDGEG ermittelt? Falsche Berechnung gefährdet Klagewinnchance; Schuldnerseite kann das Inkasso-Konstrukt komplett ausschalten.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

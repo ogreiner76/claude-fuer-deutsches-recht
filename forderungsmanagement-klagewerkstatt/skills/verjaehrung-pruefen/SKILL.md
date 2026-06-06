@@ -1,49 +1,100 @@
 ---
 name: verjaehrung-pruefen
-description: "Verjaehrung pruefen: Regelverjaehrung § 195 BGB drei Jahre ab Schluss des Jahres, in dem Forderung entstanden ist. Sonderverjaehrungen (Werklohn 3 J., Kaufpreis 3 J., Schadensersatz §§ 199 ff. BGB). Hemmung § 203 BGB, Neubeginn § 212 BGB."
+description: "Verjaehrung pruefen: Regelverjaehrung § 195 BGB drei Jahre, Beginn § 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen § 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Rechtsverfolgung). Neubeginn § 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen § 196 BGB (10 J. Grundstuecke), § 197 BGB (30 J. titulierte Ansprueche)."
 ---
 
-# Verjaehrungspruefung
+# Verjaehrung pruefen
 
-## Fachkern: Verjaehrungspruefung
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Pruefung, ob eine Forderung noch durchsetzbar ist oder verjaehrt ist. Verjaehrungseinrede ist materielles Leistungsverweigerungsrecht (§ 214 BGB), wird nur auf Einrede beachtet.
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Verjaehrungsfristen-Tabelle
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+| Anspruch | Frist | Norm |
+|---|---|---|
+| Regelfall (Kaufpreis, Werklohn, Honorar, Mieten, Darlehen, Schadensersatz) | 3 Jahre | § 195 BGB |
+| Rechte an Grundstuecken | 10 Jahre | § 196 BGB |
+| Titulierte Ansprueche (Urteil, Vollstreckungsbescheid, gerichtl. Vergleich) | 30 Jahre | § 197 Abs. 1 Nr. 3-5 BGB |
+| Familien- und erbrechtliche Ansprueche | 30 Jahre | § 197 Abs. 1 Nr. 1-2 BGB |
+| Schadensersatz aus Verletzung Leben/Koerper | 30 Jahre Hoechstfrist | § 199 Abs. 2 BGB |
+| Sonstige Schadensersatzansprueche | 10 J. ab Entstehung / 30 J. ab Handlung | § 199 Abs. 3 BGB |
+| Maengelansprueche Kauf bewegl. Sache | 2 Jahre ab Ablieferung | § 438 Abs. 1 Nr. 3 BGB |
+| Maengelansprueche Bauwerk | 5 Jahre ab Abnahme | § 438 Abs. 1 Nr. 2 BGB, § 634a Abs. 1 Nr. 2 BGB |
+| Reisevertrag | 2 Jahre | § 651j BGB |
 
-## Pruefraster
+## Verjaehrungsbeginn § 199 BGB
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+Regelverjaehrung beginnt mit **Schluss des Jahres**, in dem
+1. der Anspruch entstanden ist UND
+2. der Glaeubiger Kenntnis der anspruchsbegruendenden Umstaende und der Person des Schuldners hat oder ohne grobe Fahrlaessigkeit haette haben muessen.
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+**Hoechstfristen** (kenntnisunabhaengig):
+- § 199 Abs. 2 BGB: 30 Jahre bei Leben/Koerper/Gesundheit/Freiheit
+- § 199 Abs. 3 Nr. 1 BGB: 10 Jahre ab Entstehung (sonst. Schadensersatz)
+- § 199 Abs. 3 Nr. 2 BGB: 30 Jahre ab Handlung
+- § 199 Abs. 4 BGB: 10 Jahre ab Entstehung (uebrige Ansprueche)
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+**Beispiel:** Rechnung 15.04.2023 faellig, Kenntnis sofort → Verjaehrungsbeginn 31.12.2023, Ablauf 31.12.2026 (24:00 Uhr).
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Hemmung § 203 BGB – Verhandlungen
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+Schweben Verhandlungen zwischen den Parteien ueber den Anspruch oder die anspruchsbegruendenden Umstaende, ist die Verjaehrung gehemmt, **bis der eine oder andere Teil die Fortsetzung der Verhandlungen verweigert**. Die Verjaehrung tritt frueherstens drei Monate nach Ende der Hemmung ein.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Verhandlungen: jeder Meinungsaustausch ueber den Anspruch oder Umstaende, ausser bei sofortiger Ablehnung (BGH IX ZR 113/13).
+
+## Hemmung § 204 BGB – Rechtsverfolgung
+
+| Massnahme | Hemmungsbeginn |
+|---|---|
+| Klageerhebung | mit Zustellung (Rueckwirkung § 167 ZPO bei "demnaechst") |
+| Mahnbescheid | mit Zustellung |
+| Streitverkuendung | mit Zustellung |
+| Aufrechnungserklaerung im Prozess | mit Geltendmachung |
+| Gueteantrag bei anerkannter Guetestelle | mit Eingang |
+| Schiedsverfahren | mit Schiedsantrag |
+| Selbststaendiges Beweisverfahren | mit Antrag |
+
+Ende der Hemmung: 6 Monate nach rechtskraeftiger Beendigung des Verfahrens (§ 204 Abs. 2 BGB).
+
+## Neubeginn § 212 BGB
+
+Die Verjaehrung beginnt **erneut**, wenn
+1. der Schuldner den Anspruch anerkennt (Abschlagzahlung, Zinszahlung, Sicherheitsleistung, ausdrueckliche Erklaerung) ODER
+2. eine gerichtliche oder behoerdliche Vollstreckungshandlung vorgenommen wird oder beantragt wird.
+
+**Achtung:** Anerkenntnis nach Verjaehrungseintritt fuehrt nicht zum Neubeginn, sondern allenfalls zum Verzicht auf die Einrede (§ 214 Abs. 2 BGB analog).
+
+## Pruefraster Schritt-fuer-Schritt
+
+1. **Anspruch bestimmen** (Kaufpreis, Werklohn, Schadensersatz, Bereicherung).
+2. **Frist ermitteln** (Tabelle oben).
+3. **Beginn ermitteln**: Schluss des Jahres mit Kenntnis (§ 199 Abs. 1 BGB) ODER objektiver Beginn (§ 199 Abs. 2-4 BGB).
+4. **Hemmungen pruefen**: Verhandlungen, Klage, Mahnbescheid, Streitverkuendung, Vollstreckung.
+5. **Neubeginn pruefen**: Anerkenntnis, Teilzahlung, Vollstreckungshandlung.
+6. **Ergebnis**: Verjaehrungsdatum berechnen, Restlaufzeit notieren.
+
+## Beispielrechnung
+
+Rechnung 15.04.2023, faellig sofort, Kenntnis bei Glaeubiger 15.04.2023.
+- Verjaehrungsbeginn: 31.12.2023
+- Regelverjaehrung 3 J: Ablauf 31.12.2026
+- Mahnbescheid am 15.10.2026 zugestellt → Hemmung
+- Verfahren rechtskraeftig beendet 15.06.2027 → +6 Monate = 15.12.2027 Ende Hemmung
+- Restlaufzeit ab 16.12.2027: damals waren noch 78 Tage offen → Ablauf 03.03.2028
+- Aber: Vollstreckungsbescheid wirkt als Titel → § 197 Abs. 1 Nr. 4 BGB 30 J.
+
+## Verjaehrungseinrede im Prozess
+
+- Materielles Leistungsverweigerungsrecht (§ 214 Abs. 1 BGB)
+- Nicht von Amts wegen zu beruecksichtigen
+- Muss spaetestens in der muendlichen Verhandlung gegen den Klaeger erhoben werden
+- Praeklusion § 296 ZPO bei spaetem Vorbringen
+- Verzicht moeglich (§ 202 BGB Beschraenkung, vorab unzulaessig fuer Vorsatz)
+
+## Quellen
+- BGB § 195 [gesetze-im-internet.de/bgb/__195.html](https://www.gesetze-im-internet.de/bgb/__195.html)
+- BGB § 199 [gesetze-im-internet.de/bgb/__199.html](https://www.gesetze-im-internet.de/bgb/__199.html)
+- BGB § 203 [gesetze-im-internet.de/bgb/__203.html](https://www.gesetze-im-internet.de/bgb/__203.html)
+- BGB § 204 [gesetze-im-internet.de/bgb/__204.html](https://www.gesetze-im-internet.de/bgb/__204.html)
+- BGB § 212 [gesetze-im-internet.de/bgb/__212.html](https://www.gesetze-im-internet.de/bgb/__212.html)
+- BGB § 214 [gesetze-im-internet.de/bgb/__214.html](https://www.gesetze-im-internet.de/bgb/__214.html)
+- BGH IX ZR 113/13 zu Verhandlungen [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
