@@ -33,10 +33,10 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 210 |
-| **Skills (SKILL.md)** | 9115 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 18272 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 201 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v214.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v215.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -265,6 +265,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fachanwalt-versicherungsrecht`](./fachanwalt-versicherungsrecht) | Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. |
 | [`factoring-recht`](./factoring-recht) | Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen. |
+| [`fahrgastrechte`](./fahrgastrechte) | Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung und Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum Amtsgericht. Katalog der DB-Ablehnungsgründe. |
 | [`fashion-law-moderecht`](./fashion-law-moderecht) | Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen. |
 | [`festlandchina-wirtschaftsverkehr`](./festlandchina-wirtschaftsverkehr) | Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten, Exportkontrolle und politisches Risiko. |
 | [`fluggastrechte`](./fluggastrechte) | Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation. |

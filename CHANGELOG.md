@@ -1,3 +1,19 @@
+# v215.0.0 — Generische Kurz-Praefixe aus Skill-Slugs entfernt; README-Plugin-Liste vervollstaendigt
+
+## Schwerpunkt
+
+- In 52 Plugins wurden generische Kurz-Praefixe aus Skill-Slugs entfernt: hoai-, bho-, rom-, stb-, pralr-, solo-, legw-, kom-, drg-, luft-, see-, dsv-, pe-, space-, vc-, btm-, ifg-, oew-, owi-, str-, stv-, tier-, umv-, vdg-, vbr-, ihl-, chn-, ein-, fran-, infl-, db-, kv-, lease-, tk-, ins-, verl-, inv-, iv-, nkr-, inso-, ips-, vaf-, spez-, elsj-, ifap-, jveg-, liqui-, zvg-, zv-, er-, energie-. Insgesamt rund 3500 Skills umbenannt, zwei Boilerplate-Duplikate in normenkontrollrat-nkr geloescht.
+- Plugin energierecht zusaetzlich von er- und energie-Praefixen befreit (46 Renames); die semantischen Sub-Domaenen bess-, fusion- und h2- bleiben als sprechende Praefixe erhalten, ebenso lph- in hoai-leistungsphasen-praxis und plan- in insolvenzverwaltung.
+- Haupt-README-Plugin-Tabelle vervollstaendigt: Das Plugin fahrgastrechte (Eisenbahn-Fahrgastrechte VO (EU) 2021/782) war in der alphabetischen Liste vergessen und wurde zwischen factoring-recht und fashion-law-moderecht ergaenzt. Damit listet die Tabelle wieder alle 210 Plugins vollstaendig.
+- Skill-Gesamtzahl von 9115 (veraltet aus fruehem Stand) auf den tatsaechlichen Stand 18272 angepasst.
+
+## Qualitaetsbild
+
+- Validator gruen.
+- Repo-weiter Praefix-Scan: 0 verbleibende generische Kurz-Praefixe ueber 30 Prozent Plugin-Anteil; nur drei semantische Sub-Domaenen-Praefixe (lph-, bess-, plan-) bestehen bewusst weiter.
+- 210 Plugins / 18272 Skills / 201 Testakten.
+- SKILLS.md, skills-index/, ASSET_INDEX.md, TESTBERICHT.md, README.md, testakten/README.md auf v215.0.0.
+
 # v213.0.0 — Plugin-Praefix-Wiederholungen aus Skill-Slugs entfernt; forderungsmanagement-klagewerkstatt manuell veredelt
 
 ## Schwerpunkt
