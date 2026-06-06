@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 47 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -133,12 +133,9 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `fristen-risikoampel` | Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjaehrung Klagefrist Einspruchsfrist Beschwerdefrist bis Vollstreckungsfristen. Pinpoints BGB 195 199 ZPO 339 Einspruchsfrist Versaeumnisurteil ZPO 700 Einspruch Voll... |
 | `gatekeeper-verhandlung-vergleich` | Pruefraster vor Eintritt in Vergleichsverhandlungen. Erhebt Mandantenziel Untergrenzen Sicherheitsbedarf Vollstreckbarkeit. Pinpoints BGB 779 Vergleich ZPO 794 Abs. 1 Nr. 1 Prozessvergleich ZPO 796a anwaltlicher Vergleich. Liefert Verhan... |
 | `inkasso-risikoampel` | Bewertung der Erfolgswahrscheinlichkeit einer Forderungseinziehung anhand Schuldnerprofil Belegstand Verjaehrungslage und Vermoegenslage. Pinpoints ZPO 802c Vermoegensauskunft ZPO 882b Schuldnerverzeichnis InsO 14 Glaeubigerantrag. Liefe... |
-| `inkasso-zahlungsklage-ersteller` | Erstellt eine Zahlungsklage fuer einen gewerblichen Glaeubiger nach abgeschlossenem Inkassovorlauf. Setzt aussergerichtliche Mahnung und Verzug voraus und bringt Inkassokosten Verzugszinsen und Pauschale 40 Euro mit ein. Pinpoints BGB 28... |
 | `kaltstart-triage` | Erste Triage einer neuen Forderungsangelegenheit. Erhebt Rolle Mandantenziel Forderungsgrund Beklagter Belegstand Mahnvorlauf Verjaehrungslage und Fristen. Ordnet die Sache einer von drei Spuren zu aussergerichtliche Mahnung gerichtliche... |
-| `klage-aus-eigenem-skill` | Erstellt eine konkrete Klage aus dem hauseigenen kanzlei-spezifischen Vorlagen-Plugin gegen einen benannten Beklagten. Nimmt Mandantendaten Forderungsgrund Streitwert Belege auf und fuellt die Kanzleivorlage. Pinpoints ZPO 253 Abs. 2 ZPO... |
 | `klage-einreichungslogik` | Praktische Einreichungslogik einer Zahlungsklage. Klaert Zustaendigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschriften Anlagenbezeichnung und Zustellung. Pinpoints ZPO 130d beA-Pflicht ZPO 253 Klageinhalt ZPO 167 Rueckwirkung Zus... |
 | `klagefreigabe-belegte-forderung` | Pruefraster ob eine Forderung klagefaehig ist. Verlangt Belegnachweis Faelligkeit Verzug Verjaehrung Zustellfaehigkeit und positive Aussicht. Pinpoints ZPO 253 ZPO 138 BGB 286 BGB 195 BGB 199 ZPO 167. Liefert binaere Klagefreigabe-Entsch... |
-| `klagevorlage-aus-eigenen-mustern` | Erstellt aus einem oder mehreren von der Kanzlei hochgeladenen Klagemuster eine wiederverwendbare interne Klage-Vorlage. Extrahiert Variable Platzhalter Mandanten Datum Betrag und kanzlei-typische Formulierungen. Pinpoints ZPO 253 Abs. 2... |
 | `mahnbescheid-online` | Mahnbescheid (§§ 688-703d ZPO) online beantragen: zentrales Mahngericht je Bundesland, online-mahnbescheid.de, Widerspruchsfrist 2 Wochen § 692 ZPO, Vollstreckungsbescheid § 699 ZPO. Vorteile gegenueber Klage: niedrigere Kosten, schnelle... |
 | `mahnung-aussergerichtlich-stufenmodell` | Aussergerichtliches Mahnverfahren in Stufen: 1. kostenfreie Erinnerung, 2. erste Mahnung verzugsbegruendend § 286 BGB, 3. zweite/letzte Mahnung mit Fristsetzung. B2B: 30-Tage-Regel § 286 Abs. 3 BGB. Verbraucher: Belehrungspflicht. Output... |
 | `mahnverfahren-bauleiter` | Spezielles Mahnverfahren bei Werklohnanspruechen aus Bauvertraegen. Beruecksichtigt Faelligkeit nach Abnahme BGB 641 Maengelrechte BGB 634 Bauhandwerkersicherung BGB 650f. Pinpoints ZPO 688 ZPO 690 BGB 641 BGB 650f. Liefert Pruefliste fu... |

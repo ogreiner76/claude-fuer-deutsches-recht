@@ -86,6 +86,25 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte ueber Basiszins (§ 288 Abs. 1 BG
 
 Seit 01.01.2022 Pflicht ueber beA fuer Rechtsanwaelte (§ 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
 
+## B2B-Inkasso-Variante mit Inkassokosten
+
+Nach aussergerichtlichem Mahnvorlauf sind im Antrag zusaetzlich aufzunehmen:
+
+- Inkassokosten als Verzugsschaden BGB 280 286 begrenzt auf RVG-Gebuehren RDG 13c
+- Verzugskostenpauschale 40 Euro je Forderung nur B2B BGB 288 Abs. 5
+- Verzugszinsen B2B neun Prozentpunkte ueber Basiszinssatz BGB 288 Abs. 2
+
+```
+Die Beklagte wird verurteilt an die Klaegerin
+[Hauptsumme] Euro nebst Zinsen in Hoehe von
+neun Prozentpunkten ueber dem Basiszinssatz
+seit [Datum] sowie weitere [Inkassokosten]
+Euro nebst Zinsen in Hoehe von fuenf
+Prozentpunkten ueber dem Basiszinssatz seit
+Rechtshaengigkeit sowie 40 Euro
+Verzugskostenpauschale zu zahlen.
+```
+
 ## Typische Fehler
 
 - Antrag ohne genauen Zinsbeginn → Bestimmtheit (§ 253 Abs. 2 Nr. 2 ZPO) verletzt.
