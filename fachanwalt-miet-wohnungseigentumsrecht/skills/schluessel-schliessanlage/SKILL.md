@@ -13,7 +13,7 @@ description: "Schluessel Schliessanlage im Miet- und Wohnungseigentumsrecht: pr�
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-schluessel-schliessanlage` | Schlüssel/Schließanlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Verlust, Kosten, Austausch, Beweis, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-schnittstellen-internationaler-bezug-und-schnittstellen` | Schnittstellen: Internationaler Bezug und Schnittstellen im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-schnittstellen-internationaler-bezug-und-schnittstellen` | Schnittstellen: Internationaler Bezug und Schnittstellen im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-schoenheitsreparaturen-agb` | Schönheitsreparaturen AGB: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft starre Fristen, Anfangszustand, Quotenklausel, Endrenovierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-sozialbindung-wohnraum` | Sozialbindung Wohnraum: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft WBS, Kostenmiete, Fehlbelegung, Mieterhöhung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-staffelmiete-wirksamkeit` | Staffelmiete Wirksamkeit: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beträge, Zeiträume, Kündigungsverzicht, Mietpreisbremse und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -73,7 +73,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 2. `spezial-schnittstellen-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Schnittstellen: Internationaler Bezug und Schnittstellen
 

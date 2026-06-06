@@ -13,7 +13,7 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 
 ## 1. `spezial-vbuh-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Vbuh: Verhandlung, Vergleich und Eskalation
 

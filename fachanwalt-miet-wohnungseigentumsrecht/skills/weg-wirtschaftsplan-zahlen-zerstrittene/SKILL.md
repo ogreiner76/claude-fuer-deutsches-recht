@@ -13,7 +13,7 @@ description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnu
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-weg-wirtschaftsplan` | WEG Wirtschaftsplan: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vorschüsse, Rücklage, Sonderumlage, Liquidität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-zahlen-schwellen-und-berechnung` | WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-weg-zahlen-schwellen-und-berechnung` | WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-weg-zerstrittene-gemeinschaft` | Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht; entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-werkmietwohnung` | Werkmietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Dienstverhältnis, Kündigung, Sozialschutz, Räumung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-wohnflaechenabweichung` | Wohnflächenabweichung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Berechnung, Toleranz, Minderung, Mieterhöhung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -73,7 +73,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 2. `spezial-weg-zahlen-schwellen-und-berechnung`
 
-**Fokus:** WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # WEG: Zahlen, Schwellenwerte und Berechnung
 

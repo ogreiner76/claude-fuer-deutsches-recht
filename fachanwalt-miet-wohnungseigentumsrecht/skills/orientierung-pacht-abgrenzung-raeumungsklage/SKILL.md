@@ -12,7 +12,7 @@ description: "Orientierung Pacht Abgrenzung Raeumungsklage im Miet- und Wohnungs
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage` | Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage` | Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-pacht-abgrenzung` | Pacht vs. Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-raeumungsklage-aufbau` | Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-rauchwarnmelder` | Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -29,7 +29,7 @@ description: "Orientierung Pacht Abgrenzung Raeumungsklage im Miet- und Wohnungs
 
 ## 1. `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Orientierung: Mandantenkommunikation und Entscheidungsvorlage
 

@@ -13,7 +13,7 @@ description: "Gewerberaum Umsatzmiete Gewerberaummiete im Miet- und Wohnungseige
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-gewerberaum-umsatzmiete` | Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine` | Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine` | Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-glasfaser-kabel-tv` | Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-haertefall-574-bgb` | Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-hausmeisterkosten` | Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen; mit Beleg- und Stundenlistenprüfung. |
@@ -73,7 +73,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 2. `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine
 

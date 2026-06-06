@@ -16,7 +16,7 @@ description: "Kaution Abrechnung Kuendigung Vollmacht Laerm im Miet- und Wohnung
 | `spezial-kuendigung-form-vollmacht-zugang` | Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-laerm-geruch-stoerung` | Lärm/Geruch/Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-makler-courtage-mietrecht` | Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -205,7 +205,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 5. `spezial-miet-tatbestand-beweis-und-belege`
 
-**Fokus:** Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

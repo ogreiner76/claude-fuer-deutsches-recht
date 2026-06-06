@@ -12,9 +12,9 @@ description: "Pflichtteil Progressionsoptimierung im Plugin Fachanwalt Erbrecht:
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste` | Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-progressionsoptimierung-formular-portal-und-einreichung` | Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste` | Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-progressionsoptimierung-formular-portal-und-einreichung` | Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Pflichtteil Progressionsoptimierung im Plugin Fachanwalt Erbrecht:
 
 ## 1. `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-progressionsoptimierung-formular-portal-und-einreichung`
 
-**Fokus:** Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Progressionsoptimierung: Formular, Portal und Einreichungslogik
 
@@ -117,7 +117,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstellen-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 

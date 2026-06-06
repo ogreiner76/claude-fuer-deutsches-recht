@@ -13,7 +13,7 @@ description: "Inso P155 Steuerrecht Erstgespraech im Insolvenz- und Sanierungsre
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `inso-p155-handels-und-steuerrechtliche-rechnungslegung` | § 155 InsO (Handels- und steuerrechtliche Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `spezial-steuerrecht-formular-portal-und-einreichung` | Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-steuerrecht-formular-portal-und-einreichung` | Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fa-inso-drittstaaten-anerkennung-registervollzug` | Fachanwaltlicher Fachmodul für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket. |
 | `fa-insolvenz-npl-und-distressed-debt` | Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own. |
@@ -83,7 +83,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `spezial-steuerrecht-formular-portal-und-einreichung`
 
-**Fokus:** Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Steuerrecht: Formular, Portal und Einreichungslogik
 

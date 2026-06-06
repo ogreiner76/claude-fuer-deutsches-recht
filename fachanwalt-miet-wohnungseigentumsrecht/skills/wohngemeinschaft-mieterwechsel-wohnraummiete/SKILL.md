@@ -13,7 +13,7 @@ description: "Wohngemeinschaft Mieterwechsel Wohnraummiete im Miet- und Wohnungs
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-wohngemeinschaft-mieterwechsel` | WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wohnraummiete-behoerden-gericht-und-registerweg` | Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-wohnraummiete-behoerden-gericht-und-registerweg` | Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-zwangsversteigerung-mietrecht` | Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-zwangsverwaltung-mietrecht` | Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
@@ -72,7 +72,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: kl�
 
 ## 2. `spezial-wohnraummiete-behoerden-gericht-und-registerweg`
 
-**Fokus:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Wohnraummiete: Behörden-, Gerichts- oder Registerweg
 

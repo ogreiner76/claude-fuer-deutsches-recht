@@ -13,8 +13,8 @@ description: "Krypto Wallet Erbschaftsteuer Steuerrecht im Plugin Fachanwalt Erb
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig` | Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen. §§ 1922 1967 BGB digitale Nachlasswerte. Prüfraster: Wallet-Zugang Private Keys Multi-Sig Wertermittlung Steuer Erbschaft Sicherung. Output: Sicherungsplan Übergabe-Anleitung Steuerhinweise. Abgrenzung: nicht für allgemeine Nachlassaufnahme. |
-| `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -317,7 +317,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 ## 2. `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Erbschaftsteuer: Verhandlung, Vergleich und Eskalation
 
@@ -362,7 +362,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-steuerrecht-compliance-dokumentation-und-akte`
 
-**Fokus:** Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Steuerrecht: Compliance-Dokumentation und Aktenvermerk
 

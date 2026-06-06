@@ -12,8 +12,8 @@ description: "Betrkv Interessen BGB Co2kostenaufteilung im Miet- und Wohnungseig
 
 | Pr체fungslinie | Fokus |
 | --- | --- |
-| `spezial-betrkv-mehrparteien-konflikt-und-interessen` | Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-betrkv-mehrparteien-konflikt-und-interessen` | Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-co2kostenaufteilung` | CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen: CO2KostAufG, Wohngeb채ude-Stufenmodell, Nichtwohngeb채ude-50/50-Regel, Brennstoffdaten, Emissionsfaktor, Vermieteranteil, Mieterentlastung und Abrechnungsbaustein. |
 | `spezial-diskriminierung-agg-vermietung` | AGG bei Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; pr체ft Massengesch채ft, Auswahl, Indizien, Schadensersatz; mit Normpr체fung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-ehe-trennung-mietwohnung` | Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; pr체ft Besitz, Vertrag, Zuweisung, K체ndigung, Gesamtschuld; mit Normpr체fung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -29,7 +29,7 @@ description: "Betrkv Interessen BGB Co2kostenaufteilung im Miet- und Wohnungseig
 
 ## 1. `spezial-betrkv-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Betrkv: Mehrparteienkonflikt und Interessenmatrix
 
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bgb-risikoampel-und-gegenargumente`
 
-**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # BGB: Risikoampel, Gegenargumente und Verteidigungslinien
 

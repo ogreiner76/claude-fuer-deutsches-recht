@@ -15,7 +15,7 @@ description: "Baurecht Schnittstelle Belegeinsicht im Miet- und Wohnungseigentum
 | `spezial-baurecht-schnittstelle-miete` | Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-belegeinsicht-betriebskosten` | Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs. 3 BGB; mit BGH VIII ZR 118/19 und VIII ZR 66/20. |
 | `spezial-berliner-raeumung` | Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-beschlussanfechtung-compliance-dokumentation-und-akte` | Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-beschlussanfechtung-compliance-dokumentation-und-akte` | Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-betriebskosten-formell` | Formelle Ordnung der Betriebskostenabrechnung: Mindestangaben nach BGH VIII ZR 84/07, Abrechnungseinheit, Gesamtkosten, Verteilerschlüssel, Mieteranteil, Vorauszahlungen, Saldo, Zugang und Abgrenzung zu bloß materiellen Fehlern. |
 
 ## Arbeitsweg
@@ -165,7 +165,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: kl�
 
 ## 4. `spezial-beschlussanfechtung-compliance-dokumentation-und-akte`
 
-**Fokus:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk
 

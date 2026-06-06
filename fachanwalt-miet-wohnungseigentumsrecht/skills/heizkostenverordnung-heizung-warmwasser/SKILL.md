@@ -16,7 +16,7 @@ description: "Heizkostenverordnung Heizung Warmwasser im Miet- und Wohnungseigen
 | `spezial-heizung-warmwasser` | Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-indexmiete-anpassung` | Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-insolvenz-mieter-vermieter` | Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -205,7 +205,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 5. `spezial-kanzlei-formular-portal-und-einreichung`
 
-**Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Kanzlei: Formular, Portal und Einreichungslogik
 

@@ -12,7 +12,7 @@ description: "Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gese
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` | Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung. |
 | `gmbh-cash-flow-und-darlehen-gesellschafter` | Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster fuer Cash-Pool-Strukturen und Konzernfinanzierung. |
 
@@ -27,7 +27,7 @@ description: "Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gese
 
 ## 1. `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
 

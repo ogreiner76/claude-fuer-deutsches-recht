@@ -15,7 +15,7 @@ description: "Mietspiegel Qualifiziert Milieuschutz im Miet- und Wohnungseigentu
 | `spezial-mietspiegel-qualifiziert` | Qualifizierter Mietspiegel: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anwendbarkeit, Feld, Spanne, Zu-/Abschläge, Begründungsqualität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-milieuschutz-umwandlung` | Milieuschutz/Umwandlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Erhaltungssatzung, Genehmigung, Abwendung, Vorkauf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-mischmiete-wohn-gewerbe` | Mischmiete Wohn/Gewerbe: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schwerpunkt, Schutzregime, Kündigung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-modernisierung-sonderfall-und-edge-case` | Modernisierung: Sonderfall und Edge-Case-Prüfung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-modernisierung-sonderfall-und-edge-case` | Modernisierung: Sonderfall und Edge-Case-Prüfung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-modernisierungsankuendigung` | Modernisierungsankündigung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Frist, Härteeinwand, Energieeffekte und Duldungsanspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
@@ -161,7 +161,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 4. `spezial-modernisierung-sonderfall-und-edge-case`
 
-**Fokus:** Modernisierung: Sonderfall und Edge-Case-Prüfung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Modernisierung: Sonderfall und Edge-Case-Prüfung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Modernisierung: Sonderfall und Edge-Case-Prüfung
 
