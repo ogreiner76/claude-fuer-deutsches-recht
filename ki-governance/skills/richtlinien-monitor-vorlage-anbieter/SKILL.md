@@ -7,7 +7,7 @@ description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gele
 
 ## Arbeitsbereich
 
-Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

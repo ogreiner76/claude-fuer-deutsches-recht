@@ -1,6 +1,6 @@
 ---
 name: schlussformel-bewertung
-description: "Prüffeld für schlussformel bewertung im Arbeitszeugnis-Analyse: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für schlussformel bewertung im Arbeitszeugnis-Analyse: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schlussformel-Bewertung

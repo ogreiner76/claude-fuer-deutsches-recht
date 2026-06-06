@@ -1,3 +1,28 @@
+# v220.0.0 — Repo-weiter Qualitaets-Sweep: Praefix-Cleanup, Wortsalat-Slugs entwortsalatet, Truncations gefixt, Codex-Polish uebernommen
+
+## Schwerpunkt
+
+- Repo-weiter Qualitaets-Sweep ueber alle 210 Plugins in zwei Phasen.
+  - Phase 1: ~1100 Slug-Renames durch Entfernung generischer Plugin-Praefixe (spezial-, neu-, anwaelte-, notare-, insol-, handelsrecht-int-, notariat-, anw-, fa-, fa-stu-, fa-arb-, fa-fam- u. a.) repo-weit, mit Konflikt-Behandlung (8 Boilerplate-Duplikate geloescht).
+  - Phase 2: berufsrecht-wirtschaftspruefer (145), berufsrecht-steuerberater (142), berufsrecht-patentanwaelte (136) entpraefixt; 3 Konflikt-Duplikate geloescht.
+  - Insgesamt ~2400 Skills umbenannt, 32 Boilerplate-Skills entfernt.
+- Nummern-Dubletten in preussisches-recht und roemisches-recht dedupiert: Boilerplate-Varianten geloescht, ausgearbeitete Fachversionen behalten.
+- Mischmasch-Slugs entwortsalatet: 102 Wortsalat-Slugs mit 7+ Tokens auf sprechende H1-Slugs verkuerzt (z. B. venture-capital-recht, festlandchina-recht, beamtenrecht, oeffentliches-baurecht-bauplanung).
+- Truncations gefixt: 71 abgeschnittene Slug-Endungen rekonstruiert (-rec -> -rechtsprechungscheck, -kammerantw -> -kammerantwort, -organisationspfli -> -organisationspflicht, -verfa/-verfah -> -verfahren, -praeve -> -praevention, -schreib -> -schreiben, -unterlagenanfor -> -unterlagenanforderung).
+- bundesnetzagentur: 5x energie-regulierungsakte-...-rechtsmit -> ...-rechtsmittel.
+- startup-hr-personalabteilung-berlin/offboarding-account-checkliste-onboarding aufgeteilt und inhaltlich erweitert: dedizierter Skill offboarding-account-sperre-datenuebergabe mit 13 KB konkretem Inhalt zu Account-Sperre, Datenuebergabe, Rueckgabe-Checkliste, Backup-Aufbewahrungspflichten.
+- Codex-Polish v216 uebernommen: Begriff Prueffeld -> Pruefungslinie in 13975 SKILL.md vereinheitlicht; Prueffelder -> Pruefungslinien.
+
+## Erhalten gebliebene semantische Praefixe
+
+- lph- (HOAI-Leistungsphasen), bess-/fusion-/h2- (energierecht-Subdomaenen), plan- (insolvenzverwaltung), dba-/bwa-/susa-/lohn- (Steuerrecht), energie-/telekommunikation-/eisenbahn- (BNetzA), jurisdiktion- (Kartellrecht 130 Laender), beirat- (Gesellschaftsrecht), laienhilfe- (Sozialrecht), bautraeger- (Bau), schoeffe- (Schoeffen), china- (Festlandchina), besold- (beamtenrecht), bwbes- (bundeswehrrecht).
+
+## Qualitaetsbild
+
+- Validator gruen.
+- 210 Plugins / 18240 Skills / 204 Testakten.
+- SKILLS.md, skills-index/, ASSET_INDEX.md, README.md auf v220.0.0.
+
 # v215.0.0 — Generische Kurz-Praefixe aus Skill-Slugs entfernt; README-Plugin-Liste vervollstaendigt
 
 ## Schwerpunkt

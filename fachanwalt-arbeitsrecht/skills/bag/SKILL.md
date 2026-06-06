@@ -1,20 +1,20 @@
 ---
 name: bag
-description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkret Prüffeld für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüffeld für fachanwalt arbeitsrecht betriebsratsbeschluss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkret Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # BAG
 
 ## Arbeitsbereich
 
-**BAG** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüffeld für fachanwalt arbeitsrecht betriebsratsbeschluss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**BAG** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Prüffeld für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
-| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Prüffeld für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -23,11 +23,11 @@ description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkret Prüffeld f�
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`
 
-**Fokus:** Prüffeld für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -327,7 +327,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 
 ## 3. `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`
 
-**Fokus:** Prüffeld für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung
 

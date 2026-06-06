@@ -7,7 +7,7 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 
 ## Arbeitsbereich
 
-Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer "Subsumtion üben", "subsumiere mit mir", "Tatbestandsmerkmal prüfen", "Obersatz-Definition-Subsumtion" oder "warum springe ich im Gutachten" sagt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer "Subsumtion üben", "subsumiere mit mir", "Tatbestandsmerkmal prüfen", "Obersatz-Definition-Subsumtion" oder "warum springe ich im Gutachten" sagt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

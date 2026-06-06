@@ -7,7 +7,7 @@ description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für 
 
 ## Arbeitsbereich
 
-Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer "Zusammenfassung für Geschäftsführung", "für den Vorstand aufbereiten", "Managementzusammenfassung", "für Einkauf erklären" oder "nicht-juristische Zusammenfassung" sagt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer "Zusammenfassung für Geschäftsführung", "für den Vorstand aufbereiten", "Managementzusammenfassung", "für Einkauf erklären" oder "nicht-juristische Zusammenfassung" sagt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

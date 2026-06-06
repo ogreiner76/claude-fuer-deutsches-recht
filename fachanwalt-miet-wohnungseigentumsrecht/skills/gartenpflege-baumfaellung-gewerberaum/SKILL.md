@@ -7,10 +7,10 @@ description: "Gartenpflege Baumfaellung Gewerberaum im Miet- und Wohnungseigentu
 
 ## Arbeitsbereich
 
-**Gartenpflege Baumfaellung Gewerberaum** ordnet den Fall über die tragenden Prüffelder: Gartenpflege/Baumfällung, Gewerberaum Betriebspflicht, Gewerberaum Störung der Geschäftsgrundlage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gartenpflege Baumfaellung Gewerberaum** ordnet den Fall über die tragenden Prüfungslinien: Gartenpflege/Baumfällung, Gewerberaum Betriebspflicht, Gewerberaum Störung der Geschäftsgrundlage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-gartenpflege-baumfaellung` | Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-gewerberaum-betriebspflicht` | Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -25,7 +25,7 @@ description: "Gartenpflege Baumfaellung Gewerberaum im Miet- und Wohnungseigentu
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-gartenpflege-baumfaellung`
 

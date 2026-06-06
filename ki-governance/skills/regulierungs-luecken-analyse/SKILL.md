@@ -7,7 +7,7 @@ description: "Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der a
 
 ## Arbeitsbereich
 
-Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act", "gilt der AI Act für uns", "Compliance-Prüfung KI", "neue KI-Verordnung prüfen" oder Regelungstext eingibt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act", "gilt der AI Act für uns", "Compliance-Prüfung KI", "neue KI-Verordnung prüfen" oder Regelungstext eingibt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

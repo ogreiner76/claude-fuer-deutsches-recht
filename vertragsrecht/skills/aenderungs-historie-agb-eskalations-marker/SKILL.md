@@ -7,7 +7,7 @@ description: "Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachtr�
 
 ## Arbeitsbereich
 
-Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

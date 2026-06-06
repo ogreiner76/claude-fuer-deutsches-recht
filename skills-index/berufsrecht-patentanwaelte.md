@@ -1,6 +1,6 @@
 # berufsrecht-patentanwaelte
 
-**197 Skills** · Stand `v215.0.0`
+**197 Skills** · Stand `v220.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-patentanwaelte/README.md)
