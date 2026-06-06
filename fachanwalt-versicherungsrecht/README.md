@@ -76,6 +76,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `versr-fehlerkatalog` | Versr Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `versr-lebensversicherung-bezugsrecht` | Versr Lebensversicherung Bezugsrecht im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebensversicherung, Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober, Rechtsf, Obliegenheitsverletzung in der Praxis. Liefert priorisiert... |
 | `versr-pkv-beitragsanpassung-rechtsschutz` | Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ, Spezialfall Rechtsschutzversicherungs-Deckungsklage. Liefer... |
-| `versr-vvg` | Versr VVG im Plugin Fachanwalt Versicherungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `versr-vvg` | Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

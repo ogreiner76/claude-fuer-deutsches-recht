@@ -71,6 +71,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `verk-unfallregulierung` | Verk Unfallregulierung im Plugin Fachanwalt Verkehrsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Unfallregulierung, Chronologie und Belegmatrix im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Ri... |
 | `verkehrsstrafrecht-interessen-verkehrsunfall` | Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt Verkehrsrecht: prüft konkret Verkehrsstrafrecht, Verkehrsunfall, Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsst. Liefert priorisierten Ou... |
 | `vkr-bussgeldverfahren-bussgeld-einspruch` | VKR Bussgeldverfahren Bussgeld Einspruch im Plugin Fachanwalt Verkehrsrecht: prüft konkret Bussgeldverfahren Grundzuege, Prüffeld für bussgeld einspruch pruefen, Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft. Liefert priorisi... |
-| `vkr-einfuehrung` | VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vkr-einfuehrung` | VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt Verkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und näc... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

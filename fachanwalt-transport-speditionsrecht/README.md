@@ -71,6 +71,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `transr-einfuehrung-rechtsquellen` | Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle. |
 | `transr-haftungssystem-erstgespraech` | Transr Haftungssystem Erstgespraech im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Haftungssystem Grundzuege, Erstgespraeches-Aufnahme im Transport- und Speditionsrecht, Gefahrguttransport-Haftung und ADR-Verstoss klaeren.... |
 | `uebereinkommen-quellenkarte` | Uebereinkommen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht im Fachanwalt Transport Speditionsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

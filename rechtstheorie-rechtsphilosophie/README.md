@@ -122,7 +122,7 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `unrecht-und-grenzen-des-gehorsams` | Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
 | `wirtschaftsprivatrecht-dogmatik` | Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert. |
-| `wissensproblem-dezentrale` | Wissensproblem Dezentrale im Rechtstheorie und Rechtsphilosophie: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `wissensproblem-dezentrale` | Wissensproblem Dezentrale im Rechtstheorie und Rechtsphilosophie im Rechtstheorie/-philosophie: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Ris... |
 | `wissensproblem-dezentrale-information` | Prueft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

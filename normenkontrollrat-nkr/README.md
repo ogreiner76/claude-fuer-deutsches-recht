@@ -194,6 +194,6 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Beschrei
 | `stellungnahme-pressepolitik-bundestag` | Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu... |
 | `verhaeltnismaessigkeit-aus-sicht` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand... |
 | `verhaeltnismaessigkeit-sicht-zeitwerttabelle` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand... |
-| `zusammenarbeit-bundesregierung` | Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `zusammenarbeit-bundesregierung` | Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampe... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

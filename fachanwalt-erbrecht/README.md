@@ -73,6 +73,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `rechtsquellen-fehlerkatalog` | Rechtsquellen Fehlerkatalog: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `testament-auslegung-pflichtteil-vaterschaft` | Testament Auslegung Pflichtteil Vaterschaft im Plugin Fachanwalt Erbrecht: prüft konkret Testament, Testamentsauslegung, Führt durch Pflichtteilsfälle mit später festgestellter, § 1600d Abs. Liefert priorisierten Output mit Norm-Pinpoint... |
 | `testamentsvollstrecker-kontrolle-erb` | Testamentsvollstrecker Kontrolle ERB im Plugin Fachanwalt Erbrecht: prüft konkret Testamentsvollstrecker, Spezialfall Erbschaftsteuer-Optimierung, Spezialfall Unternehmensnachfolge. Liefert priorisierten Output mit Norm-Pinpoints, Risiko... |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Erbrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Erbrecht im Fachanwalt Erbrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel u... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
