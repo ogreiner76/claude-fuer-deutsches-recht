@@ -1,36 +1,23 @@
 ---
 name: pe-tax-structuring-deutschland-audit-post-debt-equity-swap
-description: "PE TAX Structuring Deutschland Audit Post Debt Equity Swap im Private Equity Praxis: prüft konkret Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinssch. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# PE TAX Structuring Deutschland Audit Post Debt Equity Swap
+# Tax Structuring: Deutschland-Fokus
 
 ## Arbeitsbereich
 
-**PE TAX Structuring Deutschland Audit Post Debt Equity Swap** ordnet den Fall über die tragenden Prüffelder: Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `pe-020-tax-structuring-pe-deutschland` | Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. |
-| `pe-068-tax-audit-post-closing` | Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess. |
-| `pe-090-debt-equity-swap-pe` | Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance. |
-| `rechtsabteilung-management-participation-sweet-equity` | Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Private Equity Praxis klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG §§ 5, 15, 16, 53, AktG §§ 182, 192, 202, UmwG, KAGB, BGB §§ 311b, 145 ff., EStG § 17 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `pe-020-tax-structuring-pe-deutschland`
-
-**Fokus:** Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit.
-
-# Tax Structuring: Deutschland-Fokus
+## Spezialwissen
 
 ## Fachkern: Tax Structuring: Deutschland-Fokus
 - **Spezialgegenstand:** Tax Structuring: Deutschland-Fokus wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
@@ -124,132 +111,3 @@ Tax Indemnity (Auszug):
 - AO §§ 42, 90 ff.
 - BMF-Schreiben zu § 8c/8d KStG, § 4h EStG, ATAD (jeweils aktuelle Fassung vom Anwender mit aktuellem BMF zu prüfen).
 - Wachstumschancengesetz 2024; Zukunftsfinanzierungsgesetz 2023.
-
-## 2. `pe-068-tax-audit-post-closing`
-
-**Fokus:** Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess.
-
-# Tax Audit und Post-Closing Tax Claims
-
-## Fachkern: Tax Audit und Post-Closing Tax Claims
-- **Spezialgegenstand:** Tax Audit und Post-Closing Tax Claims wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
-- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Der Skill hilft nach Closing, wenn Tax DD plötzlich Prozess wird.
-
-## Rechts- und Praxisanker
-
-AO, KStG/GewStG/UStG, SPA Tax Covenant, Verjährung, Mitwirkungspflichten.
-
-## Workflow
-
-1. Rolle, Parteiperspektive, Deal-Phase und Zeitdruck klären.
-2. Vorliegende Unterlagen benennen und fehlende Dokumente als konkrete Nachforderungsliste erfassen.
-3. Rechtsrahmen, wirtschaftlichen Hebel und Entscheidungspunkt trennen.
-4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
-5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
-
-## Output
-
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
-## 3. `pe-090-debt-equity-swap-pe`
-
-**Fokus:** Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance.
-
-# Debt-Equity-Swap
-
-## Fachkern: Debt-Equity-Swap
-- **Spezialgegenstand:** Debt-Equity-Swap wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
-- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Der Skill bearbeitet Distressed Debt, PE-Kontrolle und Sanierung.
-
-## Rechts- und Praxisanker
-
-InsO/StaRUG, GmbHG/AktG, Steuer, BGB Abtretung, Gläubigerrechte.
-
-## Workflow
-
-1. Rolle, Parteiperspektive, Deal-Phase und Zeitdruck klären.
-2. Vorliegende Unterlagen benennen und fehlende Dokumente als konkrete Nachforderungsliste erfassen.
-3. Rechtsrahmen, wirtschaftlichen Hebel und Entscheidungspunkt trennen.
-4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
-5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
-
-## Output
-
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
-## 4. `rechtsabteilung-management-participation-sweet-equity`
-
-**Fokus:** Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
-
-# Rechtsabteilung: Management Participation Sweet Equity
-
-## Fachkern: Rechtsabteilung: Management Participation Sweet Equity
-- **Spezialgegenstand:** Rechtsabteilung: Management Participation Sweet Equity wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
-- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Spezialkern: Rechtsabteilung: Management Participation Sweet Equity
-
-- **Konkretes Problem:** Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt.
-- **Norm-/Quellenanker:** GmbHG/AktG/UmwG, BGB/SPA, HGB, InsO/StaRUG, KWG/ZAG je nach Target, Kartellrecht/Fusionskontrolle, AStG/AWV und Steuerstruktur.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-EStG, GmbHG, AGB/Arbeitsrecht, § 19a EStG live prüfen
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

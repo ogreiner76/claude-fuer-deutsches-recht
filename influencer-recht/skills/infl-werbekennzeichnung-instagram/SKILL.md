@@ -1,35 +1,23 @@
 ---
 name: infl-werbekennzeichnung-instagram
-description: "Infl Werbekennzeichnung Instagram im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Infl Werbekennzeichnung Instagram
+# Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube
 
 ## Arbeitsbereich
 
-**Infl Werbekennzeichnung Instagram** ordnet den Fall über die tragenden Prüffelder: Influencer-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube` | Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen. |
-| `infl-009-scheinselbststaendigkeit-creator-management-team` | Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken. |
-| `infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre` | Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. |
+Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Influencer Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube`
-
-**Fokus:** Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen.
-
-# Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube
+## Spezialwissen
 
 ## Kontext und Regelungslage
 
@@ -90,138 +78,3 @@ Die Werbekennzeichnungspflicht für Influencer ergibt sich aus mehreren Normen:
 - Textkorrektur: Posting mit korrektem Label
 - Muster-Stellungnahme an Landesmedienanstalt
 - Checkliste vor Veröffentlichung
-
-## 2. `infl-009-scheinselbststaendigkeit-creator-management-team`
-
-**Fokus:** Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken.
-
-# Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team
-
-## Kontext und Regelungslage
-
-Enge Kooperationen zwischen Creator und Management/Brand können zur Scheinselbstständigkeit führen:
-
-- **§ 7 Abs. 1 SGB IV**: Beschäftigung liegt vor, wenn jemand weisungsgebunden und in fremde Arbeitsorganisation eingegliedert tätig ist.
-- **§ 7a SGB IV**: Anfrageverfahren bei Deutschen Rentenversicherung (DRV) zur Statusfeststellung; Creator oder Auftraggeber können anfragen.
-- **§ 28a SGB IV**: Meldepflicht des Arbeitgebers bei festgestellter Beschäftigung; rückwirkende Beitragsnachzahlung bis 4 Jahre (30 Jahre bei Vorsatz).
-- **§ 2 SGB VI**: Selbstständige, die auf einen Auftraggeber angewiesen sind, können rentenversicherungspflichtig sein (Ein-Auftraggeber-Fall).
-- **§ 611a BGB**: Arbeitnehmer-Abgrenzungskriterien; Weisungsgebundenheit als Kernmerkmal.
-
-### Indizien-Check Scheinselbstständigkeit
-
-| Indiz für Selbstständigkeit | Indiz für Beschäftigung |
-|----------------------------|------------------------|
-| Mehrere Auftraggeber | Nur ein Auftraggeber |
-| Eigene Betriebsmittel | Auftraggeber stellt Equipment |
-| Eigenes unternehmerisches Risiko | Feste Vergütung ohne Erfolgskomponente |
-| Freie Zeiteinteilung | Feste Arbeitszeiten / Anwesenheitspflicht |
-| Eigene Preisgestaltung | Vergütung vom Auftraggeber diktiert |
-
-## Kaltstart-Fragen (6)
-
-1. Arbeitet der Creator ausschließlich oder überwiegend für eine Agentur oder ein Unternehmen?
-2. Stellt die Agentur/das Unternehmen Equipment, Räumlichkeiten oder Accounts?
-3. Gibt es Weisungen zu Arbeitszeit, Arbeitsort oder Inhalt?
-4. Liegt ein Statusfeststellungsverfahren bei der DRV vor oder ist eines geplant?
-5. Wie lange besteht die Kooperation bereits, und welche Entgelte wurden bezahlt?
-6. Gewünschtes Ergebnis: Statusgutachten, Vertragsgestaltung oder Reaktion auf DRV-Bescheid?
-
-## Prüfprogramm
-
-- Gesamtbild aller Indizien bewerten; kein einzelnes Merkmal ist allein entscheidend.
-- Vertragsdokumentation: Kooperationsvertrag muss Selbstständigkeit klar abbilden (Freiheit bei Zeiteinteilung, eigene Betriebsmittel).
-- DRV-Anfrage: Proaktive Anfrage nach § 7a SGB IV reduziert Haftungsrisiko.
-- Rückwirkungsgefahr: Bei festgestellter Beschäftigung → 4 Jahre Nachzahlung; bei Vorsatz 30 Jahre.
-- Umsatzsteuer-Folgen: Scheinselbstständiger erbringt ggf. keine umsatzsteuerliche Leistung mehr.
-- Vertragsneugestaltung: Mehr Auftraggeber, eigene Betriebsmittel, Erfolgskomponente einbauen.
-
-## Typische Fallen
-
-- Exklusivitätsklausel im Agenturvertrag → faktisch Ein-Auftraggeber → Scheinselbstständigkeitsrisiko.
-- Management stellt Social-Media-Accounts → Eingliederung in fremde Organisation.
-- Creator kann Aufträge nicht ablehnen → Weisungsgebundenheit.
-- DRV-Bescheid ignoriert → Vollstreckung, Insolvenzrisiko.
-
-## Normen und Quellen
-
-- § 7 SGB IV: https://www.gesetze-im-internet.de/sgb_4/__7.html
-- § 7a SGB IV – Anfrageverfahren: https://www.gesetze-im-internet.de/sgb_4/__7a.html
-- § 611a BGB – Arbeitsvertrag: https://www.gesetze-im-internet.de/bgb/__611a.html
-- § 2 SGB VI: https://www.gesetze-im-internet.de/sgb_6/__2.html
-
-## Output-Formate
-
-- Indizien-Check-Tabelle (Selbstständig vs. Beschäftigt)
-- DRV-Anfrage-Muster (§ 7a SGB IV)
-- Vertragsneugestaltungs-Empfehlung
-- Haftungskalkulationstabelle (Nachzahlung)
-
-## 3. `infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre`
-
-**Fokus:** Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur.
-
-# Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte
-
-## Kontext und Regelungslage
-
-Ein Brand Deal ist ein Werkvertrag (§ 631 BGB) oder gemischter Vertrag; entscheidend ist die genaue Leistungsbeschreibung:
-
-- **§ 631 BGB**: Werkvertrag – Erfolg geschuldet; Abnahme auslöst Vergütungsfälligkeit.
-- **§ 640 BGB**: Abnahme kann ausdrücklich oder konkludent erfolgen; wesentliche Mängel berechtigen zur Verweigerung.
-- **UrhG § 31**: Nutzungsrechtseinräumung muss ausdrücklich vereinbart sein; nicht ausdrücklich eingeräumte Rechte verbleiben beim Urheber (Zweckübertragungsgrundsatz § 31 Abs. 5 UrhG).
-- **UrhG § 34, 35**: Übertragung und Unterlizenzierung von Nutzungsrechten nur mit Zustimmung des Urhebers.
-- **Kennzeichnungspflicht im Vertrag**: Brand Deal muss Kennzeichnungsverantwortung regeln (§ 5a UWG).
-- **§ 307 BGB**: Unbegrenzte Nutzungsrechte in AGB sind regelmäßig unwirksam (kein bestimmter Umfang).
-
-### Vertragsstruktur Brand Deal
-
-| Klausel | Empfehlung Creator |
-|---------|--------------------|
-| Leistungsgegenstand | Exakt: Plattform, Format, Anzahl, Länge, Sprache |
-| Lieferfrist | Puffer einbauen; Verlängerungsoption |
-| Abnahme | 5–7 Werktage; Schweigen = Abnahme nach Frist |
-| Nutzungsrechte | Zeitlich (12 Monate), räumlich (DE), sachlich (Social Media) begrenzen |
-| Whitelisting | Extra vergüten; Laufzeit limitieren |
-| Exklusivität | Branche und Dauer eng fassen |
-| Revision | Max. 2 Feedback-Runden |
-
-## Kaltstart-Fragen (6)
-
-1. Liegt ein Vertragstext vor, oder soll einer erstellt werden?
-2. Welche Leistungen sind genau geschuldet (Posts, Stories, Videos, Blogpost)?
-3. Welche Nutzungsrechte verlangt der Brand – unbegrenzt, zeitlich befristet, Whitelisting?
-4. Gibt es eine Abnahmeregelung und eine Revisions-Klausel?
-5. Welche Vergütung ist vereinbart: Fix, per Post, Success-Fee oder Mischmodell?
-6. Gewünschtes Ergebnis: Vertragscheck, Verhandlungs-Memo oder fertiger Gegenvertrag?
-
-## Prüfprogramm
-
-- Leistungsbeschreibung: Jede Leistung einzeln spezifizieren; Pauschalklauseln vermeiden.
-- Nutzungsrechte: Umfang (zeitlich, räumlich, sachlich) explizit begrenzen; Whitelisting extra.
-- Abnahme: Frist und Rechtsfolge des Schweigens definieren; Mängelkatalog.
-- Vergütungsfälligkeit: An Abnahme, nicht an Veröffentlichung koppeln.
-- Kennzeichnung: Verantwortlichkeit für Label (Creator oder Brand) klar stellen.
-- Haftung: Freistellungsklausel für falsche Produktinformationen des Brands.
-
-## Typische Fallen
-
-- „Unbegrenzte Nutzungsrechte" ohne Gegenleistung → UrhG § 31 Abs. 5 schützt Creator.
-- Abnahme an Veröffentlichung geknüpft → Brand kann endlos auf Revision bestehen.
-- Exklusivität zu breit → Creator verliert andere Deals für 1 Jahr.
-- Kennzeichnungspflicht auf Creator übertragen, aber Brand liefert falsche Infos → Abmahnrisiko.
-- Mündliche Änderungen am Vertrag → kein Beweis.
-
-## Normen und Quellen
-
-- § 631 BGB: https://www.gesetze-im-internet.de/bgb/__631.html
-- § 640 BGB – Abnahme: https://www.gesetze-im-internet.de/bgb/__640.html
-- § 31 UrhG – Nutzungsrechte: https://www.gesetze-im-internet.de/urhg/__31.html
-- § 31 Abs. 5 UrhG – Zweckübertragung: https://www.gesetze-im-internet.de/urhg/__31.html
-- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
-
-## Output-Formate
-
-- Brand-Deal-Vertrag-Checkliste
-- Nutzungsrechte-Tabelle (erlaubt / nicht erlaubt)
-- Abnahme-Protokoll-Vorlage
-- Gegenentwurf zu typischen Brand-AGB

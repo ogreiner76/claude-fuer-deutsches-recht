@@ -1,35 +1,23 @@
 ---
 name: leistungsgruppen-qualitaetskriterien
-description: "Leistungsgruppen Qualitaetskriterien im Plugin Krankenhausrecht: prüft konkret Leistungsgruppen und Qualitaetskriterien nach KHVVG, Medizinprodukterecht Betreiberpflichten MDR MPBetreibV, Mindestmengen nach § 136b SGB V und G-BA-Mm-R. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Leistungsgruppen Qualitaetskriterien
+# Leistungsgruppen und Qualitaetskriterien Reformlogik
 
 ## Arbeitsbereich
 
-**Leistungsgruppen Qualitaetskriterien** ordnet den Fall über die tragenden Prüffelder: Leistungsgruppen und Qualitaetskriterien nach KHVVG, Medizinprodukterecht Betreiberpflichten MDR MPBetreibV, Mindestmengen nach § 136b SGB V und G-BA-Mm-R. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `leistungsgruppen-und-qualitaetskriterien-reformlogik` | Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten. |
-| `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv` | Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
-| `mindestmengen-g-ba-qualitaetssicherung` | Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung. |
+Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Krankenhausrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-
-**Fokus:** Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten.
-
-# Leistungsgruppen und Qualitaetskriterien Reformlogik
+## Spezialwissen
 
 ## Fachkern: Leistungsgruppen und Qualitaetskriterien Reformlogik
 - **Spezialgegenstand:** Leistungsgruppen und Qualitaetskriterien Reformlogik. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
@@ -107,129 +95,3 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - BMG-Hinweise und FAQ zur Reformumsetzung (Live-Check: bundesgesundheitsministerium.de).
 - BSG, staend. Rspr. zum Versorgungsauftrag und zur Strukturqualitaet.
 - InEK-Vorgaben zur Personaldaten-Meldung (Live-Check: g-drg.de).
-
-## 2. `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv`
-
-**Fokus:** Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
-
-# Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
-
-## Fachkern: Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
-- **Spezialgegenstand:** Medizinprodukterecht Betreiberpflichten MDR MPBetreibV. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Medizinprodukterecht Betreiberpflichten MDR MPBetreibV** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 3. `mindestmengen-g-ba-qualitaetssicherung`
-
-**Fokus:** Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung.
-
-# Mindestmengen G-BA Qualitaetssicherung
-
-## Fachkern: Mindestmengen G-BA Qualitaetssicherung
-- **Spezialgegenstand:** Mindestmengen G-BA Qualitaetssicherung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Worum geht es konkret
-Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Fruehgeborene < 1250 g, Lebertransplantation, Stammzelltransplantation) verlangt § 136b SGB V Mindestmengen pro Standort und Jahr. Bei Unterschreiten gilt grundsaetzlich ein Erbringungsverbot.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-- Welcher Mindestmengen-Tatbestand betrifft die Klinik (OPS-Liste der G-BA-Mm-R)?
-- Liegen Prognose-/Negativfeststellung des Landes vor?
-- Wird Ausnahme nach G-BA-Mm-R § 5 (z. B. fuer Versorgungssicherstellung) beansprucht?
-- Welche Mengen wurden erbracht (Vorjahr, Prognose)?
-
-## Rechtlicher Rahmen
-- **SGB V § 136b Abs. 1 Nr. 2** Mindestmengen-Festlegung durch G-BA.
-- **G-BA Mindestmengenregelungen (Mm-R)** in der jeweils aktuellen Fassung.
-- **SGB V § 137 Abs. 3** Datenmeldung an Land/G-BA.
-- **Landeskrankenhausgesetze** Pruefung der Prognose durch Landesbehoerde.
-- **G-BA-Beschluesse** zu Aufnahme/Streichung von Mindestmengen-Tatbestaenden.
-- **BVerfG** zu Berufsausuebungsfreiheit und Mindestmengen (Verhaeltnismaessigkeit).
-
-## / Schritt fuer Schritt
-1. **Mindestmengen-Tatbestand identifizieren:** OPS-Liste Mm-R Anlage.
-2. **Vorjahresmengen ausweisen:** § 137 SGB V-Meldung.
-3. **Prognose fuer Folgejahr erstellen:** Plausibilitaet, Versorgungsbedarf, Personalplanung.
-4. **Negativfeststellung pruefen:** Landesbehoerde stellt fest, ob Prognose haltbar.
-5. **Ausnahmetatbestand pruefen:** Sicherstellung, Versorgungsluecke, atypische Lage.
-6. **Rechtsschutz:** Widerspruch/Klage gegen Negativfeststellung; einstweiliger Rechtsschutz.
-
-## Trade-off-Matrix
-
-| Lage | Strategie | Folge |
-|---|---|---|
-| Mindestmenge knapp erfuellt | Prognose plausibel begruenden | Fortfuehrung |
-| Mindestmenge nicht erreicht | Ausnahme beantragen (Sicherstellung) | aufschiebende Wirkung pruefen |
-| Mehrere Standorte | Konzentrierung an Hauptstandort | Strukturkosten reduziert |
-| dauerhafte Unterschreitung | LG abgeben | Konzentration auf andere LG |
-
-## Praxistipps
-- Prognose ist keine bloße Schaetzung; sie braucht eine plausible Anknuepfung an Vorjahre, Personalbestand und Versorgungsauftrag.
-- Erbringungsverbot greift in Regel zum Folgejahr; einstweiliger Rechtsschutz § 80 Abs. 5 VwGO zum Verwaltungsgericht.
-- Ausnahmen sind eng auszulegen (BSG; BVerfG: Mm sind verfassungsrechtlich grundsaetzlich zulaessig).
-- Mindestmengen wirken parallel zu LG-Strukturmerkmalen; LG kann ohne Mm-Tatbestand nicht ausgehoehlt werden.
-
-## Mustertexte
-**Begruendung der Prognose Knie-TEP:**
-> Im Vorjahr [Datum] wurden [N] Knie-TEP-Eingriffe am Standort durchgefuehrt. Personalbestand und OP-Kapazitaeten erlauben fuer das Folgejahr eine Prognose von [N+x]. Begruendung: stabile Auslastung, Personalfortbildung, Versorgungsauftrag laut LG [Nr.].
-
-**Widerspruch gegen Negativfeststellung:**
-> Gegen die Negativfeststellung vom [Datum] wird Widerspruch eingelegt. Die Prognose ist plausibel ausweislich (Anlage 1-3). Hilfsweise: Ausnahme nach G-BA-Mm-R § 5 wegen Versorgungssicherstellung im Raum [Region], Begruendung …
-
-## Typische Fehler
-- Prognose mit Vorjahres-Ist-Werten gleichsetzen (G-BA fordert begruendete Vorausschau).
-- Ausnahmetatbestand zu weit interpretieren (Sicherstellung verlangt Versorgungsluecke).
-- Frist fuer Negativfeststellungsanzeige verpassen.
-- Mindestmenge mit Vorhalteanteil/LG verwechseln.
-
-## Querverweise
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `qualitaets-und-strukturvorgaben-intake`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-
-## Quellen Stand 06/2026
-- SGB V § 136b.
-- G-BA Mindestmengenregelungen (Mm-R) in aktueller Fassung (Live-Check g-ba.de/richtlinien/38/).
-- BSG, staend. Rspr. zur Mindestmengen-Prognose.
-- BVerfG zu Verfassungsmaessigkeit von Mindestmengen.
-- Landeskrankenhausgesetze 16 Laender zur Aufsicht und Negativfeststellung.

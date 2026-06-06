@@ -1,35 +1,23 @@
 ---
 name: kartellrecht-marktabgrenzung-pruefung-anschluss
-description: "Anschluss im Kartellrecht (Marktabgrenzung): prüft konkret Einstieg, Schnelltriage und Fallrouting im Kartellrecht, Anschluss-Skills Router im Plugin, Chronologie und Belegmatrix im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Anschluss
+# Kartellrecht-Marktabgrenzungs-Pruefer — Allgemein
 
 ## Arbeitsbereich
 
-**Anschluss** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Kartellrecht, Anschluss-Skills Router im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pruefung: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung-pruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin kartellrecht-marktabgrenzung-pruefung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kartellrecht — Marktabgrenzung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FKVO Art. 4 Anmeldepflicht vor Vollzug, GWB § 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen § 35 GWB (50/17,5 Mio. EUR).
 - Tragende Normen verifizieren: GWB §§ 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004), Bekanntmachung Kommission Marktabgrenzung 2024 (C/2024/1645), Leitlinien horizontale/vertikale Zusammenarbeit, HMG-Index — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
+## Spezialwissen
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -42,7 +30,6 @@ description: "Anschluss im Kartellrecht (Marktabgrenzung): prüft konkret Einsti
 
 
 
-# Kartellrecht-Marktabgrenzungs-Pruefer — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -400,150 +387,3 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 - **Plugin-Rahmen:** Kritische kartellrechtliche Pruefinstanz fuer Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsums....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## 2. `workflow-anschluss-skills-router`
-
-**Fokus:** Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pruefung: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
-
-
-# Anschluss-Skills Router
-
-## Aufgabe
-Dieser Prüffeld leitet nach erster Sichtung in den passenden kartellrechtlichen Fachmodul: Marktabgrenzung sachlich/räumlich, Marktbeherrschung, Missbrauchsprüfung, Fusionskontrolle, vertikale Beschränkungen.
-
-## Routing nach Kartell-Fragestellung
-- **Sachliche Marktabgrenzung:** Bedarfsmarktkonzept (Sicht der Marktgegenseite), SSNIP-Test, Substitutionsanalyse.
-- **Räumliche Marktabgrenzung:** Lieferströme, Transportkosten, Preisparität, sprachliche/regulatorische Barrieren.
-- **Marktbeherrschung (§ 18 GWB / Art. 102 AEUV):** Vermutung ab 40 % Marktanteil (§ 18 Abs. 4 GWB); Indizien § 18 Abs. 3 (Finanzkraft, Marktzutritt, Verflechtungen).
-- **Marktmacht-Faktoren bei digitalen Plattformen:** § 18 Abs. 3a GWB (Netzwerkeffekte, Datenzugang, Multi-Homing).
-- **Missbrauchsprüfung (§§ 19, 20 GWB; Art. 102 AEUV):** Ausbeutungs- vs. Behinderungsmissbrauch.
-- **Fusionskontrolle (§§ 35 ff. GWB):** Schwellenwerte § 35 Abs. 1 GWB; Anmeldepflicht Bundeskartellamt; EU-Schwelle nach FKVO (EG) 139/2004.
-- **§ 19a GWB (überragende marktübergreifende Bedeutung):** Adressatenfeststellung durch BKartA.
-
-## Anti-Muster
-- Marktabgrenzung ohne empirische Stütze (reine Behauptung).
-- Marktanteilszahlen ohne Bezugsgröße und Stichtag.
-- Verwechslung GWB-Schwellen (Vermutung 40 %) mit EU-Praxis (kein starrer Schwellenwert, aber Dominanz typischerweise ab 50 %).
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 3. `workflow-chronologie-und-belegmatrix`
-
-**Fokus:** Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung-pruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-
-# Chronologie und Belegmatrix
-
-## Aufgabe
-Dieser Prüffeld ordnet alle marktabgrenzungs- und kartellrechtlich relevanten Daten chronologisch: Umsatzdaten, Marktanteile, Preisschritte, Vertriebsabsprachen, BKartA-Verfahrensschritte, EU-Kommissionsschritte.
-
-## Pflicht-Timeline Marktabgrenzung
-- **Datenstichtag(e):** je Marktanteilsberechnung, je Bezugsgröße (Umsatz EUR, Absatzmenge, Kapazität).
-- **Preisschritte:** Preisänderungen je Anbieter; relevant für SSNIP-Test (5-10 % hypothetische Preiserhöhung).
-- **Markteintritte / Marktaustritte:** Zeitraum, Volumen, Wettbewerbsdruck.
-- **Innovation / Produktlaunch:** für sachliche Marktabgrenzung wichtig (Differenzierte Produkte vs. Substitution).
-- **Behördenschritte:** Anhörung § 56 GWB / Art. 27 VO 1/2003 -- Frist; Phase-I (1 Monat § 40 GWB / 25 Arbeitstage FKVO), Phase-II (4 Monate / 90 Arbeitstage).
-- **Pre-Notification mit BKartA / DG COMP:** typisch 4-8 Wochen.
-- **Sektoruntersuchung (§ 32e GWB):** Beginn, Konsultationsphase, Abschlussbericht.
-
-## Belegmatrix
-- Datum | Ereignis | Datenquelle (Marktstudie, eigene ERP-Daten, Branchenbericht) | Norm-Anker (§ 18 GWB, Art. 102 AEUV, FKVO Art. 2) | Relevanz | offene Frage.
-
-## Anti-Muster
-- Mit alten Marktanteilszahlen arbeiten (älter als 2 Jahre); aktuelle Daten beim BKartA / DG COMP einreichen.
-- Kein Bezugsstichtag angegeben -> Marktstärken nicht verifizierbar.
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 4. `workflow-fristen-und-risikoampel`
-
-**Fokus:** Fristen- und Risikoampel im Plugin kartellrecht-marktabgrenzung-pruefung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
-
-
-# Fristen- und Risikoampel
-
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin kartellrecht-marktabgrenzung-pruefung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Kartellrechtliche Fristen
-- **Fusionskontrolle § 35 GWB:** Anmeldung VOR Vollzug; Phase-I-Prüfung 1 Monat (§ 40 Abs. 1 GWB), Phase II 4 Monate (§ 40 Abs. 2 GWB) ab vollständiger Anmeldung. EU-Ebene FKVO: 25 Arbeitstage Phase I, 90 Arbeitstage Phase II.
-- **No Gun Jumping:** Vollzug vor Freigabe ist Bußgeld bis 10 % des weltweiten Konzernumsatzes (§ 81 Abs. 4 GWB, Art. 14 FKVO).
-- **Bußgeldverjährung § 81g GWB:** 5 Jahre ab Beendigung der Zuwiderhandlung (Verfolgungsverjährung).
-- **Schadensersatz-Verjährung § 33h GWB:** 5 Jahre kenntnisabhängig, 10 Jahre absolut ab Beendigung. Bei kartellrechtlichem Schadensersatz § 33 Abs. 3 GWB Anscheinsbeweis Bindungswirkung Behördenentscheidung.
-- **DMA Gatekeeper-Pflichten:** ab Designierung 6 Monate Übergangsfrist (Art. 3 Abs. 10 DMA); Beschwerde 2 Monate (Art. 263 AEUV).
-- **Marktbeherrschung — Bußgeldrisiko § 19 GWB / Art. 102 AEUV:** bis 10 % weltweiter Konzernumsatz (§ 81c GWB, Art. 23 VO 1/2003).
-- Falle: Joint Venture als "kleine Transaktion" einstufen — § 37 GWB Anmeldepflicht prüfen; Umsatzschwellen § 35 Abs. 1 GWB (Inland >50 Mio. EUR und >17,5 Mio. EUR).

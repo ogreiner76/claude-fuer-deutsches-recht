@@ -17,7 +17,7 @@ description: "Word im NDA-Abgleich: fachlicher Arbeitsgang mit Prüffeldwahl, No
 
 ## Arbeitsweg
 
-- Rolle und Ziel im NDA-Abgleich und Vertraulichkeitsvereinbarungen klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Übliche NDA-Dauer 2–5 Jahre nach Vertragsende, GeschGehG-Anspruchsverjährung § 195 BGB 3 Jahre, EuGH C-435/22 zur restriktiven Auslegung, DSGVO Art. 33 Datenpanne 72h.
 - Tragende Normen verifizieren: GeschGehG §§ 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB §§ 145 ff., 280, 339, 343, 305 ff. (AGB-Kontrolle), BDSG § 26, DSGVO Art. 6, 28, 32 (TOM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.

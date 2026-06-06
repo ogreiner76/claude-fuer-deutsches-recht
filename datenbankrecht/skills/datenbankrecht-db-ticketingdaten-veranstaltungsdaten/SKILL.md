@@ -1,35 +1,23 @@
 ---
 name: datenbankrecht-db-ticketingdaten-veranstaltungsdaten
-description: "DB Ticketingdaten Veranstaltungsdaten im Plugin Datenbankrecht: prüft konkret Datenbankrecht für Veranstaltungsdatenbanken und, Datenbankrecht für Jobportale und, Datenbankrecht für Gesundheitsdatenbanken. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# DB Ticketingdaten Veranstaltungsdaten
+# Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
 
 ## Arbeitsbereich
 
-**DB Ticketingdaten Veranstaltungsdaten** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht für Veranstaltungsdatenbanken und, Datenbankrecht für Jobportale und, Datenbankrecht für Gesundheitsdatenbanken. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `db-023-ticketingdaten-veranstaltungsdaten-und-kalender` | Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. |
-| `db-024-stellenanzeigen-jobportal-und-scraping` | Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale. |
-| `db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten` | Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken. |
+Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `db-023-ticketingdaten-veranstaltungsdaten-und-kalender`
-
-**Fokus:** Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten.
-
-# Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
+## Spezialwissen
 
 ## Mandantenfall
 
@@ -89,133 +77,3 @@ description: "DB Ticketingdaten Veranstaltungsdaten im Plugin Datenbankrecht: pr
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-
-## 2. `db-024-stellenanzeigen-jobportal-und-scraping`
-
-**Fokus:** Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale.
-
-# Stellenanzeigen, Jobportale und Scraping — Datenbankrecht nach Innoweb
-
-## Mandantenfall
-
-- Jobportal-Betreiber stellt fest, dass eine neue Jobsuchmaschine alle Stellenanzeigen in Echtzeit aus seiner Datenbank abfragt und eigene Suchergebnisse anzeigt — Grundlage der EuGH-Innoweb-Entscheidung.
-- Recruiter-Startup will Stellenanzeigen aus mehreren Jobportalen aggregieren und fragt, welche Lizenzen es benötigt.
-- Unternehmen hat eine interne Jobdatenbank aufgebaut und möchte diese extern lizenzieren — wie definiert es den Nutzungsumfang?
-
-## Erste Schritte
-
-1. Innoweb-Entscheidung anwenden: EuGH C-202/12 — Meta-Jobsuchmaschine, die Echtzeitsuche auf Fremddatenbank ausführt, verwendet wesentliche Teile weiter.
-2. Datenbankherstellerrecht des Jobportals prüfen: Wesentliche Investition in Sammlung (Einholung von Arbeitgeberdaten), Überprüfung (Qualitätsprüfung, Kategorisierung) und Darstellung?
-3. Verletzungsanalyse: Handelt der Aggregator in Echtzeit (Innoweb) oder ruft er periodisch Daten ab (Kumulationstatbestand)?
-4. AGB-Scraping-Verbot prüfen: Ist das Verbot wirksam, klar formuliert und nach § 307 BGB nicht unangemessen?
-5. DSGVO-Prüfung: Stellenanzeigen können personenbezogene Daten von Ansprechpartnern enthalten — Zweckbindung bei Weitergabe.
-6. Lizenzmodell für Stellendaten-Feed: Welche Nutzung darf der Aggregator käuflich erwerben, und welche Verbote bleiben im Vertrag?
-
-## Rechtsrahmen
-
-- EuGH C-202/12 (Innoweb/Wegener): Meta-Jobsuchmaschine, die Fremddatenbank in Echtzeit durchsucht, verweist Nutzer zur Fremddatenbank — wesentliche Weiterverwendung bejaht.
-- § 87a UrhG: Jobportal als Datenbankherstellerin — wesentliche Investition in Beschaffung und Darstellung von Stellenanzeigen.
-- § 87b UrhG: Wesentliche Entnahme und Weiterverwendung ohne Lizenz des Jobportals untersagt.
-- Art. 7 Abs. 2 lit. b RL 96/9/EG: Weiterverwendung — auch mittelbare Nutzung erfasst.
-- § 307 BGB: AGB-Scraping-Klausel wirksam bei klarer Formulierung und verhältnismäßiger Rechtsfolge.
-- Art. 6 Abs. 1 lit. f DSGVO: Berechtigtes Interesse als Rechtsgrundlage für Verarbeitung von Arbeitgeberkontakten in Stellenanzeigen.
-
-## Prüfraster
-
-- Hat das Jobportal eine wesentliche Investition in Beschaffung von Stellenanzeigen (aktives Einwerben von Arbeitgebern) und Darstellung getätigt?
-- Führt der Aggregator eine Echtzeit-Suche durch die Fremddatenbank aus (Innoweb-Test) oder archiviert er Daten periodisch?
-- Ist das AGB-Scraping-Verbot wirksam einbezogen und hinreichend bestimmt?
-- Kumuliert der Aggregator bei periodischen Abfragen systematisch wesentliche Teile?
-- Sind Ansprechpartner-Kontaktdaten in Stellenanzeigen personenbezogen — welche DSGVO-Rechtsgrundlage gilt für deren Weitergabe?
-- Bietet das Jobportal bereits ein API-Lizenzmodell an, und schließt der Aggregator die dort definierten Bedingungen ein?
-- Besteht wettbewerbsrechtliche gezielte Behinderung (§ 4 Nr. 4 UWG) durch den Aggregator?
-
-## Typische Fallstricke
-
-- Innoweb-Entscheidung gilt spezifisch für Echtzeit-Meta-Suche — periodische Crawling-Abfragen werden anders bewertet.
-- Stellenanzeigen-Portale, die nur von Arbeitgebern befüllte Formulare anzeigen, haben möglicherweise weniger Investition in Beschaffung als vermutet.
-- Arbeitgeber können eigene Urheberrechte an Stellenanzeigentexten behalten — Jobportal lizenziert nur das Datenbankherstellerrecht.
-- DSGVO-Grundlage für Kontaktdaten in Stellenanzeigen ist berechtigtes Interesse — aber Weitergabe an Dritte ohne weitere Rechtsgrundlage problematisch.
-- Aggregatoren können sich auf § 87c UrhG (zulässige Handlungen) berufen — prüfen, ob Ausnahmen einschlägig sind.
-
-## Output
-
-- Innoweb-Verletzungsanalyse (Echtzeit-Meta-Suche vs. periodisches Crawling)
-- Datenbankherstellerrecht-Gutachten für Jobportal
-- AGB-Klausel-Vorlage für Scraping-Verbot
-- Jobdaten-Lizenzvertrag-Muster (API-Feed)
-- DSGVO-Prüfbogen für Kontaktdaten in Stellenanzeigen
-
-## Quellen
-
-- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-- [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
-- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-
-## 3. `db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten`
-
-**Fokus:** Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken.
-
-# Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz
-
-## Mandantenfall
-
-- HealthTech-Startup will anonymisierte Patientendaten einer Klinikdatenbank für KI-Modell-Training nutzen und fragt nach dem rechtlichen Rahmen.
-- Pharmaunternehmen hat eine Arzneimitteldatenbank aufgebaut und will diese an Forschungseinrichtungen lizenzieren — welche Rechte können übertragen werden?
-- Krankenkasse möchte ihre Rezeptdatenbank für Versorgungsforschung zugänglich machen und fragt nach DSGVO-Anforderungen und Datenbankschutz.
-
-## Erste Schritte
-
-1. Datenbankherstellerrecht prüfen: Wesentliche Investition in Aufbau und Pflege der Gesundheitsdatenbank (§ 87a UrhG)?
-2. Besondere Kategorien nach Art. 9 DSGVO prüfen: Gesundheitsdaten sind besondere Kategorien — erhöhte Anforderungen an Rechtsgrundlage (Art. 9 Abs. 2 DSGVO).
-3. Anonymisierungs- und Pseudonymisierungsgrad bewerten: Sind die Daten tatsächlich anonym oder nur pseudonymisiert — welche Datenschutzpflichten verbleiben?
-4. Forschungsschranken klären: § 27 BDSG für wissenschaftliche Forschung, Art. 9 Abs. 2 lit. j DSGVO — erlaubte Verarbeitung für Gesundheitsforschung.
-5. Zweckbindungspflicht bei Lizenzierung: Gesundheitsdaten dürfen nur für vereinbarte Zwecke genutzt werden — vertragliche Zweckbindungsklausel.
-6. KI-Training mit Gesundheitsdaten: § 44b UrhG TDM-Schranke und Art. 9 DSGVO — erhöhter Schutzstandard beachten.
-
-## Rechtsrahmen
-
-- § 87a UrhG: Datenbankherstellerrecht für Gesundheitsdatenbanken — Investition in Beschaffung, Überprüfung und Darstellung von Patientendaten.
-- Art. 9 DSGVO: Besondere Kategorien personenbezogener Daten — Verarbeitung von Gesundheitsdaten erfordert explizite Ausnahme.
-- Art. 9 Abs. 2 lit. j DSGVO: Verarbeitung für Forschungszwecke im öffentlichen Interesse mit angemessenen Schutzmaßnahmen.
-- § 27 BDSG: Verarbeitung für wissenschaftliche Forschung — nationale Umsetzung der Forschungsschranke.
-- § 44b UrhG: TDM-Schranke auch für Gesundheitsdatenbanken — aber DSGVO-Anforderungen bei personenbezogenen Daten bleiben.
-- SGB V §§ 284 ff.: Datenschutzrecht für Sozialdaten (Krankenversicherungsdaten) — besondere gesetzliche Schranken.
-
-## Prüfraster
-
-- Liegt eine wesentliche Investition in die Gesundheitsdatenbank vor (Erhebungsaufwand, Qualitätsprüfung, Kodierung)?
-- Sind die Daten wirklich anonymisiert, oder handelt es sich um Pseudonymisierung mit Reidentifikationsrisiko?
-- Liegt eine Rechtsgrundlage nach Art. 9 Abs. 2 DSGVO für die geplante Nutzung vor?
-- Gilt die Forschungsschranke nach § 27 BDSG — ist der Zweck wissenschaftliche Forschung im öffentlichen Interesse?
-- Ist die Zweckbindung bei Lizenzierung an externe Forschungseinrichtungen vertraglich abgesichert?
-- Werden KI-Modelle mit den Gesundheitsdaten trainiert — greifen TDM-Schranke und DSGVO gleichzeitig?
-- Liegen Sozialdaten (SGB-Daten) vor — gelten besondere gesetzliche Schranken des Sozialgeheimnisses?
-
-## Typische Fallstricke
-
-- Pseudonymisierte Daten sind keine anonymisierten Daten — DSGVO gilt weiterhin, besondere Kategorien ebenfalls.
-- Forschungsschranke nach § 27 BDSG setzt echten wissenschaftlichen Zweck voraus — kommerzielle KI-Entwicklung reicht nicht.
-- Lizenznehmer können mit den Daten Sekundärprodukte entwickeln, die nicht mehr von der Zweckbindung erfasst sind — klare Verbote erforderlich.
-- Reidentifikation aus anonymisierten Gesundheitsdaten ist durch moderne KI-Methoden möglich — Risikoanalyse nach Art. 35 DSGVO (DSFA) erforderlich.
-- Sozialdaten der Krankenkassen unterliegen dem Sozialgeheimnis (§ 35 SGB I) — Weitergabe an Private fast immer unzulässig.
-
-## Output
-
-- Datenbankherstellerrecht-Gutachten für Gesundheitsdatenbank
-- Art. 9 DSGVO-Rechtsgrundlagen-Check für Gesundheitsdatennutzung
-- Zweckbindungs-Lizenzklausel für Gesundheitsdatenbank-Lizenzvertrag
-- Anonymisierungs-/Pseudonymisierungs-Risikoanalyse
-- Forschungsschranken-Prüfbogen (§ 27 BDSG / Art. 9 Abs. 2 lit. j DSGVO)
-
-## Quellen
-
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [Art. 9 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/9.html)
-- [§ 27 BDSG — dejure.org](https://dejure.org/gesetze/BDSG/27.html)
-- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
-- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-- [Art. 35 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/35.html)

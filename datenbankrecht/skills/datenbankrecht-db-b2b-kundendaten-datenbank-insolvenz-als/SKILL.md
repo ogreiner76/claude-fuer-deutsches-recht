@@ -1,35 +1,23 @@
 ---
 name: datenbankrecht-db-b2b-kundendaten-datenbank-insolvenz-als
-description: "DB B2B Kundendaten Datenbank Insolvenz ALS im Plugin Datenbankrecht: prüft konkret Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und, Datenbankrecht in der Insolvenz, Bewertet Datenbankrechte (§§ 87a-87e UrhG) als. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# DB B2B Kundendaten Datenbank Insolvenz ALS
+# B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
 
 ## Arbeitsbereich
 
-**DB B2B Kundendaten Datenbank Insolvenz ALS** ordnet den Fall über die tragenden Prüffelder: Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und, Datenbankrecht in der Insolvenz, Bewertet Datenbankrechte (§§ 87a-87e UrhG) als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter` | Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. |
-| `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette` | Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse. |
-| `db-019-datenbank-als-kreditsicherheit-due-diligence` | Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte. |
+Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter`
-
-**Fokus:** Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln.
-
-# B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
+## Spezialwissen
 
 ## Mandantenfall
 
@@ -89,133 +77,3 @@ description: "DB B2B Kundendaten Datenbank Insolvenz ALS im Plugin Datenbankrech
 - [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
-
-## 2. `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette`
-
-**Fokus:** Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse.
-
-# Datenbank in der Insolvenz — Asset Deal und Rechtekette
-
-## Mandantenfall
-
-- Investor möchte die Datenbank eines insolventen Unternehmens im Asset Deal erwerben und fragt, welche Datenbankrechte übergehen und welche Due-Diligence-Punkte zu klären sind.
-- Insolvenzverwalter möchte die Datenbankrechte des Schuldners als Massevermögen verwerten und benötigt eine Bewertung der bestehenden Lizenzen und Schutzrechte.
-- Käufer einer Datenbank aus einer Insolvenz stellt fest, dass ein Dritter ebenfalls Rechte an der Datenbank behauptet — wie ist die Rechtekette zu prüfen?
-
-## Erste Schritte
-
-1. Rechtslage in der Insolvenz klären: Das Datenbankherstellerrecht fällt in die Insolvenzmasse (§ 35 InsO) — Insolvenzverwalter kann darüber verfügen.
-2. Bestehende Lizenzen prüfen: Laufen Datenbanklizenzen in der Insolvenz fort? § 108 InsO für gegenseitige Verträge; Wahlrecht des Insolvenzverwalters.
-3. Asset Deal strukturieren: Übertragungsvertrag muss alle Rechte explizit aufführen — Herstellerrecht, Urheberrecht an Datenbankwerk, Lizenzen, Softwarerechte.
-4. Rechtekette belegen: Dokumentenprüfung — wer hat die Datenbank ursprünglich erstellt, wer hat Investition getragen, sind Rechte vertraglich abgesichert?
-5. DSGVO bei personenbezogenen Daten: Übertragung personenbezogener Datensätze erfordert Rechtsgrundlage nach Art. 6 DSGVO; berechtigtes Interesse des Käufers?
-6. Kaufpreisbewertung: Schutzdauer (§ 87d UrhG) restlaufend, Verletzungsfreiheit, Lizenzerträge und Wert der Investition als Bewertungsgrundlage.
-
-## Rechtsrahmen
-
-- § 87a UrhG: Datenbankherstellerrecht als übertragbares Vermögensrecht — Teil der Insolvenzmasse (§ 35 InsO).
-- § 87d UrhG: Schutzdauer 15 Jahre — Rest-Laufzeit als Wertfaktor bei der Transaktionsbewertung.
-- § 35 InsO: Insolvenzmasse umfasst alle Vermögenswerte des Schuldners einschließlich Immaterialgüterrechte.
-- § 108 InsO: Fortbestand von Dauerschuldverhältnissen (Datenbanklizenzen) — Insolvenzverwalter hat Wahlrecht.
-- Art. 6 Abs. 1 lit. f DSGVO: Berechtigtes Interesse als Rechtsgrundlage für Datenbankübertragung — Abwägung erforderlich.
-- § 453 BGB: Rechtskauf — Mängelgewährleistung auch bei Erwerb von Datenbankrechten; Rechtsmangel bei Drittrechten.
-
-## Prüfraster
-
-- Ist das Datenbankherstellerrecht eindeutig dem Schuldner zugeordnet (Herstellereigenschaft, Investitionsnachweis)?
-- Bestehen konkurrierende Rechte Dritter (Mitherstellerrechte, Unterlizenzen, Pfandrechte an IP)?
-- Laufen bestehende Datenbanklizenzen in der Insolvenz fort — hat der Insolvenzverwalter das Wahlrecht ausgeübt?
-- Sind personenbezogene Daten in der Datenbank enthalten — welche DSGVO-Pflichten treffen den Erwerber?
-- Ist die Schutzdauer (§ 87d UrhG) noch ausreichend lang für den geplanten Nutzungszweck?
-- Enthält der Asset Deal eine Rechtsmängelgewährleistung für den Fall unerkannter Drittrechte?
-- Sind Softwarerechte, Urheberrecht am Datenbankwerk und Herstellerrecht separat erfasst und übertragen?
-
-## Typische Fallstricke
-
-- Datenbankherstellerrecht ohne explizite Übertragungsklausel geht nicht automatisch mit dem Unternehmensvermögen über.
-- Lizenznehmer können nach § 108 InsO in laufenden Verträgen verbleiben — der Käufer erwirbt die Datenbank belastet mit bestehenden Lizenzen.
-- DSGVO-Pflichten (Datenschutzhinweise, ggf. neue Einwilligungen) entstehen beim Erwerber — werden oft unterschätzt.
-- Insolvenzanfechtung: Datenbankrechte-Übertragungen in den letzten Monaten vor Insolvenzantrag können anfechtbar sein.
-- Bewertung des Datenbankrechts ohne Prüfung der verbleibenden Schutzdauer und des Verletzungshistorie-Risikos führt zu Fehlinvestition.
-
-## Output
-
-- Asset-Deal-Datenbankrechte-Checkliste (Due Diligence)
-- Übertragungsvertrag-Klauseln für Datenbankherstellerrecht
-- Rechteketten-Dokumentationsmatrix
-- DSGVO-Pflichten-Übersicht für den Erwerber personenbezogener Datenbanken
-- Schutzdauer- und Wertbewertungstool (§ 87d UrhG)
-
-## Quellen
-
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 87d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87d.html)
-- [§ 35 InsO — dejure.org](https://dejure.org/gesetze/InsO/35.html)
-- [§ 108 InsO — dejure.org](https://dejure.org/gesetze/InsO/108.html)
-- [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
-- [§ 453 BGB Rechtskauf — dejure.org](https://dejure.org/gesetze/BGB/453.html)
-
-## 3. `db-019-datenbank-als-kreditsicherheit-due-diligence`
-
-**Fokus:** Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte.
-
-# Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber
-
-## Mandantenfall
-
-- Startup will seine proprietäre Datenbankrechte als Sicherheit für einen Kredit einsetzen und fragt, wie das rechtlich strukturiert wird.
-- Bank erhält Datenbankherstellerrechte als Sicherheit und benötigt eine Due-Diligence-Checkliste zur Bewertung der Werthaltigkeit.
-- Insolvenzverwalter stellt fest, dass Datenbankrechte an eine Bank sicherungsübereignet wurden und klärt Priorität gegenüber anderen Gläubigern.
-
-## Erste Schritte
-
-1. Verpfändbarkeit prüfen: Datenbankherstellerrecht ist ein übertragbares Vermögensrecht (§ 87a Abs. 2 UrhG) — Verpfändung nach § 1273 BGB oder Sicherungsübertragung möglich.
-2. Investitionsnachweis bewerten: Kann der Kreditnehmer die wesentliche Investition in die Datenbank belegen (Kostenaufstellungen, Projektnachweise)?
-3. Schutzdauer prüfen: Verbleibende Laufzeit nach § 87d UrhG bestimmt den wirtschaftlichen Wert als Sicherheit.
-4. Verletzungsfreiheit prüfen: Besteht das Herstellerrecht unangefochten — keine anhängigen Rechtsstreitigkeiten, keine Drittlizenzen mit Ausschlusswirkung?
-5. Verwertungsweg planen: Wie kann die Bank im Sicherungsfall die Datenbankrechte verwerten (Lizenzeinnahmen, Verkauf, Vollstreckung)?
-6. Vertragliche Sicherung: Sicherungsübereignungsvertrag, Verwertungsklausel, Pflicht des Kreditnehmers zur Aufrechterhaltung des Datenbankschutzes.
-
-## Rechtsrahmen
-
-- § 87a Abs. 2 UrhG: Datenbankherstellerrecht als übertragbares Recht — Sicherungsübertragung rechtlich möglich.
-- § 1273 BGB: Verpfändung von Rechten — gilt auch für Immaterialgüterrechte wie Datenbankherstellerrecht.
-- § 87d UrhG: Schutzdauer 15 Jahre — Wertfaktor für Kreditbewertung; Verlängerung bei wesentlichen Änderungen.
-- § 35 InsO: Im Insolvenzfall fällt die Datenbank in die Masse — Absonderungsrecht der Bank bei vorheriger wirksamer Sicherung.
-- § 51 InsO: Absonderungsrecht für Sicherungsrechte an beweglichen Gegenständen und Rechten.
-- § 87b UrhG: Laufende Verletzungen durch Dritte mindern den Wert als Sicherheit — Prüfpflicht der Bank.
-
-## Prüfraster
-
-- Ist das Datenbankherstellerrecht klar auf den Kreditnehmer zurückführbar (keine Fremdrechte, keine ungelösten Inhaberschaftsfragen)?
-- Kann der Kreditnehmer die wesentliche Investition dokumentieren (Buchhaltung, Projektunterlagen)?
-- Wie lang ist die verbleibende Schutzdauer (§ 87d UrhG) — reicht sie für die Kreditlaufzeit?
-- Bestehen laufende Datenbanklizenzen, die den Verwertungswert mindern oder erhöhen?
-- Sind Dritte vorhanden, die möglicherweise Herstellerrecht an Teilen der Datenbank beanspruchen?
-- Enthält die Datenbank personenbezogene Daten — erschwert das die Verwertung im Sicherungsfall?
-- Wurde die Sicherungsübertragung/-verpfändung wirksam vereinbart und ggf. im Rechtsverkehr kenntlich gemacht?
-
-## Typische Fallstricke
-
-- Datenbankherstellerrecht ist schwieriger zu bewerten als Patent oder Marke — standardisierte Bewertungsmethoden fehlen weitgehend.
-- Verwertung im Sicherungsfall ist komplex — Bank muss entweder einen Käufer für das Recht finden oder selbst Lizenzen vergeben.
-- Personenbezogene Daten in der Datenbank schränken den Käuferkreis im Verwertungsfall erheblich ein.
-- Ohne laufende Datenbankpflege durch den Kreditnehmer sinkt der Wert der Datenbank rapide — Covenants erforderlich.
-- Insolvenzanfechtung bei kurzfristiger Sicherungsübertragung (§ 133 InsO) kann die Sicherheit zunichte machen.
-
-## Output
-
-- IP-Sicherheitenprüfbogen Datenbankrecht (Due-Diligence-Checkliste)
-- Sicherungsübertragungsvertrag-Vorlage für Datenbankherstellerrecht
-- Wertbewertungsrahmen (Investitionsvolumen, Schutzdauer, Lizenzpotenzial)
-- Covenant-Klauseln für Kreditvertrag (Datenbankpflege, Verletzungsabwehr)
-- Verwertungsplan-Übersicht für den Sicherungsfall
-
-## Quellen
-
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 87d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87d.html)
-- [§ 1273 BGB Pfandrecht an Rechten — dejure.org](https://dejure.org/gesetze/BGB/1273.html)
-- [§ 35 InsO — dejure.org](https://dejure.org/gesetze/InsO/35.html)
-- [§ 51 InsO Absonderungsrecht — dejure.org](https://dejure.org/gesetze/InsO/51.html)
-- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

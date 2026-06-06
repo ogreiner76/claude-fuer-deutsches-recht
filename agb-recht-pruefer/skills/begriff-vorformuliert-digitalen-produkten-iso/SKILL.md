@@ -1,37 +1,23 @@
 ---
 name: begriff-vorformuliert-digitalen-produkten-iso
-description: "Begriff Vorformuliert Digitalen Produkten ISO im AGB-Recht: prüft konkret AGB Begriff Vorformuliert 305, AGB bei digitalen Produkten und § 327f BGB Update-Pflicht, AGB bei internationalen ISO-Vertraegen, AGB bei Verbraucherdarlehensvertraegen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Norm- und Dogmatik-Skill für AGB Begriff Vorformuliert 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Begriff Vorformuliert Digitalen Produkten ISO
+# AGB Begriff Vorformuliert 305
 
 ## Arbeitsbereich
 
-**Begriff Vorformuliert Digitalen Produkten ISO** ordnet den Fall über die tragenden Prüffelder: AGB Begriff Vorformuliert 305, AGB bei digitalen Produkten und § 327f BGB Update-Pflicht, AGB bei internationalen ISO-Vertraegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `agb-begriff-vorformuliert-305` | Norm- und Dogmatik-Skill für AGB Begriff Vorformuliert 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `agb-bei-digitalen-produkten-327f-update` | AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill vertieft die AGB-rechtliche Behandlung von Update-Klauseln Aktualisierungspflichten Funktionsanpassungen sowie das Verhaeltnis zur Hauptleistungspflicht. Aktuelle BGH-Folgejudikate nach Inkrafttreten 01.01.2022. Behandelt Streaming Software-as-a-Service Cloud-Speicher Gaming-Plattformen. Liefert Klauselentwurf und Pruefraster. |
-| `agb-bei-iso-vertraegen-international` | AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Pruefung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung. |
-| `agb-bei-kreditvertraegen-verbraucherdarlehen` | AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Pruefraster. |
+Norm- und Dogmatik-Skill für AGB Begriff Vorformuliert 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Agb Recht Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 bis 310 BGB, UKlaG, B2C — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `agb-begriff-vorformuliert-305`
-
-**Fokus:** Norm- und Dogmatik-Skill für AGB Begriff Vorformuliert 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-
-
-# AGB Begriff Vorformuliert 305
+## Spezialwissen
 
 ## Fachkern: AGB Begriff Vorformuliert 305
 
@@ -119,166 +105,3 @@ description: "Begriff Vorformuliert Digitalen Produkten ISO im AGB-Recht: prüft
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 2. `agb-bei-digitalen-produkten-327f-update`
-
-**Fokus:** AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill vertieft die AGB-rechtliche Behandlung von Update-Klauseln Aktualisierungspflichten Funktionsanpassungen sowie das Verhaeltnis zur Hauptleistungspflicht. Aktuelle BGH-Folgejudikate nach Inkrafttreten 01.01.2022. Behandelt Streaming Software-as-a-Service Cloud-Speicher Gaming-Plattformen. Liefert Klauselentwurf und Pruefraster.
-
-
-# Agb Bei Digitalen Produkten 327F Update
-
-## Aufgabe
-
-Skill fuer AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
-
-## Norm
-
-- §§ 327-327u BGB (in Kraft 01.01.2022).
-- Digitale-Inhalte-Richtlinie (EU) 2019/770.
-- Digitale-Inhalte-und-Dienste-Richtlinie (EU) 2019/771 (Waren mit digitalen Elementen).
-
-## § 327f BGB Aktualisierungspflicht
-
-- Verkaeufer/Anbieter muss Updates bereitstellen, "die fuer den Erhalt der Vertragsmaessigkeit erforderlich sind".
-- Sicherheitsupdates Pflicht; Funktionserweiterungen optional.
-- Aktualisierungspflicht laeuft, solange Verbraucher die Aktualisierungen "vernuenftigerweise erwarten kann".
-- BGH-Folgejudikate noch im Aufbau; Az im Digitalisat verifizieren.
-
-## Typische AGB-Klauseln im Streit
-
-### "Wir behalten uns vor, das Produkt jederzeit zu aendern"
-- Unwirksam: zu unbestimmt; Aktualisierungspflicht nach § 327f BGB darf nicht unterlaufen werden.
-
-### "Kein Anspruch auf bestimmte Funktionen"
-- Im Verbraucherkontext kritisch — Hauptleistungsbeschreibung ist betroffen.
-
-### Funktions-Abschaltklauseln
-- Klausel zur Beendigung einer Funktionalitaet ohne Aequivalent ist intransparent und in der Tendenz unwirksam.
-
-### Subscription-Modelle
-- Automatische Verlaengerung muss klar und mit Kuendigungshinweis versehen sein.
-
-## Verhaeltnis zur Streamingdienst-Lebensdauer
-
-- Wenn ein Anbieter die Plattform abschaltet (z. B. Spielserver, DRM-Server), ist die Hauptleistung beendet — Verbraucher hat Anspruch auf Rueckabwicklung anteilig.
-
-## Pruefraster
-
-1. Digitales Produkt im Sinne § 327 BGB?
-2. Welche AGB-Klausel ist betroffen?
-3. Aktualisierungspflicht beruehrt?
-4. Hauptleistungsbeschreibung?
-5. EU-Linie zur Vertragsanpassung?
-
-## Output
-
-- Klauselentwurf.
-- Schriftsatzbaustein Verbraucherklage.
-- Pruefraster fuer Anbieter.
-
-## 3. `agb-bei-iso-vertraegen-international`
-
-**Fokus:** AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Pruefung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung.
-
-
-# Agb Bei Iso Vertraegen International
-
-## Fachkern: Agb Bei Iso Vertraegen International
-
-- **Klauselproblem (Agb Bei Iso Vertraegen International):** AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Pruefung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Standardmuster
-
-- ICC Incoterms 2020 (Lieferbedingungen).
-- ICC Force-Majeure-Klausel 2020.
-- FIDIC Conditions of Contract (Bau).
-- ISDA Master Agreement (Derivate).
-- AIA-Bedingungen (US-Bau).
-
-## AGB-Rechtliche Pruefung
-
-- Standardmuster sind AGB im Sinne § 305 BGB, soweit fuer Vielzahl von Vertraegen.
-- Spannungsverhaeltnis zwischen branchenueblicher Anwendbarkeit und deutscher AGB-Kontrolle.
-
-## ICC Force Majeure 2020
-
-- Hoehere Gewalt mit Beweisanforderung.
-- BGH-Linie zu Pandemie-Ereignissen: COVID-19 als Force-Majeure-Fall.
-
-## FIDIC
-
-- Bei Bauvertraegen in Deutschland § 650a ff. BGB-zwingend bei B2C.
-- B2B: FIDIC-Klauseln privatautonom waehlbar.
-
-## ISDA
-
-- Derivate-Standardvertrag mit Close-out-Netting.
-- BGH XI ZR 78/16 zur Wirksamkeit der ISDA-Klauseln nach deutschem Recht.
-
-## Pruefraster
-
-1. Welches Standardmuster?
-2. Anwendbares Recht?
-3. § 307 BGB im B2B-Kontext?
-4. Rom-I Eingriffsnorm?
-
-## Output
-
-- Memo zur internationalen Vertragsanpassung.
-
-## 4. `agb-bei-kreditvertraegen-verbraucherdarlehen`
-
-**Fokus:** AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Pruefraster.
-
-
-# Agb Bei Kreditvertraegen Verbraucherdarlehen
-
-## Fachkern: Agb Bei Kreditvertraegen Verbraucherdarlehen
-
-- **Klauselproblem (Agb Bei Kreditvertraegen Verbraucherdarlehen):** AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Pruefraster.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Norm
-
-- §§ 491 ff. BGB Verbraucherdarlehensrecht.
-- §§ 305-310 BGB AGB-Recht.
-- Verbraucherkreditrichtlinie 2008/48/EG.
-
-## Bearbeitungsgebuehr
-
-- BGH XI ZR 405/12 (13.05.2014): Bearbeitungsentgelt bei Verbraucherdarlehen ist AGB-rechtlich unwirksam.
-- Folge: Massenhafte Rueckforderungen; Verjaehrung typischerweise 31.12. des dritten Folgejahres ab Kenntnis.
-
-## Restschuldversicherung
-
-- BGH XI ZR 248/17: Kopplung Restschuldversicherung an Darlehen kann zu AGB-Risiko fuehren.
-- Aktuelle Rspr.: Restschuldversicherung muss optional bleiben, sonst Anfechtbarkeit.
-
-## Vorfaelligkeitsentschaedigung
-
-- § 502 BGB: Vorfaelligkeitsentschaedigung bei Verbraucherdarlehen begrenzt.
-- AGB-Klauseln zur Berechnung muessen transparent sein.
-
-## Widerrufsbelehrung
-
-- § 495 BGB i.V.m. Art. 247 EGBGB.
-- Fehlerhafte Belehrung loest den ewig laufenden Widerruf aus — bis Reform 2014; danach Hoechstfrist.
-
-## Pruefraster
-
-1. Verbraucherdarlehensvertrag (§ 491 BGB)?
-2. AGB-Klausel oder Hauptleistung?
-3. BGH-Linie XI ZR 405/12 einschlaegig?
-4. Rueckforderungsfrist?
-5. Widerrufsrecht beschnitten?
-
-## Output
-
-- Rueckforderungsanspruch-Memo.
-- Klauselraster.
-- Verjaehrungspruefung.

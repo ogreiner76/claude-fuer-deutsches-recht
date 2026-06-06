@@ -54,36 +54,109 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abschlussmitteilung-anonyme-meldung` | Abschlussmitteilung Anonyme Meldung im Hinweisgeberschutz und Compliance: prüft konkret Formuliert Abschlussmitteilung an Hinweisgeber, Bewertet anonyme Meldungen und freiwillige Annahmeprozesse, Formuliert Antworten an Hinweisgeber rech... |
-| `arbeitsgericht-klage-arbeitsschutz-audit` | Arbeitsgericht Klage Arbeitsschutz Audit im Hinweisgeberschutz und Compliance: prüft konkret Bereitet arbeitsgerichtliche Klage wegen Repressalie vor, Prüft Arbeitsschutz-Hinweise und Eskalation, Baut Audit-Nachweis für das Hinweisgebers... |
-| `arbeitsvertrag-klauseln-settlement` | Arbeitsvertrag Klauseln Settlement im Hinweisgeberschutz und Compliance: prüft konkret Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte, Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen, Entwirft Vergleichsklauseln hinwe... |
-| `aufsichtsbehoerdenkommunikation-internal` | Aufsichtsbehoerdenkommunikation Internal im Hinweisgeberschutz und Compliance: prüft konkret Steuert Kommunikation mit Aufsichtsbehörden, Steuert interne Untersuchung praktisch, Steuert Whistleblower-Risiken in Transaktionen, Prüft Steue... |
-| `barrierefreiheit-meldekanal` | Barrierefreiheit Meldekanal im Hinweisgeberschutz und Compliance: prüft konkret Prüft Barrierefreiheit des Meldekanals, Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen, Balanciert Hinweisgeberschutz und Rechte beschul... |
-| `betriebsrat-mitbestimmung-beweislastumkehr` | Betriebsrat Mitbestimmung Beweislastumkehr im Hinweisgeberschutz und Compliance: prüft konkret Prüft Mitbestimmung bei Meldesystem und Untersuchungen, Prüft Beweislastumkehr nach Meldung, Prüft Bewerber und ehemalige Beschäftigte, Behand... |
-| `bonus-versetzung-case-management-cloud` | Bonus Versetzung Case Management Cloud im Hinweisgeberschutz und Compliance: prüft konkret Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis, Prüft technisches Case-Management für Hinweisfälle, Prüft Cloudhosting für Meldekanal... |
-| `bussgeld-risiko-exportkontrolle-sanktionen` | Bussgeld Risiko Exportkontrolle Sanktionen im Hinweisgeberschutz und Compliance: prüft konkret Bewertet Bußgeldrisiken für fehlenden Meldekanal oder, Routet Sanktions- und Exportkontrollhinweise, Prüft Schadensersatzansprüche bei Repress... |
-| `dokumente-sichern-e-discovery-einstweiliger` | Dokumente Sichern E Discovery Einstweiliger im Hinweisgeberschutz und Compliance: prüft konkret Sichert Unterlagen nach Eingang eines Hinweises, Prüft E-Discovery und Forensik im deutschen Rahmen, Prüft Eilrechtsschutz gegen Repressalien... |
-| `externe-meldung-externes-bfj-faq-mitarbeiter` | Externe Meldung Externes BFJ FAQ Mitarbeiter im Hinweisgeberschutz und Compliance: prüft konkret Prüft externe Meldung beim Bundesamt für Justiz und andere, Bereitet Kommunikation mit externer Meldestelle vor, Schreibt verständliche Mita... |
-| `geldwaesche-meldung-geschaeftsgeheimnis` | Geldwaesche Meldung Geschaeftsgeheimnis im Hinweisgeberschutz und Compliance: prüft konkret Verbindet Hinweis mit GwG/FIU-Pflichten, Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen, Ordnet gemeldete Verstöße in den sachlichen,... |
-| `gerichtliche-rechtsprechung-eingangsfrist` | Gerichtliche Rechtsprechung Eingangsfrist im Hinweisgeberschutz und Compliance: prüft konkret Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate, Steuert Eingangsbestätigung und Fristen sauber, Erzeugt Fristenkalender für Hinweis... |
-| `hinweisgeber-betriebsrat-personenkreis` | Hinweisgeber Betriebsrat Personenkreis im Hinweisgeberschutz und Compliance: prüft konkret Prüft Betriebsratsmitglieder als Hinweisgeber oder, Prüft, ob die meldende Person geschützt ist, Prüft internationale Tochtergesellschaften und. L... |
+| `abschlussmitteilung-anonyme-meldung` | Formuliert Abschlussmitteilung an Hinweisgeber: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `anonyme-meldung` | Bewertet anonyme Meldungen und freiwillige Annahmeprozesse: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `antwortschreiben-hinweisgeber` | Formuliert Antworten an Hinweisgeber rechtssicher: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `anwaltliche-meldestelle` | Prüft anwaltliche Meldestelle und Berufsgeheimnis: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `arbeitsgericht-klage-arbeitsschutz-audit` | Bereitet arbeitsgerichtliche Klage wegen Repressalie vor: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `arbeitsschutz` | Prüft Arbeitsschutz-Hinweise und Eskalation: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `arbeitsvertrag-klauseln-settlement` | Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `audit-nachweis` | Baut Audit-Nachweis für das Hinweisgebersystem: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `aufsichtsbehoerdenkommunikation-internal` | Steuert Kommunikation mit Aufsichtsbehörden: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `aufsichtsrat-reporting` | Berichtet Hinweisfälle an Aufsichtsrat oder Beirat: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `barrierefreiheit-meldekanal` | Prüft Barrierefreiheit des Meldekanals: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `beschaeftigtenzahl-konzern` | Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `beschuldigtenrechte` | Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `beschwerde-management` | Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `betriebsrat-mitbestimmung-beweislastumkehr` | Prüft Mitbestimmung bei Meldesystem und Untersuchungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `beweislastumkehr` | Prüft Beweislastumkehr nach Meldung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `bewerber-ehemalige` | Prüft Bewerber und ehemalige Beschäftigte: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `boesglaeubige-meldung` | Behandelt bewusst falsche oder missbräuchliche Meldungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `bonus-versetzung-case-management-cloud` | Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `bussgeld-risiko-exportkontrolle-sanktionen` | Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `case-management-tool` | Prüft technisches Case-Management für Hinweisfälle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `cloud-hosting-meldekanal` | Prüft Cloudhosting für Meldekanal: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `compliance-hotline-provider` | Prüft Hotline-Provider und Case-Management-Tools: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `datenschutz-dsgvo-meldeakte` | Baut Datenschutzkonzept für die Meldeakte: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `datenschutzpanne-meldung` | Routet Hinweise zu Datenschutzpannen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `dokumentationspflicht` | Prüft Dokumentation eingehender Meldungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `dokumente-sichern-e-discovery-einstweiliger` | Sichert Unterlagen nach Eingang eines Hinweises: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `e-discovery-forensik` | Prüft E-Discovery und Forensik im deutschen Rahmen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `eingangsfrist-7-tage` | Steuert Eingangsbestätigung und Fristen sauber: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `einstweiliger-rechtsschutz` | Prüft Eilrechtsschutz gegen Repressalien: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `eu-richtlinie-abgleich` | Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `exportkontrolle-sanktionen` | Routet Sanktions- und Exportkontrollhinweise: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `externe-meldung-externes-bfj-faq-mitarbeiter` | Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `externes-bfj-formular` | Bereitet Kommunikation mit externer Meldestelle vor: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `faq-fuer-mitarbeiter` | Schreibt verständliche Mitarbeiter-FAQ: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `folgeaktionen` | Plant zulässige und angemessene Folgemaßnahmen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `fristenkalender` | Erzeugt Fristenkalender für Hinweisfälle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `geldwaesche-meldung-geschaeftsgeheimnis` | Verbindet Hinweis mit GwG/FIU-Pflichten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `gerichtliche-rechtsprechung-eingangsfrist` | Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `geschaeftsgeheimnis-geschgehg` | Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `geschuetzte-verstoesse-paragraf2` | Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `hinweis-von-externer-person` | Prüft Meldungen von Lieferanten, Kunden oder Dritten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `hinweisgeber-betriebsrat-personenkreis` | Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `hinweisgeber-personenkreis` | Prüft, ob die meldende Person geschützt ist: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `hinweisgeberschutz-compliance-kaltstart-triage` | Startet das HinSchG-Kommandocenter für Meldestelle, Hinweis, NDA-Konflikt und Folgemaßnahmen. |
 | `hinweisgeberschutz-compliance-redteam-qualitygate` | Finaler Red-Team-Check gegen Repressalien, NDA-Fallen und Papierprozesse. |
-| `kanzlei-berufsgeheimnis-kartellrecht` | Kanzlei Berufsgeheimnis Kartellrecht im Hinweisgeberschutz und Compliance: prüft konkret Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld, Routet Kartellhinweise, Formuliert Kommunikation an beschuldigte und betroffene, Prüft... |
-| `konzernmeldestelle-kuendigung-laender` | Konzernmeldestelle Kuendigung Laender im Hinweisgeberschutz und Compliance: prüft konkret Prüft konzernweite Meldestelle und lokale Verantwortlichkeit, Prüft Kündigung oder Abmahnung nach Hinweis, Prüft länderspezifische externe Meldeste... |
-| `lieferkette-lksg-massnahmenplan-meldekanal` | Lieferkette Lksg Massnahmenplan Meldekanal im Hinweisgeberschutz und Compliance: prüft konkret Verknüpft Hinweise mit Lieferkette und Menschenrechten, Priorisiert Verbesserungen am HinSchG-System, Gestaltet Meldekanäle schriftlich, mündl... |
-| `missbrauchsabwehr-mobbing-retaliation-nda` | Missbrauchsabwehr Mobbing Retaliation NDA im Hinweisgeberschutz und Compliance: prüft konkret Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise, Erkennt informelle Repressalien und Mobbing, Löst Konflikt zwischen NDA, Verschwiegen... |
-| `outsourcing-ombudsperson-personenbezogene` | Outsourcing Ombudsperson Personenbezogene im Hinweisgeberschutz und Compliance: prüft konkret Prüft Outsourcing an Ombudsperson oder Dienstleister, Schützt Daten Dritter in Meldungen, Prüft, ob und wie eine interne Meldestelle einzuricht... |
-| `presse-offenlegung-produktsicherheit-public` | Presse Offenlegung Produktsicherheit Public im Hinweisgeberschutz und Compliance: prüft konkret Bereitet Reaktion auf Presseoffenlegung vor, Prüft Produkt- und Sicherheitsverstöße aus Hinweisen, Prüft Hinweisgeberschutz im öffentlichen D... |
-| `risikomatrix-rueckmeldung-monate-schulung` | Risikomatrix Rueckmeldung Monate Schulung im Hinweisgeberschutz und Compliance: prüft konkret Erstellt Risikomatrix für Hinweise, Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler, Schult Führungskräfte gegen Repressalienfehler... |
-| `schwerbehinderung-agg-shared-resources-speak` | Schwerbehinderung AGG Shared Resources Speak im Hinweisgeberschutz und Compliance: prüft konkret Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen, Gestaltet geteilte Ressourcen mittelgroßer Unternehmen, Baut Speak-up-Kultur ohne Compli... |
-| `tisax-iso-triage-strafrecht-uk-whistleblowing` | Tisax ISO Triage Strafrecht UK Whistleblowing im Hinweisgeberschutz und Compliance: prüft konkret Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem, Routet Hinweise mit Strafrechtsbezug, Grenzt UK Whistleblowing bei Niederlassungen a... |
-| `untersuchung-datenschutz-dsgvo` | Untersuchung Datenschutz DSGVO im Hinweisgeberschutz und Compliance: prüft konkret Plant Compliance-Untersuchung nach Hinweis, Baut Datenschutzkonzept für die Meldeakte, Routet Hinweise zu Datenschutzpannen, Prüft Dokumentation eingehend... |
-| `untersuchungsbericht-untersuchungsplan-us-sox` | Untersuchungsbericht Untersuchungsplan US SOX im Hinweisgeberschutz und Compliance: prüft konkret Erstellt Untersuchungsbericht ohne Quellenpreisgabe, Baut Untersuchungsplan mit Hypothesen und Beweisen, Grenzt US SOX/Dodd-Frank-Hinweise... |
-| `vertraulichkeit-vs-zugriffskonzept` | Vertraulichkeit VS Zugriffskonzept im Hinweisgeberschutz und Compliance: prüft konkret Balanciert Vertraulichkeit mit Anhörungspflichten, Baut Zugriffskonzept für Case-Management-Systeme. Liefert priorisierten Output mit Norm-Pinpoints,... |
+| `internal-investigation` | Steuert interne Untersuchung praktisch: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `international-subsidiaries` | Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `jahresbericht-compliance` | Erstellt Jahresbericht ohne Identitätsrisiko: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `kanzlei-berufsgeheimnis-kartellrecht` | Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `kartellrecht` | Routet Kartellhinweise: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `kommunikation-an-betroffene` | Formuliert Kommunikation an beschuldigte und betroffene Personen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `konflikt-nda-due-diligence` | Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `konzernmeldestelle-kuendigung-laender` | Prüft konzernweite Meldestelle und lokale Verantwortlichkeit: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `kuendigung-nach-meldung` | Prüft Kündigung oder Abmahnung nach Hinweis: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `laender-meldestellen` | Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `legal-hold` | Baut Legal Hold für Whistleblower-Fälle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `lieferkette-lksg-massnahmenplan-meldekanal` | Verknüpft Hinweise mit Lieferkette und Menschenrechten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `loeschfristen` | Steuert Löschung und Archivierung von HinSchG-Akten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `ma-transaktion-whistleblower` | Steuert Whistleblower-Risiken in Transaktionen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `massnahmenplan` | Priorisiert Verbesserungen am HinSchG-System: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `meldekanal-design` | Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `meldeprozess-sla` | Baut Service-Level für Bearbeitung von Hinweisen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `missbrauchsabwehr-mobbing-retaliation-nda` | Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `mobbing-retaliation` | Erkennt informelle Repressalien und Mobbing: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `nda-konflikt` | Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `offenlegung-an-presse` | Prüft Offenlegung an Öffentlichkeit oder Presse: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `outsourcing-ombudsperson-personenbezogene` | Prüft Outsourcing an Ombudsperson oder Dienstleister: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `personenbezogene-daten-dritter` | Schützt Daten Dritter in Meldungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `pflicht-interne-meldestelle` | Prüft, ob und wie eine interne Meldestelle einzurichten ist: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `policy-generator` | Erzeugt Hinweisgeber-Policy für Unternehmen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `presse-offenlegung-produktsicherheit-public` | Bereitet Reaktion auf Presseoffenlegung vor: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `produktsicherheit` | Prüft Produkt- und Sicherheitsverstöße aus Hinweisen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `public-sector-beamte` | Prüft Hinweisgeberschutz im öffentlichen Dienst: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `repressalienverbot` | Prüft Repressalien und schützt Betroffene prozessfest: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `risikomatrix-rueckmeldung-monate-schulung` | Erstellt Risikomatrix für Hinweise: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `rueckmeldung-3-monate` | Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `schadensersatz` | Prüft Schadensersatzansprüche bei Repressalien: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `schulung-fuehrungskraefte` | Schult Führungskräfte gegen Repressalienfehler: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `schutzvoraussetzungen` | Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `schwerbehinderung-agg-shared-resources-speak` | Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `settlement-und-aufhebungsvertrag` | Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `shared-resources` | Gestaltet geteilte Ressourcen mittelgroßer Unternehmen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `speak-up-kultur` | Baut Speak-up-Kultur ohne Compliance-Theater: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `sprachliche-zugaenglichkeit` | Gestaltet Meldesystem sprachlich verständlich: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `steuerrecht-grenzen` | Prüft Steuerhinweise und Grenzen interner Aufklärung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `tisax-iso-triage-strafrecht-uk-whistleblowing` | Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `triage-strafrecht` | Routet Hinweise mit Strafrechtsbezug: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `uk-whistleblowing-abgrenzung` | Grenzt UK Whistleblowing bei Niederlassungen ab: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `umweltverstoss` | Prüft Umweltverstöße im Hinweisgebersystem: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `untersuchung-datenschutz-dsgvo` | Plant Compliance-Untersuchung nach Hinweis: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `untersuchungsbericht-untersuchungsplan-us-sox` | Erstellt Untersuchungsbericht ohne Quellenpreisgabe: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `untersuchungsplan` | Baut Untersuchungsplan mit Hypothesen und Beweisen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `us-sox-doddfrank-abgrenzung` | Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vergleichsklausel` | Entwirft Vergleichsklauseln hinweisgeberfest: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `verschwiegenheitsklauseln-redline` | Redlinet Verschwiegenheitsklauseln hinweisgeberfest: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vertraulichkeit-identitaet` | Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vertraulichkeit-vs-zugriffskonzept` | Balanciert Vertraulichkeit mit Anhörungspflichten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `vorstandshaftung` | Prüft Organhaftung bei ignorierten Hinweisen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `zugriffskonzept` | Baut Zugriffskonzept für Case-Management-Systeme: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

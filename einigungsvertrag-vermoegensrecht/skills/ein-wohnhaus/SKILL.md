@@ -17,7 +17,7 @@ description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht: fachlicher A
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Einigungsvertrag und Vermögensrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: VermG § 30 Anmeldefrist 31.12.1992 (Mobilien) bzw. 30.06.1993 (Immobilien) — Ausschlussfrist, § 30a Wiedereinsetzung, VwGO § 74 Klagefrist 1 Monat.
 - Tragende Normen verifizieren: VermG §§ 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB §§ 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter.

@@ -17,7 +17,7 @@ description: "VC Tokenisierung im Venture Capital: fachlicher Arbeitsgang mit Pr
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Venture Capital — Investorenseite klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
 - Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.

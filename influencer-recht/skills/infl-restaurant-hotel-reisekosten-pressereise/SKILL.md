@@ -1,35 +1,23 @@
 ---
 name: infl-restaurant-hotel-reisekosten-pressereise
-description: "Infl Restaurant Hotel Reisekosten Pressereise im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Infl Restaurant Hotel Reisekosten Pressereise
+# Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil
 
 ## Arbeitsbereich
 
-**Infl Restaurant Hotel Reisekosten Pressereise** ordnet den Fall über die tragenden Prüffelder: Influencer-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `infl-037-restaurant-hotel-einladung-geldwerter-vorteil` | Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. |
-| `infl-038-reisekosten-pressereise-und-gemischte-veranlassung` | Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation. |
-| `infl-039-luxusgeschenk-verlosung-oder-behalten` | Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten. |
+Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Influencer Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `infl-037-restaurant-hotel-einladung-geldwerter-vorteil`
-
-**Fokus:** Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung.
-
-# Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil
+## Spezialwissen
 
 ## Kontext und Regelungslage
 
@@ -90,135 +78,3 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 - Kennzeichnungsampel für Einladungs-Posts
 - EÜR-Buchungsnotiz
 - Bewirtungsbeleg-Vorlage
-
-## 2. `infl-038-reisekosten-pressereise-und-gemischte-veranlassung`
-
-**Fokus:** Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation.
-
-# Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung
-
-## Kontext und Regelungslage
-
-Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
-
-- **§ 4 Abs. 4 EStG**: Betriebsausgaben = Aufwendungen mit betrieblicher Veranlassung; Reise muss überwiegend betrieblich sein.
-- **§ 12 Nr. 1 EStG**: Private Lebensführungskosten nicht abziehbar; Urlaub = private Veranlassung.
-- **BFH-Grundsatz**: Gemischte Reisen aufteilbar, wenn betrieblicher und privater Teil trennbar (nach Tagen oder Stunden); BFH XI R 14/09 (2010).
-- **§ 8 EStG**: Pressereise = Betriebseinnahme (Marktwert), wenn Kooperationsauftrag besteht.
-- **§ 9 Abs. 1 Nr. 4a EStG**: Pauschalen für Verpflegungsmehraufwand bei Auswärtstätigkeit (auch für Selbstständige mit § 4 Abs. 5 EStG).
-- **§ 5a UWG / § 22 MStV**: Pressereise mit Posting-Auftrag → Kennzeichnungspflicht.
-- **§ 4 Abs. 5 Nr. 6b EStG**: Häusliches Arbeitszimmer: Reise beginnt von zu Hause → keine Erstattung erster/letzter Kilometer.
-
-### Reise-Steuermatrix
-
-| Reiseart | Einnahme Creator | Betriebsausgabe Creator |
-|----------|-----------------|------------------------|
-| Pressereise bezahlt vom Brand | Ja (Marktwert) | Reise-Kosten sind bezahlt: nein |
-| Selbst organisierte Content-Reise | Nein | Ja (anteilig nach Tagen) |
-| Gemischte Reise (50/50) | Nein | Ja (50 % der Kosten) |
-| Urlaub ohne Content-Bezug | Nein | Nein |
-
-## Kaltstart-Fragen (6)
-
-1. Hat ein Brand die Reise bezahlt, oder wurde sie selbst finanziert?
-2. Welcher Anteil der Reise ist betrieblich (Content, Meetings) vs. privat (Urlaub)?
-3. Gibt es einen Posting-Auftrag oder eine Kooperationsvereinbarung?
-4. Wird ein Reisetagebuch / Stundenbelegung der betrieblichen Tätigkeit geführt?
-5. Sind Verpflegungspauschalen (Tagegeld) relevant?
-6. Gewünschtes Ergebnis: Steuernotiz, Reisekostenabrechnung oder Kennzeichnungsampel?
-
-## Prüfprogramm
-
-- Betriebliche Veranlassung dokumentieren: Shooting-Termine, Meeting-Protokolle, Content-Output.
-- Aufteilungsmaßstab: Tage-Methode (6 von 10 Tagen betrieblich → 60 % der Kosten).
-- Pressereise vom Brand: Vollständige Reiseleistung = Betriebseinnahme; eigene Zusatzkosten = Betriebsausgabe.
-- Tagegeld: Gesetzliche Verpflegungspauschalen (§ 4 Abs. 5 EStG) für Auswärtstätigkeit.
-- Kennzeichnung: Jeder Post aus Pressereise → § 5a UWG-Pflicht.
-- Beweissicherung: Fotos mit Metadaten (Datum, Ort), Boarding Passes, Hotel-Rechnungen.
-
-## Typische Fallen
-
-- Ferienurlaub + 2 Posts = keine „betriebliche Reise" → Abzug komplett verweigert.
-- Pressereise nicht als Einnahme verbucht → Betriebsprüfungsrisiko.
-- Kein Reisetagebuch → Finanzamt schätzt privaten Anteil zu hoch.
-- Kennzeichnung für Pressereise-Content vergessen → Abmahnrisiko.
-
-## Normen und Quellen
-
-- § 4 Abs. 4 EStG: https://www.gesetze-im-internet.de/estg/__4.html
-- § 12 EStG: https://www.gesetze-im-internet.de/estg/__12.html
-- § 9 Abs. 1 Nr. 4a EStG: https://www.gesetze-im-internet.de/estg/__9.html
-- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
-
-## Output-Formate
-
-- Reisekosten-Abrechnung-Vorlage (mit Aufteilung)
-- Reisetagebuch-Vorlage
-- Kennzeichnungsampel (Pressereise-Posts)
-- Betriebseinnahme-Buchungsnotiz (Pressereise vom Brand)
-
-## 3. `infl-039-luxusgeschenk-verlosung-oder-behalten`
-
-**Fokus:** Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten.
-
-# Influencer-Recht: Luxusgeschenk – Verlosen oder Behalten?
-
-## Kontext und Regelungslage
-
-Hochwertige Geschenke von Brands (Designer-Taschen, Uhren, Reisen) erzeugen erhebliche Steuer- und Rechtsfragen:
-
-- **§ 8 EStG**: Sachgeschenke sind Betriebseinnahmen mit dem gemeinen Wert; Markenwert ≠ immer Einkaufspreis.
-- **§ 22 Nr. 1/3 EStG**: Luxusgeschenke ohne Kooperationszusammenhang können sonstige Einkünfte sein (bis 256 € frei).
-- **§ 7 ErbStG**: Bei sehr hochwertigen Geschenken ohne Gegenleistung → Schenkungsteuer prüfen.
-- **§ 5a UWG**: Geschenk mit Erwartung eines Posts → Kennzeichnungspflicht.
-- **§ 661a BGB**: Keine direkte Anwendung auf Geschenke; aber bei Verlosung als Gewinnversprechen → verbindlich.
-- **DSGVO**: Verlosung eines Luxusgeschenks unter Followern → Datenschutzregeln für Teilnehmer.
-- **Plattform-AGB**: Gewinnspiele und Verlosungen haben eigene Regelungen; „zufällige" Auswahl, keine Koppelung an Kauf.
-
-### Entscheidungsmatrix: Behalten vs. Verlosen
-
-| Option | Steuerfolge | Kennzeichnung | Besonderheit |
-|--------|------------|---------------|--------------|
-| Behalten (Kooperation) | Betriebseinnahme | Ja | Wert in EÜR |
-| Behalten (kein Auftrag) | § 22 Nr. 3 EStG bis 256 € | Prüfen | Schenkungsteuer ab hohem Wert |
-| Verlosen | Betriebseinnahme + Verlosungsaufwand | Ja | Teilnahmebedingungen nötig |
-| Zurücksenden | Kein Zufluss | Nein | Empfehlung bei hohen Werten |
-
-## Kaltstart-Fragen (6)
-
-1. Wurde das Luxusgeschenk mit oder ohne Kooperationsauftrag übergeben?
-2. Wie hoch ist der Marktwert des Geschenks?
-3. Soll das Geschenk behalten, zurückgesandt oder verlost werden?
-4. Falls Verlosung: Gibt es Teilnahmebedingungen und einen DSGVO-konformen Ablauf?
-5. Wurde das Geschenk bereits in der EÜR erfasst?
-6. Gewünschtes Ergebnis: Steuernotiz, Verlosungs-Set-up oder Rücksende-Schreiben?
-
-## Prüfprogramm
-
-- Wertermittlung: Listenpreis, Sekundärmarktpreis (z. B. StockX für Sneaker) → Marktwert.
-- Steuerlicher Zufluss: Eigentumsübergang beim Empfang → Einnahme erfassen.
-- Kooperationszusammenhang: Geschenk gegen Post = Betriebseinnahme ohne Ausnahme.
-- Schenkungsteuer: Freibetrag 20 000 € (§ 16 ErbStG) für Nicht-Verwandte gilt auch für Brand-Geschenke; bei Wiederholung: kumulativ!
-- Verlosung: Teilnahmebedingungen, DSGVO, § 661a BGB beachten.
-- Rücksendung: Klare Kommunikation; Eigentumsrückübertragung dokumentieren.
-
-## Typische Fallen
-
-- Rolex (3 000 €) behalten ohne EÜR-Erfassung → Betriebsprüfungs-Fund.
-- Jährlich mehrere Geschenke von gleichem Brand → Schenkungsteuer-Freibetrag überschritten.
-- Verlosung ohne Teilnahmebedingungen → § 661a BGB + DSGVO-Verstoß.
-- Luxusgeschenk verlost, aber selbst als Einnahme nicht verbucht → EÜR-Fehler.
-
-## Normen und Quellen
-
-- § 8 EStG: https://www.gesetze-im-internet.de/estg/__8.html
-- § 7 ErbStG: https://www.gesetze-im-internet.de/erbstg_1974/__7.html
-- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
-- § 661a BGB: https://www.gesetze-im-internet.de/bgb/__661a.html
-
-## Output-Formate
-
-- Luxusgeschenk-Entscheidungsmatrix (behalten/verlosen/zurücksenden)
-- Buchungsnotiz für Sacheinnahme
-- Verlosungs-Set-up (Teilnahmebedingungen + DSGVO)
-- Rücksende-Schreiben-Vorlage

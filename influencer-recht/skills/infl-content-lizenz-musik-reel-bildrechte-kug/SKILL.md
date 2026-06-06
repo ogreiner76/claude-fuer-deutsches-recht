@@ -1,35 +1,23 @@
 ---
 name: infl-content-lizenz-musik-reel-bildrechte-kug
-description: "Infl Content Lizenz Musik Reel Bildrechte KUG im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Infl Content Lizenz Musik Reel Bildrechte KUG
+# Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting
 
 ## Arbeitsbereich
 
-**Infl Content Lizenz Musik Reel Bildrechte KUG** ordnet den Fall über die tragenden Prüffelder: Influencer-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting` | Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. |
-| `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema` | Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. |
-| `infl-014-bildrechte-kug-beiwerk-oeffentlichkeit` | Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken. |
+Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Influencer Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting`
-
-**Fokus:** Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle.
-
-# Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting
+## Spezialwissen
 
 ## Kontext und Regelungslage
 
@@ -91,136 +79,3 @@ Content-Lizenzen sind der urheberrechtliche Kern jedes Brand Deals:
 - Whitelisting-Klausel-Vorlage
 - Preiskalkulations-Tool (Aufschlagstabelle)
 - Lizenzwiderruf-Schreiben
-
-## 2. `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema`
-
-**Fokus:** Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken.
-
-# Influencer-Recht: Musik im Reel – Urheberrecht, Plattformlizenz und GEMA
-
-## Kontext und Regelungslage
-
-Musik in Creator-Content ist ein unterschätztes Haftungsfeld:
-
-- **UrhG § 19a**: Öffentliche Zugänglichmachung von Musikwerken erfordert Lizenz des Rechteinhabers.
-- **UrhG § 97**: Schadensersatz bei Urheberrechtsverletzung (Lizenzanalogie oder entgangener Gewinn).
-- **GEMA**: Verwaltet Urheberrechte an Musikwerken und Liedtexten für die meisten Komponisten/Texter; nicht aber Tonträgerrechte (Label = Leistungsschutz).
-- **GVL**: Verwertungsgesellschaft für Leistungsschutzrechte ausübender Künstler und Plattenlabels.
-- **Plattformlizenzen**: Meta, TikTok, YouTube haben Lizenzverträge mit GEMA/GVL – gelten aber oft nur für organischen Content, nicht für kommerzielle Paid-Media-Nutzung.
-- **§ 60d UrhG**: Text-and-Data-Mining-Schranke; nicht einschlägig für Musiknutzung.
-- **Creative Commons / Royalty-Free**: Keine GEMA-Pflicht, wenn Musik unter CC0, CC BY oder bei lizenzfreien Plattformen (z. B. Epidemic Sound mit Lizenzvertrag).
-
-### Musik-Nutzungs-Matrix
-
-| Nutzungsart | GEMA-Lizenz nötig? | Plattformlizenz ausreichend? |
-|-------------|-------------------|------------------------------|
-| Organischer Reel (Instagram) | Meta-Vertrag mit GEMA | Ja (organisch) |
-| Bezahlter Ad-Boost | Nein, separater GEMA-Vertrag nötig | Nein |
-| YouTube-Video (Monetarisierung) | Content-ID-Verfahren | Bedingt (Revenue-Split) |
-| TikTok organisch | TikTok-GEMA-Deal | Ja (organisch) |
-| Brand-Deal-Video | Separate Synchronlizenz | Nein |
-
-## Kaltstart-Fragen (6)
-
-1. Welche Musik soll verwendet werden, und ist bekannt, ob sie GEMA-pflichtig ist?
-2. Ist der Content organisch oder wird er als Paid Ad geschaltet?
-3. Ist ein Brand Deal beteiligt, der eine kommerzielle Nutzungslizenz erfordert?
-4. Gibt es bereits eine Content-ID-Sperre oder eine Abmahnung?
-5. Wird royalty-freie Musik (z. B. Epidemic Sound, Artlist) eingesetzt?
-6. Gewünschtes Ergebnis: Compliance-Check, Lizenzierungspfad oder Reaktion auf Abmahnung?
-
-## Prüfprogramm
-
-- GEMA-Pflicht: Ist die Musik bei GEMA gemeldet? → gema.de Werksuche.
-- Leistungsschutzrecht: Label-Lizenz separat von GEMA-Lizenz; beide nötig.
-- Plattformvertrag prüfen: Gilt nur für organischen, nicht für kommerziellen Brand-Deal-Content.
-- Synchronlizenz: Für Brand Deals immer separate Lizenz beim Label / Publisher einholen.
-- Royalty-Free-Alternativen: Lizenzvertrag mit Epidemic Sound, Artlist, Musicbed prüfen – kommerzielle Nutzung einschließen.
-- Abmahnung: Lizenzanalogie als Schadensersatz – GEMA-Tarifsätze als Berechnungsgrundlage.
-
-## Typische Fallen
-
-- Instagram-Musik-Bibliothek für Brand-Deal-Video → nicht ausreichend lizenziert.
-- YouTube-Content-ID-Claim → Monetarisierung geht an Label, nicht Creator.
-- Musik im Hintergrund eines Videos → trotzdem Lizenzpflicht.
-- GEMA-frei ≠ lizenzfrei für Leistungsschutzrechte (Label-Rechte bestehen separat).
-
-## Normen und Quellen
-
-- § 19a UrhG: https://www.gesetze-im-internet.de/urhg/__19a.html
-- § 97 UrhG – Schadensersatz: https://www.gesetze-im-internet.de/urhg/__97.html
-- GEMA-Website (Werksuche): https://www.gema.de/musiknutzer/musik-suchen-und-finden/
-- GVL-Website: https://www.gvl.de/
-
-## Output-Formate
-
-- Musik-Compliance-Ampel (organisch / Paid / Brand Deal)
-- Lizenzierungspfad für kommerzielle Musik
-- Muster-Anfrage Synchronlizenz
-- Alternative-Plattformen-Liste (royalty-free mit kommerziellem Recht)
-
-## 3. `infl-014-bildrechte-kug-beiwerk-oeffentlichkeit`
-
-**Fokus:** Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken.
-
-# Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit
-
-## Kontext und Regelungslage
-
-Das Recht am eigenen Bild schützt Persönlichkeitsrechte und ist für Creator täglich relevant:
-
-- **§ 22 KUG**: Bildnisse dürfen nur mit Einwilligung der abgebildeten Person verbreitet oder öffentlich zur Schau gestellt werden.
-- **§ 23 KUG**: Ausnahmen ohne Einwilligung: Bildnisse aus dem Bereich der Zeitgeschichte, Personen als Beiwerk, Versammlungen, Öffentlichkeit der Darstellung.
-- **§ 24 KUG**: Beleidigung oder Bloßstellung durch Bild ist verboten, auch bei zulässiger Aufnahme.
-- **DSGVO Art. 6**: Verarbeitung personenbezogener Daten (Fotos von Personen) bedarf Rechtsgrundlage – bei Nicht-Prominenten Einwilligung erforderlich.
-- **BGH „Cathy Hummels"**: Auch Prominente haben Rückzugsrecht bei privaten Bereichen.
-- **§ 201a StGB**: Strafbarer Bildverrat bei unbefugter Aufnahme in Wohnungen / höchstpersönlichem Lebensbereich.
-
-### KUG-Ausnahmen im Creator-Kontext
-
-| Situation | § 23 KUG-Ausnahme? | Einwilligung nötig? |
-|-----------|--------------------|---------------------|
-| Person im Hintergrund (Beiwerk) | Ja, § 23 Abs. 1 Nr. 2 | Nein |
-| Demo / öffentliche Veranstaltung | Ja, § 23 Abs. 1 Nr. 3 | Nein (Menge) |
-| Identifizierbare Einzelperson | Nein | Ja |
-| Minderjährige | Nein | Eltern/Vormund |
-| Promi in der Öffentlichkeit | Bedingt, Zeitgeschichte | Bedingt |
-
-## Kaltstart-Fragen (6)
-
-1. Wer ist auf dem Bild / im Video zu sehen – Privatperson, Promi, Minderjährige?
-2. Ist die Person identifizierbar (Gesicht, Stimme, besondere Merkmale)?
-3. Wurde eine schriftliche Einwilligung (Model Release) eingeholt?
-4. Handelt es sich um eine öffentliche Veranstaltung oder private Situation?
-5. Soll das Bild kommerziell (Brand Deal, Werbung) oder redaktionell genutzt werden?
-6. Gewünschtes Ergebnis: Freigabecheck, Einwilligungsformular oder Reaktion auf KUG-Abmahnung?
-
-## Prüfprogramm
-
-- Identifizierbarkeit prüfen: Gesicht, charakteristische Merkmale, Kontext → falls ja, Einwilligung nötig.
-- Beiwerk-Test: Ist die Person erkennbar Hauptmotiv oder tatsächlich nebensächlich?
-- Öffentlichkeitstest: Öffentliche vs. private Veranstaltung; Erwartungshorizont der abgebildeten Person.
-- Minderjährige: Elterliche Einwilligung erforderlich; KUG + DSGVO + JuSchG kumulativ.
-- Kommerzielle Nutzung: Strengere Anforderungen als redaktionelle Nutzung; schriftliche Einwilligung zwingend.
-- DSGVO-Konformität: Einwilligung = DSGVO-Rechtsgrundlage; ggf. Löschanspruch nach Art. 17 DSGVO.
-
-## Typische Fallen
-
-- Person deutlich im Hintergrund ohne Blur → KUG-Verstoß, wenn erkennbar.
-- Einwilligung mündlich → Beweisproblem.
-- Model Release für organischen Content, Brand nutzt für Paid Ads → Zwecküberschreitung.
-- Kinder auf Creator-Content ohne elterliche Einwilligung → KUG + DSGVO-Verstoß.
-
-## Normen und Quellen
-
-- § 22 KUG: https://www.gesetze-im-internet.de/kukg/__22.html
-- § 23 KUG: https://www.gesetze-im-internet.de/kukg/__23.html
-- Art. 6 DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
-- § 201a StGB: https://www.gesetze-im-internet.de/stgb/__201a.html
-
-## Output-Formate
-
-- Bildrechte-Ampel pro Aufnahme
-- Model-Release-Vorlage (deutsch/englisch)
-- KUG-Abmahnung: Reaktionsschreiben
-- Minderjährigen-Einwilligungsformular

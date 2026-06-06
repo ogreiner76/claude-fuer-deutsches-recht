@@ -1,38 +1,23 @@
 ---
 name: drg-ddr-unrechtsstaat-schweigespirale
-description: "DRG DDR Unrechtsstaat Schweigespirale im deutsche Rechtsgeschichte: prüft konkret Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderech, Untersucht Tabuisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# DRG DDR Unrechtsstaat Schweigespirale
+# DDR-Recht und juristische Aufarbeitung
 
 ## Arbeitsbereich
 
-**DRG DDR Unrechtsstaat Schweigespirale** ordnet den Fall über die tragenden Prüffelder: Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderech. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung` | Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. |
-| `drg-105-schweigespirale-fakultaeten-und-justiz` | Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit. |
-| `drg-106-nuernberger-prozesse-und-dokumentenbasis` | Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht. |
-| `drg-108-rechtsperversion-ohne-gesetzesaenderung` | Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können. |
-| `drg-109-entnazifizierung-warteschleifen-und-rueckkehr` | Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur. |
-| `drg-110-rechtshistorische-biografiekritik` | Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade. |
+Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Deutsche Rechtsgeschichte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
 - Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung`
-
-**Fokus:** Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht.
-
-# DDR-Recht und juristische Aufarbeitung
+## Spezialwissen
 
 ## Einsatz
 
@@ -49,156 +34,6 @@ Dieses Fachmodul prüft DDR-Rechtsgeschichte, Rehabilitierung, Vermögensfragen,
 ## Output
 
 DDR-Aufarbeitungs-Memo mit Quellenmatrix, Rechtsfolgenpfad und sensibler Begriffsklärung.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
-## 2. `drg-105-schweigespirale-fakultaeten-und-justiz`
-
-**Fokus:** Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit.
-
-# Schweigespirale in Fakultäten und Justiz
-
-## Einsatz
-
-Dieser Skill rekonstruiert, warum bestimmte rechtsgeschichtliche Themen in Lehre und Forschung lange fehlten, obwohl Quellen vorhanden waren.
-
-## Prüfroutine
-
-- Welche Personen waren nach 1945 weiterhin im Amt oder im Einflussbereich?
-- Welche Themen wurden in Lehrbüchern, Vorlesungen und Vereinigungen ausgespart?
-- Welche Schüler- und Fakultätsloyalitäten verhinderten Kritik?
-- Welche Archiv- oder Bibliothekszugänge waren faktisch erschwert?
-- Wann begann die spätere Aufarbeitung in der jeweiligen Disziplin?
-
-## Output
-
-Schweigespiral-Audit mit Zeitleiste, Institutionenkarte und didaktischem Baustein für heutige Ausbildung.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
-## 3. `drg-106-nuernberger-prozesse-und-dokumentenbasis`
-
-**Fokus:** Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht.
-
-# Nürnberger Prozesse als Dokumentenbasis
-
-## Einsatz
-
-Dieser Skill hilft, Prozessmaterial nicht nur strafrechtlich, sondern rechtsgeschichtlich auszuwerten: Welche Dokumente wurden gesichert, welche Rollen wurden sichtbar, welche Rechtsbegriffe entstanden?
-
-## Analysefelder
-
-- Dokumentensicherung durch alliierte Verfahren.
-- Verantwortlichkeit von Staats- und Verwaltungsakteuren.
-- Rolle juristisch ausgebildeter Täter und Organisatoren.
-- Übergang zu internationaler Strafgerichtsbarkeit.
-- Grenzen der Verfahren: Siegerjustiz-Vorwurf, Auswahl der Angeklagten, spätere nationale Strafverfolgung.
-
-## Output
-
-Quellenvermerk mit Prozessbezug, Dokumententyp, Aussagekraft, Grenzen und Anschluss an heutiges Völkerstrafrecht.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
-## 4. `drg-108-rechtsperversion-ohne-gesetzesaenderung`
-
-**Fokus:** Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können.
-
-# Rechtsperversion ohne Gesetzesänderung
-
-## Einsatz
-
-Dieser Skill ist für Fälle gedacht, in denen formale Normkontinuität täuscht. Er trennt Gesetzestext, institutionelle Macht, Auslegungslehre und tatsächliche Rechtsanwendung.
-
-## Prüffragen
-
-- Galt der Text weiter, aber mit neuem Inhalt?
-- Welche neue Leitidee verdrängte die alte Normbindung?
-- Wer trieb die Umcodierung: Gericht, Ministerium, Fakultät, Partei, Verwaltung?
-- Welche Grundrechte oder subjektiven Rechte wurden entleert?
-- Welche Nachkriegsdeutung verschweigt diese Mechanik?
-
-## Output
-
-Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
-## 5. `drg-109-entnazifizierung-warteschleifen-und-rueckkehr`
-
-**Fokus:** Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur.
-
-# Entnazifizierung, Warteschleifen und Rückkehr
-
-## Einsatz
-
-Dieses Fachmodul zur Nachkriegsgeschichte belasteter Juristen und Institutionen. Er vermeidet beides: pauschale Verdammung ohne Belege und verharmlosende Integrationsrhetorik.
-
-## Struktur
-
-1. Belastung vor 1945 anhand Funktionen und Schriften prüfen.
-2. Maßnahme nach 1945 dokumentieren: Entlassung, Spruchkammer, Internierung, Rückkehr, Branchenwechsel.
-3. Netzwerke und Protektion analysieren.
-4. Wirkung auf Ausbildung, Rechtsprechung, Verwaltung und Wirtschaft bewerten.
-5. Offene Erinnerung und spätere Legendenbildung prüfen.
-
-## Output
-
-Nachkriegsstatus-Matrix mit Verantwortungsgrad und institutioneller Folgewirkung.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
-## 6. `drg-110-rechtshistorische-biografiekritik`
-
-**Fokus:** Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade.
-
-# Rechtshistorische Biografiekritik
-
-## Einsatz
-
-Dieser Skill hilft bei Personenartikeln, Fakultätsgeschichten, Ausstellungen, Gedenktafeln, Vorträgen und wissenschaftlichen Memos.
-
-## Prüfmatrix
-
-- Welche Ämter und Funktionen sind belegt?
-- Welche Schriften sind rechtsdogmatisch, welche systemlegitimierend?
-- Welche Netzwerke waren karriereprägend?
-- Welche späteren Selbstdeutungen widersprechen den Quellen?
-- Was ist gesichert, plausibel, offen oder Legende?
-
-## Output
-
-Biografie-Memo mit neutralem Kurzprofil, Verantwortungsmatrix und Formulierungen, die weder beschönigen noch unbelegt zuspitzen.
 
 ## Quellen- und Zitierdisziplin
 

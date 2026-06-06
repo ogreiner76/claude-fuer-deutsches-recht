@@ -1,36 +1,23 @@
 ---
 name: handelsrecht-int-insolvency-of-foreign-retention-and-setoff
-description: "INT Insolvency OF Foreign Retention AND Setoff im Plugin Internationales Handelsrecht Lex Mercatoria: prüft konkret Internationales Handelsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# INT Insolvency OF Foreign Retention AND Setoff
+# Insolvenz des ausländischen Käufers
 
 ## Arbeitsbereich
 
-**INT Insolvency OF Foreign Retention AND Setoff** ordnet den Fall über die tragenden Prüffelder: Internationales Handelsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ihl-073-insolvency-of-foreign-buyer` | Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. |
-| `ihl-074-retention-and-setoff` | Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung. |
-| `ihl-075-arbitration-evidence` | Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO. |
-| `ihl-076-emergency-arbitrator` | Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen. |
+Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Handelsrecht Lex Mercatoria klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `ihl-073-insolvency-of-foreign-buyer`
-
-**Fokus:** Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung.
-
-# Insolvenz des ausländischen Käufers
+## Spezialwissen
 
 ## Worum es geht
 
@@ -77,159 +64,3 @@ Bei Insolvenz des ausländischen Käufers stellen sich Fragen zur anzuwendenden 
 ## Quellenregel
 
 EuInsVO (EU) 2015/848: eur-lex.europa.eu. InsO §§ 343 ff.: gesetze-im-internet.de. UNCITRAL Model Law: uncitral.un.org. CISG Art. 71-72: uncitral.un.org. Unsicherheit bleibt sichtbar.
-
-## 2. `ihl-074-retention-and-setoff`
-
-**Fokus:** Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung.
-
-# Zurückbehaltungsrecht und Aufrechnung International
-
-## Worum es geht
-
-Das Zurückbehaltungsrecht (CISG Art. 58 Abs. 1: Käufer zahlt gegen Übergabe; BGB § 273) und die Aufrechnung (§§ 387-396 BGB) sind wichtige Defensivrechte. CISG regelt die Aufrechnung nicht direkt — nationale Recht nach IPR gilt. Grenzüberschreitende Aufrechnung kann durch Formerfordernisse und Anerkennung im Ausland kompliziert werden.
-
-## Kernnormen / Kernquellen
-
-- **CISG Art. 58 Abs. 1**: Zahlung Zug um Zug gegen Übergabe (vertragsimmanentes ZBR)
-- **BGB § 273**: Zurückbehaltungsrecht — Verbindung der Ansprüche
-- **BGB §§ 387-396**: Aufrechnung — Gegenseitigkeit, Fälligkeit, Aufrechnungserklärung
-- **PICC Art. 8.1-8.5**: Set-off (Aufrechnung) — autonom geregelt
-- **InsO § 94**: Aufrechnung in der Insolvenz — privilegierte Aufrechnungslage
-- **EuInsVO Art. 9**: Schutz des Aufrechnungsberechtigten bei EU-Insolvenz
-
-## Schlüsselbegriffe
-
-- Zug-um-Zug-Leistung (CISG Art. 58): Käufer muss nicht vorleisten wenn kein Zahlungsziel
-- Konnexität (BGB § 273): ZBR nur wenn Gegenanspruch und Hauptanspruch aus gleichem rechtlichem Verhältnis
-- PICC Art. 8.1: Aufrechnung durch einseitige Erklärung; Fälligkeit der Gegenforderung nicht immer erforderlich
-- Set-off vs. Netting: Set-off einseitig; Netting vertraglich (z.B. ISDA Close-Out Netting)
-- Insolvenzaufrechnung: privilegiert wenn Aufrechnungslage vor Insolvenz entstanden (§ 94 InsO)
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. CISG-Vertrag: Käufer rechnet mit Gegenforderung aus anderem Vertrag auf — zulässig?
-2. Aufrechnung mit unbestrittener vs. bestrittener Gegenforderung: Wirksamkeit?
-3. ZBR bei CIF-Lieferung: Kann Käufer Zahlung zurückhalten bis Dokumente vorliegen?
-4. Grenzüberschreitende Aufrechnung: Aufrechnung erklärt in D gegen eng. Forderung — Wirkung?
-5. Insolvenz-Netting (ISDA): Schützt Close-Out Netting vor Insolvenzanfechtung in EU?
-
-## Methodik
-
-- Aufrechnung: Gegenseitigkeit, Gleichartigkeit, Fälligkeit der Gegenforderung prüfen
-- CISG-Lücke: Aufrechnung nach IPR-Recht (Vertragsstatut) beurteilen
-- ZBR im Akkreditivgeschäft: Akkreditiv ist abstrakt — ZBR aus Grundgeschäft nicht gegenüber Bank
-- Netting-Vereinbarung: für Finanzderivate ISDA Master Agreement mit Close-Out-Netting-Klausel
-
-## Output
-
-- ZBR vs. Aufrechnung Abgrenzungsschema
-- Aufrechnungs-Erklärungsschreiben-Muster
-- ISDA Close-Out Netting Grundprinzip
-
-## Quellenregel
-
-BGB §§ 273, 387-396: gesetze-im-internet.de. CISG Art. 58: uncitral.un.org. PICC Art. 8.1: unidroit.org. InsO § 94: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
-
-## 3. `ihl-075-arbitration-evidence`
-
-**Fokus:** Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO.
-
-# Beweisrecht in der internationalen Schiedsgerichtsbarkeit
-
-## Worum es geht
-
-Das internationale Schiedsverfahren kennt kein einheitliches Prozessrecht. Die IBA Rules on the Taking of Evidence (2020) sind de facto-Standard in ICC- und LCIA-Verfahren. Sie regulieren Document Production (begrenzte Discovery), Zeugenaussagen (Witness Statement + Cross-Examination) und Sachverständige. Das Tribunal hat weiten Ermessensspielraum.
-
-## Kernnormen / Kernquellen
-
-- **IBA Rules on the Taking of Evidence 2020 Art. 3**: Document Production — Request to Produce
-- **IBA Rules Art. 4**: Witness Statements — schriftlich + mündliche Vernehmung
-- **IBA Rules Art. 5-6**: Party-appointed vs. Tribunal-appointed Expert
-- **IBA Rules Art. 9**: Zulässigkeit, Relevanz, Materiality
-- **ICC Schiedsregeln 2021 Art. 25 Abs. 1**: Tribunal discretion on evidence
-- **§ 1042 Abs. 4 ZPO**: Deutsches Schiedsrecht — Tribunal bestimmt Verfahren
-
-## Schlüsselbegriffe
-
-- Document Production: kein pre-trial discovery; begrenzte, spezifizierte Anfragen
-- Redfern Schedule: Standard-Tabelle für Document-Production-Anfragen
-- Witness Statement: schriftliche Erklärung + Kreuzverhör in Hearing
-- Hot Tubbing: gleichzeitige Befragung mehrerer Sachverständiger (auch "Expert Conferencing")
-- Adverse Inference: Tribunal kann auf fehlende Dokumente nachteilige Schlüsse ziehen
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Document Production: Wie spezifisch muss eine Anfrage sein (IBA Rules Art. 3 Abs. 3)?
-2. Privilege: Anwalts-Mandantenkorrespondenz — geschützt nach welchem Recht?
-3. Adverse Inference: Wann zieht Tribunal Schlüsse aus Dokumenten-Nicht-Vorlage?
-4. Hot Tubbing: Wie funktioniert Expert Conferencing in ICC-Verfahren?
-5. Zeugen in China: Wie Vernehmung von Zeugen in Ländern ohne Rechtshilfe-Kooperation?
-
-## Methodik
-
-- Document-Production-Request: Redfern Schedule erstellen; jeweils Kategorie, Relevanz, Erwartetes Dokument
-- Witness Statement: faktenlastig, erste Person; kein "law statement"; Anlage-Referenzen
-- Sachverständige: Party-appointed vs. Joint Expert — Kosteneffizienz vs. Neutralität abwägen
-- Privilege-Check: anwendbares Recht für Rechtsanwaltsgeheimnis im Schiedsort
-
-## Output
-
-- Redfern Schedule Vorlage
-- Witness Statement Strukturleitfaden
-- IBA Rules 2020 Kernartikel-Übersicht
-
-## Quellenregel
-
-IBA Rules 2020: ibanet.org. ICC Schiedsregeln 2021: iccwbo.org. § 1042 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (3. Aufl. 2021) Kap. 22. Unsicherheit bleibt sichtbar.
-
-## 4. `ihl-076-emergency-arbitrator`
-
-**Fokus:** Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen.
-
-# Notfallschiedsrichter (Emergency Arbitrator)
-
-## Worum es geht
-
-Der Emergency Arbitrator (EA) ermöglicht einstweiligen Rechtsschutz vor Bildung des eigentlichen Schiedsgerichts. ICC Appendix V, LCIA Art. 9B und SIAC Schedule 1 erlauben die Ernennung eines EA innerhalb von 1-3 Tagen. Die Vollstreckbarkeit eines EA-Beschlusses (Order vs. Award) ist international nicht einheitlich — New York Convention gilt nicht direkt.
-
-## Kernnormen / Kernquellen
-
-- **ICC Schiedsregeln 2021 Art. 29 + Appendix V**: Emergency Arbitrator — Antrag, 48h-Ernennung, 15-Tage-Beschluss
-- **LCIA Schiedsregeln 2020 Art. 9B**: Emergency Arbitrator — 24h-Ernennung möglich
-- **SIAC Schiedsregeln 2016 Schedule 1**: Emergency Arbitrator — auf dringende Fälle zugeschnitten
-- **HKIAC Schiedsregeln 2018 Schedule 4**: Emergency Arbitrator-Verfahren
-- **New York Convention Art. V**: Keine direkte Anwendung auf EA-Beschlüsse (nicht endgültiger Award)
-- **§ 1041 ZPO**: Einstweilige Maßnahmen im deutschen Schiedsrecht
-
-## Schlüsselbegriffe
-
-- Emergency Relief: vorläufige Verfügung, Asset Freeze, Status Quo
-- Urgency-Nachweis: dringender Bedarf ohne den die Partei irreparabel geschädigt wird
-- EA Order vs. Award: ICC EA erlässt "Order" (keine NY-Convention-Vollstreckung direkt)
-- Vollstreckbarkeit: EA-Order in wenigen Ländern direkt vollstreckbar (Singapore, Schweiz)
-- Parallel staatlicher Rechtsschutz: § 940 ZPO weiterhin möglich auch nach EA-Antrag
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Kontosperrung (Asset Freeze) durch EA: In welchen Ländern direkt vollstreckbar?
-2. ICC EA vs. staatlicher einstweiliger Verfügung: Was ist schneller und effektiver?
-3. Urgency: Wie beweist man irreparable Schädigung im EA-Verfahren ohne mündliche Verhandlung?
-4. EA-Order-Verletzung: Welche Sanktionen wenn Gegenpartei Order ignoriert?
-5. Vorläufige Vollstreckbarkeit: Wird EA-Order vom Hauptschiedsgericht bestätigt oder aufgehoben?
-
-## Methodik
-
-- EA-Antrag: Dringlichkeit, Drohung irreparabler Schäden, Prima-facie-Fall dokumentieren
-- ICC EA: Antrag bei ICC-Sekretariat; USD 40.000 Kostenvorschuss; 48h-Ernennung
-- Vollstreckung: parallel staatlichen Vollstreckungsantrag in Zielland vorbereiten
-- Hauptschiedsgericht: EA-Maßnahme in erstem verfahrensleitendem Beschluss bestätigen lassen
-
-## Output
-
-- EA-Antrag-Checkliste (ICC und LCIA)
-- EA vs. staatlicher einstweiliger Rechtsschutz Vergleich
-- EA-Vollstreckbarkeits-Matrix (Länderübersicht)
-
-## Quellenregel
-
-ICC Appendix V: iccwbo.org. LCIA Regeln 2020: lcia.org. SIAC Schedule 1: siac.org.sg. § 1041 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (2021) Kap. 17. Unsicherheit bleibt sichtbar.

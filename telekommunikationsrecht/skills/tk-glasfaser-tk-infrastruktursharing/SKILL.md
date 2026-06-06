@@ -1,34 +1,23 @@
 ---
 name: tk-glasfaser-tk-infrastruktursharing
-description: "TK Glasfaser TK Infrastruktursharing im Telekommunikationsrecht: prüft konkret Glasfaser- und Hausanschlussprojekte, Open-Access-Modelle, Infrastruktursharing, Wholesale-Only. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# TK Glasfaser TK Infrastruktursharing
+# Glasfaser-Hausanschluss und Wegerecht
 
 ## Arbeitsbereich
 
-**TK Glasfaser TK Infrastruktursharing** ordnet den Fall über die tragenden Prüffelder: Glasfaser- und Hausanschlussprojekte, Open-Access-Modelle, Infrastruktursharing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `tk-glasfaser-hausanschluss-wegerecht` | Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination. |
-| `tk-infrastruktursharing-open-access` | Open-Access-Modelle, Infrastruktursharing, Wholesale-Only, Kooperationsverträge, Nichtdiskriminierung und Beihilfe-/Förderschnittstelle. |
+Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Telekommunikationsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `tk-glasfaser-hausanschluss-wegerecht`
-
-**Fokus:** Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination.
-
-# Glasfaser-Hausanschluss und Wegerecht
+## Spezialwissen
 
 ## Einsatz
 
@@ -60,44 +49,6 @@ Gestattungsmatrix, Eigentümeranschreiben, Bau-/Haftungsplan und Open-Access-Che
 
 - tk-wegerecht-oeffentliche-wege
 - tk-infrastruktursharing-open-access
-
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.
-
-## 2. `tk-infrastruktursharing-open-access`
-
-**Fokus:** Open-Access-Modelle, Infrastruktursharing, Wholesale-Only, Kooperationsverträge, Nichtdiskriminierung und Beihilfe-/Förderschnittstelle.
-
-# Infrastruktursharing und Open Access
-
-## Einsatz
-
-Für Glasfaser- und Mobilfunkkooperationen.
-
-## Norm- und Quellenanker
-
-TKG; GWB; EU-Beihilferecht; Förderbescheide; BNetzA-Praxis.
-
-## Arbeitsfragen
-
-1. Welche Infrastruktur wird geteilt?
-2. Welche Zugangsbedingungen sind fair und offen?
-3. Gibt es Fördermittelauflagen?
-
-## Output
-
-Open-Access-Vertragscheck und Nichtdiskriminierungsmatrix.
-
-## Red Flags
-
-- faktische Exklusivität
-- Förderauflagen ignoriert
-- Wholesale-Prozesse nicht operationalisiert
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
 ## Qualitätsregel
 

@@ -1,35 +1,23 @@
 ---
 name: versicherungsrecht-vvg-anzeigepflicht-ruecktritt-arglist
-description: "VVG Anzeigepflicht Ruecktritt Arglist im Plugin Versicherungsrecht: prüft konkret § 19 VVG in Leben, PKV und Unfallversicherung, Arglistanfechtung nach § 22 VVG/BGB § 123, Fälligkeit des Versicherungsanspruchs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "§ 19 VVG in Leben, BU, PKV und Unfallversicherung: Gesundheitsfragen, Kenntnis, Kausalität, Rücktritt, Kündigung, Vertragsanpassung, Arglist und Belehrungsfehler prüfen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# VVG Anzeigepflicht Ruecktritt Arglist
+# Vorvertragliche Anzeigepflicht § 19 VVG
 
 ## Arbeitsbereich
 
-**VVG Anzeigepflicht Ruecktritt Arglist** ordnet den Fall über die tragenden Prüffelder: § 19 VVG in Leben, PKV und Unfallversicherung, Arglistanfechtung nach § 22 VVG/BGB § 123. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung` | § 19 VVG in Leben, BU, PKV und Unfallversicherung: Gesundheitsfragen, Kenntnis, Kausalität, Rücktritt, Kündigung, Vertragsanpassung, Arglist und Belehrungsfehler prüfen. |
-| `vvg-arglist-taeuschung-anfechtung` | Arglistanfechtung nach § 22 VVG/BGB § 123: Gesundheitsangaben, Schadenhergang, Vorschäden, subjektives Element, Indizien und Gegenbeweis. |
-| `vvg-falligkeit-14-abschlagszahlung` | Fälligkeit des Versicherungsanspruchs, Ermittlungsdauer, Abschlagszahlung, Verzug und taktische Beschleunigung bei großen Schäden. |
+§ 19 VVG in Leben, BU, PKV und Unfallversicherung: Gesundheitsfragen, Kenntnis, Kausalität, Rücktritt, Kündigung, Vertragsanpassung, Arglist und Belehrungsfehler prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung`
-
-**Fokus:** § 19 VVG in Leben, BU, PKV und Unfallversicherung: Gesundheitsfragen, Kenntnis, Kausalität, Rücktritt, Kündigung, Vertragsanpassung, Arglist und Belehrungsfehler prüfen.
-
-# Vorvertragliche Anzeigepflicht § 19 VVG
+## Spezialwissen
 
 ## Einsatz
 
@@ -62,88 +50,6 @@ VVG §§ 19–22, 194; BGB § 123; AVB; DSGVO/Gesundheitsdaten; ZPO Beweislast.
 
 - vvg-arglist-taeuschung-anfechtung
 - bu-berufsbild-50-prozent-substantiierung
-
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.
-
-## 2. `vvg-arglist-taeuschung-anfechtung`
-
-**Fokus:** Arglistanfechtung nach § 22 VVG/BGB § 123: Gesundheitsangaben, Schadenhergang, Vorschäden, subjektives Element, Indizien und Gegenbeweis.
-
-# Arglistanfechtung des Versicherers
-
-## Einsatz
-
-Der Skill ist für die härteste Ablehnungslinie des Versicherers: Arglist. Er trennt Irrtum, Erinnerungslücke, Maklerfehler und bewusste Täuschung.
-
-## Norm- und Quellenanker
-
-VVG § 22; BGB § 123; ZPO; DSGVO Gesundheitsdaten; AVB.
-
-## Arbeitsfragen
-
-1. Welche konkrete Täuschungshandlung wird behauptet?
-2. Welche Indizien sprechen für Vorsatz, welche dagegen?
-3. Welche Rolle spielten Makler, Arztunterlagen, Antragsfragen und Sprache?
-4. Ist die Anfechtung fristgerecht und richtig erklärt?
-
-## Output
-
-Arglist-Indizientabelle, Gegenbeweisstrategie, Mandantenbefragung und Schriftsatzkern.
-
-## Red Flags
-
-- Arglist nur aus objektiver Falschangabe abgeleitet
-- Antragsfrage unklar
-- Makler hat Angaben zusammengefasst
-- Versicherer ignoriert entlastende Arztunterlagen
-
-## Anschluss-Skills
-
-- vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung
-- datenschutz-schweigepflicht-gesundheitsdaten
-
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.
-
-## 3. `vvg-falligkeit-14-abschlagszahlung`
-
-**Fokus:** Fälligkeit des Versicherungsanspruchs, Ermittlungsdauer, Abschlagszahlung, Verzug und taktische Beschleunigung bei großen Schäden.
-
-# Fälligkeit und Abschlagszahlung § 14 VVG
-
-## Einsatz
-
-Der Skill hilft, wenn der Versicherer immer weiter prüft und der Mandant Liquidität braucht.
-
-## Norm- und Quellenanker
-
-VVG § 14; BGB §§ 286, 288; ZPO; AVB; Sachverständigenverfahren.
-
-## Arbeitsfragen
-
-1. Welche Erhebungen sind objektiv noch notwendig?
-2. Welche unstreitigen Mindestbeträge sind abschlagsfähig?
-3. Welche Nachweise kann der Versicherungsnehmer sofort liefern?
-4. Ab wann entsteht Verzug oder Klagedruck?
-
-## Output
-
-Zahlungsfahrplan, Abschlagsforderung, Verzugsschreiben und Klage-/Eilvermerk.
-
-## Red Flags
-
-- endlose Prüfung ohne konkreten Fragenkatalog
-- Gutachten liegt vor, Zahlung bleibt aus
-- Versicherer koppelt Zahlung an überzogene Generalvollmacht
-- Liquiditätsnot im Betrieb
-
-## Anschluss-Skills
-
-- sachverstaendigenverfahren-versicherung
-- betriebsunterbrechung-sachschaden-trigger
 
 ## Qualitätsregel
 

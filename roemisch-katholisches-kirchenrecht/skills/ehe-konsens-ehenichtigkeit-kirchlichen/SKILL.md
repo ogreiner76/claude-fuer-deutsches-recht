@@ -1,36 +1,23 @@
 ---
 name: ehe-konsens-ehenichtigkeit-kirchlichen
-description: "EHE Konsens Ehenichtigkeit Kirchlichen im Römisch-katholischen Kirchenrecht: prüft konkret Ehe, Ehenichtigkeit vor dem kirchlichen Tribunal, Ehevorbereitung und Dokumentencheck, English Canon Law Memo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# EHE Konsens Ehenichtigkeit Kirchlichen
+# Ehe: Konsens, Form und Hindernisse
 
 ## Arbeitsbereich
 
-**EHE Konsens Ehenichtigkeit Kirchlichen** ordnet den Fall über die tragenden Prüffelder: Ehe, Ehenichtigkeit vor dem kirchlichen Tribunal, Ehevorbereitung und Dokumentencheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ehe-konsens-form-und-hindernisse` | Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
-| `ehenichtigkeit-vor-dem-kirchlichen-tribunal` | Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
-| `ehevorbereitung-und-dokumentencheck` | Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
-| `english-canon-law-memo` | English Canon Law Memo: precise English canonical terminology; CIC can. 1-22 und 1400-1752; KKK CCC Prologue, 871-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
+Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Römisch-katholisches Kirchenrecht (CIC 1983) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
 - Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `ehe-konsens-form-und-hindernisse`
-
-**Fokus:** Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
-
-# Ehe: Konsens, Form und Hindernisse
+## Spezialwissen
 
 ## Fachkern: Ehe: Konsens, Form und Hindernisse
 - **Spezialgegenstand:** Ehe: Konsens, Form und Hindernisse; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
@@ -100,180 +87,6 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 2. Konsensmangel oder Hindernis? — cc. 1083-1094 vor cc. 1095-1107.
 3. Liegt einer der vier Faelle fuer processus brevior vor (cc. 1683-1687 CIC)?
 4. Bei orientalisch-katholischer Trauung: CCEO statt CIC.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
-## 2. `ehenichtigkeit-vor-dem-kirchlichen-tribunal`
-
-**Fokus:** Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
-
-# Ehenichtigkeit vor dem kirchlichen Tribunal
-
-## Fachkern: Ehenichtigkeit vor dem kirchlichen Tribunal
-- **Spezialgegenstand:** Ehenichtigkeit vor dem kirchlichen Tribunal; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Anamnese, Klagegrund, Beweis, Zeugen und Tribunal**.
-
-**CIC-/Normanker:** can. 1671-1691, 1095-1107.
-
-**Katechismusanker:** KKK 1625-1632.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
-## 3. `ehevorbereitung-und-dokumentencheck`
-
-**Fokus:** Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
-
-# Ehevorbereitung und Dokumentencheck
-
-## Fachkern: Ehevorbereitung und Dokumentencheck
-- **Spezialgegenstand:** Ehevorbereitung und Dokumentencheck; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf**.
-
-**CIC-/Normanker:** can. 1063-1072.
-
-**Katechismusanker:** KKK 1601-1666.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
-## 4. `english-canon-law-memo`
-
-**Fokus:** English Canon Law Memo: precise English canonical terminology; CIC can. 1-22 und 1400-1752; KKK CCC Prologue, 871-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
-
-# English Canon Law Memo
-
-## Fachkern: English Canon Law Memo
-- **Spezialgegenstand:** English Canon Law Memo; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **precise English canonical terminology**.
-
-**CIC-/Normanker:** can. 1-22, 1400-1752.
-
-**Katechismusanker:** CCC Prologue, 871-945, 2030-2051.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
 
 ## Ausgabeformate
 

@@ -1,35 +1,23 @@
 ---
 name: ehegattenvertretung-bgb-ehrenamtlicher
-description: "Ehegattenvertretung BGB Ehrenamtlicher im Plugin Betreuungsrecht: prüft konkret Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023, Start-für ehrenamtliche und familiäre Betreuer in den, Alltags-Cockpit für Familienbetreuer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Ehegattenvertretung BGB Ehrenamtlicher
+# § 1358 BGB Ehegattenvertretung
 
 ## Arbeitsbereich
 
-**Ehegattenvertretung BGB Ehrenamtlicher** ordnet den Fall über die tragenden Prüffelder: Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023, Start-für ehrenamtliche und familiäre Betreuer in den, Alltags-Cockpit für Familienbetreuer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ehegattenvertretung-1358-bgb` | Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. |
-| `ehrenamtlicher-betreuer-erster-monat` | Start-für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden. |
-| `familienbetreuer-alltagscockpit` | Alltags-Cockpit für Familienbetreuer: macht aus Post, Pflege, Bank, Arztterminen, Heimkontakt, Behörden und Gericht einen handhabbaren Wochenplan mit Aufgabenliste, Verantwortlichen, Ampel, Gesprächsnotizen und dokumentierten Entscheidungen der betreuten Person. |
+Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Betreuungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `ehegattenvertretung-1358-bgb`
-
-**Fokus:** Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten.
-
-# § 1358 BGB Ehegattenvertretung
+## Spezialwissen
 
 ## Spezialwissen: § 1358 BGB Ehegattenvertretung
 - **Spezialgegenstand:** § 1358 BGB Ehegattenvertretung / ehegattenvertretung 1358 bgb. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
@@ -76,134 +64,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 2. `ehrenamtlicher-betreuer-erster-monat`
-
-**Fokus:** Start-für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden.
-
-# Ehrenamtlicher Betreuer: erster Monat
-
-## Zweck
-
-Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer überhaupt, und wann wird Hilfe geholt?
-
-## Einstieg
-
-Frage nur diese Punkte ab:
-
-1. Liegt ein gerichtlicher Beschluss oder nur eine Anregung vor?
-2. Welche Aufgabenkreise stehen genau im Beschluss?
-3. Ist die betreute Person ansprechbar und kann sie Wünsche äußern?
-4. Gibt es Fristen, drohende Kündigungen, Klinikentlassung, Heimvertrag, Konto- oder Zahlungsprobleme?
-5. Ist der Betreuer Angehöriger/persönlich verbunden oder ohne persönliche Bindung?
-
-## 30-Tage-Plan
-
-### Tag 1 bis 3: Beschluss und Eilschutz
-
-- Beschluss lesen: Gericht, Aktenzeichen, Aufgabenkreise, Beginn, befristete/einstweilige Anordnung, besondere Genehmigungsvorbehalte.
-- Bestellungsurkunde als Arbeitsdokument sichern; nur vorzeigen, nicht unnötig kopieren lassen.
-- Fristenampel anlegen: Gerichtstermine, Gutachten, Jahresbericht, Vermögensverzeichnis, Bescheide, Miet-/Heim-/Pflegefristen.
-- Die betreute Person sprechen, sofern möglich: Was will sie? Was soll auf keinen Fall passieren?
-- Bei Gefahr für Gesundheit, Wohnung, Konto oder Pflege sofort passende Fachmodule routen.
-
-### Woche 1: Hilfe-System aktivieren
-
-- Betreuungsgericht um Einführungsgespräch bitten, falls noch nicht terminiert.
-- Betreuungsbehörde und örtlichen Betreuungsverein identifizieren.
-- Bei erstmaliger ehrenamtlicher Betreuung: Führungszeugnis und Schuldnerverzeichnis-Auskunft nach § 21 BtOG klären.
-- Bei nicht familiärer/persönlicher Bindung: Vereinbarung zur Begleitung und Unterstützung nach § 22 BtOG vorbereiten.
-- Bei Familienbetreuung: freiwillige Anbindung trotzdem empfehlen, wenn Vermögen, Gesundheit, Heim, Streit oder Behördenstress vorliegt.
-
-### Woche 2: Unterlagen sichern
-
-Baue eine Akte mit diesen Fächern:
-
-- Gericht: Beschluss, Bestellungsurkunde, Schreiben, Fristen.
-- Person: Ausweis, Kontaktliste, Vorsorgevollmacht/Patientenverfügung/Betreuungsverfügung.
-- Gesundheit: Arztkontakte, Medikationsplan, Pflegegrad, Klinik/Heim.
-- Wohnen: Mietvertrag, Heimvertrag, Nebenkosten, Versicherungen.
-- Geld: Konten, Rente, Sozialleistungen, Schulden, Verträge, Bargeld, Wertgegenstände.
-- Wünsche: Gesprächsnotizen, frühere Äußerungen, Familienhinweise, rote Linien.
-
-### Woche 3 bis 4: Gerichtstaugliche Ordnung
-
-- Vermögensverzeichnis nur bei Aufgabenkreis Vermögenssorge erstellen und mit Belegen unterlegen (§ 1835 BGB).
-- Anfangsbericht prüfen: Bei familiärer/persönlicher ehrenamtlicher Betreuung greift § 1863 Abs. 2 BGB; Vermögensverzeichnis bleibt bei Vermögenssorge trotzdem Thema.
-- Jahresbericht-Termin vormerken (§ 1863 Abs. 3 BGB).
-- Wiederkehrende Aufgaben in Kalender/Reminder übertragen.
-- Offene Risiken als Ampel ausgeben: rot sofort, gelb diese Woche, grün laufend beobachten.
-
-## Output
-
-Erstelle am Ende:
-
-1. `Kurzstatus Betreuung`
-2. `30-Tage-Checkliste`
-3. `Fristen- und Erinnerungsliste`
-4. `Unterlagen-Lückenliste`
-5. `Nächste Nachricht an Betreuungsgericht / Behörde / Betreuungsverein`
-
-## Qualitätsregeln
-
-- Nicht bevormundend schreiben: Betreuung ist Unterstützung, nicht Entmündigung.
-- Wünsche der betreuten Person zuerst erfassen (§ 1821 BGB).
-- Vertretung nur nutzen, soweit sie erforderlich ist (§ 1821 Abs. 1 BGB).
-- Bei Grundstück, Erbe, Wohnungsaufgabe, riskanten Geldgeschäften, freiheitsentziehenden Maßnahmen oder Zwangsbehandlung immer Genehmigungspflicht prüfen.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur nach Live-Prüfung.
-
-## 3. `familienbetreuer-alltagscockpit`
-
-**Fokus:** Alltags-Cockpit für Familienbetreuer: macht aus Post, Pflege, Bank, Arztterminen, Heimkontakt, Behörden und Gericht einen handhabbaren Wochenplan mit Aufgabenliste, Verantwortlichen, Ampel, Gesprächsnotizen und dokumentierten Entscheidungen der betreuten Person.
-
-# Familienbetreuer-Alltagscockpit
-
-## Zweck
-
-Dieser Skill nimmt Familienbetreuern die Unordnung aus dem Alltag. Er verwandelt Scans, Fotos, E-Mails, Post, Telefonnotizen und Sorgen in eine Woche-für-Woche-Steuerung, ohne die betreute Person zu übergehen.
-
-## Sofortmodus
-
-Wenn Dokumente hochgeladen werden, erstelle ohne lange Rückfragen:
-
-- eine Dokumentenliste,
-- eine Fristenliste,
-- eine Aufgabenliste,
-- eine Risikoampel,
-- eine Rückfragenliste an Gericht, Pflegeheim, Bank, Arzt oder Behörde.
-
-## Wochenstruktur
-
-| Bereich | Typische Aufgabe | Output |
-| --- | --- | --- |
-| Person | Besuch, Telefonat, Wunsch, Stimmung, Konflikt | Kontaktvermerk mit Wunschbezug |
-| Gesundheit | Arzttermin, Einwilligung, Medikationsplan, Pflegegrad | Fragenliste und Einwilligungscheck |
-| Wohnen | Miete, Heim, Reparaturen, Wohnungsauflösung | Entscheidungsvorlage mit Genehmigungscheck |
-| Geld | Rechnungen, Kontostand, Daueraufträge, Versicherungen | Zahlungsplan und Belegliste |
-| Behörden | Rente, Pflegekasse, Sozialamt, Krankenkasse | Bescheid- und Fristenmatrix |
-| Gericht | Jahresbericht, Vermögensverzeichnis, Genehmigung | Einreichungsplan |
-
-## Arbeitsweise
-
-1. **Alles sammeln:** Post fotografieren/scannen, E-Mails weiterleiten, Kontoauszüge chronologisch ablegen.
-2. **Nichts vermischen:** eigenes Geld und Geld der betreuten Person strikt trennen (§ 1836 BGB).
-3. **Wünsche dokumentieren:** Nicht nur Ergebnis notieren, sondern wie die betreute Person beteiligt wurde.
-4. **Entscheidungen klein halten:** erst unterstützen, dann vertreten; nicht aus Gewohnheit alles selbst entscheiden.
-5. **Gericht nur sinnvoll belasten:** echte Genehmigungsfragen, wesentliche Änderungen, Unsicherheiten und Risiken sauber bündeln.
-
-## Praktische Ausgaben
-
-Erzeuge je nach Lage:
-
-- `Wochenplan Betreuung`
-- `Heute dringend / diese Woche / beobachten`
-- `Telefonnotiz für Heim/Arzt/Bank`
-- `Brief an das Betreuungsgericht`
-- `Lückenliste Unterlagen`
-- `Mini-Jahresbericht-Zwischenspeicher`
-
-## Grenzen
-
-- Keine medizinische Beratung ersetzen.
-- Keine freiheitsentziehenden Maßnahmen ohne Genehmigungsprüfung.
-- Keine größeren Vermögensentscheidungen ohne Beleglage, Wunschermittlung und gerichtlichen Genehmigungscheck.

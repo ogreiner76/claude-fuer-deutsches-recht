@@ -1,33 +1,23 @@
 ---
 name: fortbestehensprognose-start-chronologie-fristen
-description: "Start Chronologie Fristen im Plugin Fortbestehensprognose: prüft konkret Einstieg, Schnelltriage und Fallrouting im, Chronologie und Belegmatrix im Plugin fortbestehensprognose, Fristen- und Risikoampel im Plugin fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Start Chronologie Fristen
+# Fortbestehensprognose — Allgemein
 
 ## Arbeitsbereich
 
-**Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im, Chronologie und Belegmatrix im Plugin fortbestehensprognose. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fortbestehensprognose: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fortbestehensprognose: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fortbestehensprognose (§ 19 InsO) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
 - Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
+## Spezialwissen
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -40,7 +30,6 @@ description: "Start Chronologie Fristen im Plugin Fortbestehensprognose: prüft 
 
 
 
-# Fortbestehensprognose — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -259,101 +248,3 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande un
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (InsO, StaRUG, GmbHG, EStG, BGB)
 - IDW S 11 (Fortbestehensprognose) und IDW S 6 (Sanierungskonzept) in geltender Fassung
-
-## 2. `workflow-chronologie-und-belegmatrix`
-
-**Fokus:** Chronologie und Belegmatrix im Plugin fortbestehensprognose: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-# Chronologie und Belegmatrix
-
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fortbestehensprognose: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Chronologie für Fortbestehensprognose — typische Belegstrukturen
-- **T-0:** Stichtag der Prognose. Bezugsbilanz, BWA, Saldenlisten, Kontoauszüge, OPOS-Listen, Auftragsbestand.
-- **T-12M Rückblick:** Monatliche EBITDA-Entwicklung, Liquiditätsverlauf, Großkundenfluktuation, Lieferantenmahnungen, Kontokorrentinanspruchnahme.
-- **T+12M / T+24M Prognose:** Geplante Umsätze (mit Auftragsbestand vs. Pipeline trennen), Personalkosten, Investitionen, Tilgungsplan, Kovenanten.
-- **Kritische Ereignisse markieren:** Kontokündigung, Großauftragsverlust, Steuerbescheid, Sozialversicherungs-Rückstand (§ 266a StGB beachten), Lieferstopp, Bankauflage.
-- **Belegmatrix-Spalten:** Datum, Vorgang, Quelle (Dokument/System), Höhe, Wirkung auf Liquidität, Wirkung auf Bilanz, Annahme falls geschätzt.
-- **Trade-off:** Eine Chronologie aus E-Mails und Notizen ist schnell, aber im Anfechtungsprozess (§§ 129 ff. InsO) schwer; idealerweise mit Buchungsbelegen verknüpfen.
-- **Praxis:** Widersprüche zwischen Liquiditätsplan und Buchhaltung früh markieren — sie kosten im Streit die Prognose.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 3. `workflow-fristen-und-risikoampel`
-
-**Fokus:** Fristen- und Risikoampel im Plugin fortbestehensprognose: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
-
-# Fristen- und Risikoampel
-
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fortbestehensprognose: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Fortbestehensprognose-Ampel
-- **ROT — Prognose negativ:**
- - Überschuldung § 19 InsO liegt vor (rechnerische Überschuldung + negative Fortbestehensprognose im 12-Monats-Zeitraum) → Antragspflicht § 15a InsO greift, 6-Wochen-Frist läuft.
- - Geschäftsführer-Haftung § 15b InsO Zahlungsverbot ab Eintritt der materiellen Insolvenz.
- - Sofort: Beratergespräch, Sanierungskonzept, Eigenverwaltungs- oder Schutzschirmantrag prüfen.
-- **GELB — Prognose unsicher / „nur überwiegend wahrscheinlich":**
- - Sensitivitätsanalyse und Worst-Case erforderlich (IDW EPS 11).
- - Going-Concern-Prämisse Jahresabschluss § 252 Abs. 1 Nr. 2 HGB im Risiko — WP-Stellungnahme einholen.
- - Maßnahmen zur Liquiditätssicherung (Stundungsvereinbarungen, Gesellschafterzuschuss, Forderungsverzicht mit Besserungsschein) dokumentieren.
-- **GRÜN — Prognose positiv:**
- - Integrierte Planung über 12 Monate (für § 19 InsO) bzw. 24 Monate (für § 18 InsO) zeigt durchgehend Liquiditätsdeckung > 100 Prozent.
- - Dokumentation IDW EPS 11 / IDW S6.
-
-## Haftungsrelevante Pflichten
-- Datierung und Archivierung der Prognose: bei späterer Insolvenz beweist die zeitnahe Bescheinigung die ex-ante-Sicht.
-- Aktualisierung mindestens quartalsweise, bei Anlass (Auftragseinbruch, Umsatzeinbruch) sofort.
-- Mehraugenprinzip: Prognose von zweitem Geschäftsführer oder Berater plausibilisieren lassen.
-- Materielle Prüftiefe: nicht nur Cashflow, sondern auch GuV, Bilanz, Kovenanten, Kreditlinien.

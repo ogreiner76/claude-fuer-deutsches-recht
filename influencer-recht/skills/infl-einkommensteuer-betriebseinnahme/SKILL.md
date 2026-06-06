@@ -1,35 +1,23 @@
 ---
 name: infl-einkommensteuer-betriebseinnahme
-description: "Infl Einkommensteuer Betriebseinnahme im Plugin Influencer Recht: prüft konkret Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Infl Einkommensteuer Betriebseinnahme
+# Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung
 
 ## Arbeitsbereich
 
-**Infl Einkommensteuer Betriebseinnahme** ordnet den Fall über die tragenden Prüffelder: Influencer-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `infl-006-einkommensteuer-betriebseinnahme-private-nutzung` | Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen. |
-| `infl-007-kleinunternehmerregelung-und-wachstumsschmerz` | Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen. |
-| `infl-008-gewerbeanmeldung-creator-taetigkeit` | Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit. |
+Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Influencer Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `infl-006-einkommensteuer-betriebseinnahme-private-nutzung`
-
-**Fokus:** Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen.
-
-# Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung
+## Spezialwissen
 
 ## Kontext und Regelungslage
 
@@ -92,132 +80,3 @@ Creator als Gewerbetreibende oder Freiberufler unterliegen der Einkommensteuer a
 - EÜR-Vorlage für Creator
 - Private-Nutzung-Tabelle (Schätzungsprotokoll)
 - Steueroptimierungscheck: KSK, GewSt-Anrechnung, Verlustabzug
-
-## 2. `infl-007-kleinunternehmerregelung-und-wachstumsschmerz`
-
-**Fokus:** Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen.
-
-# Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz
-
-## Kontext und Regelungslage
-
-Die Kleinunternehmerregelung ist für viele Creator der Einstieg – birgt aber Wachstumsfallen:
-
-- **§ 19 UStG**: Keine Umsatzsteuererhebung bei Vorjahresumsatz ≤ 22 000 € und voraussichtlichem Jahresumsatz ≤ 50 000 € (ab 2025 EU-harmonisiert: 85 000 € voraussichtlich); kein Vorsteuerabzug.
-- **§ 19 Abs. 2 UStG**: Option zur Regelbesteuerung möglich (5-Jahres-Bindung).
-- **§ 19 Abs. 4 UStG**: Überschreiten der Grenze im laufenden Jahr → ab folgendem Jahr Regelbesteuerer.
-- **Barter-Deals zählen**: Sachleistungen in Umsatzschwelle einrechnen (§ 10 Abs. 2 UStG).
-- **EU-Richtlinie 2020/285**: Neue Schwellenwerte für Kleinunternehmerregelung (SME-Regelung) ab 2025; Jahresumsatz bis 100 000 € EU-weit möglich.
-- **Rechnungshinweis**: „Gemäß § 19 UStG wird keine Umsatzsteuer berechnet."
-
-### Wechselkalkulation
-
-| Szenario | Kleinunternehmer | Regelbesteuerer |
-|----------|-----------------|-----------------|
-| Hohe Ausgaben (Kamera, Studio) | Nachteil: kein Vorsteuerabzug | Vorteil: VSt zurück |
-| Wenig Ausgaben, viele B2C-Kunden | Vorteil: kein USt-Ausweis | Nachteil: Preiserhöhung nötig |
-| Auslands-Brand (B2B) | Neutral (RC) | Neutral (RC) |
-
-## Kaltstart-Fragen (6)
-
-1. Wie hoch war der Umsatz im letzten Kalenderjahr (inkl. Sachleistungen)?
-2. Wie hoch ist der erwartete Umsatz im laufenden Jahr?
-3. Wie hoch sind die Ausgaben für Betriebsmittel mit Vorsteueranteil?
-4. Hast du bereits die Regelbesteuerung gewählt (Option nach § 19 Abs. 2 UStG)?
-5. Gibt es Pläne für größere Investitionen (Kamera, Studio, Equipment)?
-6. Gewünschtes Ergebnis: Rechenvergleich KU vs. Regel, Wechselempfehlung oder Rechnungsmuster?
-
-## Prüfprogramm
-
-- Umsatzschwelle: Alle Einnahmen inkl. Sachleistungen und Affiliate-Provisionen addieren.
-- Vorsteuer-Kalkulation: Wie viel VSt würde bei Regelbesteuerung erstattet?
-- Nettopreiskalkulation: B2C-Kunden müssten bei Wechsel höhere Preise zahlen oder Marge sinkt.
-- Option prüfen: Lohnt freiwilliger Wechsel vor Grenzüberschreitung?
-- 5-Jahres-Bindung: Wechsel kann nicht jährlich rückgängig gemacht werden.
-- Rechnungsanforderung: KU-Hinweis auf jeder Rechnung; bei fehlendem Hinweis nachfordern.
-
-## Typische Fallen
-
-- Sachleistungen vergessen → Umsatz überschritten ohne Wissen → Nachzahlung.
-- Wechsel zu spät: Grenze im Oktober überschritten, aber noch KU-Rechnungen bis Jahresende → Haftungsrisiko.
-- Vorsteuerabzug beansprucht, obwohl KU → Finanzamt fordert zurück.
-- Option ausgeübt, dann Umsatz eingebrochen → 5 Jahre an Regelbesteuerung gebunden.
-
-## Normen und Quellen
-
-- § 19 UStG: https://www.gesetze-im-internet.de/ustg_1980/__19.html
-- § 10 Abs. 2 UStG: https://www.gesetze-im-internet.de/ustg_1980/__10.html
-- EU-Richtlinie 2020/285 (SME): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32020L0285
-
-## Output-Formate
-
-- Rechenvergleich: KU vs. Regelbesteuerung (Tabelle)
-- Rechnungsmuster mit KU-Pflichthinweis
-- Wechsel-Checkliste mit Fristen
-
-## 3. `infl-008-gewerbeanmeldung-creator-taetigkeit`
-
-**Fokus:** Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit.
-
-# Influencer-Recht: Gewerbeanmeldung für Creator
-
-## Kontext und Regelungslage
-
-Die Gewerbeanmeldung ist für die meisten Creator Pflicht – mit Ausnahmen für echte Künstler und Journalisten:
-
-- **§ 1 GewO**: Gewerbebetrieb erfordert selbstständige, nachhaltige Tätigkeit mit Gewinnerzielungsabsicht; Anmeldung binnen 4 Wochen nach Aufnahme.
-- **§ 14 GewO**: Anzeigepflicht beim Gewerbeamt; Verstoß ist Ordnungswidrigkeit (§ 146 GewO, bis 1 000 €).
-- **§ 15 GewStG**: Gewerbesteuer ab 24 500 € Gewinn; Hebesatz variiert je Gemeinde (300–900 %).
-- **§ 18 EStG**: Freiberufliche Tätigkeit (Künstler, Journalist) → keine Gewerbesteuer, keine GewO-Pflicht.
-- **Abgrenzung**: Schlichter Influencer = Gewerbetreibender; Journalist/Künstler mit kreativem Kerngehalt kann Freiberufler sein (FG-Rspr. variiert).
-- **KSK**: Freie Journalisten und Künstler können KSK-Mitglied werden → 50 % KV/PV-Ersparnis.
-
-### Entscheidungsbaum: Gewerbe oder Freiberuf?
-
-```
-Content = überwiegend Werbung/Marketing?
- → Ja → Gewerbebetrieb
- → Nein → Künstlerischer/journalistischer Kerngehalt?
- → Ja → ggf. freiberuflich, Finanzamtsabstimmung nötig
- → Nein → Gewerbebetrieb
-```
-
-## Kaltstart-Fragen (6)
-
-1. Welche Art von Content erstellst du – überwiegend Werbung/Marketing oder journalistisch/künstlerisch?
-2. Besteht bereits eine Gewerbeanmeldung oder wurde die Tätigkeit noch nicht angemeldet?
-3. In welcher Gemeinde / welchem Gewerbeamt soll die Anmeldung erfolgen?
-4. Gibt es eine Nebentätigkeit (Angestelltenverhältnis), und falls ja, erlaubt der Arbeitgeber Nebentätigkeit?
-5. Planst du eine Gesellschaft (GbR, UG, GmbH) oder Einzelunternehmen?
-6. Gewünschtes Ergebnis: Anmeldeformular ausfüllen, Abgrenzungsmemo oder GmbH-Überlegung?
-
-## Prüfprogramm
-
-- Gewinnerzielungsabsicht prüfen: Hobby vs. Gewerbe (Anlaufverluste bis 3 Jahre akzeptiert).
-- Freiberuf-Abgrenzung: Finanzamt entscheidet; bei Zweifel → Antrag auf verbindliche Auskunft.
-- Gewerbesteuerbelastung: Ab 24 500 € Gewinn fällt GewSt an; Anrechnung auf ESt nach § 35 EStG.
-- Nebentätigkeit: Arbeitgeber-Genehmigung einholen (§ 60 HGB, Arbeitsvertrag).
-- Rechtsform: Einzelunternehmen (unkompliziert), GbR (mehrere Creator), UG/GmbH (Haftungsbeschränkung, ab ~40 000 € Gewinn sinnvoll).
-- Pflichtmeldung: Gewerbeamt → Finanzamt → ggf. IHK (Beitrag ab 5 200 € Gewinn).
-
-## Typische Fallen
-
-- Keine Anmeldung, weil „das ist doch nur ein Hobby" → Betriebsprüfung nach 3 Jahren rückwirkend.
-- IHK-Beitrag übersehen → Mahnung.
-- Freiberufsstatus beantragt, aber Finanzamt lehnt ab → Gewerbesteuer-Nachzahlung.
-- GbR mit Partner ohne schriftlichen Gesellschaftsvertrag → Haftungsrisiken.
-
-## Normen und Quellen
-
-- § 1 GewO: https://www.gesetze-im-internet.de/gewo/__1.html
-- § 14 GewO: https://www.gesetze-im-internet.de/gewo/__14.html
-- § 18 EStG – Freiberufliche Einkünfte: https://www.gesetze-im-internet.de/estg/__18.html
-- § 15 GewStG: https://www.gesetze-im-internet.de/gewstg/__15.html
-- § 35 EStG: https://www.gesetze-im-internet.de/estg/__35.html
-
-## Output-Formate
-
-- Gewerbeanmeldungs-Checkliste
-- Freiberuf-Abgrenzungsmemo für das Finanzamt
-- Gewerbesteuer-Kalkulation
-- Formular-Ausfüllhilfe (Fragebogen zur steuerlichen Erfassung)

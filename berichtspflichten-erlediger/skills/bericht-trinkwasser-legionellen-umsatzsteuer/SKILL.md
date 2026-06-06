@@ -1,35 +1,23 @@
 ---
 name: bericht-trinkwasser-legionellen-umsatzsteuer
-description: "Bericht Trinkwasser Legionellen Umsatzsteuer im Berichtspflichten-Praxis: prüft konkret Trinkwasserpflichten, USt-Voranmeldung als Berichtspflicht, Verdienst-/Entgeltstatistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
-# Bericht Trinkwasser Legionellen Umsatzsteuer
+# Trinkwasser und Legionellenmeldung
 
 ## Arbeitsbereich
 
-**Bericht Trinkwasser Legionellen Umsatzsteuer** ordnet den Fall über die tragenden Prüffelder: Trinkwasserpflichten, USt-Voranmeldung als Berichtspflicht, Verdienst-/Entgeltstatistik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `bericht-trinkwasser-legionellen-meldung` | Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan. |
-| `bericht-umsatzsteuer-voranmeldung-elster` | USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur. |
-| `bericht-verdienststatistik-verdstatg` | Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität. |
+Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Berichtspflichten (Audit/Compliance/Steuer) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: HGB § 325 Offenlegung 12 Monate, GwG-Risikoanalyse jährlich, LkSG-Bericht 4 Monate nach Geschäftsjahr, CSRD Berichtsjahre gestaffelt 2024 ff..
 - Tragende Normen verifizieren: HGB §§ 264, 289, 290, 315, AktG §§ 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG § 6 Risikoanalyse / § 9 jährlich, LkSG §§ 3, 10, NIS2 Art. 23, CSRD-Umsetzung, DSGVO Art. 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `bericht-trinkwasser-legionellen-meldung`
-
-**Fokus:** Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan.
-
-# Trinkwasser und Legionellenmeldung
+## Spezialwissen
 
 ## Einsatz
 
@@ -62,86 +50,6 @@ Trinkwasser-Melde- und Maßnahmenplan mit Betreiberrolle, Befundtabelle, Gesundh
 - Laborbefund liegt vor, aber Betreiber wartet auf "zweite Meinung" statt Handlungspflichten zu starten
 - WEG/Hausverwaltung streiten intern, während Nutzerinformation und Gesundheitsamtfrist laufen
 - Probenahme war nicht systemisch verwertbar, wird aber als Entwarnung verkauft
-
-## Arbeitsstil
-
-Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.
-
-## 2. `bericht-umsatzsteuer-voranmeldung-elster`
-
-**Fokus:** USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur.
-
-# Umsatzsteuer-Voranmeldung und ELSTER
-
-## Einsatz
-
-Für Unternehmen, die Steuerberichtspflichten operationalisieren müssen.
-
-## Norm- und Quellenanker
-
-- UStG §§ 13, 13a, 14, 15, 18 für Steuerentstehung, Steuerschuldner, Rechnung, Vorsteuer und Voranmeldung.
-- AO §§ 149, 150, 152, 153, 168 für Erklärung, Verspätung, Berichtigung und Steueranmeldung unter Vorbehalt.
-- UStDV, ELSTER-Hinweise und BMF-Schreiben nur aktuell verwenden; innergemeinschaftliche Meldungen mit ZM und OSS/IOSS abgleichen.
-
-## Arbeitsfragen
-
-1. Welche Voranmeldungsperiode, Dauerfristverlängerung, Sondervorauszahlung und Organschaft?
-2. Welche Ausgangs-/Eingangsrechnungen, Gutschriften, Anzahlungen, Reverse-Charge-Fälle und Berichtigungen?
-3. Welche innergemeinschaftlichen Lieferungen/Erwerbe, Dreiecksgeschäfte, OSS/IOSS, Importumsatzsteuer?
-4. Stimmen UStVA, ZM, Buchhaltung, Bank, Rechnungsausgang und Warenwirtschaft?
-5. Ist eine Berichtigung nach AO § 153 nötig oder nur eine laufende Korrektur in der nächsten Periode?
-
-## Output
-
-UStVA-Abgabecheck mit Kontenabstimmung, Steuerkennzeichen, ZM-/OSS-Abgleich, ELSTER-Protokoll, Korrekturpfad und Freigabenachweis.
-
-## Red Flags
-
-- Beleg fehlt
-- ZM und UStVA widersprechen sich
-- Dauerfristverlängerung vergessen
-
-## Arbeitsstil
-
-Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.
-
-## 3. `bericht-verdienststatistik-verdstatg`
-
-**Fokus:** Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität.
-
-# Verdienststatistik und Entgeltdaten
-
-## Einsatz
-
-Für Lohnbuchhaltung/HR bei amtlichen Entgelterhebungen.
-
-## Norm- und Quellenanker
-
-VerdStatG und BStatG live prüfen; DSGVO; Entgeltabrechnungsdaten.
-
-## Arbeitsfragen
-
-1. Welche Beschäftigten sind einzubeziehen?
-2. Welche Entgeltbestandteile und Arbeitszeiten?
-3. Welche Datenschutzfreigabe intern?
-
-## Output
-
-Entgeltmelde-Matrix und Plausibilitätscheck.
-
-## Red Flags
-
-- Bonus falsch zugeordnet
-- Teilzeit nicht sauber umgerechnet
-- Personendaten unnötig breit
 
 ## Arbeitsstil
 
