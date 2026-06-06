@@ -3,7 +3,7 @@
 **Erstellt:** 2026-06-05
 **Arbeitsstand:** v215.0.0 / Generische Skill-Praefixe in 52 Plugins entfernt, README-Plugin-Liste auf 210 Plugins vervollständigt
 **Plugins gesamt:** 210
-**Skills gesamt:** 18272
+**Skills gesamt:** 18271
 **Testakten gesamt:** 201
 
 ## Kurzbefund
@@ -17,7 +17,7 @@ Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erh
 | Kennzahl | Wert |
 |---|---:|
 | Plugin-Manifests | 210 |
-| Skill-Dateien `SKILL.md` | 18272 |
+| Skill-Dateien `SKILL.md` | 18271 |
 | Testakten-Verzeichnisse | 201 |
 | Testakten mit Gesamt-PDF nach Validator | 201 |
 | Skillnamen-/Artefakt-Scan | 0 alte Autogen-Muster, 0 `Nutze dies`, 0 Einwort-/Zahlenslugs, 0 `Kompendium`-/`Sammelskill`-Namen, 0 `bündelt`-/`Arbeitsmodul`-Artefakte, 0 `Nutze diesen Skill`-/`Dieses Fachmodul greift ...`-Starter in Skillanfängen |
@@ -47,7 +47,7 @@ Damit sinkt die Bedienlast für Nutzerinnen und Nutzer, ohne dass fachliches Mat
 
 ## Nachgezogene Meta-Pflege
 
-- Root-README auf den aktuellen Stand gebracht: 210 Plugins, 18272 Skills, 201 Testakten. Fehlendes Plugin `fahrgastrechte` in der alphabetischen Plugin-Tabelle nachgetragen.
+- Root-README auf den aktuellen Stand gebracht: 210 Plugins, 18271 Skills, 201 Testakten. Fehlendes Plugin `fahrgastrechte` in der alphabetischen Plugin-Tabelle nachgetragen.
 - Testakten-README auf v215.0.0 und 201 Testakten geprüft.
 - In 52 Plugins wurden generische Kurz-Präfixe aus Skill-Slugs entfernt (z. B. `dsv-`, `kom-`, `btm-`, `ifg-`, `owi-`, `hoai-`, `bho-`, `stb-`, `legw-`, `solo-`, `pe-`, `vc-`, `tk-`, `vbr-`, `vdg-`, `db-`, `kv-`, `lease-`, `ins-`, `verl-`, `inv-`, `iv-`, `nkr-`, `inso-`, `ips-`, `vaf-`, `spez-`, `elsj-`, `ifap-`, `jveg-`, `liqui-`, `zvg-`, `zv-` und je nach Plugin weitere). Semantische Präfixe (`lph-` HOAI-Leistungsphasen, `bess-` Battery Storage, `plan-` Insolvenzplan) bleiben erhalten.
 - `SKILLS.md` und `skills-index/` wurden mit den Generatoren neu aufgebaut.
