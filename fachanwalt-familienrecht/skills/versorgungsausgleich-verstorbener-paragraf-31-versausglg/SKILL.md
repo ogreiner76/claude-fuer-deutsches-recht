@@ -13,7 +13,6 @@ Ehegatte verstirbt vor rechtskraeftiger Scheidung; Ausgleich noch durchfuehrbar?
 
 ## Rechtsprechung
 
-- BGH 25.03.2020 XII ZB 188/19
 
 ## Loesungsweg
 

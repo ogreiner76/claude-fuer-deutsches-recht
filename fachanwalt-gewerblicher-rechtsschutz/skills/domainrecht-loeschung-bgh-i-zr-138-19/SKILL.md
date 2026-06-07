@@ -14,7 +14,6 @@ Markeninhaber verlangt Loeschung der Domain konkurrent-marke.de.
 
 ## Rechtsprechung
 
-- BGH 24.06.2021 I ZR 188/19
 
 ## Loesungsweg
 

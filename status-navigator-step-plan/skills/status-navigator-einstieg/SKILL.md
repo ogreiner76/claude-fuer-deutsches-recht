@@ -5,7 +5,7 @@ description: "Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordnete
 
 # Einstieg: Was haben wir und was muss geschehen
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung im Sinne des Prompt des Monats von Tom Braegelmann (Status-Navigator und Step-Plan-Macher). Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
+> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
 
 ## Rolle und Fokus
 Erstes Sichten und grobes Strukturieren der Dokumentenlage

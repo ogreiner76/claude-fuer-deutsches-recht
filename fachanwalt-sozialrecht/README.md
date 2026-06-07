@@ -87,12 +87,12 @@ Automatisch generierte Komplett-Liste aller 37 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `arbeitslosengeld-paragraf-150-sgb-iii-bsg-b-11-al-188-18` | Arbeitslosengeld Bemessung Paragraf 150 SGB III. |
-| `arbeitsunfall-paragraf-8-sgb-vii-bsg-b-2-u-188-18` | Arbeitsunfall Paragraf 8 SGB VII mit BSG. |
+| `arbeitslosengeld-paragraf-150-sgb-iii` | Arbeitslosengeld § 150 sgb iii: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `arbeitsunfall-paragraf-8-sgb-vii` | Arbeitsunfall § 8 sgb vii: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `bescheid-frist-fristenbuch-sozialrecht` | Bescheid Frist Fristenbuch Sozialrecht im Plugin Fachanwalt Sozialrecht: prüft konkret 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen, Anwalt oder Sekretariat muss Fristen in, Laienverstaendlicher Sozialrechts-Skill zu Frist... |
 | `bescheidanalyse-eilantrag-sozialrecht` | Bescheidanalyse Eilantrag Sozialrecht im Plugin Fachanwalt Sozialrecht: prüft konkret Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegl... |
 | `buergergeld-sanktion-paragraf-31-sgb-ii-bverfg-1-bvl-7-16` | Buergergeld Sanktion Paragraf 31 SGB II mit BVerfG. |
-| `eingliederungshilfe-paragraf-99-sgb-ix-bsg-b-8-so-188-17` | Eingliederungshilfe Paragraf 99 SGB IX mit BSG B 8 SO 188/17. |
+| `eingliederungshilfe-paragraf-99-sgb-ix` | Eingliederungshilfe § 99 sgb ix: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `erwerbsminderungsrente-paragraf-43-sgb-vi-bsg-b-13-r-25-19-r` | EM-Rente Paragraf 43 SGB VI mit BSG B 13 R 25/19 R. |
 | `eu-rente-krankengeld-aussteuerung-long-covid` | EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt Sozialrecht: prüft konkret Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüfungslinie für fachanwa... |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Sozialrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |
@@ -117,12 +117,12 @@ Automatisch generierte Komplett-Liste aller 37 Skills in diesem Plugin. Beschrei
 | `long-covid-me-psychisch-somatisch-reha` | Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozialrecht: prüft konkret ME/CFS, PEM und Beweisführung, Long-Covid psychisch, somatisch oder multifaktoriell. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `long-covid-vergleichsverhandlung-strategie` | Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt Sozialrecht: prüft konkret Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychis, Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV). Li... |
 | `mandantenbrief-leichte-triage-sozialrecht` | Mandantenbrief Leichte Triage Sozialrecht im Plugin Fachanwalt Sozialrecht: prüft konkret Erklärung eines sozialrechtlichen Bescheids für den, Neues sozialrechtliches Mandat, Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse, Prüf... |
-| `pflegeversicherung-pflegegrad-bsg-b-3-p-188-18-r` | Pflegegrad Begutachtung mit BSG B 3 P 188/18 R. |
+| `pflegeversicherung-pflegegrad` | Pflegeversicherung Pflegegrad: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `prozesskostenhilfe-antrag-schriftsatzkern` | Prozesskostenhilfe Antrag Schriftsatzkern im Plugin Fachanwalt Sozialrecht: prüft konkret Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und, Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG, Strukt... |
-| `rentenanpassung-paragraf-65-sgb-vi-bsg-b-5-r-188-19-r` | Rentenanpassung Paragraf 65 SGB VI mit BSG. |
+| `rentenanpassung-paragraf-65-sgb-vi` | Rentenanpassung § 65 sgb vi: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `schwerbehinderung-merkzeichen-bsg-b-9-sb-66-19-r` | Merkzeichen Gleichstellung SGB IX mit BSG B 9 SB 66/19 R. |
 | `sgb-sg` | SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant benoetigt Hilfsmitt... |
 | `sozialrecht-kanzlei-kaltstart-interview` | Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typisch... |
-| `wohngeld-paragraf-7-wogg-bsg-b-7-as-188-15` | Wohngeld Berechnung Paragraf 7 WoGG. |
+| `wohngeld-paragraf-7-wogg` | Wohngeld § 7 WoGG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

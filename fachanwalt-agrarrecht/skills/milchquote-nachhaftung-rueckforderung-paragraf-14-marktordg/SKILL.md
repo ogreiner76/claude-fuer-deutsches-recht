@@ -17,7 +17,6 @@ Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufe
 
 - EuGH 25.10.2007 C-275/05 Alvis: Milchquote als persoenliche Berechtigung gehoert dem Quoteninhaber.
 - BVerwG 27.04.2017 3 C 38/06: Quoteninhaber haftet auch nach Verpachtung fuer Superabgabe.
-- OVG Lueneburg 10.05.2018 10 LB 188/17: Verteilung im Innenverhaeltnis nach Pachtvertrag.
 
 ## Loesungsweg
 

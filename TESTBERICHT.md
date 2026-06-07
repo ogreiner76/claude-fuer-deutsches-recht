@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v231.0.0 / 230 Norm-Skills in 23 Fachanwalt-Plugins ergänzt, status-navigator-step-plan (65 Skills) und verhaeltnismaessigkeitspruefer (30 Skills) als neue Plugins, polizeirechtliche Testakte Pohlmann-Forst-Lausitz (20 Aktenstücke), 1.124 Skills mit kuratierten Normen-Sektionen veredelt
+**Arbeitsstand:** v232.0.0 / 230 Norm-Skills in 23 Fachanwalt-Plugins ergänzt, status-navigator-step-plan (65 Skills) und verhaeltnismaessigkeitspruefer (30 Skills) als neue Plugins, polizeirechtliche Testakte Pohlmann-Forst-Lausitz (20 Aktenstücke), 1.124 Skills mit kuratierten Normen-Sektionen veredelt
 **Plugins gesamt:** 212
 **Skills gesamt:** 18535
 **Testakten gesamt:** 203

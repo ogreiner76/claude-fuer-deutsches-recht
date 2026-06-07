@@ -8,7 +8,7 @@ description: "Baut Reiter 1 der Step-Plan-Excel: Ueberblick aller fuer die Durch
 > **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins
 > `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und
 > Rechtsprechungs-Anker. Reine Dokumentenverarbeitung und Workflow-Strukturierung
-> im Sinne des Prompt des Monats von Tom Braegelmann. Die rechtliche Pruefung
+>. Die rechtliche Pruefung
 > des Materials bleibt anwaltliche Aufgabe.
 
 ## Rolle und Fokus

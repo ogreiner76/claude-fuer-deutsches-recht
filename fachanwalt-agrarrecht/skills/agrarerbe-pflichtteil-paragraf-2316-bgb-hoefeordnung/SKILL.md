@@ -17,7 +17,6 @@ Erblasser E hinterlaesst Hof in NRW (HoeO-Land) mit Verkehrswert 1,8 Mio EUR an 
 ## Rechtsprechung
 
 - BGH 22.05.2002 IV ZR 256/01: HoeO-Bewertung gilt fuer Hoflingsabfindung, nicht fuer Pflichtteil.
-- BGH 18.09.2019 IV ZR 188/18: Pflichtteilsberechnung nach Verkehrswert.
 - OLG Hamm 12.03.2021 10 W 47/20: Differenz Verkehrswert Hofwert als Pflichtteilsmasse.
 
 ## Loesungsweg

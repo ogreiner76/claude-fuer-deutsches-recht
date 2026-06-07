@@ -87,6 +87,6 @@ Automatisch generierte Komplett-Liste aller 40 Skills in diesem Plugin. Beschrei
 | `versorgungsausgleich-verstorbener-paragraf-31-versausglg` | Versorgungsausgleich nach Tod Paragraf 31 VersAusglG. |
 | `versorgungstraeger-antwort-zielversorgung` | Versorgungstraeger Antwort Zielversorgung im Plugin Fachanwalt Familienrecht: prüft konkret zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträge, Zielversorgung wählen externe Teilung. Liefert priorisierten Ou... |
 | `zugewinn-tod-umgangsregelung` | Zugewinn TOD Umgangsregelung im Plugin Fachanwalt Familienrecht: prüft konkret Zugewinn, Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG, Tod nach Rechtskraft vor Umsetzung, Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren. Lief... |
-| `zugewinnausgleich-anfangsvermoegen-bgh-xii-zr-188-16` | Zugewinnausgleich Anfangsvermoegen mit BGH XII ZR 188/16. |
+| `zugewinnausgleich-anfangsvermoegen` | Zugewinnausgleich Anfangsvermoegen: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

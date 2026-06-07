@@ -48,16 +48,16 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abschiebehaft-paragraf-62-aufenthg-bgh-v-zb-188-18` | Abschiebehaft Paragraf 62 AufenthG mit BGH V ZB 188/18. |
+| `abschiebehaft-paragraf-62-aufenthg` | Abschiebehaft § 62 AufenthG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `abschiebungsabwehr-sofort-arbeitgeber` | Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort, Arbeitgeber-Memo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `arbeitgeberwechsel-asyl-anhoerung-asylg` | Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft konkret Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg, Ausbildungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `asylantrag-folgeverfahren-paragraf-71-asylg-bverwg-1-c-188-17` | Asyl Folgeantrag Paragraf 71 AsylG mit BVerwG 1 C 188/17. |
-| `aufenthalt-paragraf-25a-aufenthg-bverwg-1-c-188-18` | Aufenthalt fuer gut integrierte Jugendliche Paragraf 25a AufenthG. |
+| `asylantrag-folgeverfahren-paragraf-71-asylg` | Asylantrag Folgeverfahren § 71 AsylG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `aufenthalt-paragraf-25a-aufenthg` | Aufenthalt § 25a AufenthG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `aufenthaltstitel` | Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder, Antrag auf Einbuerger... |
 | `aufenthaltstitel-ausweisung-start` | Aufenthaltstitel Ausweisung Start im Migrationsrecht: prüft konkret Aufenthaltstitel-Router, Ausweisung Start, Behördenkommunikation, Bescheid verstehen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `aufenthaltstitel-erstgespraech-mandatsannahme` | Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: prüft konkret Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer, Abschiebung abwe... |
-| `ausweisung-paragrafe-53-55-aufenthg-bverwg-1-c-188-15` | Ausweisung schwere Straftaten Paragraf 53 AufenthG. |
+| `ausweisung-paragrafe-53-55-aufenthg` | Ausweisung §§ 53 55 AufenthG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `ba-zustimmung-beschaeftigungsduldung` | BA Zustimmung Beschaeftigungsduldung im Migrationsrecht: prüft konkret BA-Zustimmung Beschäftigung, Beschäftigungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `blaue-karte-bleiberecht-25a-chancenaufenthalt` | Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: prüft konkret Blaue Karte, Bleiberecht §§ 25a/25b, Chancen-Aufenthalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `botschaft-visumtermin-dokumentenstapel` | Botschaft Visumtermin Dokumentenstapel im Migrationsrecht: prüft konkret Botschaft/Visumtermin, Chronologie und Belegmatrix im Plugin, Dokumentenstapel Migration, Dublin/GEAS Start. Liefert priorisierten Output mit Norm-Pinpoints, Risiko... |
@@ -111,7 +111,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `staat-vereinigte-arabische-staaten` | Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Vereinigte Arabische Emirate, Staaten- und Gebietscheck Vereinigte Staaten, Staaten- und Gebietscheck Vereinigtes Königreich, Staaten- und Geb... |
 | `staat-westsahara-migrationscheck` | Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern, GEAS-Reform EU-Asyl- und Migrationsmanagem... |
 | `staatenlosigkeit-stag-subsidiaerer-schutz` | Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prüft konkret Staatenlosigkeit, Stag, Subsidiärer Schutz, Untätigkeitsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `staatsangehoerigkeit-paragraf-10-stag-bverwg-1-c-188-16` | Einbuergerung Paragraf 10 StAG mit BVerwG 1 C 188/16. |
+| `staatsangehoerigkeit-paragraf-10-stag` | Staatsangehoerigkeit § 10 StAG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `subsidiaerer-schutz-paragraf-4-asylg-bverwg-1-c-22-19` | Subsidiaerer Schutz Paragraf 4 AsylG mit BVerwG 1 C 22/19. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verfolgungsgrund-gfk-visum-national` | Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft konkret GFK-Verfolgungsgrund, Nationales Visum D, Vulnerable Personen Asyl, Woche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |

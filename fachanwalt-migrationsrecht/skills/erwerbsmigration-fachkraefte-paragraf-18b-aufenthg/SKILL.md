@@ -13,7 +13,6 @@ IT-Spezialist aus Indien beantragt Blue Card; Mindestlohn Streit.
 
 ## Rechtsprechung
 
-- BVerwG 14.10.2021 1 C 188/19
 
 ## Loesungsweg
 

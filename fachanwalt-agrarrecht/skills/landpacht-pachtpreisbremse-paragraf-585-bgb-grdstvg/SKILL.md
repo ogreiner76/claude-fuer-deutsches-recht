@@ -18,7 +18,6 @@ Verpaechter V verlangt von Paechter P 1850 EUR pro Hektar pro Jahr fuer Ackerlan
 
 - BGH 24.04.2015 LwZR 1/14: Pacht 50 Prozent ueber ortsueblich erlaubt; 100 Prozent darueber unzulaessig.
 - BGH 13.10.2017 LwZR 4/16: Verwandtschaftsverhaeltnis spielt keine Rolle bei Beanstandung.
-- OLG Naumburg 18.11.2021 1 WLw 188/21: Ortsueblichkeit anhand Pachtspiegel Landesamt.
 
 ## Loesungsweg
 

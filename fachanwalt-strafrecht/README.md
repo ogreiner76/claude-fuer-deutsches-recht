@@ -71,18 +71,18 @@ Automatisch generierte Komplett-Liste aller 47 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `ergaenzt-fachanwalt-insolvenzantrag-red-team-korrektur` | Ergaenzt Fachanwalt Insolvenzantrag RED im Strafrecht: prüft konkret Ergaenzt, Fachanwalt, Insolvenzantrag, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `fa-strafrecht-quellen-frist-next` | Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `freiheitsstrafe-paragraf-57-stgb-bgh-5-str-188-18` | Aussetzung Reststrafe Paragraf 57 StGB mit BGH 5 StR 188/18. |
+| `freiheitsstrafe-paragraf-57-stgb` | Freiheitsstrafe § 57 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `hauptverhandlung-quellenkarte` | Hauptverhandlung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `koerperverletzung-stgb-todesfolge` | Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129, Kreditbetrug... |
 | `mandat-triage-plaedoyer-vorbereitung` | Mandat Triage Plaedoyer Vorbereitung im Strafrecht: prüft konkret Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren, Adhaesion. Liefert pr... |
 | `nebenklage-nebenstrafrecht-opfervertretung` | Nebenklage Nebenstrafrecht Opfervertretung im Strafrecht: prüft konkret Nebenklage, Nebenstrafrecht, Opfervertretung, Revision. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `notwehr-paragraf-32-stgb-bgh-2-str-188-17` | Notwehr Paragraf 32 StGB mit BGH 2 StR 188/17. |
+| `notwehr-paragraf-32-stgb` | Notwehr § 32 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `orientierung` | Orientierung im Strafrecht: prüft konkret Orientierung im Strafrecht-Mandat und Fallrouting, Untersuchungshaft und Haftprüfung nach §§ 112 ff, Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a, Wahlverteidiger-Mandat im Strafrec... |
 | `output-waehlen` | Output wählen im Strafrecht: Diese Output-Weiche für Fachanwalt Strafrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `raub-rechtsbeugung` | Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach § 249 StGB, Raub mit Todesfolge nach § 251 StGB, Rechtsbeugung nach Paragraph 339 StGB, Schuldnerbeguenstigung nach Paragraph 283d StGB. Liefert priorisierten Output mit N... |
-| `rauschgift-paragraf-29-btmg-bgh-3-str-188-18` | BtMG Paragraf 29 mit BGH 3 StR 188/18. |
-| `revisionsbegruendung-paragraf-344-stpo-bgh-3-str-188-22` | Revisionsbegruendung Paragraf 344 StPO mit BGH 3 StR 188/22. |
+| `rauschgift-paragraf-29-btmg` | Rauschgift § 29 BtMG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `revisionsbegruendung-paragraf-344-stpo` | Revisionsbegruendung § 344 StPO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `steuerstrafrecht-ao-akteneinsicht-auswerten` | Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft konkret Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht, Akteneinsicht § 1... |
 | `stpo-strafrecht-strafverteidigung` | Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret StPO, Strafrecht, Strafverteidigung, Zeugenbeistand. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `strafprozess-antragslog-beweisantraege` | Strafprozess Antragslog Beweisantraege im Strafrecht: prüft konkret Antragslog für die Hauptverhandlung, Verteidigung gegen automatisierten biometrischen, Tägliches Strafprozess-Cockpit für Verteidiger, Haft- und Besuchsmanagement für Un... |
@@ -101,14 +101,14 @@ Automatisch generierte Komplett-Liste aller 47 Skills in diesem Plugin. Beschrei
 | `strafrecht-strafprozess-ermittlungsverfahren` | Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret Sofortmaßnahmen im Ermittlungsverfahren, Rechtsmittel- und Notfristencockpit im Strafverfahren, BtMG-Verteidigungspraxis, Verteidigung in Verfahren mit dem Tatkomplex haeusli... |
 | `strafrecht-untreue-schaden` | Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern, Steuerhinterziehung nach Paragraph 370 AO. Liefert priorisierten Output mit... |
 | `strafrecht-urheberrecht-urhg-108a-gewerblich` | Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur, Sex... |
-| `strafzumessung-paragraf-46-stgb-bgh-2-str-188-19` | Strafzumessung Paragraf 46 StGB mit BGH 2 StR 188/19. |
+| `strafzumessung-paragraf-46-stgb` | Strafzumessung § 46 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `subventionsbetrug-stgb-toetung-verlangen` | Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft konkret Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB, Gewaesserverunreinigung nach Paragraph 324 StGB. Liefert priorisierten... |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `untreue-paragraf-266-stgb-bverfg-2-bvr-105-09` | Untreue Paragraf 266 StGB mit BVerfG 2 BvR 105/09. |
-| `vermoegensabschoepfung-paragraf-73-stgb-bgh-1-str-188-20` | Vermoegensabschoepfung Paragraf 73 StGB mit BGH. |
-| `vermoegensschaden-betrug-paragraf-263-stgb-bgh-1-str-188-21` | Betrug Paragraf 263 StGB Vermoegensschaden mit BGH 1 StR 188/21. |
+| `vermoegensabschoepfung-paragraf-73-stgb` | Vermoegensabschoepfung § 73 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `vermoegensschaden-betrug-paragraf-263-stgb` | Vermoegensschaden Betrug § 263 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `versicherungsbetrug-stgb-vorenthalten` | Versicherungsbetrug Stgb Vorenthalten im Strafrecht: prüft konkret Versicherungsmissbrauch § 265 StGB, Vorenthalten und Veruntreuen von Arbeitsentgelt nach, Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB, Strafvorschriften... |
 | `verstaendigung-paragraf-257c-stpo-bverfg-2-bvr-2628-10` | Verstaendigung Paragraf 257c StPO mit BVerfG. |
-| `verteidiger-aussage-paragraf-148-stpo-bverfg-2-bvr-188-13` | Verteidigerkontakt Paragraf 148 StPO mit BVerfG. |
+| `verteidiger-aussage-paragraf-148-stpo` | Verteidiger Aussage § 148 StPO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

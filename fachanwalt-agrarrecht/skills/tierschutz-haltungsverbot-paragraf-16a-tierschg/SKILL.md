@@ -17,8 +17,6 @@ Tierhalter T (kleines Schafbetrieb) erhaelt Haltungsverbot fuer alle Tierarten n
 
 - BVerwG 06.04.2017 3 C 24/15: Haltungsverbot als Ultima Ratio.
 - BVerwG 26.04.2018 3 B 17/18: Anforderungen an Tatsachenfeststellung.
-- VGH Mannheim 28.06.2021 1 S 188/20: Wiederholungsgefahr konkret zu begruenden.
-- OVG Hamburg 17.11.2022 5 Bf 188/21: Verbot beschraenkt auf festgestellte Tierart moeglich.
 
 ## Loesungsweg
 

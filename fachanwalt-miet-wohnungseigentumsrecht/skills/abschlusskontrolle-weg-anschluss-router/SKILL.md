@@ -273,7 +273,5 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 - BGH VIII ZR 118/19
 - BGH VIII ZR 84/07
-- BGH VIII ZR 188/17
-- BGH VIII ZR 188/15
 - BGH VIII ZR 249/15
 

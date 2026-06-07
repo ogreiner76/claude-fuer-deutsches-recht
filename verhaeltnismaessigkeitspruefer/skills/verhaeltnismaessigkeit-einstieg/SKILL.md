@@ -30,10 +30,7 @@ ob die Massnahme verhaeltnismaessig ist.
 
 ## Rechtsvergleich
 
-Section 36 SA-Verfassung 1996 hat den deutschen Massstab uebernommen und
-modifiziert; vergleiche `suedafrika-section-36-uebersicht`.
-Der kanadische Oakes-Test (R v Oakes 1986) hat eine eigene Drei-Stufen-Struktur;
-vergleiche `kanada-oakes-test-vergleich`.
+Section 36 der südafrikanischen Verfassung 1996 kodifiziert Begrenzungsfaktoren ausdrücklich und eignet sich als rechtsvergleichende Kontrastfolie; nutze `suedafrika-section-36-uebersicht`, `section-36-vs-deutsche-schranken-schranke` und `suedafrika-section-36-fallmatrix`. Die deutsche Lösung bleibt stets an Grundgesetz und BVerfG-Rechtsprechung gebunden.
 
 ## Methodischer Hinweis
 

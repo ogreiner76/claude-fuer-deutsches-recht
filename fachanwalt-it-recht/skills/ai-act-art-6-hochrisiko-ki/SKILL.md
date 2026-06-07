@@ -50,6 +50,4 @@ Hochrisiko; Konformitaetsbewertung und CE-Kennzeichnung.
 - EuGH C-311/18
 - EuGH C-300/21
 - EuGH C-589/22
-- BGH XII ZR 188/16
-- BGH I ZR 188/20
 

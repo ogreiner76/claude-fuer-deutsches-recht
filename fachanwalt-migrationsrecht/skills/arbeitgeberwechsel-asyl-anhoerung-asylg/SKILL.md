@@ -234,7 +234,6 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft §§ 53 
 
 ### Leitentscheidungen
 
-- BGH V ZB 188/18
 - EuGH C-490/16
 - EuGH C-247/20
 

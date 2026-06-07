@@ -249,7 +249,6 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ### Leitentscheidungen
 
-- BGH V ZB 188/18
 - EuGH C-490/16
 - EuGH C-247/20
 

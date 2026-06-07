@@ -5,7 +5,7 @@ description: "Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklar
 
 # Luecken in Tabellen notifizieren
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung im Sinne des Prompt des Monats von Tom Braegelmann (Status-Navigator und Step-Plan-Macher). Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
+> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
 
 ## Rolle und Fokus
 Standardhinweise in Status-Spalten setzen

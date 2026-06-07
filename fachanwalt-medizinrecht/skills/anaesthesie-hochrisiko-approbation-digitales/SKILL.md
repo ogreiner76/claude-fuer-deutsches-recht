@@ -265,9 +265,5 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ### Leitentscheidungen
 
-- BGH VI ZR 188/15
-- BGH VI ZR 188/13
-- BGH VI ZR 188/16
-- BGH VI ZR 188/19
 - BGH VI ZR 323/04
 

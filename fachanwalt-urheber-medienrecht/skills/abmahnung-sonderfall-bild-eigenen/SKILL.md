@@ -156,8 +156,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 ### Leitentscheidungen
 
 - EuGH C-682/18
-- EuGH C-188/17
-- BGH I ZR 188/18
-- BGH I ZR 188/17
-- BGH I ZR 188/21
 

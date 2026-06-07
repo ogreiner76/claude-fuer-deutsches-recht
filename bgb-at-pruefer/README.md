@@ -53,7 +53,7 @@ Starte mit dem Skill [Kaltstart-Triage](./skills/kaltstart-triage/SKILL.md). Der
 
 ## Skill-Auswahl
 
-Die früher sehr lange Einzelskill-Tabelle ist in verdichtete Kompendium-Skills überführt. Nutze für die Auswahl die automatisch gepflegte Übersicht unten; die Kompendien enthalten die früheren Einzelthemen als Unterabschnitte mit ihren Prüfprogrammen, Normankern und Ausgabeformaten.
+Nutze für die Auswahl die automatisch gepflegte Übersicht unten. Die Skills sind als eigenständige Prüfmodule angelegt und führen jeweils mit Normankern, Prüfprogramm und Ausgabeformat durch die passende BGB-AT-Frage.
 
 ## Quellen- und Aktualitätsanker
 

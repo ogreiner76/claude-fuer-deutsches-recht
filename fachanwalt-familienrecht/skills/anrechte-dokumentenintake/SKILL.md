@@ -72,6 +72,5 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - BGH XII ZB 186/15
 - BGH XII ZR 129/04
 - BGH XII ZB 72/19
-- BGH XII ZR 188/16
 - BGH XII ZR 181/22
 

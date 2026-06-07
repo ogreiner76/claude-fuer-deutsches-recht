@@ -49,10 +49,10 @@ Automatisch generierte Komplett-Liste aller 37 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `aufklaerung` | Aufklaerung im Plugin Fachanwalt Vergaberecht: prüft konkret Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei, Aufklaerung, Nachforderung und Angebotsaufklaerung steuern, Vergaberechtliche Ruege nach § 160 Abs. Liefert priorisi... |
-| `ausschluss-bieter-paragraf-124-gwb-bgh-x-zr-188-21` | Ausschluss Bieter Paragraf 124 GWB mit BGH. |
+| `ausschluss-bieter-paragraf-124-gwb` | Ausschluss Bieter § 124 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `bieterstrategie-go-eforms-ted-eignung` | Bieterstrategie GO Eforms TED Eignung im Plugin Fachanwalt Vergaberecht: prüft konkret Bieterstrategie und Go/No-Go für Ausschreibungen, eForms, TED und Bekanntmachungen pruefen, Eignung vertieft pruefen. Liefert priorisierten Output mit... |
 | `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `eignungskriterien-paragraf-122-gwb-bgh-x-zr-188-19` | Eignungskriterien Paragraf 122 GWB mit BGH. |
+| `eignungskriterien-paragraf-122-gwb` | Eignungskriterien § 122 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `eu-schwelle-vergabeordnung-richtlinie-2014-24` | EU-Schwellenwerte RL 2014/24/EU. |
 | `facto` | Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-Vergabe ohne Ausschreibung angreifen, Bieter-Eignungsprüfung im Vergabeverfahren prüfen, Vergabe freiberuflicher Leistungen (Architekten, Ingenieure. Liefert priorisierten O... |
@@ -61,9 +61,9 @@ Automatisch generierte Komplett-Liste aller 37 Skills in diesem Plugin. Beschrei
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Vergaberecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |
 | `konzvgv-rahmenvereinbarung-international` | Konzvgv Rahmenvereinbarung International im Plugin Fachanwalt Vergaberecht: prüft konkret Konzvgv, Rahmenvereinbarung, Schnittstelle, Sektvo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `mandantenpadlet-vergabe-triage-vergaberecht` | Mandantenpadlet Vergabe Triage Vergaberecht im Plugin Fachanwalt Vergaberecht: prüft konkret Interaktives Vergabe-Padlet als Canvas erstellen, Eingangs-Triage für vergaberechtliche Mandate, Nachhaltigkeit, soziale Kriterien. Liefert prio... |
-| `nachpruefungsverfahren-paragraf-160-gwb-vk-188-21` | Nachpruefungsverfahren VK mit Paragraf 160 GWB. |
-| `nebenabrede-paragraf-58-vgv-bgh-x-zb-188-22` | Nebenabrede Paragraf 58 VgV. |
-| `oeffentlich-privat-partnerschaft-bgh-x-zr-188-20` | OePP Vergabe BGH X ZR 188/20. |
+| `nachpruefungsverfahren-paragraf-160-gwb` | Nachpruefungsverfahren § 160 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `nebenabrede-paragraf-58-vgv` | Nebenabrede § 58 VgV: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `oeffentlich-privat-partnerschaft` | Oeffentlich Privat Partnerschaft: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `olg-orientierung` | OLG Orientierung im Plugin Fachanwalt Vergaberecht: prüft konkret Sofortige Beschwerde gegen VK-Entscheidung beim, Orientierung im Fachanwaltsrecht Vergaberecht, Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs, Sektorenvergabe nach S... |
 | `olg-vergabesenat-resilienz-sicherheit` | OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergaberecht: prüft konkret OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen, Ruegeschriftsatz nach § 160 Abs. Liefe... |
 | `orientierung-fehlerkatalog` | Orientierung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
@@ -77,13 +77,13 @@ Automatisch generierte Komplett-Liste aller 37 Skills in diesem Plugin. Beschrei
 | `verg-interessen-vergabe-vergabekammer` | Verg Interessen Vergabe Vergabekammer im Plugin Fachanwalt Vergaberecht: prüft konkret Verg, Vergabe, Vergabekammer, Vergaberecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `verg-nachpruefungsverfahren-vergabeverfahren` | Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt Vergaberecht: prüft konkret Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist... |
 | `vergabe-nachpruefung-os-vergabeakte` | Vergabe Nachpruefung OS Vergabeakte im Plugin Fachanwalt Vergaberecht: prüft konkret Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS für Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk für Auftraggeber, Ve... |
-| `vergaberecht-anti-korruption-paragraf-123-gwb-eugh-c-188-22` | Anti-Korruption Paragraf 123 GWB mit EuGH. |
-| `vergaberueg-paragraf-160-gwb-bgh-x-zb-188-19` | Vergaberuegen Paragraf 160 GWB mit BGH X ZB 188/19. |
+| `vergaberecht-anti-korruption-paragraf-123-gwb` | Vergaberecht Anti Korruption § 123 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `vergaberueg-paragraf-160-gwb` | Vergaberueg § 160 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `vergabesenat-quellenkarte` | Vergabesenat Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht: prüft konkret Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister, Ausschlussgruende und Selb... |
 | `verhandlungsverfahren-dialog` | Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: prüft konkret Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo, Verfahrensart waehlen und begruenden. Liefert priorisierten Output mit Norm-Pi... |
-| `zuschlagskriterien-paragraf-127-gwb-eugh-c-188-19` | Zuschlagskriterien Paragraf 127 GWB mit EuGH. |
+| `zuschlagskriterien-paragraf-127-gwb` | Zuschlagskriterien § 127 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `zuschlagskriterien-wertungsschema` | Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberecht: prüft konkret Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-, Cloud- und Datenbeschaffung verg... |
-| `zuschlagsverbot-paragraf-169-gwb-bgh-x-zb-188-18` | Zuschlagsverbot Paragraf 169 GWB mit BGH X ZB 188/18. |
+| `zuschlagsverbot-paragraf-169-gwb` | Zuschlagsverbot § 169 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -63,7 +63,5 @@ Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und näc
 
 ### Leitentscheidungen
 
-- BGH I ZR 188/19
-- BGH II ZR 188/15
 - EuGH C-333/21
 

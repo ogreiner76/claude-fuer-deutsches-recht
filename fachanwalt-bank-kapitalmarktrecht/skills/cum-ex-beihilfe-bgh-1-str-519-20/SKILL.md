@@ -15,7 +15,6 @@ Bankmitarbeiter erstellt Steuerbescheinigungen ohne wirtschaftlichen Hintergrund
 ## Rechtsprechung
 
 - BGH 28.07.2021 1 StR 519/20
-- BGH 02.03.2023 1 StR 188/22
 
 ## Loesungsweg
 

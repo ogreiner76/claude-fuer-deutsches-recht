@@ -295,7 +295,5 @@ Zitiere als tragenden Anker BGH, Urteil vom 09.04.2008 - VIII ZR 84/07 nur mit f
 
 - BGH VIII ZR 118/19
 - BGH VIII ZR 84/07
-- BGH VIII ZR 188/17
-- BGH VIII ZR 188/15
 - BGH VIII ZR 249/15
 

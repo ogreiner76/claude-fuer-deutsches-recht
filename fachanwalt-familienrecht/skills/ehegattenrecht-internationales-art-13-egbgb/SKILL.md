@@ -13,7 +13,6 @@ Schweizer Mann syrische Frau heiraten in Deutschland; deutsches oder Heimatrecht
 
 ## Rechtsprechung
 
-- BGH 14.11.2018 XII ZB 188/17
 
 ## Loesungsweg
 

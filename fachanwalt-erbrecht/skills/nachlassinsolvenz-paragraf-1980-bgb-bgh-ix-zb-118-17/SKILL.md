@@ -13,7 +13,6 @@ Erbe verzoegert Nachlassinsolvenzantrag; Glaeubiger erleidet Schaden.
 
 ## Rechtsprechung
 
-- BGH 24.01.2019 IX ZB 188/17
 
 ## Loesungsweg
 

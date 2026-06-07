@@ -1,6 +1,6 @@
 # Plugin: status-navigator-step-plan
 
-**Status-Navigator und Step-Plan-Macher** nach dem Prompt des Monats von Tom Braegelmann.
+**Status-Navigator und Step-Plan-Macher**.
 
 ## Was dieses Plugin ist — und was es ausdruecklich nicht ist
 
@@ -112,7 +112,7 @@ Dieselbe Datenbasis laesst sich auch als Padlet-Shelf ausspielen (vier Spalten);
 
 ## Quelle
 
-Prompt des Monats von Tom Braegelmann: **Der Status-Navigator und Step-Plan-Macher** (auch: Der Dokumentenstatus- und Workflow-Generator).
+**Status-Navigator und Step-Plan-Macher**: ein Dokumentenstatus- und Workflow-Generator.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

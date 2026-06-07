@@ -2,10 +2,7 @@
 
 Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke
 (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) auf
-Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit BVerfG-Leitentscheidungen,
-rechtsvergleichenden Skills (Südafrika Section 36, Kanada Oakes-Test),
-Rechtsgeschichte (Preussisches Übermassverbot, Kreuzberg-Urteil 1882,
-Schwangerschafts-Urteile) und Workflow-Werkzeugen.
+Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit BVerfG-Leitentscheidungen, wenigen rechtsvergleichenden Skills zu Südafrika Section 36 und Workflow-Werkzeugen.
 
 ## 30 Skills nach Gruppen
 
@@ -34,12 +31,12 @@ Schwangerschafts-Urteile) und Workflow-Werkzeugen.
 ### Rechtsvergleich (3)
 - `suedafrika-section-36-uebersicht` — Limitation Clause 1996
 - `section-36-vs-deutsche-schranken-schranke` — direkter Vergleich
-- `kanada-oakes-test-vergleich` — R v Oakes 1986
+- `suedafrika-section-36-fallmatrix` — Fallmatrix als Kontrastfolie
 
-### Rechtsgeschichte (3)
-- `preussisches-uebermassverbot-19-jh` — Mayer, Svarez, ALR 1794
-- `kreuzberg-urteil-pr-ovg-1882` — Polizei nur Gefahrenabwehr
-- `fluth-urteil-bverfge-39-1-vergleich` — Schutzpflicht, Untermassverbot
+### BVerfG-Dogmatiklinien (3)
+- `bverfg-uebermassverbot-dogmatiklinie` — Übermaßverbot in der BVerfG-Linie
+- `bverfg-polizeirecht-gefahrenprognose` — Sicherheitsrechtliche Prognosen und Sicherungen
+- `schwangerschaftsabbruch-bverfge-39-1` — Schutzpflicht und Untermaß
 
 ### Praxis und Workflow (6)
 - `polizeirecht-eingriff-pruefen` — Standardmuster Polizeiverfuegung
@@ -76,14 +73,13 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `apotheken-urteil-bverfge-7-377` | Apotheken-Urteil BVerfGE 7 Band 7 Seite 377 vom 11.06.1958 als Geburtsstunde der Drei-Stufen-Lehre der Berufsfreiheit Art 12 GG. Mit Sachverhalt Stufen-Lehre Berufsausuebung subjektive und objektive Berufswahl und Hinweisen wann welche S... |
 | `ascii-pruefungsschema` | ASCII-Pruefungsschema fuer die vierstufige Verhaeltnismaessigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo. |
 | `bundesnotbremse-bverfge-159-223` | Bundesnotbremse BVerfGE 159 Band 159 Seite 223 vom 19.11.2021 als vollstaendige Verhaeltnismaessigkeitspruefung der Pandemie-Massnahmen Ausgangsbeschraenkung und Kontaktbeschraenkung. Mit Einschaetzungspraerogative bei dynamischer Wissen... |
+| `bverfg-polizeirecht-gefahrenprognose` | Polizeiliche und sicherheitsrechtliche Maßnahmen mit BVerfG-Rechtsprechung prüfen: legitimer Sicherheitszweck, Gefahrenschwelle, Prognosebasis, Bestimmtheit, Richtervorbehalt und verfahrensrechtliche Sicherungen. |
+| `bverfg-uebermassverbot-dogmatiklinie` | Übermaßverbot als BVerfG-Dogmatiklinie von Berufsfreiheit über Sicherheitsrecht bis Klima: vier Stufen, Kontrolldichte, Einschätzungsprärogative und absolute Grenzen ohne rechtsgeschichtliche Abschweifung. |
 | `clip-club-leitentscheidungen` | Clip-Club mit kurzen Audio- oder Video-Snippets aus muendlichen Verhandlungen oder Urteilsverkuendungen relevanter Verhaeltnismaessigkeits-Leitentscheidungen. Mit Hinweisen zur Materialauswahl Schnittformat Begleittext und Lehrkontext. |
 | `erforderlichkeit-mildestes-mittel` | Stufe 3 der Verhaeltnismaessigkeit Erforderlichkeit als Suche nach dem mildesten gleich effektiven Mittel. Mit Pruefraster fuer Mittelvergleich Effektivitaetsvergleich und Drittbelastungsverlagerung sowie Hinweisen zur Einschaetzungsprae... |
-| `fluth-urteil-bverfge-39-1-vergleich` | Schwangerschaftsabbruch-Urteil BVerfGE 39 Band 39 Seite 1 vom 25.02.1975 als erste Schwangerschafts-Entscheidung mit Schutzpflichtdogmatik und Beginn der Untermassverbot-Logik. Mit Sachverhalt Fristenregelung und Bedeutung fuer den Verha... |
 | `geeignetheit-pruefung` | Stufe 2 der Verhaeltnismaessigkeit Geeignetheit als Foerderung des Zwecks ohne volle Zweckerreichung. Mit Hinweisen zur Einschaetzungspraerogative des Gesetzgebers und zur ex-ante Perspektive bei Prognosen. |
 | `hartz-iv-bverfge-125-175` | Hartz-IV-Urteil BVerfGE 125 Band 125 Seite 175 vom 09.02.2010 als Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I GG iVm Sozialstaatsprinzip Art 20 I GG. Mit absoluter Grenze und Folgen fuer Verhaeltni... |
-| `kanada-oakes-test-vergleich` | Oakes-Test des Supreme Court of Canada aus R v Oakes 1986 als drei-stufige Verhaeltnismaessigkeitspruefung mit pressing and substantial purpose rational connection minimal impairment und proportional effects. Mit Vergleich zur deutschen... |
 | `klimaschutz-bverfge-157-30` | Klimaschutz-Beschluss BVerfGE 157 Band 157 Seite 30 vom 24.03.2021 als intertemporale Freiheitssicherung und Schutzpflicht aus Art 20a GG fuer kuenftige Generationen. Mit Bedeutung fuer Verhaeltnismaessigkeit langfristiger Eingriffe und... |
-| `kreuzberg-urteil-pr-ovg-1882` | Kreuzberg-Urteil PrOVGE 9 353 vom 14.06.1882 als Schluesselentscheidung gegen polizeiliche Wohlfahrtspolizei und fuer die Begrenzung der polizeilichen Eingriffsbefugnis auf Gefahrenabwehr. Mit Sachverhalt Sichtachsen-Verordnung Begruendu... |
 | `kruzifix-bverfge-93-1` | Kruzifix-Beschluss BVerfGE 93 Band 93 Seite 1 vom 16.05.1995 als Praezedenzfall fuer praktische Konkordanz zwischen Glaubensfreiheit und staatlichem Neutralitaetsgebot in der Schule. Mit Sachverhalt und Anwendung des Konkordanz-Prinzips. |
 | `legitimer-zweck-pruefung` | Stufe 1 der Verhaeltnismaessigkeit legitimer Zweck mit Pruefraster fuer einfachen qualifizierten und verfassungsimmanenten Vorbehalt. Mit Negativliste verbotener Zwecke und Beispielen wann ein Zweck vorgeschoben ist. |
 | `lueth-urteil-bverfge-7-198` | Lueth-Urteil BVerfGE 7 Band 7 Seite 198 vom 15.01.1958 als Grundlage der mittelbaren Drittwirkung Grundrechte als objektive Wertordnung. Mit Sachverhalt Boykott-Aufruf Veit Harlan und Bedeutung fuer Abwaegungslogik im Zivilrecht. |
@@ -94,10 +90,11 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `padlet-vier-stufen-tafel` | Padlet-Tafel mit vier Spalten Zweck Geeignet Erforderlich Angemessen als visuelle Pruefungshilfe fuer Verhaeltnismaessigkeitsfaelle. Mit Vorlage Eintragsstruktur Ampelfarben und Hinweisen zur kollaborativen Arbeit im Seminar oder Mandat. |
 | `polizeirecht-eingriff-pruefen` | Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnismaessigkeit pruefen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoe... |
 | `praktische-konkordanz` | Praktische Konkordanz als Methodik zur Aufloesung von Grundrechtskollisionen ohne Hierarchisierung mit dem Ziel beide Verfassungsgueter zu optimieren. Mit Abgrenzung zur klassischen Abwaegung und Beispielen aus Kunstfreiheit und Pressefr... |
-| `preussisches-uebermassverbot-19-jh` | Preussisches Uebermassverbot des 19. Jahrhunderts als Geburtsstunde der Verhaeltnismaessigkeitsdogmatik. Mit Bezug auf Otto Mayer von Berg und Pruefungsformel der polizeilichen Erforderlichkeit als Vorlage fuer die moderne vierstufige Pr... |
 | `schutzbereich-eingriff-rechtfertigung` | Dreischritt Schutzbereich Eingriff Rechtfertigung als Pruefungsaufbau vor der eigentlichen Verhaeltnismaessigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt. |
+| `schwangerschaftsabbruch-bverfge-39-1` | BVerfGE 39 Band 39 Seite 1 vom 25.02.1975 als Schutzpflicht- und Untermaß-Leitentscheidung: wann der Staat nicht nur Eingriffe begrenzen, sondern Grundrechte durch hinreichenden Schutz wirksam sichern muss. |
 | `section-36-vs-deutsche-schranken-schranke` | Direkter Vergleich Section 36 SA-Verfassung gegen deutsche Vier-Stufen-Schranken-Schranke. Mit Gegenueberstellung der Pruefungsschritte gemeinsamen Wurzeln Unterschieden bei Wesensgehalt Schutzpflichten und mit Empfehlungen wann welche M... |
 | `strafrecht-strafzumessung-verhaeltnismaessigkeit` | Strafzumessung Paragraf 46 StGB als anwendungsfall der Verhaeltnismaessigkeit mit Strafrahmen Tatschuld Praevention und Pruefung wann die Strafhoehe unverhaeltnismaessig ist. Mit Hinweisen auf BVerfG-Rechtsprechung zu strafrechtlichen Ei... |
+| `suedafrika-section-36-fallmatrix` | Rechtsvergleichende Fallmatrix zu Section 36 der südafrikanischen Verfassung: fünf kodifizierte Begrenzungsfaktoren als Kontrastfolie zur deutschen BVerfG-Prüfung, ohne die deutsche Dogmatik zu ersetzen. |
 | `suedafrika-section-36-uebersicht` | Section 36 der Verfassung Suedafrikas 1996 als Limitation Clause mit fuenf Kriterien Bedeutung der Rechte Bedeutung des Zwecks Eingriffsintensitaet Verhaeltnis Mittel-Zweck und mildere Mittel. Mit Hinweisen zur Rezeption deutscher Method... |
 | `verhaeltnismaessigkeit-einstieg` | Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills. |
 | `vierstufige-schranken-schranke` | Die vier Stufen der Verhaeltnismaessigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Pruefungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das... |

@@ -13,7 +13,6 @@ Auftragsvolumen knapp unter EU-Schwelle; Splitting Verdacht.
 
 ## Rechtsprechung
 
-- EuGH 14.11.2017 C-188/16
 
 ## Loesungsweg
 

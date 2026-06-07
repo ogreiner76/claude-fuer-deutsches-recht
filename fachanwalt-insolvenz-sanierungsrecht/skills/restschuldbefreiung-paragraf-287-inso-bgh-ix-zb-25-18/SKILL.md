@@ -13,7 +13,6 @@ Schuldner moechte Restschuldbefreiung nach 3 Jahren.
 
 ## Rechtsprechung
 
-- BGH 25.10.2018 IX ZB 188/18
 
 ## Loesungsweg
 

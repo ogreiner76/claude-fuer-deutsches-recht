@@ -18,7 +18,7 @@ Vor der Verhaeltnismaessigkeitspruefung pruefe:
 
 ### Stufe 1: Legitimer Zweck
 Im Polizeirecht: **Abwehr einer Gefahr** fuer oeffentliche Sicherheit
-oder Ordnung. Nicht: Wohlfahrtsfoerderung (siehe Kreuzberg-Urteil 1882).
+oder Ordnung. Reine Zweckbehauptungen ohne tragfähige Gefahrenschwelle und Prognosebasis reichen nicht.
 
 ### Stufe 2: Geeignetheit
 Foerdert die Massnahme die Gefahrenabwehr? In Eilsituationen genuegt

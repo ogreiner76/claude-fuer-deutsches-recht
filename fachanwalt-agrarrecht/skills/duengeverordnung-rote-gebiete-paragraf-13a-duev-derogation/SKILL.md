@@ -18,7 +18,6 @@ Milchviehbetrieb M in Niedersachsen liegt im "roten Gebiet" Cloppenburg. Stickst
 
 - EuGH 21.06.2018 C-543/16 Deutsche Nitratverstoesse.
 - BVerwG 27.04.2022 7 C 11.20: DueV-Schwellenwerte verbindlich.
-- OVG Lueneburg 12.10.2023 1 LB 188/22: Derogationsantrag nur unter strengen Voraussetzungen.
 
 ## Loesungsweg
 

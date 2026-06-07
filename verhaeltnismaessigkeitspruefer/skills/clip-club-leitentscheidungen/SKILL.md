@@ -6,7 +6,7 @@ description: Clip-Club mit kurzen Audio- oder Video-Snippets aus muendlichen Ver
 ## Konzept
 
 Der Clip-Club sammelt **kurze Schnipsel** aus muendlichen Verhandlungen
-und Urteilsverkuendungen des BVerfG sowie wichtiger Fachgerichte, um die
+und Urteilsverkuendungen des BVerfG, um die
 Verhaeltnismaessigkeitsdogmatik nicht nur in Textform, sondern auch
 **audiovisuell** zu vermitteln.
 
