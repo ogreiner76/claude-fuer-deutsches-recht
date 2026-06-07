@@ -4,7 +4,7 @@ Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke
 (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) auf
 Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit BVerfG-Leitentscheidungen, wenigen rechtsvergleichenden Skills zu Südafrika Section 36 und Workflow-Werkzeugen.
 
-## 30 Skills nach Gruppen
+## 31 Skills nach Gruppen
 
 ### Methodik (8)
 - `verhaeltnismaessigkeit-einstieg`
@@ -33,10 +33,11 @@ Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit BVerfG-Leitentscheidun
 - `section-36-vs-deutsche-schranken-schranke` — direkter Vergleich
 - `suedafrika-section-36-fallmatrix` — Fallmatrix als Kontrastfolie
 
-### BVerfG-Dogmatiklinien (3)
+### BVerfG-Dogmatiklinien und Dogmengeschichte (4)
 - `bverfg-uebermassverbot-dogmatiklinie` — Übermaßverbot in der BVerfG-Linie
 - `bverfg-polizeirecht-gefahrenprognose` — Sicherheitsrechtliche Prognosen und Sicherungen
 - `schwangerschaftsabbruch-bverfge-39-1` — Schutzpflicht und Untermaß
+- `preussisches-ovg-kreuzberg-polizeirecht` — Kreuzberg-Erkenntnis 1882 als historische Zweck- und Gesetzesbindung im Polizeirecht
 
 ### Praxis und Workflow (6)
 - `polizeirecht-eingriff-pruefen` — Standardmuster Polizeiverfuegung
@@ -65,7 +66,7 @@ Materialien gesichert.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -90,6 +91,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `padlet-vier-stufen-tafel` | Padlet-Tafel mit vier Spalten Zweck Geeignet Erforderlich Angemessen als visuelle Pruefungshilfe fuer Verhaeltnismaessigkeitsfaelle. Mit Vorlage Eintragsstruktur Ampelfarben und Hinweisen zur kollaborativen Arbeit im Seminar oder Mandat. |
 | `polizeirecht-eingriff-pruefen` | Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnismaessigkeit pruefen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoe... |
 | `praktische-konkordanz` | Praktische Konkordanz als Methodik zur Aufloesung von Grundrechtskollisionen ohne Hierarchisierung mit dem Ziel beide Verfassungsgueter zu optimieren. Mit Abgrenzung zur klassischen Abwaegung und Beispielen aus Kunstfreiheit und Pressefr... |
+| `preussisches-ovg-kreuzberg-polizeirecht` | Preussisches OVG, Kreuzberg-Erkenntnis vom 14.06.1882, Rep. II B. 23/82, PrOVGE 9/353: dogmengeschichtlicher Vorlaeufer rechtsstaatlicher Eingriffskontrolle im Polizeirecht, ohne die heutige BVerfG-Verhaeltnismaessigkeitspruefung zu erse... |
 | `schutzbereich-eingriff-rechtfertigung` | Dreischritt Schutzbereich Eingriff Rechtfertigung als Pruefungsaufbau vor der eigentlichen Verhaeltnismaessigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt. |
 | `schwangerschaftsabbruch-bverfge-39-1` | BVerfGE 39 Band 39 Seite 1 vom 25.02.1975 als Schutzpflicht- und Untermaß-Leitentscheidung: wann der Staat nicht nur Eingriffe begrenzen, sondern Grundrechte durch hinreichenden Schutz wirksam sichern muss. |
 | `section-36-vs-deutsche-schranken-schranke` | Direkter Vergleich Section 36 SA-Verfassung gegen deutsche Vier-Stufen-Schranken-Schranke. Mit Gegenueberstellung der Pruefungsschritte gemeinsamen Wurzeln Unterschieden bei Wesensgehalt Schutzpflichten und mit Empfehlungen wann welche M... |

@@ -1548,7 +1548,7 @@
     {
       "name": "status-navigator-step-plan",
       "source": "./status-navigator-step-plan",
-      "description": "Status-Navigator und Step-Plan-Macher nach Tom Braegelmann. Reine Dokumentenverarbeitung mit 65 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
+      "description": "Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 65 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
       "version": "232.0.0",
       "author": {
         "name": "Klotzkette"

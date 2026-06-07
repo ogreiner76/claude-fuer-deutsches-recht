@@ -110,7 +110,7 @@ Die Excel-Spaltenkoepfe folgen der Vorlage `step-plan-document-tracker-template.
 
 Dieselbe Datenbasis laesst sich auch als Padlet-Shelf ausspielen (vier Spalten); siehe Padlet-Skills.
 
-## Quelle
+## Einordnung
 
 **Status-Navigator und Step-Plan-Macher**: ein Dokumentenstatus- und Workflow-Generator.
 
