@@ -7,21 +7,18 @@ description: "Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **LegW: Gesetzesfolgenabschaetzung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
-- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
-- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
-- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
-- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
-- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
-- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+- `§ 44 Abs. 1 GGO` — Darstellung der Gesetzesfolgen.
+- `§ 44 Abs. 4 GGO` — Erfüllungsaufwand.
+- `§ 45 GGO` — Beteiligung betroffener Kreise.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+- `Art. 20 Abs. 3 GG` — Rechtsbindung.
+- `Art. 80 Abs. 1 GG` — Bestimmtheit bei Verordnungsermächtigungen.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit bei Vollzugskosten.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Aufgabe
 Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer, KMU-Test, Nachhaltigkeitspruefung.

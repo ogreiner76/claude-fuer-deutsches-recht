@@ -11,18 +11,19 @@ Prüft Promotion, Annahme, Betreuung und Entzug. Die Prüfung konzentriert sich 
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Promotion Und Promotionsordnung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `Art. 33 Abs. 2 GG` — Bestenauslese bei Professuren/Ämtern.
+- `Art. 12 Abs. 1 GG` — Prüfungs- und Berufszugangsbezug.
+- `Art. 3 Abs. 1 GG` — Chancengleichheit.
+- `§ 4 HRG` — Freiheit von Forschung und Lehre.
+- `§ 15 HRG` — Prüfungen.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 28 Abs. 1 VwVfG` — Anhörung.
+- `§ 39 Abs. 1 VwVfG` — Begründung.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz im Konkurrenten-/Prüfungskontext.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

@@ -7,21 +7,19 @@ description: "Eigenanteil und Grundausstattung der Hochschule sauber von DFG-Fö
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Eigenanteil und Grundausstattung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Freiheits- und Strukturanker.
-- `Art. 91b Abs. 1 GG` — Kooperation von Bund und Ländern bei Wissenschaft/Forschung.
-- `§ 23 BHO` — Zuwendungen als Haushaltsinstrument.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Pruefung von Zuwendungen.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
-- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit und professionelle Verantwortung.
-- `DFG-Kodex Leitlinie 7` — Phasenuebergreifende Qualitaetssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Ergebnisverantwortung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit, Sparsamkeit und plausibler Mitteleinsatz.
+- `§ 23 BHO` — Zuwendungszweck und erhebliches Bundesinteresse als Förderlogik.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung von Zuwendungen.
+- `§ 55 Abs. 1 BHO` — Vergabebezug bei Beschaffung aus Fördermitteln.
+- `§ 58 BHO` — Änderung von Verträgen und haushaltsrechtliche Bindungen.
+- `Art. 91b Abs. 1 GG` — Bund-Länder-Kooperation in der Forschungsförderung.
+- `DFG-Vordruck Sachbeihilfe Finanzierungsplan` — Personal, Geräte, Verbrauchsmittel und Reisen getrennt begründen.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung auch bei Mittelverwendung und Dokumentation.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Eigenanteil und Grundausstattung
 - **Normen-/Quellenanker:** DFG.

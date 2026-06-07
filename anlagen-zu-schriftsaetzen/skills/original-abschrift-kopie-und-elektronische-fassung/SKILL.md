@@ -11,17 +11,17 @@ Klären, wann Original, beglaubigte Abschrift, einfache Kopie, Scan, elektronisc
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Original, Abschrift, Kopie und elektronische Fassung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
 - `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
+- `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
+- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- `§ 2 ERVV` — Dateiformate und technische Anforderungen.
+- `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
 - `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

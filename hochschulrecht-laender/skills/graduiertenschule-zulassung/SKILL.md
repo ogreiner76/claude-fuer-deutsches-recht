@@ -11,18 +11,19 @@ Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtssc
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Graduiertenschule Zulassung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungszugang.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung im Zugang/Status.
+- `§ 27 HRG` — Zugang zum Studium.
+- `§ 29 HRG` — Auswahl bei Zulassungsbeschränkungen.
+- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Statusentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Bescheids.
+- `§ 39 Abs. 1 VwVfG` — Begründung.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz bei Vollziehung.
+- `§ 123 Abs. 1 VwGO` — vorläufige Zulassung/Statussicherung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

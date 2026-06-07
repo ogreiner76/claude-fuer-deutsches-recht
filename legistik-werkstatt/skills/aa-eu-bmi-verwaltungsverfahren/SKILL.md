@@ -11,18 +11,17 @@ Sachbereich EU-Grundlagen und Ratsverfahren im Geschaeftsbereich AA: Normbestand
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **EU-Grundlagen und Ratsverfahren (AA)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
-- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
-- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
-- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `Art. 23 Abs. 1 GG` — Mitwirkung in EU-Angelegenheiten.
+- `Art. 288 Abs. 3 AEUV` — Richtlinie und Umsetzungsspielraum.
+- `Art. 4 Abs. 3 EUV` — Grundsatz loyaler Zusammenarbeit.
+- `Art. 258 AEUV` — Vertragsverletzungsverfahren.
+- `Art. 267 AEUV` — Vorabentscheidung.
 - `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
-- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
-- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+- `§ 44 Abs. 1 GGO` — Folgenabschätzung.
+- `§ 45 GGO` — Beteiligung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

@@ -11,20 +11,19 @@ Betreuung: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, F
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Betreuung: Mehrparteienkonflikt und Interessenmatrix**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen und Erforderlichkeit.
-- `§ 1815 Abs. 1 BGB` — Aufgabenkreis, keine Vorratsbetreuung.
-- `§ 1821 Abs. 1 BGB` — Wunschbefolgung und Selbstbestimmung.
-- `§ 1823 BGB` — Vertretungsmacht des Betreuers.
-- `§ 1831 BGB` — Genehmigung bei freiheitsentziehenden Massnahmen.
-- `§ 1832 BGB` — aerztliche Zwangsmassnahmen.
-- `§ 1848 BGB` — Rechnungslegung und Vermögensübersicht.
-- `§ 274 FamFG` — Beteiligte im Betreuungsverfahren.
-- `§ 278 FamFG` — persönliche Anhörung.
-- `§ 280 FamFG` — Sachverstaendigengutachten.
-- `§ 5 BtOG` — Informations- und Beratungspflichten der Behörde.
-- `§ 8 BtOG` — Unterstützungsangebot zur Betreuungsvermeidung.
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Betreuerauswahl.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — Anhörung.
+- `§ 280 FamFG` — Gutachten.
+- `§ 5 BtOG` — Beratung.
+- `§ 8 BtOG` — Betreuungsvermeidung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

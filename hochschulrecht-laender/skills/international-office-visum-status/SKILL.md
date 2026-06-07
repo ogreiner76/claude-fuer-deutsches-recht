@@ -11,18 +11,18 @@ Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. Die 
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **International Office, Visum und Status**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `Art. 5 Abs. 3 Satz 1 GG` — Forschungsfreiheit.
+- `§ 25 HRG` — Forschung mit Mitteln Dritter.
+- `Art. 89 Abs. 1 DSGVO` — Forschungsdaten.
+- `§ 27 Abs. 1 BDSG` — wissenschaftliche Forschung.
+- `§ 42 ArbNErfG` — Hochschulerfindungen.
+- `§ 4 Abs. 1 AWG` — Außenwirtschaftsbeschränkungen.
+- `§ 5 AWG` — Embargo/Sanktionen.
+- `§ 7 Abs. 1 TierSchG` — Tierversuchszweck.
+- `§ 8 Abs. 1 TierSchG` — Tierversuchsgenehmigung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

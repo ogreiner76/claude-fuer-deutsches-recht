@@ -7,21 +7,20 @@ description: "FuE-Definition Grenzfaelle nach Frascati-Manual und FZulG: Neuheit
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **FZ: FuE-Abgrenzung Grenzfaelle**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 1 FZulG` — Anspruchsberechtigung.
-- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
-- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
-- `§ 4 FZulG` — Hoehe der Forschungszulage.
-- `§ 5 FZulG` — Antrag auf Forschungszulage.
-- `§ 6 FZulG` — Bescheinigung.
-- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
-- `§ 10 FZulG` — Festsetzung und Leistung.
-- `§ 12 FZulG` — Anwendung der Abgabenordnung.
-- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+- `§ 2 Abs. 1 FZulG` — begünstigtes Forschungs- und Entwicklungsvorhaben.
+- `§ 6 FZulG` — Bescheinigungsverfahren.
+- `§ 7 FZulG` — Bindungs- und Verfahrensbezug der Bescheinigung.
+- `§ 28 Abs. 1 VwVfG` — Anhörung bei nachteiliger Verwaltungsentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Bescheids.
+- `§ 39 Abs. 1 VwVfG` — Begründung des Bescheids.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bescheide.
+- `§ 70 Abs. 1 VwGO` — Widerspruch, soweit eröffnet.
+- `Frascati Manual Kriterien` — Neuheit, Ungewissheit, Systematik, Übertragbarkeit als fachliche Abgrenzung live einordnen.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: FZ: FuE-Abgrenzung Grenzfaelle
 - **Normen-/Quellenanker:** FZulG, BSFZ, FZ.

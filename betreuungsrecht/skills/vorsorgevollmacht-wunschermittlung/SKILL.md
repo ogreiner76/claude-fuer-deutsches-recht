@@ -11,20 +11,17 @@ Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Vorsorgevollmacht pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen und Erforderlichkeit.
-- `§ 1815 Abs. 1 BGB` — Aufgabenkreis, keine Vorratsbetreuung.
-- `§ 1821 Abs. 1 BGB` — Wunschbefolgung und Selbstbestimmung.
-- `§ 1823 BGB` — Vertretungsmacht des Betreuers.
-- `§ 1831 BGB` — Genehmigung bei freiheitsentziehenden Massnahmen.
-- `§ 1832 BGB` — aerztliche Zwangsmassnahmen.
-- `§ 1848 BGB` — Rechnungslegung und Vermögensübersicht.
-- `§ 274 FamFG` — Beteiligte im Betreuungsverfahren.
+- `§ 1358 BGB` — Ehegattenvertretung in Gesundheitsangelegenheiten.
+- `§ 1814 Abs. 3 BGB` — Nachrang der Betreuung bei ausreichender anderer Hilfe.
+- `§ 1820 BGB` — Vorsorgevollmacht und Kontrollbetreuung live prüfen.
+- `§ 1821 Abs. 1 BGB` — Wunsch und Präferenzen.
+- `§ 1827 BGB` — Patientenverfügung.
+- `§ 1828 BGB` — mutmaßlicher Wille.
 - `§ 278 FamFG` — persönliche Anhörung.
-- `§ 280 FamFG` — Sachverstaendigengutachten.
-- `§ 5 BtOG` — Informations- und Beratungspflichten der Behörde.
-- `§ 8 BtOG` — Unterstützungsangebot zur Betreuungsvermeidung.
+- `§ 5 BtOG` — Unterstützung zur Betreuungsvermeidung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

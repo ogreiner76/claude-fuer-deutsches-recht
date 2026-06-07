@@ -7,19 +7,18 @@ description: "Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format S
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Fachgerichtsbarkeit zitieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzverantwortung und Signatur.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht.
-- `§ 253 Abs. 2 ZPO` — bestimmter Vortrag und Antrag.
-- `§ 313 Abs. 3 ZPO` — Darstellung der Entscheidungsgruende.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil und Bezugnahmen.
-- `§ 267 Abs. 1 StPO` — Urteilsgruende im Strafurteil.
-- `§ 117 Abs. 2 VwGO` — Entscheidungsgruende im Verwaltungsprozess.
+- `§ 72 ArbGG` — Revision zum BAG.
+- `§ 90 ArbGG` — Beschlussverfahren.
+- `§ 115 FGO` — Revision zum BFH.
+- `§ 118 FGO` — Bindung an tatsächliche Feststellungen.
+- `§ 160 SGG` — Revision zum BSG.
+- `§ 163 SGG` — Bindung an Tatsachenfeststellungen.
+- `§ 313 Abs. 3 ZPO` — Begründungsstruktur.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Fachgerichtsbarkeit zitieren
 - **Normen-/Quellenanker:** BAG, BFH, BSG, BVerwG, BGH, AZR, BAGE, NZA.

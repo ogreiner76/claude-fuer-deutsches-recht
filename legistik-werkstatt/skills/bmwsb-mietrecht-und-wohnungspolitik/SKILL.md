@@ -54,18 +54,17 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Mietrecht und Wohnungspolitik (BMWSB)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
-- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
-- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
-- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
-- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
-- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
-- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+- `Art. 5 Abs. 1 DSGVO` — Datenschutzgrundsätze.
+- `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlage.
+- `Art. 22 DSGVO` — automatisierte Entscheidungen.
+- `Art. 35 DSGVO` — Datenschutz-Folgenabschätzung.
+- `§ 3 OZG` — Nutzerkonten/Portalverbund live prüfen.
+- `§ 5 EGovG` — elektronische Aktenführung live prüfen.
+- `Art. 3 KI-VO` — Begriffe.
+- `Art. 6 KI-VO` — Hochrisiko-Systeme.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

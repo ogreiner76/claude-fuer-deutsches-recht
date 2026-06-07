@@ -7,23 +7,20 @@ description: "Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Ro
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 109 Abs. 3 GG` — Schuldenbremse und Haushaltsdisziplin.
-- `Art. 110 Abs. 1 GG` — Haushaltsplan und Haushaltsgesetz.
-- `Art. 111 Abs. 1 GG` — vorläufige Haushaltsfuehrung.
-- `Art. 112 GG` — ueber- und ausserplanmäßige Ausgaben.
-- `Art. 115 Abs. 2 GG` — Kreditaufnahme des Bundes.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 9 BHO` — Beauftragte für den Haushalt.
-- `§ 23 BHO` — Zuwendungen.
-- `§ 44 Abs. 1 BHO` — Bewilligung und Nachweis von Zuwendungen.
-- `§ 55 Abs. 1 BHO` — Vergabegrundsatz.
-- `§ 58 BHO` — Aenderung von Vertraegen.
+- `Art. 109 Abs. 3 GG` — Haushaltsdisziplin.
+- `Art. 110 Abs. 1 GG` — Haushaltsplan.
+- `Art. 112 GG` — über-/außerplanmäßige Ausgaben.
+- `Art. 115 Abs. 2 GG` — Kreditaufnahme.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit.
+- `§ 9 BHO` — Beauftragter für den Haushalt.
+- `§ 13 BHO` — Titelstruktur.
+- `§ 34 BHO` — Bewirtschaftung.
 - `§ 70 BHO` — Zahlungen.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Aufgabe
 

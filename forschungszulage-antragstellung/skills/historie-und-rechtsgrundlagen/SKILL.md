@@ -7,21 +7,19 @@ description: "Historie und Rechtsgrundlagen der steuerlichen Forschungszulage ei
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **FZ: Historie und Rechtsgrundlagen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 1 FZulG` — Anspruchsberechtigung.
-- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
-- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
-- `§ 4 FZulG` — Hoehe der Forschungszulage.
-- `§ 5 FZulG` — Antrag auf Forschungszulage.
+- `§ 2 Abs. 1 FZulG` — begünstigtes F&E-Vorhaben.
+- `§ 3 FZulG` — förderfähige Aufwendungen.
+- `§ 4 FZulG` — Höhe der Zulage.
+- `§ 5 FZulG` — Antrag.
 - `§ 6 FZulG` — Bescheinigung.
-- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
-- `§ 10 FZulG` — Festsetzung und Leistung.
-- `§ 12 FZulG` — Anwendung der Abgabenordnung.
-- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+- `§ 10 FZulG` — Festsetzung/Auszahlung.
+- `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: FZ: Historie und Rechtsgrundlagen
 - **Normen-/Quellenanker:** FZulG, KMU, EU, FZ.

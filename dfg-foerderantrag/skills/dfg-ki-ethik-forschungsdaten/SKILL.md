@@ -158,18 +158,19 @@ Kaltstartfragen:
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **KI, Ethik und Forschungsdaten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Freiheits- und Strukturanker.
-- `Art. 91b Abs. 1 GG` — Kooperation von Bund und Ländern bei Wissenschaft/Forschung.
-- `§ 23 BHO` — Zuwendungen als Haushaltsinstrument.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Pruefung von Zuwendungen.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
-- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit und professionelle Verantwortung.
-- `DFG-Kodex Leitlinie 7` — Phasenuebergreifende Qualitaetssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Ergebnisverantwortung.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Ausgangspunkt.
+- `Art. 89 Abs. 1 DSGVO` — Garantien für wissenschaftliche Forschungszwecke.
+- `Art. 9 Abs. 2 lit. j DSGVO` — besondere Kategorien personenbezogener Daten in Forschungskontexten.
+- `§ 27 Abs. 1 BDSG` — Datenverarbeitung zu wissenschaftlichen Forschungszwecken.
+- `§ 7 Abs. 1 TierSchG` — Tierversuche nur bei gesetzlich anerkanntem Zweck und Erforderlichkeit.
+- `§ 8 Abs. 1 TierSchG` — Genehmigungspflichtiger Tierversuch.
+- `§ 69a UrhG` — Computerprogramme als Schutzgegenstand bei Forschungssoftware.
+- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen.
+- `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
+- `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

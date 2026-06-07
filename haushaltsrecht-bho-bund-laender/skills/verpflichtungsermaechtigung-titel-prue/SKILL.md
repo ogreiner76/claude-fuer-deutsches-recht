@@ -29,26 +29,20 @@ Verpflichtungsermaechtigung Titel Prue wird nicht als abstraktes Schema beantwor
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Verpflichtungsermaechtigung Titel Prue**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 109 Abs. 3 GG` — Schuldenbremse und Haushaltsdisziplin.
-- `Art. 110 Abs. 1 GG` — Haushaltsplan und Haushaltsgesetz.
-- `Art. 111 Abs. 1 GG` — vorläufige Haushaltsfuehrung.
-- `Art. 112 GG` — ueber- und ausserplanmäßige Ausgaben.
-- `Art. 115 Abs. 2 GG` — Kreditaufnahme des Bundes.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 9 BHO` — Beauftragte für den Haushalt.
-- `§ 23 BHO` — Zuwendungen.
-- `§ 44 Abs. 1 BHO` — Bewilligung und Nachweis von Zuwendungen.
-- `§ 55 Abs. 1 BHO` — Vergabegrundsatz.
-- `§ 58 BHO` — Aenderung von Vertraegen.
-- `§ 70 BHO` — Zahlungen.
+- `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
+- `§ 17 BHO` — Einzelveranschlagung.
+- `§ 19 BHO` — Übertragbarkeit.
+- `§ 20 BHO` — Deckungsfähigkeit.
+- `§ 22 BHO` — Sperrvermerk.
+- `§ 37 BHO` — über- und außerplanmäßige Ausgaben.
+- `§ 38 BHO` — Verpflichtungen ohne Ausgabe im Haushaltsjahr.
+- `Art. 112 GG` — Notbewilligungsrecht.
+- `Art. 110 Abs. 1 GG` — Bindung an Haushaltsplan/Haushaltsgesetz.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
 
 ## Prüfroutine
 

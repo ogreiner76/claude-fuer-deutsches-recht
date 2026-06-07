@@ -7,21 +7,20 @@ description: "Kollegen-Review eines DFG-Antrags strukturiert organisieren: 2 erf
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **DFG: Kollegen-Review organisieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Freiheits- und Strukturanker.
-- `Art. 91b Abs. 1 GG` — Kooperation von Bund und Ländern bei Wissenschaft/Forschung.
-- `§ 23 BHO` — Zuwendungen als Haushaltsinstrument.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Pruefung von Zuwendungen.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `Art. 5 Abs. 3 Satz 1 GG` — wissenschaftsadäquate Begutachtung.
+- `§ 28 Abs. 1 VwVfG` — Anhörungslogik als Mindeststandard bei belastenden Förderentscheidungen, soweit Verwaltungsverfahrensrecht anwendbar ist.
+- `§ 39 Abs. 1 VwVfG` — Begründungslogik für angreifbare Förderentscheidungen.
 - `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
 - `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit und professionelle Verantwortung.
-- `DFG-Kodex Leitlinie 7` — Phasenuebergreifende Qualitaetssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Ergebnisverantwortung.
+- `§ 44 Abs. 1 BHO` — Nachweis- und Prüflogik der Förderung.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit als Bewertungsmaßstab.
+- `DFG-Kodex Leitlinie 15` — Publikationsorgan und Qualitätssicherung.
+- `DFG-Verfahrensordnung Begutachtung` — Befangenheit, fachliche Passung und Entscheidungspfad live prüfen.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: DFG: Kollegen-Review organisieren
 - **Normen-/Quellenanker:** DFG.

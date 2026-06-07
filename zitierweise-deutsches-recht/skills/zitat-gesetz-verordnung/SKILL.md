@@ -7,19 +7,18 @@ description: "Gesetz/Verordnung zitieren: Norm-Bezeichnung, ggf. § und Absatz. 
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Gesetz/Verordnung zitieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzverantwortung und Signatur.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht.
-- `§ 253 Abs. 2 ZPO` — bestimmter Vortrag und Antrag.
-- `§ 313 Abs. 3 ZPO` — Darstellung der Entscheidungsgruende.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil und Bezugnahmen.
-- `§ 267 Abs. 1 StPO` — Urteilsgruende im Strafurteil.
-- `§ 117 Abs. 2 VwGO` — Entscheidungsgruende im Verwaltungsprozess.
+- `Art. 82 Abs. 1 GG` — Ausfertigung und Verkündung von Gesetzen.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `§ 42 Abs. 1 GGO` — Rechtsetzungsvorhaben.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+- `§ 133 BGB` — Auslegung von Willenserklärungen als Zitierkontext im Zivilrecht.
+- `§ 313 Abs. 3 ZPO` — Rechtsausführungen im Urteil.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Entscheidungsgründe.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Gesetz/Verordnung zitieren
 - **Normen-/Quellenanker:** InsO, BGB, Art. 26, DSGVO, JJJJ.

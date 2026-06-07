@@ -11,17 +11,16 @@ Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zu
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Red-Team Qualitygate**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
-- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 294 Abs. 1 ZPO` — Glaubhaftmachung.
+- `§ 920 Abs. 2 ZPO` — Verfügungsanspruch und Verfügungsgrund.
+- `§ 936 ZPO` — Anwendung Arrestvorschriften auf einstweilige Verfügung.
+- `§ 922 Abs. 2 ZPO` — Zustellung/Vollziehung Arrestbefehl.
+- `§ 929 Abs. 2 ZPO` — Vollziehungsfrist.
+- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
+- `§ 371 ZPO` — Augenschein.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

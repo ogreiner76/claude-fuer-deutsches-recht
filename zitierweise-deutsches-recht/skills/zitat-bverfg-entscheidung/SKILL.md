@@ -7,19 +7,18 @@ description: "BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, B
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **BVerfG-Entscheidung zitieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzverantwortung und Signatur.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht.
-- `§ 253 Abs. 2 ZPO` — bestimmter Vortrag und Antrag.
-- `§ 313 Abs. 3 ZPO` — Darstellung der Entscheidungsgruende.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil und Bezugnahmen.
-- `§ 267 Abs. 1 StPO` — Urteilsgruende im Strafurteil.
-- `§ 117 Abs. 2 VwGO` — Entscheidungsgruende im Verwaltungsprozess.
+- `§ 31 Abs. 1 BVerfGG` — Bindungswirkung von Entscheidungen.
+- `§ 93a BVerfGG` — Annahmeverfahren.
+- `§ 93c BVerfGG` — Kammerentscheidung.
+- `Art. 93 Abs. 1 GG` — Zuständigkeiten des BVerfG.
+- `Art. 100 Abs. 1 GG` — konkrete Normenkontrolle.
+- `§ 117 Abs. 2 VwGO` — Entscheidungsgründe als Zitierkontext.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: BVerfG-Entscheidung zitieren
 - **Normen-/Quellenanker:** BVerfG.

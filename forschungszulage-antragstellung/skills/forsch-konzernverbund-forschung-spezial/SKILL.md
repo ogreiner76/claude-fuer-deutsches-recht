@@ -7,21 +7,19 @@ description: "Spezialfall Konzernverbundforschung und verbundene Unternehmen: §
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Forsch: Konzernverbund Forschung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 1 FZulG` — Anspruchsberechtigung.
-- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
-- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
-- `§ 4 FZulG` — Hoehe der Forschungszulage.
-- `§ 5 FZulG` — Antrag auf Forschungszulage.
-- `§ 6 FZulG` — Bescheinigung.
-- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
-- `§ 10 FZulG` — Festsetzung und Leistung.
-- `§ 12 FZulG` — Anwendung der Abgabenordnung.
-- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+- `§ 7 FZulG` — Kumulierung und Beihilfebezug.
+- `Art. 107 Abs. 1 AEUV` — Beihilfebegriff.
+- `Art. 25 AGVO` — Forschungs- und Entwicklungsbeihilfen.
+- `§ 46 AO` — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen.
+- `§ 80 Abs. 1 InsO` — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters.
+- `§ 94 InsO` — Aufrechnungslage vor Verfahrenseröffnung.
+- `§ 96 InsO` — unzulässige Aufrechnung.
+- `§ 1 Abs. 1 AStG` — Konzern-/Verrechnungspreisnähe bei grenzüberschreitenden F&E-Strukturen.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Forsch: Konzernverbund Forschung
 - **Normen-/Quellenanker:** FZulG, KMU.

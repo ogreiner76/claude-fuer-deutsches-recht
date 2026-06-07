@@ -7,19 +7,18 @@ description: "EuGH-Rechtsprechung zitieren: Urt./Beschl., Datum, Rs. C-Nummer, P
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **EuGH-Rechtsprechung zitieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzverantwortung und Signatur.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht.
-- `§ 253 Abs. 2 ZPO` — bestimmter Vortrag und Antrag.
-- `§ 313 Abs. 3 ZPO` — Darstellung der Entscheidungsgruende.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil und Bezugnahmen.
-- `§ 267 Abs. 1 StPO` — Urteilsgruende im Strafurteil.
-- `§ 117 Abs. 2 VwGO` — Entscheidungsgruende im Verwaltungsprozess.
+- `Art. 19 Abs. 1 EUV` — Gerichtshof der Europäischen Union.
+- `Art. 267 AEUV` — Vorabentscheidungsverfahren.
+- `Art. 263 AEUV` — Nichtigkeitsklage.
+- `Art. 288 AEUV` — Rechtsakte der Union.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe im nationalen Kontext.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Gründe.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: EuGH-Rechtsprechung zitieren
 - **Normen-/Quellenanker:** ECLI, EU, GA.

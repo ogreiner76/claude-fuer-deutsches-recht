@@ -7,20 +7,19 @@ description: "Anlagenkonvolut aus Mandanten-ZIP konsolidieren: Duplikate ueber H
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Anlagenkonvolut konsolidieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
 - `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
+- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
 - `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
+- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
 - `§ 253 Abs. 2 ZPO` — Klageinhalt.
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
-- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Anlagenkonvolut konsolidieren
 - **Normen-/Quellenanker:** ZIP.

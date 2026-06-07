@@ -11,18 +11,17 @@ Verlust: Formular, Portal und Einreichungslogik im Plugin forschungszulage antra
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Verlust: Formular, Portal und Einreichungslogik**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 1 FZulG` — Anspruchsberechtigung.
-- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
 - `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
-- `§ 4 FZulG` — Hoehe der Forschungszulage.
-- `§ 5 FZulG` — Antrag auf Forschungszulage.
-- `§ 6 FZulG` — Bescheinigung.
-- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
-- `§ 10 FZulG` — Festsetzung und Leistung.
-- `§ 12 FZulG` — Anwendung der Abgabenordnung.
-- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+- `§ 4 FZulG` — Höhe der Forschungszulage.
+- `§ 5 FZulG` — Antragstellung beim Finanzamt.
+- `§ 90 Abs. 1 AO` — Mitwirkungspflichten und Belegvorlage.
+- `§ 147 Abs. 1 AO` — Aufbewahrung von Buchführungs- und sonstigen Unterlagen.
+- `§ 162 Abs. 1 AO` — Schätzung bei lückenhafter Dokumentation.
+- `§ 370 AO` — Grenze zur Steuerhinterziehung bei falschen Angaben.
+- `Art. 25 AGVO` — Beihilferahmen für Forschungs- und Entwicklungsbeihilfen.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

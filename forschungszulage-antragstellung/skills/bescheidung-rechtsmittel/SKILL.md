@@ -7,21 +7,19 @@ description: "Bescheidung Forschungszulage: Bescheinigungsbescheid BSFZ und Fest
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **FZ: Bescheidung und Rechtsmittel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 1 FZulG` — Anspruchsberechtigung.
-- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
-- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
-- `§ 4 FZulG` — Hoehe der Forschungszulage.
 - `§ 5 FZulG` — Antrag auf Forschungszulage.
-- `§ 6 FZulG` — Bescheinigung.
-- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
-- `§ 10 FZulG` — Festsetzung und Leistung.
-- `§ 12 FZulG` — Anwendung der Abgabenordnung.
-- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+- `§ 10 FZulG` — Festsetzung und Auszahlung der Zulage.
+- `§ 155 Abs. 1 AO` — Steuerbescheid/Festsetzung.
+- `§ 164 AO` — Vorbehalt der Nachprüfung.
+- `§ 347 Abs. 1 AO` — Einspruchsstatthaftigkeit.
+- `§ 355 Abs. 1 AO` — Einspruchsfrist.
+- `§ 361 Abs. 2 AO` — Aussetzung der Vollziehung.
+- `§ 69 Abs. 3 FGO` — gerichtliche Aussetzung der Vollziehung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: FZ: Bescheidung und Rechtsmittel
 - **Normen-/Quellenanker:** BSFZ, FZ.

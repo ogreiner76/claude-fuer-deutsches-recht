@@ -54,18 +54,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Straf- und Strafprozessrecht-Pflege (BMJV)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
-- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
-- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
-- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
-- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
-- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
-- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+- `Art. 103 Abs. 2 GG` — Bestimmtheit im Strafrecht.
+- `§ 1 StGB` — nulla poena sine lege.
+- `§ 15 StGB` — Vorsatz/Fahrlässigkeit.
+- `§ 46 StGB` — Strafzumessung.
+- `§ 152 Abs. 2 StPO` — Anfangsverdacht.
+- `§ 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstände.
+- `Art. 20 Abs. 3 GG` — Verhältnismäßigkeit.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

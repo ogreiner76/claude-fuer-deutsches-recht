@@ -136,18 +136,19 @@ Kaltstartfragen:
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Sachbeihilfe und elan-Formalia**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Freiheits- und Strukturanker.
-- `Art. 91b Abs. 1 GG` — Kooperation von Bund und Ländern bei Wissenschaft/Forschung.
-- `§ 23 BHO` — Zuwendungen als Haushaltsinstrument.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Pruefung von Zuwendungen.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
 - `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
 - `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
 - `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit und professionelle Verantwortung.
-- `DFG-Kodex Leitlinie 7` — Phasenuebergreifende Qualitaetssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Ergebnisverantwortung.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

@@ -7,21 +7,19 @@ description: "Strategien: Internationaler Bezug und Schnittstellen im DFG-Förde
 
 ## Regelungs- und Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Strategien: Internationaler Bezug und Schnittstellen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Freiheits- und Strukturanker.
-- `Art. 91b Abs. 1 GG` — Kooperation von Bund und Ländern bei Wissenschaft/Forschung.
-- `§ 23 BHO` — Zuwendungen als Haushaltsinstrument.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Pruefung von Zuwendungen.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
-- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit und professionelle Verantwortung.
-- `DFG-Kodex Leitlinie 7` — Phasenuebergreifende Qualitaetssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Ergebnisverantwortung.
+- `Art. 5 Abs. 3 Satz 1 GG` — Kooperationsfreiheit der Wissenschaft.
+- `Art. 91b Abs. 1 GG` — strukturelle Forschungskooperation.
+- `Art. 44 DSGVO` — Drittlandtransfer personenbezogener Forschungsdaten.
+- `Art. 46 DSGVO` — geeignete Garantien bei Drittlandtransfer.
+- `§ 4 Abs. 1 AWG` — Beschränkungen im Außenwirtschaftsverkehr.
+- `§ 5 AWG` — Embargo- und Sanktionsbezug.
+- `§ 18 AWG` — Strafvorschriften bei Außenwirtschaftsverstößen.
+- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen internationaler Forschung.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Strategien: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DFG, KI.

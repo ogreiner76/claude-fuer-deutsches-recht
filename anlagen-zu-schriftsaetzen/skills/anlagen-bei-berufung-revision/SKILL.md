@@ -7,20 +7,18 @@ description: "Anlagen in Berufung und Revision: bisheriges Anlagenverzeichnis ue
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Anlagen in Berufung/Revision**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
-- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 520 Abs. 3 ZPO` — Berufungsbegründung.
+- `§ 529 Abs. 1 ZPO` — Tatsachengrundlage Berufung.
+- `§ 531 Abs. 2 ZPO` — neue Angriffs- und Verteidigungsmittel.
+- `§ 522 ZPO` — Berufungszurückweisung.
+- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
+- `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
+- `§ 139 ZPO` — gerichtlicher Hinweis.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
 
 ## Spezialwissen: Anlagen in Berufung/Revision
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

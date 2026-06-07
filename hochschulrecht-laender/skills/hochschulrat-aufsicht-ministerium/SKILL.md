@@ -11,18 +11,18 @@ Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Bean
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Hochschulrat, Aufsicht und Ministerium**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `Art. 5 Abs. 3 Satz 1 GG` — institutionelle Wissenschaftsfreiheit.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung der Hochschulorgane.
+- `§ 58 HRG` — Mitgliedschaft und Mitwirkung live nach Landesrecht abgleichen.
+- `§ 59 HRG` — Hochschulorgane live nach Landesrecht abgleichen.
+- `§ 60 HRG` — Selbstverwaltung live nach Landesrecht abgleichen.
+- `§ 35 Satz 1 VwVfG` — Verwaltungsakt bei Organ-/Statusentscheidungen.
+- `§ 40 VwVfG` — Ermessen.
+- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit eröffnet.
+- `§ 123 Abs. 1 VwGO` — Organstreit/Eilrechtsschutz.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

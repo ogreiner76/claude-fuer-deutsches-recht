@@ -29,26 +29,19 @@ Zuwendung An Verband Titel Pruefen wird nicht als abstraktes Schema beantwortet,
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Arbeitsfokus: **Zuwendung An Verband Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 109 Abs. 3 GG` — Schuldenbremse und Haushaltsdisziplin.
-- `Art. 110 Abs. 1 GG` — Haushaltsplan und Haushaltsgesetz.
-- `Art. 111 Abs. 1 GG` — vorläufige Haushaltsfuehrung.
-- `Art. 112 GG` — ueber- und ausserplanmäßige Ausgaben.
-- `Art. 115 Abs. 2 GG` — Kreditaufnahme des Bundes.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 9 BHO` — Beauftragte für den Haushalt.
 - `§ 23 BHO` — Zuwendungen.
-- `§ 44 Abs. 1 BHO` — Bewilligung und Nachweis von Zuwendungen.
-- `§ 55 Abs. 1 BHO` — Vergabegrundsatz.
-- `§ 58 BHO` — Aenderung von Vertraegen.
-- `§ 70 BHO` — Zahlungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit/Sparsamkeit.
+- `§ 49a VwVfG` — Erstattung nach Rücknahme/Widerruf.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligung.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligung.
+- `§ 55 Abs. 1 BHO` — Vergabe bei Mittelverwendung.
+- `ANBest-P Nr. 6` — Nachweisführung live anhand Bewilligung prüfen.
+
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
 
 ## Prüfroutine
 
