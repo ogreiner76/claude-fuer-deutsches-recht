@@ -249,3 +249,30 @@ Vorher: s. o. | Jetzt:
 - **Stiller Widerspruch:** Nachtrag N ändert eine Bestimmung, ohne Nachtrag N-1 ausdrücklich aufzuheben. lex-posterior-Grundsatz anwenden und als Hinweis markieren.
 - **Schriftformklausel:** Mündliche Nebenabsprachen können durch eine Schriftformklausel (§ 125 BGB i. V. m. Vertragsklausel) unwirksam sein. Prüfen, ob eine solche Klausel im Basisvertrag oder einem Nachtrag steht.
 - **Skill-Grenzen:** Dieser Skill stellt nicht fest, welches Dokument bei Widersprüchen vorgeht – das ist eine Auslegungsfrage. Er kennzeichnet Widersprüche und leitet an die Rechtsabteilung weiter. Er entwirft keine neuen Nachträge. Er prüft nicht gegen das Playbook – das ist Aufgabe des Lieferantenvertrag-Prüfungs-Skills.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 28 DSGVO
+- § 203 StGB
+- § 13 UWG
+- § 15 AktG
+- Art. 82 DSGVO
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+- § 16 HRG
+- § 70 VwG
+- § 123 VwG
+
+### Leitentscheidungen
+
+- EuGH C-249/21
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -78,3 +78,34 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Anschluss-Skills
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 2 UrhG
+- § 97 UrhG
+- § 7 UrhG
+- § 15-24 UrhG
+- § 44b UrhG
+- § 60d UrhG
+- § 85 UrhG
+- § 73 UrhG
+- § 51a UrhG
+- § 97a UrhG
+- § 32a UrhG
+- § 51 UrhG
+
+### Leitentscheidungen
+
+- EuGH C-310/17
+- EuGH C-393/09
+- EuGH C-406/10
+- EuGH C-476/17
+- EuGH C-348/13
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

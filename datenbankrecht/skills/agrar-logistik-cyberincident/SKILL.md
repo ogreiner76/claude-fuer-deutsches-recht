@@ -75,3 +75,34 @@ Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionsla
 - [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [DSGVO Art. 4 — dejure.org](https://dejure.org/gesetze/DSGVO/4.html)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 87a UrhG
+- § 87b UrhG
+- § 87a-87e UrhG
+- § 44b UrhG
+- § 4 UrhG
+- § 60d UrhG
+- § 97 UrhG
+- § 87c UrhG
+- § 87d UrhG
+- § 97a UrhG
+- § 202a StGB
+- § 5 UrhG
+
+### Leitentscheidungen
+
+- EuGH C-203/02
+- EuGH C-202/12
+- EuGH C-545/07
+- EuGH C-338/02
+- EuGH C-170/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -76,3 +76,32 @@ Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mi
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Empfohlene Anrede in der konkreten Situation. (2) Alternative Anreden nach Förmlichkeitsgrad. (3) Empfohlene Schlussformel. (4) Begründung mit Verweis auf berufsrechtliche oder konventionelle Grundlage.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 RVG
+- § 10 RVG
+- § 57 StBerG
+- § 185 StGB
+- § 57a StBerG
+- Art. 5 GG
+- § 240 StGB
+- § 186 StGB
+- § 203 StGB
+- § 4a RVG
+- § 261 StGB
+- Art. 32 DSGVO
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

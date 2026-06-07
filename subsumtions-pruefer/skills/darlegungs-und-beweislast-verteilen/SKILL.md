@@ -108,3 +108,32 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 - Normtext live prüfen: gesetze-im-internet.de (BGB, ZPO, ProdHaftG, AGG, KSchG), dejure.org (Querverweise und Rechtsprechungsübersicht).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 267 AEUV
+- § 70 VwG
+- § 74 VwG
+- § 93 BVerfGG
+- § 40 VwG
+- § 2 StGB
+- § 21 OWiG
+- § 22 AGG
+- § 13 GVG
+- § 71 GVG
+- § 80 VwG
+- § 2 ArbGG
+
+### Leitentscheidungen
+
+- BGH VI ZR 188/17
+- BGH VI ZR 26/21
+- BGH VI ZR 290/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

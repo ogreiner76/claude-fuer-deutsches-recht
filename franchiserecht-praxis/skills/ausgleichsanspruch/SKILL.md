@@ -54,3 +54,32 @@ Anspruchsmatrix: Neukunden, wirtschaftlicher Vorteil, Billigkeit, Datenverfügba
 ## Quellenhygiene
 
 Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 101 AEUV
+- Art. 26 DSGVO
+- Art. 28 DSGVO
+- Art. 9 DSGVO
+- § 30 MarkenG
+- Art. 17 DSGVO
+- Art. 6 DSGVO
+- § 14 MarkenG
+- § 5 UWG
+- § 5a UWG
+- Art. 8 DSGVO
+- Art. 32 DSGVO
+
+### Leitentscheidungen
+
+- BGH I ZR 90/20
+- BGH VIII ZR 233/02
+- BGH XII ZR 197/03
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

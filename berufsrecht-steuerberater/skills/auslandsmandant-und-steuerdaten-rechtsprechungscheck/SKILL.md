@@ -69,3 +69,32 @@ Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, 
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 1-4 StBerG (Berufszulassung, Befugnisse)
+- § 5 StBerG (Erlaubnisfreie Tätigkeit)
+- § 32 StBerG (Berufsbezeichnung)
+- § 57 StBerG (Allgemeine Berufspflichten)
+- §§ 60, 64 StBerG (Eigenverantwortliche Tätigkeit, Werbung)
+- § 66 StBerG (Berufshaftpflicht)
+- § 89 StBerG (Berufsgericht)
+- §§ 392 ff. AO (Steuerberater-Bevollmächtigung)
+- DSGVO Art. 6, 9 (Mandantendaten)
+- § 203 StGB (Schweigepflicht)
+
+### Leitentscheidungen
+
+- BFH VII R 5/15 (Steuerberater-Haftung)
+- BVerfG 1 BvR 2502/13 (Werbeverbote)
+- BGH IX ZR 23/14 (Berufshaftpflicht Steuerberater)
+- BGH StbSt R 2/21 (Berufsgerichtliche Verfahren)
+- BFH II R 33/19 (Vertretungsbefugnis)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

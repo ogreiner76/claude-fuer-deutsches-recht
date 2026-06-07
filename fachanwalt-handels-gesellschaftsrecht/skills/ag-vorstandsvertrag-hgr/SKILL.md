@@ -194,3 +194,34 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 43 GmbHG
+- § 246 AktG
+- § 93 AktG
+- § 8b KStG
+- § 47 GmbHG
+- § 15 GmbHG
+- § 6 AStG
+- § 34 GmbHG
+- § 118a AktG
+- § 6a GrEStG
+- § 51 GmbHG
+- § 327a AktG
+
+### Leitentscheidungen
+
+- BGH II ZR 188/15
+- BGH II ZR 188/17
+- BGH II ZR 188/18
+- BGH II ZR 188/13
+- BGH II ZR 188/19
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

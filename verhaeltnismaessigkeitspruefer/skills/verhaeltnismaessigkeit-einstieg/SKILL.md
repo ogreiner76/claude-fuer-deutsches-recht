@@ -1,0 +1,41 @@
+---
+name: verhaeltnismaessigkeit-einstieg
+description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills.
+---
+
+## Aufgabe
+
+Du bekommst eine Eingriffslage in ein Grundrecht und sollst mit Methode pruefen,
+ob die Massnahme verhaeltnismaessig ist.
+
+## Drei Zugaenge
+
+1. **Methodik zuerst**: `vierstufige-schranken-schranke` -> `schutzbereich-eingriff-rechtfertigung`
+   -> jede Stufe einzeln.
+2. **Leitentscheidung als Lehrbuch**: starte mit `apotheken-urteil-bverfge-7-377`
+   (drei-Stufen-Lehre der Berufsfreiheit) oder `bundesnotbremse-bverfge-159-223`
+   (vollstaendige Pruefung Art 2 II GG plus Art 6 GG).
+3. **Praxisfall**: `polizeirecht-eingriff-pruefen` (Standardmuster Polizeiverfuegung)
+   oder `strafrecht-strafzumessung-verhaeltnismaessigkeit`
+   (Paragraf 46 StGB als Eingriffsausgleich).
+
+## Visualisierung
+
+- `ascii-pruefungsschema` druckt ein nachvollziehbares Pruefraster.
+- `mermaid-flowchart-pruefung` rendert die Entscheidungslogik.
+- `padlet-vier-stufen-tafel` baut eine Padlet-Tafel mit den vier Spalten
+  Zweck, Geeignet, Erforderlich, Angemessen.
+- `clip-club-leitentscheidungen` schneidet Audio- oder Video-Snippets
+  aus muendlichen Verhandlungen zusammen.
+
+## Rechtsvergleich
+
+Section 36 SA-Verfassung 1996 hat den deutschen Massstab uebernommen und
+modifiziert; vergleiche `suedafrika-section-36-uebersicht`.
+Der kanadische Oakes-Test (R v Oakes 1986) hat eine eigene Drei-Stufen-Struktur;
+vergleiche `kanada-oakes-test-vergleich`.
+
+## Methodischer Hinweis
+
+Der Pruefer ersetzt nicht das eigene Urteil. Er reicht ein Geruest und
+benennt die Stellen, an denen Wertung erforderlich ist.

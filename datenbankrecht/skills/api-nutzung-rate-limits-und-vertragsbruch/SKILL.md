@@ -75,3 +75,34 @@ Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbru
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 87a UrhG
+- § 87b UrhG
+- § 87a-87e UrhG
+- § 44b UrhG
+- § 4 UrhG
+- § 60d UrhG
+- § 97 UrhG
+- § 87c UrhG
+- § 87d UrhG
+- § 97a UrhG
+- § 202a StGB
+- § 5 UrhG
+
+### Leitentscheidungen
+
+- EuGH C-203/02
+- EuGH C-202/12
+- EuGH C-545/07
+- EuGH C-338/02
+- EuGH C-170/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

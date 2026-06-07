@@ -125,3 +125,32 @@ Fragen zum Einstieg:
 - BGH, st. Rspr. zur Bestimmbarkeit künftiger Forderungen (Leitsätze in den jeweiligen amtlichen Sammlungen prüfen).
 - BaFin-Merkblatt zum Tatbestand des Factoring (jeweils aktueller Stand auf bafin.de).
 - KWG § 1 Abs. 1a Satz 2 Nr. 9 zum Tatbestand des Factoring als Finanzdienstleistung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 32 KWG
+- Art. 14 DSGVO
+- § 2 KWG
+- § 203 StGB
+- § 33 KWG
+- § 25c KWG
+- § 37 KWG
+- § 54 KWG
+- § 25a KWG
+- § 44 KWG
+- § 49 KWG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -145,3 +145,31 @@ Bevor die Abmahnung abgeschickt wird, kläre:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 14 MarkenG
+- § 19 MarkenG
+- Art. 101 AEUV
+- § 8 MarkenG
+- § 49 MarkenG
+- § 66 MarkenG
+- § 18 MarkenG
+- § 107 MarkenG
+- § 42 MarkenG
+- § 25a ZollVG
+- § 1 PatG
+- § 50 MarkenG
+
+### Leitentscheidungen
+
+- BGH I ZB 22/20
+- BGH I ZR 149/14
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

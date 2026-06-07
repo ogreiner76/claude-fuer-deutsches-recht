@@ -118,3 +118,32 @@ Die folgenden Entscheidungen sind in jüngerer Zeit für die Pluginarbeit besond
 - 1 BvR 2466/19 (Trojaner I) und 1 BvR 180/23 (Trojaner II), beide Beschlüsse vom 07.08.2025 — präventiv-polizeirechtliche und strafprozessuale Quellen-TKÜ/Online-Durchsuchung; präventiv im Wesentlichen verfassungskonform, StPO-Befugnisse für Niedrig-Strafrahmen teilweise nichtig.
 - 1 BvR 2656/18 u. a. (Klimabeschluss), Beschl. v. 24.03.2021 — intertemporale Freiheitssicherung Art. 20a GG — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - Jahresbericht BVerfG 2025 (Polizeikosten Hochrisikospiele u. a.) — [PDF](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 93 BVerfGG
+- § 32 BVerfGG
+- § 90 BVerfGG
+- Art. 82 GG
+- Art. 73 GG
+- Art. 100 GG
+- Art. 79 GG
+- § 92 BVerfGG
+- Art. 93 GG
+- Art. 74 GG
+- § 93a BVerfGG
+- Art. 76 GG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -378,3 +378,34 @@ Deutschland hat folgende GGM-Gerichte designiert:
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Designprüfung ohne Kenntnis der Abbildungen.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 8c UWG
+- § 14 MarkenG
+- § 8 UWG
+- § 12 UWG
+- § 13 UWG
+- § 5a UWG
+- § 139 PatG
+- § 42 DesignG
+- § 42 MarkenG
+- § 26 MarkenG
+- § 2 DesignG
+- § 24 MarkenG
+
+### Leitentscheidungen
+
+- EuGH C-541/18
+- BGH II ZR 189/12
+- BGH I ZR 138/19
+- BGH I ZB 117/19
+- BGH I ZR 167/19
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -53,3 +53,32 @@ Erzeuge Kammerantwort, Mandatsgrenzencheck, Schutzrechtsvertretungs-Memo, Friste
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 1, 3 PAO (Berufsaufgaben, Stellung im Rechtspflegesystem)
+- § 4 PAO (Befähigung)
+- § 26 PAO (Werbung)
+- §§ 39, 39a PAO (Berufspflichten, Verschwiegenheit)
+- § 45 PAO (Berufshaftpflicht)
+- § 96 PAO (Berufsgericht)
+- §§ 1, 134, 140 PatG (Patentanwaltliche Vertretung)
+- §§ 81 ff. PatG (Nichtigkeitsverfahren BPatG)
+- Art. 134 EPÜ (Vertretung vor EPA)
+- UPCA Art. 48 (Vertretung vor UPC)
+
+### Leitentscheidungen
+
+- BGH PatAnwSt (R) 1/19 (Berufsgerichtsverfahren)
+- BPatG 4 Ni 18/26 (Patent-Nichtigkeit Standard)
+- BVerfG 1 BvR 2616/17 (Werberecht Patentanwälte)
+- BGH X ZR 117/11 (Patentanwalt-Haftung)
+- EuG T-148/14 (UPCA-Vertretung Übergangsregelungen)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

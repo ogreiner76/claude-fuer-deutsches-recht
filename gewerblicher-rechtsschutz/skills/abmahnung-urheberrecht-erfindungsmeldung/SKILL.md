@@ -230,3 +230,33 @@ Task: Bundle 031 / Halluzinations-Reparatur
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Korrektur: GRUR 2016, 176 → GRUR 2016, 191 (alle 3 Fundstellen). Verifiziert via dejure.org.
 -->
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 97a UrhG
+- § 97 UrhG
+- § 8c UWG
+- § 14 MarkenG
+- § 42 MarkenG
+- § 8 UWG
+- § 13 UWG
+- § 26 MarkenG
+- § 9 PatG
+- § 66 MarkenG
+- § 8 MarkenG
+- § 6 ArbnErfG
+
+### Leitentscheidungen
+
+- BGH I ZR 153/16
+- BGH I ZR 82/99
+- BGH I ZR 20/07
+- BGH X ZR 171/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -145,3 +145,30 @@ Unterschrift: [Name]
 - DSGVO Art. 6, 17, 85 - Datenverarbeitung, Loeschung, Medienprivileg.
 - DDG § 5 - Impressumspflicht; MStV § 18 - journalistische Sorgfalt.
 - BVerfG, st. Rspr. zur Abwaegung Meinungsfreiheit / Persoenlichkeitsrecht (Volltexte zur amtlichen Pruefung unter bundesverfassungsgericht.de).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 51 UrhG
+- § 38 UrhG
+- § 31a UrhG
+- § 33 VerlG
+- § 32a UrhG
+- Art. 6 DSGVO
+- § 8 DDG
+- § 27a UStG
+- § 14 UStG
+- § 203 StGB
+- § 32e UrhG
+- § 87 BetrVG
+
+### Leitentscheidungen
+
+- EuGH C-131/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

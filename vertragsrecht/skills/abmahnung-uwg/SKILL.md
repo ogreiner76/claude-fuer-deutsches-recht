@@ -159,3 +159,30 @@ Az., Fundstelle, Rn., ggf. Kurzbezeichnung). Kommentarzitate mit Bearbeiter, Wer
 § und Rn. Bei umstrittenen Fragen (z. B. Reichweite der Kerngleichheit, Höhe der Vertragsstrafe)
 h. M. und Mindermeinung getrennt darstellen. Keine pauschalen "vgl."-Verweise ohne konkrete
 Seitenangabe.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 28 DSGVO
+- § 203 StGB
+- § 13 UWG
+- § 15 AktG
+- Art. 82 DSGVO
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+- § 16 HRG
+- § 70 VwG
+- § 123 VwG
+
+### Leitentscheidungen
+
+- EuGH C-249/21
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -92,3 +92,32 @@ Vor jedem belastenden Verwaltungsakt muss die Behörde grundsaetzlich anhoeren �
 - Landes-VwVfG (Live-Check Landesministerien).
 - BVerwG, staend. Rspr. zu Anhörungspflicht und Heilung.
 - DSGVO Art. 13-15.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 70 VwG
+- § 80 VwG
+- § 28 VwVfG
+- § 123 VwG
+- Art. 3 GG
+- § 60 VwG
+- § 5 VIG
+- § 75 VwG
+- § 40 VwVfG
+- § 10 StAG
+- § 86b SGG
+- § 183 SGG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -229,3 +229,32 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 3 EMRK
+- § 80 VwG
+- § 36 AsylG
+- § 71 AsylG
+- § 74 AsylG
+- Art. 6 GG
+- Art. 8 EMRK
+- § 81 AufenthG
+- § 60a AufenthG
+- § 123 VwG
+- § 5 AufenthG
+- § 10 StAG
+
+### Leitentscheidungen
+
+- BGH V ZB 188/18
+- EuGH C-490/16
+- EuGH C-247/20
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

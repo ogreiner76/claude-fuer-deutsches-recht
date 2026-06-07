@@ -142,3 +142,34 @@ Als Berichterstatter:
 - `relation-zivil` baut auf der Aktenübersicht auf
 - `tatbestand-zivil-schreiben` übernimmt unstreitige Tatsachen
 - `beschluss-bauen-zpo` bei Hinweisbedarf oder Beweisbeschluss
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 38 FamFG
+- § 13 GVG
+- § 137 FamFG
+- Art. 3 DSGVO
+- Art. 9 DSGVO
+- Art. 6 DSGVO
+- § 70 VwG
+- § 123 VwG
+- § 71 GVG
+- § 63 GKG
+- Art. 103 GG
+- § 111 FamFG
+
+### Leitentscheidungen
+
+- BGH VI ZR 96/11
+- BGH VI ZR 113/17
+- BGH VII ZR 213/10
+- BGH VI ZR 39/20
+- BGH VI ZR 40/20
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

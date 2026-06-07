@@ -118,3 +118,32 @@ Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwalt
 - §§ 153, 153a StPO in der geltenden Fassung.
 - § 46a StGB.
 - Quellenregel: vgl. `references/zitierweise.md`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46 StGB
+- § 49 StGB
+- § 55 JGG
+- § 55 StGB
+- § 56 StGB
+- § 46a StGB
+- § 40 StGB
+- § 47 StGB
+- § 56f StGB
+- § 54 StGB
+- § 57 StGB
+- § 105 JGG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

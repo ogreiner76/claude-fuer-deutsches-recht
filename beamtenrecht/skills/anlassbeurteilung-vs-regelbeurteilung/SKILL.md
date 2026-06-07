@@ -70,3 +70,32 @@ Skill für den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichen
 ## 7. Beispiel (Kurzfassung)
 
 Regelbeurteilung Mandant Stichtag vor 4 Jahren, Bewertung "uebertrifft die Anforderungen". Konkurrentin erhielt vor drei Monaten Anlassbeurteilung mit der gleichen Endnote. Skill liefert Argument: entweder Anlassbeurteilung auch für Mandant erforderlich oder Auswahlvergleich auf Basis veralteter Regelbeurteilung unzulaessig — Auswahlentscheidung aufzuheben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 33 GG (hergebrachte Grundsätze des Berufsbeamtentums)
+- §§ 7, 8 BeamtStG / § 12 BBG (Ernennung, Voraussetzungen)
+- § 31 BeamtStG / § 28 BBG (Probezeit)
+- §§ 33-37 BeamtStG (Grundpflichten)
+- §§ 47 ff. BeamtStG, BDG (Dienstvergehen, Disziplinarverfahren)
+- BBesG (Besoldung)
+- BeamtVG (Versorgung)
+- § 78 BBG (Fürsorgepflicht)
+- VwGO §§ 42, 75, 113 (Verpflichtungsklage, Untätigkeit)
+- BLV (Laufbahnverordnung)
+
+### Leitentscheidungen
+
+- BVerfG 2 BvR 1738/12 (Beamtenstreikverbot)
+- BVerwG 2 C 32.10 (amtsangemessene Alimentation)
+- BVerfG 2 BvL 4/18 (Richterbesoldung)
+- BVerwG 2 C 33.20 (Disziplinarmaßnahme Verhältnismäßigkeit)
+- BVerwG 2 C 4.18 (Konkurrentenstreitverfahren)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

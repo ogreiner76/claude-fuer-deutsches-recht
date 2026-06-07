@@ -78,3 +78,33 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Anti-Halluzinations-Hinweis
 - 10-Prozent / 3-Wochen-Schwelle ist BGH-Linie zu § 17 InsO — keine erfundenen Az.
 - Prognosezeitraum § 18 InsO: **24 Monate**; § 19 InsO Fortbestehensprognose: **12 Monate**.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- § 102 StaRUG
+- § 1 StaRUG
+- § 64 GmbHG
+- § 8b KStG
+- § 30 GmbHG
+- § 31 StaRUG
+- § 49 StaRUG
+- § 43 GmbHG
+- § 29 StaRUG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BGH II ZR 296/05
+- BGH IX ZR 129/22
+- BGH II ZR 78/06
+- BGH IX ZR 122/23
+- BGH II ZR 206/22
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

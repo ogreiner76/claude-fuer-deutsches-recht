@@ -64,3 +64,34 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- § 18 AktG
+- § 64 GmbHG
+- § 15 GmbHG
+- § 40 GmbHG
+- § 15 AktG
+- Art. 17 DSGVO
+- § 266 StGB
+- § 3a EStG
+- § 263 StGB
+- § 94 StaRUG
+- § 203 StGB
+
+### Leitentscheidungen
+
+- BGH IX ZR 122/23
+- BGH IX ZR 129/22
+- BFH II R 19/01
+- BGH IV ZR 66/25
+- BGH II ZR 206/22
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

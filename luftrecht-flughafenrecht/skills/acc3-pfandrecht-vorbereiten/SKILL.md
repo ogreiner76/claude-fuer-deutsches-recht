@@ -104,3 +104,32 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 6 LuftVG (Genehmigung Flughäfen)
+- § 8 LuftVG (Planfeststellung)
+- § 27c LuftVG (Flugverkehrskontrolle)
+- § 29 LuftVG (Luftaufsicht)
+- § 32 LuftVG (LuftVZO, LuftVO)
+- §§ 33, 33a LuftVG (Halterhaftung)
+- VO (EG) 261/2004 (Fluggastrechte)
+- VO (EU) 376/2014 (Meldung von Ereignissen Luftfahrt)
+- §§ 8, 8a FluLärmG (Lärmschutzbereiche)
+- EASA-Verordnungen (VO 2018/1139)
+
+### Leitentscheidungen
+
+- EuGH C-402/07 (Sturgeon, Ausgleichsleistung Verspätung)
+- EuGH C-432/20 (Annullierung außergewöhnliche Umstände)
+- BVerwG 4 A 5.08 (Planfeststellung Flughafen BER)
+- BVerwG 4 A 4001.18 (Flughafenausbau Verträglichkeit)
+- BGH X ZR 138/11 (Fluggastrechte und Gerichtsstand)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

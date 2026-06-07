@@ -50,3 +50,25 @@ Dieser Fehlerkatalog prüft im Bereich **Anlagen Zu Schriftsaetzen** Ergebnisse 
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 31 VVG
+- § 16 GeschGehG
+- § 174 GVG
+- Art. 32 DSGVO
+- § 29 VwVfG
+- § 203 StGB
+- § 184 GVG
+
+### Leitentscheidungen
+
+- BGH X ZR 39/16
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

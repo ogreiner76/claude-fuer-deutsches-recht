@@ -47,3 +47,32 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 - Praktischer Kern: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur
 - Bewertungsanker Gebäude/Innenräume: 10 % Gebäude / 7 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 HOAI (Anwendungsbereich)
+- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
+- § 6 HOAI (Honorarvereinbarung)
+- § 7 HOAI (Honorarvereinbarung Schriftform)
+- § 10 HOAI (anrechenbare Kosten)
+- § 14 HOAI (Honorarzonen)
+- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
+- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
+- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
+- VOB/B § 8 (Kündigung, Anwendung neben BGB)
+
+### Leitentscheidungen
+
+- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
+- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
+- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
+- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
+- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

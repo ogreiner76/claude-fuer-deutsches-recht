@@ -101,3 +101,30 @@ Pflichtinhalte Art. 28 Abs. 3 DSGVO:
 Naechste Pruefung: [DATUM]
 Geprueft von: [NAME]
 ```
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 28 DSGVO
+- § 203 StGB
+- Art. 22 DSGVO
+- Art. 9 DSGVO
+- Art. 6 DSGVO
+- § 2 UrhG
+- Art. 30 DSGVO
+- Art. 46 DSGVO
+- Art. 13 DSGVO
+- § 44b UrhG
+- Art. 35 DSGVO
+- § 5 UrhG
+
+### Leitentscheidungen
+
+- BGH VI ZR 273/16
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

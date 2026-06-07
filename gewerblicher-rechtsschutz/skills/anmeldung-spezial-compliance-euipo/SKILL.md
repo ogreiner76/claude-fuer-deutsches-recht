@@ -156,3 +156,33 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren im Detail
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung Schritt für Schritt
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 97a UrhG
+- § 97 UrhG
+- § 8c UWG
+- § 14 MarkenG
+- § 42 MarkenG
+- § 8 UWG
+- § 13 UWG
+- § 26 MarkenG
+- § 9 PatG
+- § 66 MarkenG
+- § 8 MarkenG
+- § 6 ArbnErfG
+
+### Leitentscheidungen
+
+- BGH I ZR 153/16
+- BGH I ZR 82/99
+- BGH I ZR 20/07
+- BGH X ZR 171/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

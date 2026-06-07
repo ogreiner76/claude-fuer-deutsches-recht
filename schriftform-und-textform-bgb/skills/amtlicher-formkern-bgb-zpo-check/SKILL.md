@@ -50,3 +50,32 @@ Liefer:
 ## Referenz
 
 Nutze `references/amtlicher-formkern-bgb-zpo.md`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46h ArbGG
+- § 14 TzBfG
+- § 16 TzBfG
+- § 15 GmbHG
+- § 46c ArbGG
+- § 17 TzBfG
+- § 16a BeurkG
+- § 23a GVG
+- § 113 FamFG
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

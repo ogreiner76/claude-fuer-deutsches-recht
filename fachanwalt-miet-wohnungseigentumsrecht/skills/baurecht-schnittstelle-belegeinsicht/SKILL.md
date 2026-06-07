@@ -273,3 +273,34 @@ Prüfe vier Kernelemente:
 ## Quellen- und Sicherheitsregel
 
 Zitiere als tragenden Anker BGH, Urteil vom 09.04.2008 - VIII ZR 84/07 nur mit frei prüfbarer Quelle. Keine Scheingenauigkeit: Wenn die Abrechnung nur ungeschickt aussieht, aber rechnerisch nachvollziehbar ist, nicht vorschnell "formell unwirksam" behaupten.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 44 WEG
+- § 49 GKG
+- § 23 WEG
+- § 45 WEG
+- § 24 WEG
+- § 9a WEG
+- § 25 WEG
+- § 19 WEG
+- § 9b WEG
+- § 10 WEG
+
+### Leitentscheidungen
+
+- BGH VIII ZR 118/19
+- BGH VIII ZR 84/07
+- BGH VIII ZR 188/17
+- BGH VIII ZR 188/15
+- BGH VIII ZR 249/15
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

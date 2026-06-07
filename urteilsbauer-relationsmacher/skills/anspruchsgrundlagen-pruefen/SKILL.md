@@ -96,3 +96,34 @@ Geprüfte AZ (task_286):
 - BGH VII ZR 101/14 (behauptet NJW 2016, 560): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 184/04, NJW 2005, 1356 (verifiziert auf dejure.org)
 Alle drei Ersatz-AZ wurden über dejure.org-Direktabfrage verifiziert.
 -->
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 38 FamFG
+- § 13 GVG
+- § 137 FamFG
+- Art. 3 DSGVO
+- Art. 9 DSGVO
+- Art. 6 DSGVO
+- § 70 VwG
+- § 123 VwG
+- § 71 GVG
+- § 63 GKG
+- Art. 103 GG
+- § 111 FamFG
+
+### Leitentscheidungen
+
+- BGH VI ZR 96/11
+- BGH VI ZR 113/17
+- BGH VII ZR 213/10
+- BGH VI ZR 39/20
+- BGH VI ZR 40/20
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

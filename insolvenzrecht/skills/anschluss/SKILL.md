@@ -268,3 +268,34 @@ Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsb
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- § 18 AktG
+- § 64 GmbHG
+- § 15 GmbHG
+- § 40 GmbHG
+- § 15 AktG
+- Art. 17 DSGVO
+- § 266 StGB
+- § 3a EStG
+- § 263 StGB
+- § 94 StaRUG
+- § 203 StGB
+
+### Leitentscheidungen
+
+- BGH IX ZR 122/23
+- BGH IX ZR 129/22
+- BFH II R 19/01
+- BGH IV ZR 66/25
+- BGH II ZR 206/22
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

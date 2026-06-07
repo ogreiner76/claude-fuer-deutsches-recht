@@ -90,3 +90,32 @@ Dieser Skill klärt, welche Mitwirkungspflichten Mitarbeiter haben, wie weit die
 - **Stellungnahme** zur Zulässigkeit einer Verdachtskündigung nach Aussageverweigerung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 93 AktG
+- § 26 BDSG
+- § 130 OWiG
+- § 102 BetrVG
+- § 87 BetrVG
+- § 203 StGB
+- § 266 StGB
+- Art. 33 DSGVO
+- § 30 OWiG
+- § 80 BetrVG
+- § 84 AktG
+- § 107 AktG
+
+### Leitentscheidungen
+
+- BGH II ZR 234/09
+- EuGH C-550/07
+- EuGH C-311/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

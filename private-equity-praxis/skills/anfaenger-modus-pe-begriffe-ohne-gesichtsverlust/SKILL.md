@@ -124,3 +124,32 @@ European Waterfall (Kurzfassung):
 - § 18 Abs. 1 Nr. 4 EStG, § 3 Nr. 40a EStG zur Carry-Besteuerung in Personengesellschaft.
 - BFH zur Qualifikation des Carried Interest (ständige Rechtsprechung; konkrete Aktenzeichen vom Anwender zu verifizieren).
 - MiFID-II-Klassifikation (RL 2014/65/EU) und EuVECA-VO 345/2013 für VC-Sphäre.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 19a EStG
+- § 1 KAGB
+- § 8b KStG
+- § 4k EStG
+- § 4h EStG
+- § 80 KAGB
+- § 8d KStG
+- § 67 KAGB
+- § 203 StGB
+- § 18 EStG
+- § 1 InvStG
+- § 124 KAGB
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

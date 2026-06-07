@@ -45,6 +45,35 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffe
 4. `lastUpdateDate`, `validFromDate`, `fiscalYearUpdate.updateMissing`, `refusedAnything`, Regelungsvorhaben, Stellungnahmen, Personen und Finanzdaten pruefen.
 5. Abweichungen in `assets/templates/registerexport-diff.md` dokumentieren.
 
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 3 LobbyRG
+- § 5 LobbyRG
+- § 2 LobbyRG
+- § 4 LobbyRG
+- § 1 LobbyRG
+- § 7 LobbyRG
+- § 6 LobbyRG
+- § 1 GeschGehG
+- Art. 21 GG
+- § 28 VwVfG
+- § 1 bis 7 LobbyRG
+- § 6b BMinG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html

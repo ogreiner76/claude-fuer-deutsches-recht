@@ -133,3 +133,33 @@ Diesen Katalog vor jedem Mahnungsschreiben durchgehen — Standardausreden mit P
 
 - `airline-ausreden-gegenargumente.md` zur Vorbereitung von Mahnung oder Klage.
 - Verweis auf entsprechenden Pinpoint im EuGH-Rspr-Katalog (`references/eugh-rechtsprechung-fluggastrechte.md`).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 71 GVG
+- § 29 VwVfG
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+- § 16 HRG
+- § 70 VwG
+- § 123 VwG
+- Art. 13 DSGVO
+- § 14 UKlaG
+
+### Leitentscheidungen
+
+- EuGH C-402/07
+- EuGH C-549/07
+- EuGH C-204/08
+- EuGH C-394/23
+- EuGH C-188/20
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

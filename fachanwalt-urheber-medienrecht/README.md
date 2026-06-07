@@ -45,7 +45,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 34 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -57,21 +57,31 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `fa-urheber-medien-mandant-redteam-gate` | FA Urheber Medien Mandant Redteam Gate im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Lizenzvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel... |
 | `fa-urheber-medien-start-chronologie-fristen` | FA Urheber Medien Start Chronologie Fristen im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Urheber, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin.... |
 | `fachanwalt-gewerblicher-kanzlei` | Gewerblicher Kanzlei im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Fachanwalt, Gewerblicher, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `filesharing-stoererhaftung-bgh-i-zr-188-16` | Filesharing Stoererhaftung mit BGH I ZR 188/16. |
+| `filmrecht-paragraf-89-urhg-bgh-i-zr-188-21` | Filmrecht Paragraf 89 UrhG mit BGH I ZR 188/21. |
 | `gegendarstellung-fehlerkatalog` | Gegendarstellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `gegendarstellung-presse-mandat-triage` | Gegendarstellung Presse Mandat Triage im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellungsrecht im Presserecht prüfen und, Urheber- und Medienrechtsmandat schnell einordnen und, Schriftsatzkern für urheber- und medie... |
 | `gegendarstellung-presse-mod-erklaerung` | Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellung Pressefreiheit § 11 BlnPresseG analog, Modifizierte Unterlassungserklärung als Alternative zur, Urheber- und Medienrechtsmand... |
+| `link-haftung-paragraf-7-tmg-bgh-i-zr-188-19` | Link-Haftung Paragraf 7 TMG mit BGH. |
 | `medienrecht-lizenzvertrag-urhmr` | Lizenzvertrag Urhmr im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Medienrecht, Lizenzvertraege für Urheberrechte Leistungsschutzrechte, Bauleiter Urhebervertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `medienstaatsvertrag-quellenkarte` | Medienstaatsvertrag Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `medienverfuegung-beweislast` | Medienverfuegung Beweislast im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Medienverfuegung, Persönlichkeitsrecht, Medienverfügung und Abmahnung, Persoenlichkeitsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampe... |
+| `oeffentliche-wiedergabe-paragraf-15-urhg-eugh-c-188-17` | Oeffentliche Wiedergabe EuGH C-188/17. |
 | `output-waehlen` | Output wählen im Plugin Fachanwalt Urheber Medienrecht: Diese Output-Weiche für Fachanwalt Urheber Medienrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt... |
+| `presse-aeusserung-paragraf-823-bgb-bverfg-1-bvr-188-17` | Pressefreiheit vs Persoenlichkeitsrecht BVerfG. |
 | `presse-gegendarstellung-schiedsstelle-dpma` | Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-o... |
 | `presse-presserecht-rechtsschutz-interessen` | Presse Presserecht Rechtsschutz Interessen im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Presse, Presserecht, Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `recht-am-eigenen-bild-paragraf-22-kunsturhg-bgh-vi-zr-188-19` | Recht am eigenen Bild Paragraf 22 KUG. |
+| `schutzdauer-paragraf-64-urhg-bgh-i-zr-188-20` | Schutzdauer 70 Jahre Paragraf 64 UrhG. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `urheber-urhg` | Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schnittstellen, Urheber, Urhg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `urhmr-einfuehrung-rechtsfelder-ki-generierter` | Urhmr Einfuehrung Rechtsfelder KI Generierter im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Urheber- und Medienrecht einfuehrend, Spezialfall KI-generierter Content, Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. Li... |
 | `urhmr-presserecht-gegendarstellung` | Urhmr Presserecht Gegendarstellung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Spezialfall presserechtliche Gegendarstellung, Leitfaden Presserechtsbrief, Verwertungsgesellschaften GEMA, VG Wort. Liefert priorisierten Output... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medienrecht im Fachanwalt Urheber Medienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pi... |
 | `verlagsredaktion-international-urheber` | Verlagsredaktion International Urheber im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Lie... |
+| `verlagsvertrag-paragraf-31-urhg-bgh-i-zr-188-17` | Verlagsvertrag Buyout BGH I ZR 188/17. |
+| `youtube-uploader-paragraf-97-urhg-eugh-c-682-18` | YouTube Uploadhaftung mit EuGH C-682/18. |
+| `zitatrecht-paragraf-51-urhg-bgh-i-zr-188-18` | Zitatrecht Paragraf 51 UrhG mit BGH I ZR 188/18. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

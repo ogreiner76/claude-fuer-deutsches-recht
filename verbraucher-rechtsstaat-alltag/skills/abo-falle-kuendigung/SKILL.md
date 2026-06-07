@@ -74,3 +74,27 @@ Erzeuge je nach Auftrag: einfache Erklärung, Checkliste, Muster-E-Mail, Fristen
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 5 UWG
+- § 31 BDSG
+- Art. 15 DSGVO
+- Art. 21 DSGVO
+- Art. 22 DSGVO
+
+### Leitentscheidungen
+
+- EuGH C-634/21
+- EuGH C-565/22
+- BGH XII ZR 64/21
+- BGH XI ZR 26/20
+- EuGH C-249/21
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

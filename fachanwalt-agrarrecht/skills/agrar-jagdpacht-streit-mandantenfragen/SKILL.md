@@ -170,3 +170,31 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 2 LPachtVG
+- § 45a BNatSchG
+- § 23 LwVG
+- § 80 VwG
+- § 70 VwG
+- § 45 BNatSchG
+- § 4 LPachtVG
+- § 4 BImSchG
+- § 74 VwG
+- § 67 OWiG
+- § 68 VwG
+- § 10 BImSchG
+
+### Leitentscheidungen
+
+- EuGH C-543/16
+- EuGH C-275/05
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

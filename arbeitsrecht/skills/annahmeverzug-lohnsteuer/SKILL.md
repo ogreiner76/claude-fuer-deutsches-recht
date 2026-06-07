@@ -733,3 +733,30 @@ schwerbehinderte Bewerber zu Vorstellungsgespräch einzuladen (auch intern); Ent
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=8+AZR+75%2F19
 Rn.-Angabe "Rn. 22" entfernt, da dejure-Auszug für dieses Thema Rn. 31 cc ausweist.
 -->
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 14 TzBfG
+- § 102 BetrVG
+- § 4 KSchG
+- § 1 KSchG
+- § 17 TzBfG
+- § 26 BDSG
+- § 12 KSchG
+- § 9 KSchG
+- § 7 KSchG
+- § 15 AGG
+- § 23 KSchG
+- § 22 AGG
+
+### Leitentscheidungen
+
+- EuGH C-55/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

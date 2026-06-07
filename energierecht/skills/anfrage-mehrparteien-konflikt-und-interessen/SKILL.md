@@ -62,3 +62,34 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 33 EEG
+- § 75 EnWG
+- § 31 EnWG
+- § 80 VwG
+- § 17 EnWG
+- § 8 EEG
+- § 41 EnWG
+- § 13a EnWG
+- § 46 EnWG
+- § 13 EnWG
+- § 123 VwG
+- § 21 EEG
+
+### Leitentscheidungen
+
+- EuGH C-359/11
+- BGH VIII ZR 158/11
+- BGH VIII ZR 178/08
+- BGH VIII ZR 295/09
+- EuGH C-718/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

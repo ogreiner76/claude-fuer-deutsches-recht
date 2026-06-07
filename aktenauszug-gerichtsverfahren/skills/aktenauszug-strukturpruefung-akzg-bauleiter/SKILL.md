@@ -131,3 +131,34 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Adressat und Tonfall
 
 Adressat: Sachbearbeiter / Kanzleiintern — Tonfall: sachlich-juristisch, präzise Mängelangabe.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 KSchG
+- § 80 VwG
+- § 86b SGG
+- § 74 VwG
+- § 124 VwG
+- § 64 ArbGG
+- § 72 ArbGG
+- § 132 VwG
+- § 123 VwG
+- § 103 SGG
+- § 151 SGG
+- § 66 ArbGG
+
+### Leitentscheidungen
+
+- BGH VII ZB 36/20
+- BGH VI ZR 146/19
+- BGH VI ZR 84/19
+- BGH VI ZR 396/18
+- BGH VII ZR 131/13
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

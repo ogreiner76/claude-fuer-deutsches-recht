@@ -1,10 +1,10 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v230.0.0 / Repo-weiter Qualitäts-Sweep: ~2400 Skills entpräfixt, ~100 Wortsalat-Slugs entwortsalatet, 71 Truncations gefixt, Codex-Polish v216 (Prüffeld -> Prüfungslinie) übernommen
-**Plugins gesamt:** 210
-**Skills gesamt:** 18240
-**Testakten gesamt:** 201
+**Arbeitsstand:** v231.0.0 / 230 Norm-Skills in 23 Fachanwalt-Plugins ergänzt, status-navigator-step-plan (65 Skills) und verhaeltnismaessigkeitspruefer (30 Skills) als neue Plugins, polizeirechtliche Testakte Pohlmann-Forst-Lausitz (20 Aktenstücke), 1.124 Skills mit kuratierten Normen-Sektionen veredelt
+**Plugins gesamt:** 212
+**Skills gesamt:** 18535
+**Testakten gesamt:** 203
 
 ## Kurzbefund
 
@@ -29,7 +29,7 @@ Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erh
 |---|---|
 | `python3 scripts/validate-yaml-frontmatter.py` | OK — 0 Fehler, 0 Warnungen |
 | `node scripts/validate-plugin-structure.mjs` | OK |
-| `python3 scripts/validate-testakten-gesamt-pdf.py` | OK — 201 Testakten |
+| `python3 scripts/validate-testakten-gesamt-pdf.py` | OK — 203 Testakten |
 | `python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json` | OK — lokale ZIP-Simulation für alle Marketplace-Plugins |
 | `git diff --check` | OK |
 

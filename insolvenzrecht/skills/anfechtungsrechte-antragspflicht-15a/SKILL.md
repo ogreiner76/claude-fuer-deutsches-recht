@@ -229,3 +229,34 @@ Bevor losgelegt wird, klaere:
 3. **Nahestehende Person § 138 InsO?** Gesellschafter >25%, GF, Ehegatte → Beweislastumkehr zugunsten IV.
 4. **Bargeschäft § 142 InsO?** Bei kongruenten unmittelbaren Austauschen: Bargeschäft prüfen; Unlauterkeit nach BGH IX ZR 122/23 separat darlegen.
 5. **Vorsatz § 133 InsO?** Nach BGH IX ZR 129/22 (18.04.2024): konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung, nicht bloß drohende ZU.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- § 18 AktG
+- § 64 GmbHG
+- § 15 GmbHG
+- § 40 GmbHG
+- § 15 AktG
+- Art. 17 DSGVO
+- § 266 StGB
+- § 3a EStG
+- § 263 StGB
+- § 94 StaRUG
+- § 203 StGB
+
+### Leitentscheidungen
+
+- BGH IX ZR 122/23
+- BGH IX ZR 129/22
+- BFH II R 19/01
+- BGH IV ZR 66/25
+- BGH II ZR 206/22
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

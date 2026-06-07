@@ -65,3 +65,31 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 - Konkretes Arbeitsprodukt: Checkliste, Mail, Memo, Vertragspunkt, Payroll-Übergabe oder Untersuchungsplan.
 - Datenschutzvermerk: welche Daten dürfen an wen, welche nicht.
 - Nächster Handgriff mit Owner und Frist.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 KSchG
+- § 26 BDSG
+- § 87 BetrVG
+- § 15 AGG
+- § 88 TKG
+- § 13 AGG
+- § 23 GeschGehG
+- § 17 UWG
+- § 102 BetrVG
+- Art. 6 DSGVO
+- Art. 33 DSGVO
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

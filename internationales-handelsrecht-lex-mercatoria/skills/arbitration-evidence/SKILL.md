@@ -62,3 +62,34 @@ Das internationale Schiedsverfahren kennt kein einheitliches Prozessrecht. Die I
 ## Quellenregel
 
 IBA Rules 2020: ibanet.org. ICC Schiedsregeln 2021: iccwbo.org. § 1042 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (3. Aufl. 2021) Kap. 22. Unsicherheit bleibt sichtbar.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 6 UStG
+- § 17 UWG
+- § 13b UStG
+- § 69a UrhG
+- § 9 GeschGehG
+- § 19 AktG
+- § 5 HGeschGehG
+- § 14 MarkenG
+- Art. 28 DSGVO
+- Art. 101 AEUV
+- Art. 29 EUV
+- Art. 215 AEUV
+
+### Leitentscheidungen
+
+- BGH VIII ZR 136/01
+- EuGH C-126/97
+- BGH VIII ZR 274/98
+- BGH VIII ZR 304/00
+- EuGH C-311/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

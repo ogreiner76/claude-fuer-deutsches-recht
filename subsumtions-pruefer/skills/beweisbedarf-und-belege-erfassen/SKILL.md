@@ -153,3 +153,32 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 <!-- AUDIT 27.05.2026
 BGH VI ZR 290/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt.
 -->
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 267 AEUV
+- § 70 VwG
+- § 74 VwG
+- § 93 BVerfGG
+- § 40 VwG
+- § 2 StGB
+- § 21 OWiG
+- § 22 AGG
+- § 13 GVG
+- § 71 GVG
+- § 80 VwG
+- § 2 ArbGG
+
+### Leitentscheidungen
+
+- BGH VI ZR 188/17
+- BGH VI ZR 26/21
+- BGH VI ZR 290/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

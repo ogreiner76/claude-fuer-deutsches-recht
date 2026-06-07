@@ -260,3 +260,30 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 267 AEUV
+- Art. 263 AEUV
+- Art. 258 AEUV
+- Art. 288 AEUV
+- Art. 265 AEUV
+- Art. 19 EUV
+- Art. 6 EUV
+- Art. 260 AEUV
+- Art. 294 AEUV
+- Art. 108 AEUV
+- Art. 228 AEUV
+- Art. 227 AEUV
+
+### Leitentscheidungen
+
+- EuGH C-6/64
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

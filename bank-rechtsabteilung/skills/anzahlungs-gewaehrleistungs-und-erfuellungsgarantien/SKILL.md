@@ -81,3 +81,30 @@ Ergänze:
 - `buergschaft-auf-erste-anforderung-bank`
 - `garantieabruf-missbrauch-und-zahlungsstopp`
 - `kreditentscheidung-weiterfinanzierung`
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 25c KWG
+- § 10 ZAG
+- § 1 ZAG
+- § 25 ZAG
+- § 25b KWG
+- § 17 ZAG
+- § 32 KWG
+- § 2c KWG
+- § 24 KWG
+- § 16 ZAG
+- § 34 ZAG
+- § 38 ZAG
+
+### Leitentscheidungen
+
+- BGH XI ZR 56/93
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

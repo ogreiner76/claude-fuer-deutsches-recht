@@ -281,3 +281,34 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk
 
 ## Qualitätsgate
 Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 51 VersAusglG
+- § 165 FamFG
+- § 156 FamFG
+- § 89 FamFG
+- § 3 VersAusglG
+- § 137 FamFG
+- § 49 FamFG
+- § 18 VersAusglG
+- § 63 FamFG
+- § 2 SBGG
+- § 158 FamFG
+- § 1 VersAusglG
+
+### Leitentscheidungen
+
+- BGH XII ZB 186/15
+- BGH XII ZR 129/04
+- BGH XII ZB 72/19
+- BGH XII ZR 188/16
+- BGH XII ZR 181/22
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

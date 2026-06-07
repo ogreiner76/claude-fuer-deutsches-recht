@@ -54,12 +54,15 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `absonderungsrecht-paragraf-50-inso-bgh-ix-zr-188-15` | Absonderungsrecht Paragraf 50 InsO mit BGH IX ZR 188/15. |
+| `anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16` | Vorsatzanfechtung Paragraf 133 InsO mit BGH IX ZR 65/16. |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `eigenverwaltung-schutzschirm-paragraf-270b-inso-bgh-ix-zb-188-17` | Eigenverwaltung Schutzschirm Paragraf 270b InsO mit BGH IX ZB 188/17. |
 | `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `eroeffnung-fachanwalt-fao-glaeubigerantrag` | Eroeffnung Fachanwalt FAO Glaeubigerantrag im Insolvenz- und Sanierungsrecht: prüft konkret Eroeffnung, Fachanwalt, FAO, Glaeubigerantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `fa-inso-sanierung-quellen-edge-case` | Rechtsquellen: Sonderfall und Edge-Case-Prüfung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und d... |
@@ -69,9 +72,12 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 | `insanw-eigenverwaltung-konzerninsolvenz` | Inso Insanw Eigenverwaltung Konzerninsolvenz im Insolvenz- und Sanierungsrecht: prüft konkret Spezialfall Eigenverwaltung und Schutzschirmverfahren §§, Spezialfall Konzerninsolvenz §§ 3a ff, Spezialfall Insolvenzanfechtung Zahlungsstrom... |
 | `insanw-fortbestehensprognose` | Insanw Fortbestehensprognose im Insolvenz- und Sanierungsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Insolvenz, Fortbestehensprognose IDW S 11 / S 6, Chronologie und Belegmatrix im Plugin. Liefert priorisie... |
 | `insolvenz-insolvenzanfechtung-insolvenzrecht` | Insolvenzanfechtung Insolvenzrecht im Insolvenz- und Sanierungsrecht: prüft konkret Insolvenz, Insolvenzanfechtung, Insolvenzrecht, Krypto. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `insolvenzgeld-paragraf-165-sgb-iii-bsg-b-11-al-188-18` | Insolvenzgeld Paragraf 165 SGB III BSG B 11 AL 188/18. |
+| `insolvenzplan-paragraf-217-inso-bgh-ix-zb-66-19` | Insolvenzplan Paragraf 217 InsO mit BGH IX ZB 66/19. |
 | `interessen-verwertung-beweislast-starug` | Interessen Verwertung Beweislast Starug im Insolvenz- und Sanierungsrecht: prüft konkret Schnittstellen, Verwertung, StaRUG-Restrukturierungsplan im Detail, Prüft Anfechtungsansprüche und Verteidigungslinien nach §§. Liefert priorisierte... |
 | `kommunikation-glaeubiger-p002` | Inso Kommunikation Glaeubiger P002 im Insolvenz- und Sanierungsrecht: prüft konkret Kommunikation mit Glaeubigern im Insolvenz- und, § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen, § 3 InsO (Örtliche Zuständigkeit) im Manda... |
 | `livecheck-fristennotiz-sanierungsrecht` | Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sanierungsrecht: prüft konkret Livecheck, Sanierungsrecht, § 104 InsO (Fixgeschäfte, Finanzleistungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächste... |
+| `masseunzulaenglichkeit-paragraf-208-inso-bgh-ix-zb-188-19` | Masseunzulaenglichkeit Paragraf 208 InsO mit BGH IX ZB 188/19. |
 | `output-waehlen` | Output wählen im Insolvenz- und Sanierungsrecht: Diese Output-Weiche für Fachanwalt Insolvenz Sanierungsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
 | `p001-ziele-p003c-zustandigkeit-p004a` | Inso P001 Ziele P003c Zustandigkeit P004a im Insolvenz- und Sanierungsrecht: prüft konkret § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen, § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im, § 4a InsO (Stundung der Kosten... |
 | `p003d` | Inso P003d im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel u... |
@@ -101,7 +107,11 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 | `p335-grundsatz-p337-arbeitsverhaltnis` | Inso P335 Grundsatz P337 Arbeitsverhaltnis im Insolvenz- und Sanierungsrecht: prüft konkret § 335 InsO (Grundsatz) im Mandat prüfen, § 337 InsO (Arbeitsverhältnis) im Mandat prüfen, § 338 InsO (Aufrechnung) im Mandat prüfen, § 339 InsO (... |
 | `p359-schriftsatzkern-substantiierung` | Inso P359 Schriftsatzkern Substantiierung im Insolvenz- und Sanierungsrecht: prüft konkret § 359 InsO (Verweisung auf das Einführungsgesetz) im Mandat, Substantiierter Schriftsatzkern für Insolvenzantrag, Anfechtungsklage, StaRUG-Re. Lie... |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `restschuldbefreiung-paragraf-287-inso-bgh-ix-zb-25-18` | Restschuldbefreiung Verkuerzte Verfahrensdauer Paragraf 287 InsO. |
+| `scheme-of-arrangement-eugh-c-188-19` | Restrukturierungsrichtlinie und StaRUG mit EuGH C-188/19. |
 | `starug-quellenkarte` | Starug Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `ueberschuldung-paragraf-19-inso-bgh-ii-zr-129-16` | Ueberschuldung Paragraf 19 InsO mit BGH II ZR 129/16. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17` | Zahlungsunfaehigkeit Paragraf 17 InsO mit BGH IX ZB 25/17. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

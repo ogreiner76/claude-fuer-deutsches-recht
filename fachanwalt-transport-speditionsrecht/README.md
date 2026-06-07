@@ -44,29 +44,39 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 34 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `autonome-lkw-cmr-schadensregulierung` | Autonome LKW CMR Schadensregulierung im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren, Schadensregulierung im grenzüberschreitenden Gueterverkehr, Speditionshaftun... |
+| `cmr-haftung-art-17-cmr-bgh-i-zr-188-18` | CMR-Haftung Art 17 mit BGH I ZR 188/18. |
 | `cmr-haftung-ladungsschaden` | CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Be... |
 | `cotif-fachanwalt-haager` | Cotif Fachanwalt Haager im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Cotif, Fachanwalt, Haager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `fa-transport-spedition-mandant-redteam` | FA Transport Spedition Mandant Redteam im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Liefert priorisierten Output mit Norm-Pinpoints,... |
 | `fa-transport-spedition-start-chronologie-fristen` | FA Transport Spedition Start Chronologie Fristen im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Transport, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoamp... |
+| `frachtfuehrerhaftung-paragraf-425-hgb-bgh-i-zr-188-19` | Frachtfuehrerhaftung Paragraf 425 HGB mit BGH I ZR 188/19. |
+| `gefahrgut-adr-paragraf-9-gefstoffvo-bgh-i-zr-188-15` | Gefahrgut ADR Paragraf 9 GefStoffVO. |
 | `hgb-kabotage-beweislast-kanzlei-red-team-korrektur` | HGB Kabotage Beweislast Kanzlei RED im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret HGB, Kabotage, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `ladungsschaden-art-23-cmr-bgh-i-zr-188-21` | Ladungsschaden Art 23 CMR Hoechstbetrag. |
 | `lieferverzug-orientierung-mandat-triage` | Lieferverzug Orientierung Mandat Triage im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Lieferverzug im Gueterverkehr prüfen, Orientierungs-Skill Transport- und Speditionsrecht, Ersteinordnung neuer Mandate im Transport- un... |
+| `luftfracht-monteral-uebereinkommen-bgh-x-zr-188-19` | Luftfracht Montreal Uebereinkommen mit BGH X ZR 188/19. |
 | `marktzugang-sonderfall-montrealer` | Marktzugang Sonderfall Montrealer im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Marktzugang, Montrealer, Pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `multimodaler-transport-paragraf-452-hgb-bgh-i-zr-188-17` | Multimodal Paragraf 452 HGB mit BGH I ZR 188/17. |
 | `output-waehlen` | Output wählen im Plugin Fachanwalt Transport Speditionsrecht: Diese Output-Weiche für Fachanwalt Transport Speditionsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige näch... |
+| `paketdienst-haftung-paragraf-449-hgb-bgh-i-zr-188-20` | Paketdienst Paragraf 449 HGB mit BGH I ZR 188/20. |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `regeln-interessen-schnittstelle-spedition` | Regeln Interessen Schnittstelle Spedition im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Regeln, Schnittstelle, Spedition. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `reklamationsschreiben-cmr-schriftsatzkern` | Reklamationsschreiben CMR Schriftsatzkern im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR, Schriftsatzkern im Transport- und Speditionsrecht, Adsp. Liefert prioris... |
+| `seerecht-handelsgesetzbuch-paragraf-485-hgb-olg-188-21` | Seerecht Paragraf 485 HGB Verfrachterhaftung. |
 | `speditionsrecht-tio-schiedsgericht` | TIO Schiedsgericht im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Speditionsrecht, TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im, Frachtvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächst... |
+| `speditionsversicherung-paragraf-460-hgb-olg-188-19` | Speditionsversicherung Paragraf 460 HGB. |
 | `trans-cmr-frachtbrief-hgb-spedition-kabotage` | Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und. Liefert... |
 | `trans-multimodaler-transr-cmr` | Trans Multimodaler Transr CMR im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Spezialfall multimodaler Transport § 452 HGB und, Spezialfall CMR grenzueberschreitend, Spezialfall multimodaler Transport. Liefert priorisierten... |
 | `trans-transport-visby` | Trans Transport Visby im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Trans, Transport, Visby. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `transport-paragraf-431-hgb-bgh-i-zr-188-22` | Transport Paragraf 431 HGB Haftungshoechstbetrag. |
 | `transr-einfuehrung-rechtsquellen` | Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle. |
 | `transr-haftungssystem-erstgespraech` | Transr Haftungssystem Erstgespraech im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Haftungssystem Grundzuege, Erstgespraeches-Aufnahme im Transport- und Speditionsrecht, Gefahrguttransport-Haftung und ADR-Verstoss klaeren.... |
 | `uebereinkommen-quellenkarte` | Uebereinkommen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |

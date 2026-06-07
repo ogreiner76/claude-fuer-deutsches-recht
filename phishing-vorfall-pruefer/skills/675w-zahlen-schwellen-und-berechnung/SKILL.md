@@ -59,3 +59,30 @@ Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" 
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 263a StGB
+- Art. 33 DSGVO
+- § 1 ZAG
+- § 31 VVG
+- § 55 ZAG
+- Art. 34 DSGVO
+- § 4 FinDAG
+- § 27 ZAG
+- § 269 StGB
+- § 29 VwVfG
+- Art. 15 DSGVO
+- § 32 BSIG
+
+### Leitentscheidungen
+
+- BGH XI ZR 91/14
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

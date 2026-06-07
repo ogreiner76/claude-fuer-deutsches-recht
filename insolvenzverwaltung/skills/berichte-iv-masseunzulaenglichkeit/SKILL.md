@@ -97,3 +97,34 @@ Bevor losgelegt wird, klaere:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 6 StaRUG
+- § 27 StaRUG
+- § 2 StaRUG
+- § 64 StaRUG
+- § 8c KStG
+- § 14 StaRUG
+- § 7 StaRUG
+- § 26 StaRUG
+- § 34 StaRUG
+- § 266a StGB
+- § 15 GmbHG
+- § 40 GmbHG
+
+### Leitentscheidungen
+
+- BGH IX ZR 129/22
+- BGH IX ZR 122/23
+- BGH IX ZR 127/24
+- BGH IX ZR 114/23
+- BGH II ZR 206/22
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

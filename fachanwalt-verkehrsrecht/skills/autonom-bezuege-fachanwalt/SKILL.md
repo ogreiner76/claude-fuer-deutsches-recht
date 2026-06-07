@@ -178,3 +178,34 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Frist-Re-Check:** § 195 BGB / § 199 BGB Schaden; § 67 OWiG 2 Wochen; § 410 StPO 2 Wochen; § 314 StPO 1 Woche; § 30 VVG unverzueglich; § 25 IIa StVG 4-Monatsfrist Fahrverbot.
 - **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit pruefen).
 - **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich für alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 67 OWiG
+- § 69a StGB
+- § 7 StVG
+- § 18 StVG
+- § 115 VVG
+- § 69 StGB
+- § 4 StVG
+- § 33 OWiG
+- § 24a StVG
+- § 17 StVG
+- § 55 OWiG
+- § 26 StVG
+
+### Leitentscheidungen
+
+- BGH VI ZR 12/24
+- BGH VI ZR 280/22
+- BGH VI ZR 253/22
+- BGH VI ZR 239/22
+- BGH VI ZR 24/25
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

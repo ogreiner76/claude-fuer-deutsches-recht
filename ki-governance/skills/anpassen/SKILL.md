@@ -165,3 +165,32 @@ Leitplanken: [KEINE DEGRADATION / DEGRADIERT: BESCHREIBUNG UND BESTAETIGUNG]
 Naechste Pruefung: [DATUM]
 Geaendert von: [NAME], [DATUM]
 ```
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 35 DSGVO
+- § 203 StGB
+- Art. 22 DSGVO
+- Art. 28 DSGVO
+- § 87 BetrVG
+- § 26 BDSG
+- § 44b UrhG
+- Art. 36 DSGVO
+- Art. 9 DSGVO
+- Art. 79 DSGVO
+- Art. 32 DSGVO
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

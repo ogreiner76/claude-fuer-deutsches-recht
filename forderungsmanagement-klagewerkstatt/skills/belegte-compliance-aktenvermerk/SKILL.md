@@ -65,3 +65,34 @@ vom [Datum] Anlage [Nr]. Wiedervorlage
 
 - [BORA 50](https://www.gesetze-im-internet.de/bora/__50.html)
 - [BRAO 43a](https://www.gesetze-im-internet.de/brao/__43a.html)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 3a RVG
+- § 71 GVG
+- § 19 GmbHG
+- § 8 RVG
+- § 4 RDGEG
+- § 41 GKG
+- § 13 GmbHG
+- § 31 GmbHG
+- § 9 RVG
+- § 23a GVG
+- § 23 RVG
+- § 215 VVG
+
+### Leitentscheidungen
+
+- BGH II ZR 256/02
+- BGH VII ZR 162/00
+- EuGH C-377/17
+- BGH VIII ZR 261/06
+- BGH XI ZR 564/15
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

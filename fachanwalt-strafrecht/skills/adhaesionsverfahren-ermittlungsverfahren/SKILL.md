@@ -515,3 +515,34 @@ Lege mindestens an:
 - `Wiedervorlagenliste`
 - `Rot-Liste heute`
 - `Nächste Kanzleihandlung`
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46a StGB
+- § 263 StGB
+- § 49 StGB
+- § 177 StGB
+- § 46 StGB
+- § 46b StGB
+- § 35 BtMG
+- § 261 StGB
+- § 249 StGB
+- § 212 StGB
+- § 31 BtMG
+- § 240 StGB
+
+### Leitentscheidungen
+
+- EuGH C-610/15
+- EuGH C-527/15
+- EuGH C-128/11
+- EuGH C-145/10
+- EuGH C-355/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

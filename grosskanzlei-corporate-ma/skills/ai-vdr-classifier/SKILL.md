@@ -82,3 +82,32 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 705 ff. BGB (GbR)
+- §§ 105 ff. HGB (OHG)
+- §§ 161 ff. HGB (KG)
+- §§ 13, 15 GmbHG (Anteilsübertragung)
+- § 53 GmbHG (Satzungsänderung)
+- § 33 GWB, FKVO 139/2004 (Fusionskontrolle)
+- § 311 BGB i.V.m. §§ 433, 453 BGB (Unternehmenskauf, share/asset deal)
+- §§ 25, 28 HGB (Firmenfortführung, Haftung)
+- §§ 2-4 UmwG (Verschmelzung)
+- § 1 InvKG, AWG/AWV §§ 55-62 (Investitionsprüfung)
+
+### Leitentscheidungen
+
+- BGH II ZR 17/19 (Earn-Out-Klauseln, Kontrolle)
+- BGH II ZR 280/14 (Gewährleistungsausschluss share deal)
+- BGH II ZR 109/13 (W&I-Versicherung, Sale and Purchase)
+- EuGH C-93/13 P (FKVO-Verfahren)
+- BGH II ZR 71/11 (Auskunftsrechte Datenraum)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

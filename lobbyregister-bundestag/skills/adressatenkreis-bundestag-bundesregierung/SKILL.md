@@ -38,6 +38,35 @@ Ermitteln, ob der konkrete Kontakt in den Anwendungsbereich faellt.
 
 Reformfassung des LobbyRG durch das Gesetz zur Aenderung des Lobbyregistergesetzes vom 15.01.2024, in Kraft seit 01.03.2024. Wesentliche Neuerung: Kontakte zu Bundesministerien werden bereits ab Referatsleiterebene erfasst (§ 1 Abs. 3 Nr. 2 LobbyRG n.F.). Uebergangsfrist für Bestandsregistrierungen lief bis 30.06.2024.
 
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 3 LobbyRG
+- § 5 LobbyRG
+- § 2 LobbyRG
+- § 4 LobbyRG
+- § 1 LobbyRG
+- § 7 LobbyRG
+- § 6 LobbyRG
+- § 1 GeschGehG
+- Art. 21 GG
+- § 28 VwVfG
+- § 1 bis 7 LobbyRG
+- § 6b BMinG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+
 ## Quellenanker
 
 - LobbyRG (konsolidierte Fassung 2024): https://www.bundestag.de/resource/blob/991838/Konsolidierte-Fassung-LobbyRG-2024.pdf

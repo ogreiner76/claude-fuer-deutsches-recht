@@ -43,3 +43,34 @@ Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und näc
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 33 DSGVO
+- Art. 34 DSGVO
+- Art. 9 DSGVO
+- Art. 56 DSGVO
+- Art. 32 DSGVO
+- § 32 BSIG
+- Art. 28 DSGVO
+- Art. 82 DSGVO
+- § 203 StGB
+- Art. 55 DSGVO
+- Art. 36 DSGVO
+- § 8b BSIG
+
+### Leitentscheidungen
+
+- EuGH C-311/18
+- EuGH C-300/21
+- EuGH C-589/22
+- BGH XII ZR 188/16
+- BGH I ZR 188/20
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

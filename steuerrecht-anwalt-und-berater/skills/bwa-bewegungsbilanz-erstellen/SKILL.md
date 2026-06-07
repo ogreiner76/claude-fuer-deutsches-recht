@@ -162,3 +162,32 @@ Stand: 05/2026.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 8 AO (Wohnsitz, Aufenthalt)
+- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
+- § 42 AO (Gestaltungsmissbrauch)
+- §§ 169-171 AO (Festsetzungsverjährung)
+- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
+- § 370 AO (Steuerhinterziehung)
+- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
+- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
+- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
+- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
+
+### Leitentscheidungen
+
+- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
+- BFH XI R 11/22 (Reverse-Charge-Verfahren)
+- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
+- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
+- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -102,3 +102,32 @@ Safe Harbour prüfen.
 Weitere Quellen:
 - DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
 - §§ 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 119 WpHG
+- § 97 WpHG
+- § 120 WpHG
+- § 93 AktG
+- § 50 WpHG
+- § 10 WpÜG
+- § 4 WpHG
+- § 98 WpHG
+- § 80 WpHG
+- § 116 AktG
+- § 39 BörsG
+- § 89 KWG
+
+### Leitentscheidungen
+
+- EuGH C-19/11
+- EuGH C-628/13
+- BGH II ZB 26/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

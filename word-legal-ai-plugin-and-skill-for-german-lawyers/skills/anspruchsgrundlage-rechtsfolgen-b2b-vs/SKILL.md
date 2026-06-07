@@ -197,3 +197,32 @@ Mit Zugang der Kuendigung endet der Vertrag. § 9 Abs. 3 (Folgen) gilt.
 
 - § 280 BGB, § 281 BGB, § 286 BGB, § 288 BGB, § 308 BGB, § 309 BGB, § 437 BGB, § 634 BGB; § 377 HGB. gesetze-im-internet.de.
 - AGB-Rechtsprechung des BGH zu Mantelklauseln: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 203 StGB
+- Art. 28 DSGVO
+- § 11 ProdHaftG
+- § 41 UrhG
+- § 31a UrhG
+- § 32 UrhG
+- § 35 UrhG
+- Art. 32 DSGVO
+- § 2 GeschGehG
+- § 29 UrhG
+- § 31 UrhG
+- § 34 UrhG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

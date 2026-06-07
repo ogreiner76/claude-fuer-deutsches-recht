@@ -81,3 +81,32 @@ Wirksamkeit des Vertrags mit dem gewollten Inhalt, ohne Anfechtung.
 - Wenn Auslegung scheitert: Liegt ein Dissens (§§ 154/155 BGB) oder Anfechtungsgrund vor?
 - Anfechtung nur subsidiär, wenn Auslegung keinen gemeinsamen Willen ergibt?
 - Sind Ergebnis und Begründung im Gutachten klar getrennt?
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46h ArbGG
+- § 35 GmbHG
+- § 291 StGB
+- § 22 RDG
+- § 13 GmbHG
+- § 11 GmbHG
+- § 14 TzBfG
+- § 46c ArbGG
+- § 41 VwVfG
+- § 291 bis 302 StGB
+- § 263 StGB
+
+### Leitentscheidungen
+
+- BGH NJW 1984/2279
+- BGH NJW 2004/1320
+- BGH NJW 2011/2643
+- BGH NJW 2005/53
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

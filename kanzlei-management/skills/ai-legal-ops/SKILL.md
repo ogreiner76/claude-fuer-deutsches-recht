@@ -83,3 +83,24 @@ Erzeuge:
 ## Quellen- und Compliance-Hygiene
 
 Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 203 StGB
+- § 4 RVG
+- § 10 RVG
+- § 3a RVG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

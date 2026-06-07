@@ -89,3 +89,32 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [§ 179 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__179.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 9 Rom-I-VO
+- Art. 101 AEUV
+- Art. 28 DSGVO
+- § 14 UStG
+- § 19 UStG
+- § 5 ArbGG
+- § 59 VVG
+- § 1 UStG
+- § 23 GeschGehG
+- § 66c EnWG
+- Art. 17 DSGVO
+- § 75 AMG
+
+### Leitentscheidungen
+
+- EuGH C-465/04
+- EuGH C-381/19
+- EuGH C-217/05
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -78,3 +78,32 @@ Die Anfechtung erfolgt durch Erhebung einer Anfechtungsklage (§ 13 AnfG) oder d
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung)
+- § 813 BGB (Leistung trotz Einrede)
+- § 814 BGB (Kenntnis der Nichtschuld)
+- § 815 BGB (Nichteintritt des Erfolges)
+- § 817 BGB (Verstoß gegen Verbotsgesetz)
+- § 818 BGB (Umfang des Bereicherungsanspruchs)
+- § 819 BGB (verschärfte Haftung)
+- § 820 BGB (Verbrauchskondiktion)
+- § 821 BGB (Einrede der Bereicherung)
+- §§ 119, 123 BGB (Anfechtung Willenserklärung)
+
+### Leitentscheidungen
+
+- BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
+- BGH VIII ZR 91/04 (Saldotheorie)
+- BGH V ZR 215/11 (Nichteintritt des Erfolges)
+- BGH IX ZR 196/14 (Insolvenzanfechtung)
+- BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

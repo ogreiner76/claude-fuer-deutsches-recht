@@ -45,11 +45,12 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 38 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `berufsunfaehigkeit-paragraf-172-vvg-bgh-iv-zr-188-19` | Berufsunfaehigkeit Paragraf 172 VVG mit BGH IV ZR 188/19. |
 | `bu-anerkennt-leistungspruefung` | Versr BU Anerkennt Leistungspruefung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Spezialfall Berufsunfaehigkeitsversicherung, Spezialfall BU-Leistungspruefung, BU-Anerkenntnis, Nachprüfung und Leistungseinstellung. Liefert pri... |
 | `cyber-loesegeld-versr-deckungsanfrage` | Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versicherungsrecht: prüft konkret Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und, Cyberversicherung bei Ransomware, Prüfung von Versicherungsschadenfaellen und. Liefer... |
 | `d-o-spezialfall-deckungsklage-leitfaden` | Versr D O Spezialfall Deckungsklage Leitfaden im Plugin Fachanwalt Versicherungsrecht: prüft konkret D&O-Deckung bei Organhaftung, Spezialfall D-and-O-Versicherung, Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz. Liefert prioris... |
@@ -62,18 +63,27 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `fa-versicherungsrecht-start-chronologie-fristen` | FA Versicherungsrecht Start Chronologie Fristen im Plugin Fachanwalt Versicherungsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin. Lief... |
 | `fachanwalt-kanzlei-krankenversicherung` | Kanzlei Krankenversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Fachanwalt, Kanzlei, Krankenversicherung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `fehlerkatalog` | Versr Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
+| `gebaeudeversicherung-paragraf-86-vvg-bgh-iv-zr-188-21-2` | Gebaeudeversicherung Regress Paragraf 86 VVG. |
+| `haftpflicht-paragraf-100-vvg-bgh-iv-zr-188-17` | Haftpflicht Deckung Paragraf 100 VVG mit BGH. |
 | `haftpflicht-quellenkarte` | Haftpflicht Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `hausratversicherung-paragraf-19-vvg-bgh-iv-zr-188-18` | Hausrat Anzeigepflicht Paragraf 19 VVG. |
+| `kfz-haftpflicht-paragraf-115-vvg-bgh-iv-zr-188-22` | KFZ-Haftpflicht Direktanspruch BGH IV ZR 188/22. |
 | `klage-versicherer-triage-versicherungsrecht` | Klage Versicherer Triage Versicherungsrecht im Plugin Fachanwalt Versicherungsrecht: prüft konkret Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatz... |
 | `lebens-leistungsablehnung-international` | Lebens Leistungsablehnung International im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebens, Leistungsablehnung, Obliegenheitsverletzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `lebensversicherung-bezugsrecht` | Versr Lebensversicherung Bezugsrecht im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebensversicherung, Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober, Rechtsf, Obliegenheitsverletzung in der Praxis. Liefert priorisiert... |
+| `lebensversicherung-widerruf-paragraf-152-vvg-bgh-iv-zr-188-15` | Lebensversicherung Widerruf Paragraf 152 VVG mit BGH. |
 | `mandantenkommunikation-redteam` | Mandantenkommunikation Redteam im Plugin Fachanwalt Versicherungsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin fachanwalt-versicherungsrecht, Berufsunfaehigkeit. Liefert priorisierten Output mit No... |
 | `ombudsmann-gdv-orientierung-regress-abwehr` | Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Versicherungsrecht: prüft konkret Außergerichtliche Schlichtung über Versicherungs-Ombudsmann, Orientierung im Versicherungsvertragsrecht für Mandate und, Regressabwehr gege... |
 | `output-waehlen` | Output wählen im Plugin Fachanwalt Versicherungsrecht: Diese Output-Weiche für Fachanwalt Versicherungsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
 | `pkv-beitragsanpassung-rechtsschutz` | Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ, Spezialfall Rechtsschutzversicherungs-Deckungsklage. Liefer... |
+| `private-krankenversicherung-paragraf-203-vvg-bgh-iv-zr-188-21` | PKV-Praemienerhoehung Paragraf 203 VVG mit BGH. |
 | `private-rechtsschutz-beweislast` | Private Rechtsschutz Beweislast im Plugin Fachanwalt Versicherungsrecht: prüft konkret Private, Pruefen, Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `rechtsschutz-paragraf-3-arb-bgh-iv-zr-188-20` | Rechtsschutz Deckung Paragraf 3 ARB mit BGH IV ZR 188/20. |
+| `rente-versicherung-paragraf-149-vvg-bgh-iv-zr-188-19-2` | Rentenversicherung Auszahlung Paragraf 149 VVG. |
 | `rentenversicherung-sachversicherung` | Rentenversicherung Sachversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Rentenversicherung, Sachversicherung, Schnittstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `themen-fristennotiz-versr-rechtsschutz` | Themen Fristennotiz Versr Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret Themen, Rechtsschutzversicherung, Bauleiter Versicherungsvertragspruefung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und näc... |
+| `unfallversicherung-paragrafe-178-vvg-bgh-iv-zr-188-15` | Unfallversicherung Paragraf 178 VVG mit BGH IV ZR 188/15. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `versicherungsrecht-vergleichsverhandlung` | Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Versicherungsrecht, Vergleichsverhandlungs-Strategie für, BaFin-Beschwerde, Versicherungsombudsmann. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampe... |
 | `vvg` | Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |

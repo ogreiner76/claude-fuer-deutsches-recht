@@ -37,3 +37,32 @@ Bei KI-VO-Risiken braucht das Unternehmen schnell Tatsachen. Gleichzeitig kann e
 ## Grundsatz
 
 Erst Tatsachen sichern, dann rechtlich einordnen. Nicht umgekehrt eine schöne Geschichte schreiben und danach Belege suchen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 KI-VO (verbotene Praktiken)
+- Art. 6, 7 KI-VO (Hochrisiko-KI-Systeme)
+- Art. 9, 10, 11 KI-VO (Risikomanagement, Daten, Technische Dokumentation)
+- Art. 13, 14 KI-VO (Transparenz, menschliche Aufsicht)
+- Art. 16 KI-VO (Pflichten Anbieter)
+- Art. 26, 27 KI-VO (Pflichten Betreiber)
+- Art. 50 KI-VO (Transparenz GPAI/Deepfakes)
+- Art. 53-55 KI-VO (Pflichten GPAI-Anbieter)
+- Art. 99-101 KI-VO (Sanktionen)
+- VO 2024/1689 (KI-VO, Inkrafttreten)
+
+### Leitentscheidungen
+
+- EuGH C-634/21 (automatisierte Entscheidung Art. 22 DSGVO)
+- EuGH C-203/22 (Profiling, Auskunftsrechte)
+- BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
+- OLG Köln 6 U 32/24 (Deepfake-Werbung)
+- OLG Stuttgart 2 U 63/22 (Mängel KI-System B2B)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

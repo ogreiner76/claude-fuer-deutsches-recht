@@ -44,30 +44,38 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `abschiebehaft-paragraf-62-aufenthg-bgh-v-zb-188-18` | Abschiebehaft Paragraf 62 AufenthG mit BGH V ZB 188/18. |
 | `abschiebungsabwehr-sofort-arbeitgeber` | Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort, Arbeitgeber-Memo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `arbeitgeberwechsel-asyl-anhoerung-asylg` | Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft konkret Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg, Ausbildungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `asylantrag-folgeverfahren-paragraf-71-asylg-bverwg-1-c-188-17` | Asyl Folgeantrag Paragraf 71 AsylG mit BVerwG 1 C 188/17. |
+| `aufenthalt-paragraf-25a-aufenthg-bverwg-1-c-188-18` | Aufenthalt fuer gut integrierte Jugendliche Paragraf 25a AufenthG. |
 | `aufenthaltstitel` | Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder, Antrag auf Einbuerger... |
 | `aufenthaltstitel-ausweisung-start` | Aufenthaltstitel Ausweisung Start im Migrationsrecht: prüft konkret Aufenthaltstitel-Router, Ausweisung Start, Behördenkommunikation, Bescheid verstehen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `aufenthaltstitel-erstgespraech-mandatsannahme` | Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: prüft konkret Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer, Abschiebung abwe... |
+| `ausweisung-paragrafe-53-55-aufenthg-bverwg-1-c-188-15` | Ausweisung schwere Straftaten Paragraf 53 AufenthG. |
 | `ba-zustimmung-beschaeftigungsduldung` | BA Zustimmung Beschaeftigungsduldung im Migrationsrecht: prüft konkret BA-Zustimmung Beschäftigung, Beschäftigungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `blaue-karte-bleiberecht-25a-chancenaufenthalt` | Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: prüft konkret Blaue Karte, Bleiberecht §§ 25a/25b, Chancen-Aufenthalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `botschaft-visumtermin-dokumentenstapel` | Botschaft Visumtermin Dokumentenstapel im Migrationsrecht: prüft konkret Botschaft/Visumtermin, Chronologie und Belegmatrix im Plugin, Dokumentenstapel Migration, Dublin/GEAS Start. Liefert priorisierten Output mit Norm-Pinpoints, Risiko... |
 | `datenschutz-sicherheit-daueraufenthalt-eu` | Datenschutz Sicherheit Daueraufenthalt EU im Migrationsrecht: prüft konkret Datenschutz/Sicherheit, Daueraufenthalt-EU, Digitale Beweise Flucht, Dublin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `dublin-iii-verordnung-eugh-c-490-16` | Dublin III Zustaendigkeit mit EuGH C-490/16. |
 | `dublin-ueberstellung` | Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arb... |
 | `einbuergerung-lebensunterhalt-mehrstaatigkeit` | Einbuergerung Lebensunterhalt Mehrstaatigkeit im Migrationsrecht: prüft konkret Einbürgerung Lebensunterhalt, Einbürgerung Mehrstaatigkeit, Einbürgerung Vorstrafen, Einreise-/Aufenthaltsverbot. Liefert priorisierten Output mit Norm-Pinpo... |
 | `einbuergerung-quellenkarte` | Einbuergerung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `einbuergerung-start-fachkraefte` | Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret Einbürgerung Start, Fachkräfte-Start. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `erwerbsmigration-fachkraefte-paragraf-18b-aufenthg` | Fachkraefteeinwanderung Paragraf 18b AufenthG. |
+| `eu-freizuegigkeit-art-7-rl-2004-38-eugh-c-247-20` | EU-Freizuegigkeit Art 7 RL 2004/38 mit EuGH C-247/20. |
 | `eurodac-treffer-fachanwalt` | Eurodac Treffer Fachanwalt im Migrationsrecht: prüft konkret EURODAC-Treffer, Fachanwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `familiennachzug-ehegatte-kind-forscher-ict` | Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: prüft konkret Ehegattennachzug, Kindernachzug, Familiennachzug, Forscher/ICT/Au-pair/Sondertitel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Sc... |
 | `familiennachzug-orientierung-mandat-triage` | Familiennachzug Orientierung Mandat Triage im Migrationsrecht: prüft konkret Mandant will Ehegatten Kinder oder Eltern nach Deutschland, Anwalt will ueberblicken welche Normen und Mandate das, Eingangs-Abfrage für migrationsrechtliche Ma... |
 | `familiennachzug-start-fiktionswirkung-first` | Familiennachzug Start Fiktionswirkung First im Migrationsrecht: prüft konkret Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoin... |
+| `familienzusammenfuehrung-paragraf-32-aufenthg-bverwg-1-c-21-19` | Familiennachzug Paragraf 32 AufenthG mit BVerwG 1 C 21/19. |
 | `geas-fehlerkatalog` | Geas Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `geas-umstellung-haertefallkommission` | Geas Umstellung Haertefallkommission im Migrationsrecht: prüft konkret GEAS-Umstellung 2026, Härtefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächs... |
 | `geduldete-beschaeftigung-identitaetsklaerung` | Geduldete Beschaeftigung Identitaetsklaerung im Migrationsrecht: prüft konkret Geduldete Beschäftigung, Identitätsklärung, Kindeswohl/Familie, Laienmodus Migrationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und n... |
@@ -103,6 +111,8 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `staat-vereinigte-arabische-staaten` | Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Vereinigte Arabische Emirate, Staaten- und Gebietscheck Vereinigte Staaten, Staaten- und Gebietscheck Vereinigtes Königreich, Staaten- und Geb... |
 | `staat-westsahara-migrationscheck` | Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern, GEAS-Reform EU-Asyl- und Migrationsmanagem... |
 | `staatenlosigkeit-stag-subsidiaerer-schutz` | Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prüft konkret Staatenlosigkeit, Stag, Subsidiärer Schutz, Untätigkeitsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `staatsangehoerigkeit-paragraf-10-stag-bverwg-1-c-188-16` | Einbuergerung Paragraf 10 StAG mit BVerwG 1 C 188/16. |
+| `subsidiaerer-schutz-paragraf-4-asylg-bverwg-1-c-22-19` | Subsidiaerer Schutz Paragraf 4 AsylG mit BVerwG 1 C 22/19. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verfolgungsgrund-gfk-visum-national` | Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft konkret GFK-Verfolgungsgrund, Nationales Visum D, Vulnerable Personen Asyl, Woche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Migrationsrecht im Fachanwalt Migrationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und n... |

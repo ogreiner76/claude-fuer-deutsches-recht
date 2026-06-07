@@ -72,3 +72,32 @@ Anwaltliche Arbeit an den DSA-Transparenzpflichten für Online-Werbung. Plattfor
 
 ## Qualitätsgate
 Werbedefinition korrekt? Kennzeichnung in jedem Exemplar (nicht nur in den AGB)? Targeting-Disclosure einsehbar? Repository-Vollständigkeit geprüft? Minderjährigen-Plausibilität auditiert?
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 1, 3, 28 TKG (Anwendungsbereich, Begriffe, Marktdefinition)
+- §§ 91, 116 TKG (Vertragsrechte Endnutzer)
+- § 161 TKG (Anordnungen, Aufsichtsverfahren)
+- §§ 12, 13 EnWG (Netzausbau, Engpassmanagement)
+- §§ 21, 29 EnWG (Anreizregulierung)
+- § 65 EnWG (Aufsicht durch BNetzA)
+- § 1 PostG (Anwendungsbereich Postdienstleistungen)
+- §§ 13, 18 EisbG (Eisenbahnregulierung)
+- VwVfG §§ 28, 35-37, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme)
+- VwGO §§ 42, 80, 80a, 113 (Anfechtungsklage, Vollzugsfolgen)
+
+### Leitentscheidungen
+
+- BVerwG 6 C 12.18 (BNetzA-Entgeltgenehmigung)
+- BGH KVR 4/20 (Anreizregulierung Verteilnetzbetreiber)
+- EuGH C-475/12 (Roaming-Verordnung)
+- OVG NRW 13 B 102/23 (Telekommunikations-Aufsicht)
+- BVerfG 1 BvR 1675/16 (Rundfunkbeitrag, Aufsichtsmaßstab)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

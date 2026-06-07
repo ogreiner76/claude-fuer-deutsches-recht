@@ -47,3 +47,32 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 101 AEUV (Kartellverbot)
+- Art. 102 AEUV (Marktbeherrschung)
+- § 1 GWB (Kartellverbot national)
+- §§ 18-21 GWB (Marktbeherrschung, Behinderungsverbot)
+- § 19 GWB (Missbrauchsverbot)
+- § 19a GWB (Plattformregulierung)
+- §§ 32, 33 GWB (Abstellungsverfügung, Schadensersatz)
+- §§ 81, 81a GWB (Bußgeld)
+- VO 1/2003 EG (Durchsetzung 101/102 AEUV)
+- FKVO (EG) 139/2004 (Fusionskontrolle)
+
+### Leitentscheidungen
+
+- EuGH C-413/14 P (Intel, Treuerabatte)
+- BGH KZR 47/14 (Schienenkartell, passing-on)
+- BGH KZR 39/19 (Facebook, Marktmissbrauch DSGVO)
+- EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
+- BGH KRB 1/22 (Bußgeldbemessung Konzernhaftung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -88,3 +88,32 @@ Google ist als Host Provider nach dem NetzDG und der E-Commerce-Richtlinie verpf
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
 ## Abgrenzung und Einordnung
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 101 AEUV
+- Art. 26 DSGVO
+- Art. 28 DSGVO
+- Art. 9 DSGVO
+- § 30 MarkenG
+- Art. 17 DSGVO
+- Art. 6 DSGVO
+- § 14 MarkenG
+- § 5 UWG
+- § 5a UWG
+- Art. 8 DSGVO
+- Art. 32 DSGVO
+
+### Leitentscheidungen
+
+- BGH I ZR 90/20
+- BGH VIII ZR 233/02
+- BGH XII ZR 197/03
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

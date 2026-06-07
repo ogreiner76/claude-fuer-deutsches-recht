@@ -159,3 +159,34 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 363 FamFG
+- § 16 ErbStG
+- Art. 14 GG
+- § 23 EStG
+- § 12 ErbStG
+- § 30 ErbStG
+- § 31 ErbStG
+- § 343 FamFG
+- § 13 ErbStG
+- § 11 ErbStG
+- § 12 BewG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BGH IV ZR 188/19
+- BGH III ZR 183/17
+- BGH IV ZR 188/13
+- BGH IV ZR 249/15
+- BGH IV ZR 474/15
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

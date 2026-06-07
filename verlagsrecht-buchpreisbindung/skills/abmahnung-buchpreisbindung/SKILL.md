@@ -138,3 +138,34 @@ Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungs
 - **Unterlassungserklärung**: Standardformulierung mit Vertragsstrafe
 - **Ablehnungs-Schreiben**: Wenn Abmahnung unbegründet
 - **Schutzschriften-Entwurf**: Für zuständiges Gericht
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 41 UrhG
+- § 32d UrhG
+- § 32a UrhG
+- § 6 BuchPrG
+- § 32 UrhG
+- § 7 BuchPrG
+- § 38 UrhG
+- § 3 BuchPrG
+- § 31 UrhG
+- § 4 UrhG
+- § 14 UrhG
+- § 51 UrhG
+
+### Leitentscheidungen
+
+- EuGH C-174/15
+- BGH I ZR 198/13
+- BGH I ZR 136/20
+- EuGH C-299/23
+- EuGH C-202/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

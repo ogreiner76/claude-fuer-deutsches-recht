@@ -70,3 +70,23 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 - Beschluss-/Klausel-Redline gegen Rechtsmissbrauch.
 - Vergleichskorridor mit Prozess- und Beziehungskosten.
 - Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
+- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
+- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
+- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
+
+### Leitentscheidungen
+
+- BGH II ZR 240/13
+- BGH II ZR 91/21
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

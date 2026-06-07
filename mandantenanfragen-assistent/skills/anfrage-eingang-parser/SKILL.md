@@ -149,3 +149,31 @@ Nach der Extraktion:
 - `spam-und-massen-anfrage-filter` — prüft die geparste Anfrage auf Spam-Muster
 - `konfliktcheck-vorab` — verwendet Beteiligte und Gegner aus der Extraktion
 - `folgekorrespondenz-vorbereiten` — befüllt den CRM-Skeleton-Eintrag mit den hier extrahierten Daten
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 13 DSGVO
+- Art. 28 DSGVO
+- Art. 9 DSGVO
+- § 203 StGB
+- § 4 KSchG
+- § 356 StGB
+- § 29 VwVfG
+- Art. 6 DSGVO
+- § 5 TMG
+- § 263 StGB
+- Art. 32 DSGVO
+- Art. 15 DSGVO
+
+### Leitentscheidungen
+
+- BGH VI ZR 7/20
+- BGH VI ZR 246/19
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

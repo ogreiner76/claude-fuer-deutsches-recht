@@ -100,3 +100,32 @@ Verbringungsantrag mit ausgefuelltem Notifizierungsdokument (Anhang IA/IB), Begl
 - [KrWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/krwg/index.html)
 - [Bundesumweltamt: Abfallverbringung](https://www.umweltbundesamt.de/themen/abfall-ressourcen/abfallverbringung)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 18 AWG
+- § 22 AWG
+- § 130 OWiG
+- § 22 ZollVG
+- § 14 AWG
+- § 19 AWG
+- § 10 ZollVG
+- § 10-17 GwG
+- § 21 ZollVG
+- § 43 GwG
+- § 9 AWG
+- § 25 UmwG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

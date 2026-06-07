@@ -114,3 +114,31 @@ Stand: 05/2026.
 - DiREG-Inkrafttreten 01.08.2023 (Erweiterung Online-Verfahren auf Sachgruendung, Satzungsaenderungen, Kapitalerhoehung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
 - § 19 IV GmbHG (Aufrechnung Stammeinlage gegen Gesellschafterforderung; Hinweis: Erleichterungen durch MoMiG seit 2008, Beleg für Wandlung als Sacheinlage wegen Konfusion ueblich): https://www.gesetze-im-internet.de/gmbhg/__19.html
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 55 GmbHG
+- § 40 GmbHG
+- § 53 GmbHG
+- § 57 GmbHG
+- § 56 GmbHG
+- § 15 GmbHG
+- § 5 GmbHG
+- § 16 GmbHG
+- § 51 GmbHG
+- § 9 GmbHG
+- § 19 GwG
+- § 47 GmbHG
+
+### Leitentscheidungen
+
+- BGH VI ZR 232/09
+- BGH VI ZR 171/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -61,3 +61,27 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 ErbbauRG
+- § 2 ErbbauRG
+- § 5 ErbbauRG
+- § 9a ErbbauRG
+- § 10 ErbbauRG
+- § 11 ErbbauRG
+- § 12 ErbbauRG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

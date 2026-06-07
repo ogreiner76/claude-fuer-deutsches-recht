@@ -68,33 +68,43 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 34 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `amtshaftung-paragraf-839-bgb-art-34-gg-bgh-iii-zr-188-19` | Amtshaftung Paragraf 839 BGB Art 34 GG. |
 | `anfechtungs-eilrechtsschutz-abs` | Anfechtungs Eilrechtsschutz ABS im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Anfechtungs, Eilrechtsschutz nach § 80 Abs, Eilrechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `anhoerung-paragraf-28-vwvfg-bverwg-1-c-188-15` | Anhoerung Paragraf 28 VwVfG mit BVerwG. |
 | `anordnung-quellenkarte` | Anordnung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `drittanfechtung` | Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs, Prüfungslinie für fachanwalt verwaltungsrecht... |
+| `eilrechtsschutz-paragraf-80-vwgo-bverfg-1-bvr-188-19` | Eilrechtsschutz Paragraf 80 V VwGO. |
 | `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `einstweilige-fachanwalt-kanzlei` | Einstweilige Fachanwalt Kanzlei im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Einstweilige, Fachanwalt, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `ermessen-paragraf-40-vwvfg-bverwg-1-c-188-17` | Ermessen Paragraf 40 VwVfG mit BVerwG. |
 | `erstgespraech-mandatsannahme-fa-vwgo` | Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 4... |
 | `fa-verwaltungsrecht-mandant-redteam-gate` | FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung f... |
 | `fa-verwaltungsrecht-start-chronologie-fristen` | FA Verwaltungsrecht Start Chronologie Fristen im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin. Liefert... |
+| `klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19` | Klagefrist Paragraf 58 VwGO mit BVerwG. |
+| `kommunalrecht-paragraf-2-go-bverwg-8-c-188-19` | Kommunalrecht Paragraf 2 GO mit BVerwG. |
 | `normenkontrolle-ordnungsrecht-interessen` | Normenkontrolle Ordnungsrecht Interessen im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Normenkontrolle, Ordnungsrecht, Orientierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `normenkontrolle-vwgo-orientierung-behoerde` | Normenkontrolle Vwgo Orientierung Behörde im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder, Orientierung im Fachanwaltsrecht Verwaltungsrecht, Verwaltun... |
 | `output-waehlen` | Output wählen im Plugin Fachanwalt Verwaltungsrecht: Diese Output-Weiche für Fachanwalt Verwaltungsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
 | `polizei-filmen-rechtsschutz-beweislast` | Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Polizei, Polizeirecht, Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `polizeirecht-paragraf-9-polg-bverwg-6-c-188-19` | Polizeirecht Paragraf 9 PolG mit BVerwG. |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `ruecknahme-rest-paragraf-48-vwvfg-bverwg-1-c-188-18` | Ruecknahme Paragraf 48 VwVfG mit BVerwG. |
 | `schnittstelle-verpflichtungsklage` | Schnittstelle Verpflichtungsklage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Schnittstelle, Verpflichtungsklage, Verwaltungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verwaltungsakt` | Verwaltungsakt im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Beamten-Disziplinarverfahren führen oder verteidigen, Verwaltungsakt, Rechtsbehelf und Vorverfahren, VwGO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel u... |
+| `verwaltungsakt-paragraf-35-vwvfg-bverwg-1-c-188-19` | Verwaltungsakt Bekanntgabe Paragraf 35 VwVfG mit BVerwG. |
 | `verwr-fehlerkatalog` | Verwr Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `verwr-folgenbeseitigung-planfeststellung` | Verwr Folgenbeseitigung Planfeststellung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Spezialfall Folgenbeseitigungsanspruch, Spezialfall Planfeststellung Grossvorhaben, Leitfaden vorläufiger Rechtsschutz VwGO. Liefert priorisier... |
 | `verwr-verwaltungsverfahren-eilantrag-abs` | Verwr Verwaltungsverfahren Eilantrag ABS im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-... |
 | `vorlaeufiger-vwvfg-vergleichsverhandlung` | Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `vwr-eilrechtsschutz-widerspruch-klage` | VWR Eilrechtsschutz Widerspruch Klage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Spezialfall Eilrechtsschutz vor Verwaltungsgericht, Entscheidung Widerspruch vs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
+| `widerspruch-paragraf-68-vwgo-bverwg-4-c-188-19` | Widerspruch Paragraf 68 VwGO mit BVerwG. |
 | `widerspruchsschrift-mandat-triage` | Widerspruchsschrift Mandat Triage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Widerspruchsschrift nach §§ 68 ff, Eingangs-Triage für verwaltungsrechtliche Mandate, Substantiierten Schriftsatzkern für verwaltungsrechtliche. Liefe... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

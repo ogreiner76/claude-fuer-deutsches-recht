@@ -93,3 +93,32 @@ Erzeuge:
 4. Post-Call-Compliance-Report-Vorlage
 
 Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 119 WpHG
+- § 97 WpHG
+- § 120 WpHG
+- § 93 AktG
+- § 50 WpHG
+- § 10 WpÜG
+- § 4 WpHG
+- § 98 WpHG
+- § 80 WpHG
+- § 116 AktG
+- § 39 BörsG
+- § 89 KWG
+
+### Leitentscheidungen
+
+- EuGH C-19/11
+- EuGH C-628/13
+- BGH II ZB 26/12
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

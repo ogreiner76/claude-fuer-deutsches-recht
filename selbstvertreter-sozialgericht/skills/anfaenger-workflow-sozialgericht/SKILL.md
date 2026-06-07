@@ -117,3 +117,32 @@ Prüfen Sie:
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
+- §§ 51-55 SGG (Klagearten)
+- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
+- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
+- § 105 SGG (Gerichtsbescheid)
+- § 109 SGG (Sachverständiger nach Wahl)
+- § 131 SGG (Urteilsformen)
+- §§ 183-197a SGG (Kosten)
+- §§ 12, 14 SGB I (Auskunft, Beratung)
+- § 44 SGB X (Zugunstenverfahren)
+
+### Leitentscheidungen
+
+- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
+- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
+- BVerfG 1 BvL 1/09 (Regelbedarf)
+- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
+- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

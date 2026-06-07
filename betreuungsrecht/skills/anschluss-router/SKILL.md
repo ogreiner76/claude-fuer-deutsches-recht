@@ -249,3 +249,30 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
  - BGH 24.09.2025 - XII ZB 513/24 (Verhinderungsbetreuer; Vorrang Angehörigen-Wunsch; Amtsermittlung § 26 FamFG)
  - BGH 12.02.2025 - XII ZB 433/24 (Bestimmtheitsanforderungen an Beschluss zur medikamentösen Zwangsbehandlung; § 323 Abs. 1 Nr. 1 FamFG)
 - Weitere Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 278 FamFG
+- § 5 BtOG
+- § 274 FamFG
+- § 280 FamFG
+- § 30 BtOG
+- § 23 BtOG
+- § 8 BtOG
+- § 293 FamFG
+- § 292 FamFG
+- § 299 FamFG
+- § 312 FamFG
+- § 319 FamFG
+
+### Leitentscheidungen
+
+- BGH XII ZB 174/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

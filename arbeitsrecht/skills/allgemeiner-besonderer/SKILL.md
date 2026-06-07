@@ -474,3 +474,30 @@ Arbeitgeber bietet Vergleich an?
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
 -->
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 14 TzBfG
+- § 102 BetrVG
+- § 4 KSchG
+- § 1 KSchG
+- § 17 TzBfG
+- § 26 BDSG
+- § 12 KSchG
+- § 9 KSchG
+- § 7 KSchG
+- § 15 AGG
+- § 23 KSchG
+- § 22 AGG
+
+### Leitentscheidungen
+
+- EuGH C-55/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

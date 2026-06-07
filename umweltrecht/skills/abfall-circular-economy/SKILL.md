@@ -108,3 +108,32 @@ Anlagen: Liefervertrag, SDS-Datenblatt, Laboranalyse
 - `umweltrecht-transaktionen-dd` — Abfallrisiken in M&A
 - `esg-greenwashing-csrd` — CSRD-Berichtspflicht Kreislaufwirtschaft
 - `umweltrecht-wasser-bodenschutz` — Altlasten bei Deponien
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 BImSchG
+- § 70 VwG
+- § 10 BImSchG
+- § 2 UmwRG
+- § 24 BBodSchG
+- § 74 VwG
+- § 4 BBodSchG
+- § 34 BNatSchG
+- § 17 BImSchG
+- § 47 VwG
+- § 44 BNatSchG
+- § 4 KrWG
+
+### Leitentscheidungen
+
+- EuGH C-243/15
+- BGH I ZR 98/23
+- BGH I ZR 142/23
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

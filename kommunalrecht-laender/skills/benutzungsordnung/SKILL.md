@@ -81,3 +81,32 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Qualitätsregel
 
 Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 28 Abs. 2 GG (kommunale Selbstverwaltung)
+- §§ 1, 2 GO NRW / Art. 1, 2 BayGO (Aufgabenbereich)
+- §§ 41-43 GO NRW (Hauptamtliche Bürgermeister)
+- §§ 75-79 GO NRW (Haushalt, Genehmigung)
+- §§ 107-115 GO NRW (Wirtschaftliche Betätigung)
+- VwGO §§ 42, 47 (Anfechtungs- und Normenkontrolle)
+- §§ 1 ff. KAG NRW / BayKAG (Kommunale Abgaben)
+- §§ 1, 4 BauGB (Bauleitplanung Kommune)
+- §§ 1, 8 GkG NRW (Kommunale Gemeinschaftsarbeit)
+- GemHVO (Gemeindehaushaltsverordnung)
+
+### Leitentscheidungen
+
+- BVerwG 8 C 12.12 (kommunale Selbstverwaltungsgarantie)
+- BVerfG 2 BvR 1041/88 (Rastede)
+- OVG NRW 15 A 1456/15 (kommunale Wirtschaftstätigkeit)
+- BVerwG 9 C 10.21 (Erschließungsbeitrag)
+- BVerfG 2 BvR 1387/02 (kommunale Finanzausstattung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

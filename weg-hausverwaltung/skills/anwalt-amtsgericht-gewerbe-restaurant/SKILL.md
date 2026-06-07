@@ -226,3 +226,34 @@ Nicht alles juristisch eskalieren. Erst sortieren, beweisen, beschlussfähig mac
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

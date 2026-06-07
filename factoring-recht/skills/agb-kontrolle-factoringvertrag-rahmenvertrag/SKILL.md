@@ -127,3 +127,32 @@ Fragen zum Einstieg:
 - BGH, st. Rspr. zur Indizwirkung der § 308, 309 BGB im B2B-Bereich (amtliche Sammlung).
 - BGH zur Unwirksamkeit salvatorischer Klauseln in AGB.
 - Literatur zur AGB-Kontrolle von Factoringverträgen (nur mit eigener Recherche zitieren).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 32 KWG
+- Art. 14 DSGVO
+- § 2 KWG
+- § 203 StGB
+- § 33 KWG
+- § 25c KWG
+- § 37 KWG
+- § 54 KWG
+- § 25a KWG
+- § 44 KWG
+- § 49 KWG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

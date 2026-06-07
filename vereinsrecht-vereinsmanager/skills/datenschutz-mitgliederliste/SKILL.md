@@ -62,3 +62,30 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 - Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- Art. 9 GG
+- § 47 GmbHG
+- § 26 BDSG
+- § 22 KUG
+- § 23 KUG
+- Art. 17 DSGVO
+- Art. 30 DSGVO
+- Art. 9 DSGVO
+- § 246 AktG
+- § 3 VereinsG
+
+### Leitentscheidungen
+
+- BGH II ZR 76/12
+- BFH X R 7/16
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

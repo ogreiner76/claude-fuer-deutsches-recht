@@ -71,3 +71,25 @@ Der Skill macht aus alten Verträgen neue Entwürfe. Er arbeitet freistehend inn
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 9 UStG
+- § 2 NachwG
+- § 3a RVG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BGH VI ZR 394/12
+- BGH I ZR 169/12
+- BGH VII ZR 213/07
+- BGH VII ZR 37/17
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -197,3 +197,34 @@ Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturierte
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
 - BGH VII ZB 36/20: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org oder bundesgerichtshof.de; NJW-RR 2022, 1350 konnte keinem BGH VII ZB 36/20 zugeordnet werden)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 KSchG
+- § 80 VwG
+- § 86b SGG
+- § 74 VwG
+- § 124 VwG
+- § 64 ArbGG
+- § 72 ArbGG
+- § 132 VwG
+- § 123 VwG
+- § 103 SGG
+- § 151 SGG
+- § 66 ArbGG
+
+### Leitentscheidungen
+
+- BGH VII ZB 36/20
+- BGH VI ZR 146/19
+- BGH VI ZR 84/19
+- BGH VI ZR 396/18
+- BGH VII ZR 131/13
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

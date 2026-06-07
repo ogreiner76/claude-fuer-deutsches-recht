@@ -82,3 +82,32 @@ Klauselverwendung genügt. Allerdings bleibt die Inhaltskontrolle nach § 307 BG
 - Hatte die andere Partei zumutbare Kenntnisnahmemöglichkeit?
 - Liegt eine überraschende Klausel nach § 305c Abs. 1 BGB vor?
 - Verstößt die Klausel gegen § 307 oder §§ 308/309 BGB?
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46h ArbGG
+- § 35 GmbHG
+- § 291 StGB
+- § 22 RDG
+- § 13 GmbHG
+- § 11 GmbHG
+- § 14 TzBfG
+- § 46c ArbGG
+- § 41 VwVfG
+- § 291 bis 302 StGB
+- § 263 StGB
+
+### Leitentscheidungen
+
+- BGH NJW 1984/2279
+- BGH NJW 2004/1320
+- BGH NJW 2011/2643
+- BGH NJW 2005/53
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

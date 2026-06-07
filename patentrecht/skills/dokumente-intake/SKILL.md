@@ -43,3 +43,30 @@ Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rüc
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 12 PatG
+- § 3 PatG
+- § 4 PatG
+- § 14 PatG
+- § 139 PatG
+- § 34 PatG
+- § 6 ArbEG
+- § 9 ArbEG
+- § 37 PatG
+- § 8 PatG
+- § 10 PatG
+- § 44 PatG
+
+### Leitentscheidungen
+
+- BGH X ZR 168/00
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

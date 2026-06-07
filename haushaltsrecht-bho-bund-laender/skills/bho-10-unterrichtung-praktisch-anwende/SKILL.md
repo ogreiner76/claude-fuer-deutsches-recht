@@ -67,3 +67,32 @@ Bho 10 Unterrichtung Praktisch Anwende wird nicht als abstraktes Schema beantwor
 ## Qualitätsregel
 
 Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
+- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
+- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
+- § 23 BHO (Zuwendungen)
+- § 34 BHO (Erhebung der Einnahmen)
+- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
+- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
+- § 109 BHO (Prüfung durch BRH)
+- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
+- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
+
+### Leitentscheidungen
+
+- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
+- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
+- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
+- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
+- BRH-Bemerkungen jährlich nach § 97 BHO
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

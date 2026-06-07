@@ -585,3 +585,31 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Scholz, GmbHG, 12. Aufl. 2018, § 47 Rn. 110 ff.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 48 GmbHG
+- § 40 GmbHG
+- § 246 AktG
+- § 43 GmbHG
+- § 47 GmbHG
+- § 108 AktG
+- § 20 GwG
+- § 53 GmbHG
+- § 15 GmbHG
+- § 130 AktG
+- § 5 GmbHG
+- § 107 AktG
+
+### Leitentscheidungen
+
+- BGH II ZR 25/82
+- BFH I R 53/08
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

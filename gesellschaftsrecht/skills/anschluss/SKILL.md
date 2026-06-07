@@ -270,3 +270,31 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 48 GmbHG
+- § 40 GmbHG
+- § 246 AktG
+- § 43 GmbHG
+- § 47 GmbHG
+- § 108 AktG
+- § 20 GwG
+- § 53 GmbHG
+- § 15 GmbHG
+- § 130 AktG
+- § 5 GmbHG
+- § 107 AktG
+
+### Leitentscheidungen
+
+- BGH II ZR 25/82
+- BFH I R 53/08
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

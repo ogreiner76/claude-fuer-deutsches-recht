@@ -64,3 +64,34 @@ Abmahnentwurf oder Verteidigungsvermerk.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 GebrMG
+- § 17 GebrMG
+- § 3 GebrMG
+- § 16 GebrMG
+- § 13 GebrMG
+- § 4a GebrMG
+- § 5 GebrMG
+- § 25 PatG
+- § 7 GebrMG
+- § 4 PatG
+- § 18 GebrMG
+- § 24 GebrMG
+
+### Leitentscheidungen
+
+- BGH X ZB 5/16
+- BGH X ZR 95/05
+- BGH X ZR 75/02
+- BGH X ZR 19/06
+- BGH X ZR 137/15
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

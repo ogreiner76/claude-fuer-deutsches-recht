@@ -85,3 +85,32 @@ Druckfertiges Antragsschreiben mit Positionsliste, Normenbezug und Anlagenliste.
 ## Leitplanken
 - Kein Schreiben ohne geprüfte Fristen (§ 23 JVEG).
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 5 JVEG
+- § 23 JVEG
+- § 4 JVEG
+- § 8a JVEG
+- § 2 JVEG
+- § 3 JVEG
+- § 7 JVEG
+- § 9 JVEG
+- § 6 JVEG
+- § 12 JVEG
+- § 8 JVEG
+- § 22 JVEG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

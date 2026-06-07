@@ -91,3 +91,30 @@ Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog
 - AOP-Katalog Anlage 1 (jaehrlich aktualisiert).
 - Hybrid-DRG-Verordnung (Live-Check BMG).
 - BSG, staend. Rspr. zur Fehlbelegung und zum AOP-Vertrag.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1-23 KHG
+- § 17a-17d KHG
+- § 18a KHG
+- § 80 VwG
+- § 5c IfSG
+- § 17 KHEntgG
+- § 14 ApoG
+- § 9 KHG
+- § 13 KHEntgG
+- § 6 IfSG
+- § 17c KHG
+- § 203 StGB
+
+### Leitentscheidungen
+
+- EuGH C-280/00
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

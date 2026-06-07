@@ -57,3 +57,30 @@ Fit-and-Proper-Eignungsmatrix für das Gesamtgremium; Mandats-Zeitbudget-Tabelle
 ## Quellenregel
 
 gesetze-im-internet.de (KWG, FinDAG, AnzV), bafin.de (Merkblatt Aufsichtsorgan 2022, FAQ Fit-and-Proper), eba.europa.eu (EBA/GL/2021/06). Live-Check: BaFin-Merkblatt Aufsichtsorgan bei CRD-VI-Umsetzung aktualisieren; EBA/GL/2021/06 Überarbeitung für PSD3 im Gange.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 25d KWG
+- § 84 AktG
+- § 90 AktG
+- § 116 AktG
+- § 36 KWG
+- § 87 AktG
+- § 4 FinDAG
+- § 28 VwVfG
+- § 80 VwG
+- § 24 KWG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

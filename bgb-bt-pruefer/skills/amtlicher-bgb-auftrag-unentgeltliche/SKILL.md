@@ -61,3 +61,30 @@ Erzeuge:
 ## Referenz
 
 Nutze `references/amtlicher-bgb-bt-normkern.md`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 3 ProdHaftG
+- Art. 32 DSGVO
+- § 4 ProdHaftG
+- § 8 ProdHaftG
+- § 2 ProdHaftG
+- § 1 ProdHaftG
+- § 10 ProdHaftG
+- § 9 ProdHaftG
+- § 2 WoVermG
+- Art. 82 DSGVO
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

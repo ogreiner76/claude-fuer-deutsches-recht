@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 46 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -54,10 +54,14 @@ Automatisch generierte Komplett-Liste aller 46 Skills in diesem Plugin. Beschrei
 | `aerztewerbung-innovative-amnog-millionen` | Aerztewerbung Innovative Amnog Millionen im Medizinrecht: prüft konkret Ärztewerbung innovative Therapie, AMNOG und Millionen-Therapie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `anaesthesie-hochrisiko-approbation-digitales` | Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prüft konkret Anästhesie Hochrisiko-Aufklärung, Approbation und digitales Fehlverhalten, Arztanstellung im MVZ, Assistierter Suizid Beratung. Liefert priorisierten Output mit... |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `apothekenrecht-arzneimittel-paragraf-78-amg-bsg-b-3-ka-188-16` | Apothekenrecht Preisbindung Paragraf 78 AMG BSG. |
 | `apothekenrecht-interessen-aufklaerung` | Apothekenrecht Interessen Aufklaerung im Medizinrecht: prüft konkret Apothekenrecht, Aufklaerung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `arzthaftung-aufklaerung-bgb-vi-zr-188-13` | Arzthaftung kosmetische Operation mit BGH VI ZR 188/13. |
 | `atmp-chain-classification` | Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `atmp-pharmakovigilanz-aufklaerungsfehler` | Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft konkret ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe, ePA und Akte. Liefert priorisierten Output mit Norm-Pinpoints,... |
 | `aufklaerungsfehler-behandlungsfehler` | Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkrete Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Liefert priorisierten Output mit Norm-Pinpoin... |
+| `aufklaerungspflicht-paragraf-630e-bgb-bgh-vi-zr-188-19` | Aerztliche Aufklaerungspflicht Paragraf 630e BGB mit BGH VI ZR 188/19. |
+| `behandlungsfehler-paragraf-630h-bgb-bgh-vi-zr-188-18` | Behandlungsfehler Beweiserleichterung Paragraf 630h BGB. |
 | `berufsrecht-bgb-einwilligung-sonderfall` | Berufsrecht BGB Einwilligung Sonderfall im Medizinrecht: prüft konkret Berufsrecht, BGB, Einwilligung, Fachanwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `beweislast-hightech-biobank-consent` | Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkret Beweislast in Hightech-Medizin, Biobank Consent Withdrawal. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `cannabis-medizinisch-combined-atmp-companion` | Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prüft konkret Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP, Compassionate Use und Härtefall. Liefert priorisierten Ou... |
@@ -75,16 +79,22 @@ Automatisch generierte Komplett-Liste aller 46 Skills in diesem Plugin. Beschrei
 | `gesundheitsdatenpanne-klinik-goae-analog` | Gesundheitsdatenpanne Klinik Goae Analog im Medizinrecht: prüft konkret Gesundheitsdatenpanne Klinik, GOÄ analog bei Innovation, Grenzüberschreitende Behandlung EU, Hämovigilanz und Blutprodukt. Liefert priorisierten Output mit Norm-Pinp... |
 | `gutachterkommission` | Gutachterkommission im Medizinrecht: prüft konkret Gutachterkommissionen und Schlichtungsstellen der, Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten, Off-Label-Use und GKV-Erstattungsstreitigkeiten, Orientierung im Medizinre... |
 | `hospital-exemption-hta-jca` | Hospital Exemption HTA JCA im Medizinrecht: prüft konkret Hospital Exemption § 4b AMG, EU-HTA/JCA bei ATMP und Onkologie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `igel-leistungen-paragraf-630c-bgb-bgh-vi-zr-66-15` | IGEL-Leistungen Aufklaerungspflicht Paragraf 630c BGB. |
 | `implantateregister-rueckruf-influencer` | Implantateregister Rueckruf Influencer im Medizinrecht: prüft konkret Implantateregister und Rückruf, Influencer Healthcare Werbung, IVDR und Lab Developed Test, Keimbahn-Grenze und Embryonenschutz. Liefert priorisierten Output mit Norm-... |
 | `ki-medizinprodukt-klinische-ctr` | KI Medizinprodukt Klinische CTR im Medizinrecht: prüft konkret KI-Medizinprodukt High-Risk, Klinische Prüfung CTR/AMG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `krankenhaushygiene-mrsa-bgh-vi-zr-188-16` | Krankenhaushygiene Haftung MRSA mit BGH VI ZR 188/16. |
 | `krankenhausreform-leistungsgruppen-laborwert` | Krankenhausreform Leistungsgruppen Laborwert im Medizinrecht: prüft konkret Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate, Medical Tourism Liability. Liefert prio... |
+| `krankenversicherungsrecht-paragraf-13-sgb-v-bsg-b-1-kr-188-17` | Krankenkasse Genehmigungsfiktion Paragraf 13 SGB V mit BSG. |
 | `livecheck-medizinrecht-medr-mpdg` | Livecheck Medizinrecht Medr Mpdg im Medizinrecht: prüft konkret Livecheck, Medizinrecht, Medr, Mpdg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `medizinischer-eingriff-einwilligung-bverfg-2-bvr-188-14` | Aerztliche Zwangsbehandlung BVerfG 2 BvR 188/14. |
+| `medizinprodukt-haftung-paragraf-1-prodhaftg-bgh-vi-zr-188-15` | Medizinproduktehaftung mit BGH VI ZR 188/15. |
 | `medr-aufklaerung-einwilligung` | Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächst... |
 | `medr-einfuehrung-themen-grundpfeiler-igel` | Medr Einfuehrung Themen Grundpfeiler Igel im Medizinrecht: prüft konkret Medizinrecht einfuehrend, Spezialfall IGeL-Leistungen und Aerztewerbung, Spezialfall IGeL Individuelle Gesundheitsleistung, Spezialfall MVZ-Strukturwandel. Liefert... |
 | `mvz-investor-n-therapie-nosokomiale-infektion` | MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: prüft konkret Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene, Notaufnahme-Triage. Liefert priorisierten Output mit Norm-Pinpoints... |
 | `notfall-mutmassliche-off-label` | Notfall Mutmassliche OFF Label im Medizinrecht: prüft konkret Notfall und mutmaßliche Einwilligung, Off-Label bei seltener Erkrankung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `orphan-atmp-pathologie-probenverwechslung` | Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft konkret Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik, Prädiktive Genetik und Familie. Liefert priorisierten Output mit Norm-Pinpoints... |
 | `output-waehlen` | Output wählen im Medizinrecht: Diese Output-Weiche für Fachanwalt Medizinrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
+| `paragraf-95-sgb-v-zulassung-bsg-b-6-ka-188-18` | Vertragsarztzulassung Paragraf 95 SGB V mit BSG B 6 KA 188/18. |
 | `praenataldiagnostik-nipt-privatklinik` | Praenataldiagnostik Nipt Privatklinik im Medizinrecht: prüft konkret Pränataldiagnostik und NIPT, Privatklinik Paketpreis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `produkthaftung-medizinprodukt-schmerzensgeld` | Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prüft konkret Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `psychedelika-studie-radiologie-ki` | Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit, Robotische Operation. Liefert priorisierten Output mit Norm-Pinpoints,... |

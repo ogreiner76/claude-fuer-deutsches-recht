@@ -532,3 +532,34 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 - `fachanwalt-transport-cmr-schadensregulierung` — bei internationaler Straße
 - `frachtfuehrerhaftung-pruefen` — Prüfraster
 - `fachanwalt-transport-speditionsrecht-orientierung` — Triage
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1d StVG
+- § 1g StVG
+- § 7 StVG
+- § 1 ProdHaftG
+- § 1h StVG
+- § 1f StVG
+- § 18 StVG
+- § 12 StVG
+- § 86 VVG
+- § 3 ProdHaftG
+- § 1 PflVG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BGH I ZR 188/20
+- BGH X ZR 188/19
+- BGH I ZR 188/17
+- BGH I ZR 188/19
+- BGH I ZR 188/18
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

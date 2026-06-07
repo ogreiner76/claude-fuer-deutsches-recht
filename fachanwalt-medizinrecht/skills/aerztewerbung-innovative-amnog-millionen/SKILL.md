@@ -130,3 +130,34 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 - EU HTA Regulation implementation: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment_en
 - Joint Clinical Assessments: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment/joint-clinical-assessments_en
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 86b SGG
+- § 80 VwG
+- § 4b AMG
+- § 87 SGG
+- § 51 SGG
+- § 84 SGG
+- § 70 VwG
+- § 74 VwG
+- § 203 StGB
+- § 3a RVG
+- § 229 StGB
+- § 78 StGB
+
+### Leitentscheidungen
+
+- BGH VI ZR 188/15
+- BGH VI ZR 188/13
+- BGH VI ZR 188/16
+- BGH VI ZR 188/19
+- BGH VI ZR 323/04
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

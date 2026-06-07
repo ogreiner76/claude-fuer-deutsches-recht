@@ -169,3 +169,32 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Qualitaetssicherung
 - Human-in-the-loop bei allen automatisierten Ausgaben
 - Dokumentation: Datum, Methodik, Human-Check-Protokoll
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 15 GmbHG
+- § 16 GmbHG
+- § 8c KStG
+- § 40 GmbHG
+- § 17 GeschGehG
+- § 1-93 StaRUG
+- § 20 TranspRG
+- § 20-24 UmwStG
+- § 43 GmbHG
+- § 2 GmbHG
+- § 52 GmbHG
+- § 22 UmwG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

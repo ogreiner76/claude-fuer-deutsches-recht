@@ -382,3 +382,32 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 - **Plugin-Rahmen:** Kritische kartellrechtliche Pruefinstanz für Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsums....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 101 AEUV (Kartellverbot)
+- Art. 102 AEUV (Marktbeherrschung)
+- § 1 GWB (Kartellverbot national)
+- §§ 18-21 GWB (Marktbeherrschung, Behinderungsverbot)
+- § 19 GWB (Missbrauchsverbot)
+- § 19a GWB (Plattformregulierung)
+- §§ 32, 33 GWB (Abstellungsverfügung, Schadensersatz)
+- §§ 81, 81a GWB (Bußgeld)
+- VO 1/2003 EG (Durchsetzung 101/102 AEUV)
+- FKVO (EG) 139/2004 (Fusionskontrolle)
+
+### Leitentscheidungen
+
+- EuGH C-413/14 P (Intel, Treuerabatte)
+- BGH KZR 47/14 (Schienenkartell, passing-on)
+- BGH KZR 39/19 (Facebook, Marktmissbrauch DSGVO)
+- EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
+- BGH KRB 1/22 (Bußgeldbemessung Konzernhaftung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

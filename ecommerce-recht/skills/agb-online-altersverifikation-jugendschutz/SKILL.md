@@ -128,3 +128,27 @@ Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie 
 - EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) zur Klauselkontrolle – curia.europa.eu.
 - Verbraucherrechte-RL 2011/83/EU; Klausel-RL 93/13/EWG – EUR-Lex.
 - VZBV – Klagepraxis und Datenbank unwirksamer Klauseln.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 5 DDG
+- § 5 UWG
+- § 1 EGBGB
+- § 6 DDG
+- § 27a UStG
+- § 3a UWG
+- § 26 DDG
+
+### Leitentscheidungen
+
+- EuGH C-249/21
+- EuGH C-208/19
+- EuGH C-186/16
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

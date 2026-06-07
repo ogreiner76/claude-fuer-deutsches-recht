@@ -50,3 +50,32 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill le
 3. Ausnahme einschlaegig?
 4. Frist gewahrt?
 5. Stellungnahme abgegeben?
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
+- §§ 51-55 SGG (Klagearten)
+- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
+- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
+- § 105 SGG (Gerichtsbescheid)
+- § 109 SGG (Sachverständiger nach Wahl)
+- § 131 SGG (Urteilsformen)
+- §§ 183-197a SGG (Kosten)
+- §§ 12, 14 SGB I (Auskunft, Beratung)
+- § 44 SGB X (Zugunstenverfahren)
+
+### Leitentscheidungen
+
+- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
+- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
+- BVerfG 1 BvL 1/09 (Regelbedarf)
+- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
+- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

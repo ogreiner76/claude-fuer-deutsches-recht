@@ -71,3 +71,31 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 - Geschäftsordnungs-Redline mit Eskalationsmechanik.
 - Risikovermerk für Gesellschafter, Geschäftsführung und Beiratsmitglieder.
 - Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 48 GmbHG
+- § 40 GmbHG
+- § 246 AktG
+- § 43 GmbHG
+- § 47 GmbHG
+- § 108 AktG
+- § 20 GwG
+- § 53 GmbHG
+- § 15 GmbHG
+- § 130 AktG
+- § 5 GmbHG
+- § 107 AktG
+
+### Leitentscheidungen
+
+- BGH II ZR 25/82
+- BFH I R 53/08
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

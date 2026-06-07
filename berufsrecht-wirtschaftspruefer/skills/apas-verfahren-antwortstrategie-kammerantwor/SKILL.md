@@ -52,3 +52,32 @@ Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Man
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 1-3 WPO (Berufsaufgaben, Berufsbezeichnung)
+- § 32 WPO (Bestellungsvoraussetzungen)
+- § 43 WPO (Allgemeine Berufspflichten)
+- § 49 WPO (Unabhängigkeit)
+- § 51 WPO (Verschwiegenheit)
+- § 54 WPO (Berufshaftpflicht)
+- §§ 316, 319, 319a HGB (Pflichtprüfung, Inkompatibilitäten)
+- §§ 322, 323 HGB (Bestätigungsvermerk, Verantwortlichkeit)
+- IDW PS 200 ff. (Prüfungsstandards)
+- EU-VO 537/2014 (Abschlussprüfung Unternehmen öffentl. Interesse)
+
+### Leitentscheidungen
+
+- BGH IX ZR 23/14 (WP-Haftung Drittwirkung)
+- BGH II ZR 217/03 (Bestätigungsvermerk und Vertrauensschutz)
+- EuGH C-606/19 (Unabhängigkeit Abschlussprüfer)
+- BVerfG 1 BvR 1750/17 (Berufsregulierung WP)
+- BGH WpSt (R) 1/19 (Berufsgerichtsverfahren WP)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

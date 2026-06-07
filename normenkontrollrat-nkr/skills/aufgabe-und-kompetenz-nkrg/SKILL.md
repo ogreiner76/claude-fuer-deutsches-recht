@@ -100,3 +100,32 @@ Hier dient die NKR-Sicht der Selbstvergewisserung der Institution:
 - §§ 44, 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 NKRG
+- § 5 NKRG
+- § 1 NKRG
+- § 6 NKRG
+- § 7 NKRG
+- Art. 5 EUV
+- § 1 BGleiG
+- § 3 NKRG
+- Art. 288 AEUV
+- § 9 NKRG
+- Art. 104a GG
+- Art. 82 GG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

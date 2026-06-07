@@ -89,3 +89,32 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 299 StGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__299.html)
 - [LkSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/lksg/)
 - [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 9 Rom-I-VO
+- Art. 101 AEUV
+- Art. 28 DSGVO
+- § 14 UStG
+- § 19 UStG
+- § 5 ArbGG
+- § 59 VVG
+- § 1 UStG
+- § 23 GeschGehG
+- § 66c EnWG
+- Art. 17 DSGVO
+- § 75 AMG
+
+### Leitentscheidungen
+
+- EuGH C-465/04
+- EuGH C-381/19
+- EuGH C-217/05
+
+### Anwendung im Skill
+
+- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
+- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
+- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
