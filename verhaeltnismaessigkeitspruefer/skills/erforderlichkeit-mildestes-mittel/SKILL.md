@@ -21,7 +21,7 @@ Schritt 4: Drittbelastung (verlagert das mildere Mittel die Last auf Dritte?).
 Das mildere Mittel muss den Zweck **ebenso sicher** und **ebenso umfassend**
 erreichen. Geringere Effektivitaet schliesst das Mittel als Alternative aus.
 
-BVerfGE 53 Band 53 Seite 135 (Pelze): Eine Beratungsregel waere weniger
+BVerfGE 53, 135 (Pelze) (Pelze): Eine Beratungsregel waere weniger
 effektiv als ein Verbot, schliesst das Verbot deshalb nicht aus.
 
 ## Milderes Mittel
@@ -38,7 +38,7 @@ Beispiele fuer milderes Mittel:
 
 Wenn das mildere Mittel die Last auf Dritte verlagert, ist die
 Drittbelastung in die Erforderlichkeitspruefung einzustellen.
-BVerfGE 81 Band 81 Seite 70 (Drogenfreigabe): Liberalisierungsmodelle
+BVerfGE 81, 70 (Drogenfreigabe) (Drogenfreigabe): Liberalisierungsmodelle
 verschoeben Risiken auf Konsumenten und Dritte.
 
 ## Einschaetzungspraerogative
@@ -49,10 +49,10 @@ ist, ist das Mittel nicht erforderlich.
 
 ## Beispiele
 
-- BVerfGE 7 Band 7 Seite 377 Apotheken-Urteil: subjektive Voraussetzung
+- BVerfGE 7, 377 (Apotheken-Urteil) Apotheken-Urteil: subjektive Voraussetzung
   ist Mildermittel zur objektiven Voraussetzung; bei objektiver Voraussetzung
   hoechste Anforderungen.
-- BVerfGE 120 Band 120 Seite 224 (Geschwister-Inzest): Strafnorm war
+- BVerfGE 120, 224 (Geschwister-Inzest) (Geschwister-Inzest): Strafnorm war
   nach Mehrheit erforderlich, abweichende Meinung Hassemer verneinte
   dies.
 

@@ -19,12 +19,12 @@ absoluten Gewinner-Entscheidungen.
 ## Typische Anwendungsfelder
 
 - Kunstfreiheit Art 5 III GG gegen allgemeines Persoenlichkeitsrecht
-  Art 2 I in Verbindung mit Art 1 I GG (BVerfGE 30 Band 30 Seite 173
-  Mephisto; BVerfGE 119 Band 119 Seite 1 Esra).
+  Art 2 I in Verbindung mit Art 1 I GG (BVerfGE 30, 173 (Mephisto)
+  Mephisto; BVerfGE 119, 1 (Esra) Esra).
 - Pressefreiheit Art 5 I GG gegen Persoenlichkeitsrecht
   (Caroline-von-Monaco-Rechtsprechung).
 - Religionsfreiheit Art 4 I II GG gegen staatliche Neutralitaet
-  und Erziehungsauftrag (BVerfGE 93 Band 93 Seite 1 Kruzifix).
+  und Erziehungsauftrag (BVerfGE 93, 1 (Kruzifix) Kruzifix).
 - Versammlungsfreiheit Art 8 GG gegen oeffentliche Sicherheit.
 
 ## Methodische Schritte
@@ -37,7 +37,7 @@ absoluten Gewinner-Entscheidungen.
 
 ## Beispiel Kruzifix
 
-BVerfGE 93 Band 93 Seite 1: Anordnung des Anbringens eines Kruzifix in
+BVerfGE 93, 1 (Kruzifix): Anordnung des Anbringens eines Kruzifix in
 staatlichen Volksschulen verstiess gegen Glaubensfreiheit Art 4 I GG
 in Verbindung mit staatlichem Neutralitaetsgebot. Schonende Zuordnung
 moeglich durch Einzelfallpruefung, nicht durch generellen Anbringungszwang.

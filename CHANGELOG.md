@@ -1,3 +1,56 @@
+# v239.0.0 — Verhaeltnismaessigkeitspruefer-Politur: 14 neue Stufen- und Schranken-Skills, Padlet-Skill arbeitet wieder, Clip-Club ersetzt
+
+## Schwerpunkt
+
+Das Plugin `verhaeltnismaessigkeitspruefer` ist von 30 auf **44 Skills** angewachsen. Die vierstufige Schranken-Schranke ist jetzt durchgehend mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwuerde, Wesensgehalt, Existenzminimum), Bestimmtheit, Wesentlichkeitstheorie, Untermassverbot, Einschaetzungspraerogative und Zitiergebot abgedeckt. Der Padlet-Skill funktioniert wieder, der unjuristische Arbeitstitel "Clip-Club" ist durch eine kuratierte audiovisuelle Leitentscheidungs-Sammlung ersetzt.
+
+### Neue Stufen- und Schranken-Skills (14)
+
+- `vorpruefung-schutzbereich-eroeffnet`
+- `vorpruefung-eingriff-klassisch-modern`
+- `vorpruefung-schranke-finden`
+- `schranke-vorbehaltlos-verfassungsimmanent`
+- `absolute-grenze-menschenwuerde-art-1-i-gg`
+- `absolute-grenze-wesensgehalt-art-19-ii-gg`
+- `absolute-grenze-existenzminimum`
+- `untermassverbot-schutzpflicht-dimension`
+- `einschaetzungspraerogative-kontrolldichte`
+- `bestimmtheit-normklarheit-eingriffsgesetze`
+- `wesentlichkeitstheorie-parlamentsvorbehalt`
+- `zitiergebot-art-19-i-2-gg`
+- `stufenbaum-ascii-art`
+- `audiovisuelle-leitentscheidungen-sammlung` (ersetzt `clip-club-leitentscheidungen`)
+
+### Padlet-Skill arbeitet wieder
+
+`padlet-vier-stufen-tafel` legt jetzt **echte** Padlet-Tafeln an. Drei Pfade:
+
+1. **API**: Padlet Public API v1 mit `api_credentials=["custom-cred:padlet.com"]` (User braucht bezahltes Abo + API-Key aus Padlet-Settings → Developer).
+2. **Browser**: `browser_task` mit `use_local_browser.local=true` auf https://padlet.com via Tom's MacBook Air M4.
+3. **Manuell**: Karten-Markdown fertig zum Einkopieren. Skill gibt nie selbst-gerendertes Shelf-Board als Padlet-Ersatz aus.
+
+Spaltenstruktur mit Ampelfarben gruen/gelb/rot, ASCII-Vorschau als Begleitung.
+
+### Clip-Club geht in Pension
+
+Der Arbeitstitel "Clip-Club" war eine unjuristische Anlehnung an Klipp-Klapp. Der Skill heisst jetzt `audiovisuelle-leitentscheidungen-sammlung` und arbeitet als kuratiertes Lehrmaterial-Verzeichnis mit Aktenzeichen, BVerfGE-Fundstelle inkl. Schlagwort, Datum, Medium, Quelle/Permalink, Zeitstempel, Stufenverortung und Folgewirkung. Quellen ausschliesslich BVerfG-Mediathek, ARD/ZDF/Phoenix und Open-Access-Hochschulvorlesungen. Urheberrechts-Hinweise zu § 51 UrhG.
+
+### BVerfG-Schlagwort-Konvention
+
+Im Skill-Body steht hinter jeder Leitentscheidung jetzt ein Schlagwort in Klammern, z.B. `BVerfGE 7, 198 (Lueth-Urteil)`, `BVerfGE 65, 1 (Volkszaehlung)`, `BVerfGE 115, 118 (Luftsicherheitsgesetz)`. YAML-descriptions nutzen weiter den Workaround "Band X Seite Y" (Komma-Regel).
+
+## Cross-References aktualisiert
+
+- `verhaeltnismaessigkeit-einstieg/SKILL.md`: neue Visualisierungs-Verweise auf `audiovisuelle-leitentscheidungen-sammlung` und `stufenbaum-ascii-art`.
+- `verhaeltnismaessigkeitspruefer/README.md`: Praxis-und-Workflow-Block und Skill-Tabelle aktualisiert.
+- `verhaeltnismaessigkeitspruefer/.claude-plugin/plugin.json`: description, keywords (`clip-club` → `audiovisuelle-leitentscheidungen`, plus `wesensgehalt`, `menschenwuerde`, `bestimmtheit`, `wesentlichkeitstheorie`).
+
+## Counts (v239)
+
+212 Plugins, 18.549 Skills, 203 Testakten.
+
+---
+
 # v238.0.0 — LausitzStorage-Testakte um zehn Finanzierungs- und Gesellschafterstreit-Originale erweitert
 
 ## Schwerpunkt

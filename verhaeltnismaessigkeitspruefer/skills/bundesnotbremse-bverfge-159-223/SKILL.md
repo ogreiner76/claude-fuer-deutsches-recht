@@ -12,7 +12,7 @@ ueberschritt. Mehr als 7000 Verfassungsbeschwerden.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Beschluss 19.11.2021, 1 BvR 781/21 ua, BVerfGE Band 159 Seite 223.
+Senat 1 BVerfG, Beschluss 19.11.2021, 1 BvR 781/21 ua, BVerfGE 159, 223 (Bundesnotbremse).
 Bundesnotbremse verfassungsgemaess. Verhaeltnismaessigkeitspruefung Stufe fuer Stufe.
 
 ## Stufenweise Pruefung

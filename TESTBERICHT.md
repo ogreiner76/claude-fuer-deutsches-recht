@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v238.0.0 / LausitzStorage-Testakte um zehn Finanzierungs- und Gesellschafterstreit-Originale erweitert (Sicherheitenpoolvertrag, Kontoverpfändung Commerzbank, Globalzession LEAG-Pacht, Anteilsverpfändung UR 388⁄2025, Antrag Abberufung Bauernfeind, Lindenthal-Notarprotest, Einberufung 24.06.2026, EPC-Anzahlung Sungrow, Anlage 4 Stadtwerke, Forensik Cap-Table V2). 33 → 43 Aktenstücke; Gesamt-PDF 188 KB. 212 Plugins, 18.536 Skills, 203 Testakten.
+**Arbeitsstand:** v239.0.0 / LausitzStorage-Testakte um zehn Finanzierungs- und Gesellschafterstreit-Originale erweitert (Sicherheitenpoolvertrag, Kontoverpfändung Commerzbank, Globalzession LEAG-Pacht, Anteilsverpfändung UR 388⁄2025, Antrag Abberufung Bauernfeind, Lindenthal-Notarprotest, Einberufung 24.06.2026, EPC-Anzahlung Sungrow, Anlage 4 Stadtwerke, Forensik Cap-Table V2). 33 → 43 Aktenstücke; Gesamt-PDF 188 KB. 212 Plugins, 18.536 Skills, 203 Testakten.
 **Plugins gesamt:** 212
 **Skills gesamt:** 18536
 **Testakten gesamt:** 203

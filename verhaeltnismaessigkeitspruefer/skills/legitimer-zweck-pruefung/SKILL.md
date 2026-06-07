@@ -34,7 +34,7 @@ Nur Verfassungsgueter mit Verfassungsrang.
 
 ## Verbotene Zwecke
 
-- reine Mehrheitsmoral (BVerfGE 60 Band 60 Seite 348 Pornografie zurueckhaltend)
+- reine Mehrheitsmoral (BVerfGE 60, 348 (Pornografie) Pornografie zurueckhaltend)
 - Bevormundung muendiger Buerger ohne Drittschutz
 - Reine Fiskalinteressen ohne erkennbares Sachziel
 - Diskriminierung Art 3 III GG

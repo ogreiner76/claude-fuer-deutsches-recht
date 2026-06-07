@@ -12,7 +12,7 @@ Vereinigungsfreiheit der Anteilseigner Art 9 GG.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Urteil 01.03.1979, BVerfGE Band 50 Seite 290.
+Senat 1 BVerfG, Urteil 01.03.1979, BVerfGE 50, 290 (Mitbestimmung).
 MitbestG verfassungsmaessig. Einschaetzungspraerogative des Gesetzgebers
 schliesst nicht aus, dass das Gesetz spaeter ueberprueft werden muss.
 

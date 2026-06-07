@@ -25,8 +25,10 @@ ob die Massnahme verhaeltnismaessig ist.
 - `mermaid-flowchart-pruefung` rendert die Entscheidungslogik.
 - `padlet-vier-stufen-tafel` baut eine Padlet-Tafel mit den vier Spalten
   Zweck, Geeignet, Erforderlich, Angemessen.
-- `clip-club-leitentscheidungen` schneidet Audio- oder Video-Snippets
-  aus muendlichen Verhandlungen zusammen.
+- `audiovisuelle-leitentscheidungen-sammlung` kuratiert Verkuendungen,
+  muendliche Verhandlungen und Hochschul-Vorlesungen mit Aktenzeichen,
+  Fundstelle und Stufenverortung.
+- `stufenbaum-ascii-art` rendert den vierstufigen Baum als ASCII-Grafik.
 
 ## Rechtsvergleich
 

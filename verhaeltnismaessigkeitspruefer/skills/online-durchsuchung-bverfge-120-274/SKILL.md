@@ -11,7 +11,7 @@ mehrerer Klaeger.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Urteil 27.02.2008, BVerfGE Band 120 Seite 274.
+Senat 1 BVerfG, Urteil 27.02.2008, BVerfGE 120, 274 (Online-Durchsuchung).
 Norm verfassungswidrig. Aus dem allgemeinen Persoenlichkeitsrecht
 Art 2 I GG in Verbindung mit Art 1 I GG entwickelt das BVerfG das
 **IT-Grundrecht** auf Gewaehrleistung der Vertraulichkeit und Integritaet
@@ -39,9 +39,9 @@ Online-Durchsuchung darf nur unter strengen Voraussetzungen:
 
 - Erstes neues "Quasi-Grundrecht" der modernen Rechtsprechung.
 - Vorbild fuer spaetere Entscheidungen zur digitalen Lebensspur:
-  - BVerfGE 125 Band 125 Seite 260 Vorratsdatenspeicherung.
-  - BVerfGE 141 Band 141 Seite 220 BKAG-Urteil.
-  - BVerfGE 154 Band 154 Seite 152 Bestandsdatenauskunft II.
+  - BVerfGE 125, 260 (Vorratsdatenspeicherung) Vorratsdatenspeicherung.
+  - BVerfGE 141, 220 (BKAG-Urteil) BKAG-Urteil.
+  - BVerfGE 154, 152 (Bestandsdatenauskunft II) Bestandsdatenauskunft II.
 
 ## Klausurelevanz
 

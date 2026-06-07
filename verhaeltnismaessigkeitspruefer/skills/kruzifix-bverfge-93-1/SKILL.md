@@ -11,7 +11,7 @@ gebunden beschwerte sich.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Beschluss 16.05.1995, BVerfGE Band 93 Seite 1.
+Senat 1 BVerfG, Beschluss 16.05.1995, BVerfGE 93, 1 (Kruzifix).
 Anbringungsanordnung verletzt Glaubensfreiheit Art 4 I GG in Verbindung
 mit Elternrecht Art 6 II GG.
 

@@ -13,7 +13,7 @@ nach Paragraf 826 BGB.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Urteil 15.01.1958, BVerfGE Band 7 Seite 198. Aufhebung
+Senat 1 BVerfG, Urteil 15.01.1958, BVerfGE 7, 198 (Lueth-Urteil). Aufhebung
 der Zivilgerichtsentscheidung. Pressefreiheit Art 5 I GG strahlt auf
 Auslegung von Paragraf 826 BGB aus.
 

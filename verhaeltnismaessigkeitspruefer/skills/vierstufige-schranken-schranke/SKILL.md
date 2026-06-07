@@ -10,8 +10,8 @@ begrenzt die Grenzen, die der Gesetzgeber den Grundrechten zieht. Sie folgt
 aus dem **Rechtsstaatsprinzip** Art 20 III GG und dem **Wesensgehalt**
 der jeweiligen Grundrechte.
 
-BVerfGE 19 Band 19 Seite 342 (Wencker) hat das Prinzip allgemein anerkannt;
-BVerfGE 7 Band 7 Seite 377 (Apotheken-Urteil) ist die Geburtsstunde der
+BVerfGE 19, 342 (Wencker) (Wencker) hat das Prinzip allgemein anerkannt;
+BVerfGE 7, 377 (Apotheken-Urteil) (Apotheken-Urteil) ist die Geburtsstunde der
 abgestuften Pruefung im Grundrechtsbereich.
 
 ## Die vier Stufen

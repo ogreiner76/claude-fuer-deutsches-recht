@@ -11,7 +11,7 @@ verfassungswidrig.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Urteil 09.02.2010, BVerfGE Band 125 Seite 175.
+Senat 1 BVerfG, Urteil 09.02.2010, BVerfGE 125, 175 (Hartz IV).
 SGB II in Teilen verfassungswidrig wegen methodischen Maengeln der
 Bedarfsermittlung.
 
@@ -35,9 +35,9 @@ Das Existenzminimum ist eine **absolute Untergrenze**: Sanktionen,
 Kuerzungen oder Leistungsausschluesse, die diese Grenze beruehren,
 sind ohne weitere Abwaegung verfassungswidrig.
 
-BVerfGE 132 Band 132 Seite 134: gleicher Massstab fuer
+BVerfGE 132, 134 (Asylbewerberleistungen): gleicher Massstab fuer
 Asylbewerberleistungsgesetz.
-BVerfGE 152 Band 152 Seite 68: Sanktionen nach SGB II teilweise
+BVerfGE 152, 68 (Sanktionen SGB II): Sanktionen nach SGB II teilweise
 verfassungswidrig wegen ueberproportionaler Kuerzung.
 
 ## Klausurrelevanz

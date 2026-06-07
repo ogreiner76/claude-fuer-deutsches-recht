@@ -8,7 +8,7 @@ description: Stufe 4 der Verhaeltnismaessigkeit Angemessenheit als Abwaegung zwi
 Auf der vierten Stufe wird **abgewogen**: Steht der Eingriff in einem
 **ausgewogenen Verhaeltnis** zum Zweckgewinn?
 
-BVerfGE 65 Band 65 Seite 1 (Volkszaehlung): "Im Spannungsverhaeltnis
+BVerfGE 65, 1 (Volkszaehlung) (Volkszaehlung): "Im Spannungsverhaeltnis
 zwischen Individuum und Gemeinschaft im Sinne der Gemeinschaftsbezogenheit
 und Gemeinschaftsgebundenheit der Person."
 
@@ -35,7 +35,7 @@ und Gemeinschaftsgebundenheit der Person."
 - **Je-desto-Formel** als Faustregel.
 - **Wesensgehalt** Art 19 II GG als absolute Grenze.
 - **Menschenwuerde** Art 1 I GG als absolute Grenze.
-- **Existenzminimum** als absolute Grenze (BVerfGE 125 Band 125 Seite 175
+- **Existenzminimum** als absolute Grenze (BVerfGE 125, 175 (Hartz IV)
   Hartz IV).
 
 ## Strukturhilfe
@@ -53,7 +53,7 @@ Strukturierende Fragen:
 
 Wenn der Eingriff gegen Menschenwuerde, Wesensgehalt oder absolute
 Grenzen verstoesst, scheitert das Gesetz schon objektiv;
-keine Abwaegung mehr (BVerfGE 115 Band 115 Seite 118
+keine Abwaegung mehr (BVerfGE 115, 118 (Luftsicherheitsgesetz)
 Luftsicherheitsgesetz).
 
 ## Output

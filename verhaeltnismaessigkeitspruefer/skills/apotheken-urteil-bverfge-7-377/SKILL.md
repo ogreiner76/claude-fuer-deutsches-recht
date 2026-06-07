@@ -11,7 +11,7 @@ Beduerfnisnachweis Apotheke eroeffnen.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Beschluss 11.06.1958, BVerfGE Band 7 Seite 377.
+Senat 1 BVerfG, Beschluss 11.06.1958, BVerfGE 7, 377 (Apotheken-Urteil).
 Verstoss gegen Art 12 I GG. Beduerfnispruefung als objektive Voraussetzung
 nicht erforderlich; subjektive Voraussetzungen (Examen, Approbation)
 genuegen.

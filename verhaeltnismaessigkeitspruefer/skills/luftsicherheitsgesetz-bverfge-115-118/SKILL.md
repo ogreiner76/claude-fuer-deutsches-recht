@@ -12,7 +12,7 @@ es zur Toetung dritter Menschen eingesetzt werden sollte. Reaktion auf
 
 ## Entscheidung
 
-Senat 1 BVerfG, Urteil 15.02.2006, BVerfGE Band 115 Seite 118.
+Senat 1 BVerfG, Urteil 15.02.2006, BVerfGE 115, 118 (Luftsicherheitsgesetz).
 Paragraf 14 III LuftSiG nichtig wegen Verstosses gegen Art 1 I GG
 in Verbindung mit Art 2 II 1 GG und Art 87a GG.
 
@@ -29,7 +29,7 @@ Art 1 I GG, die jegliche Saldierung Mensch gegen Mensch ausschliesst.
   wenn die Menschenwuerde beruehrt ist.
 - Menschenwuerde ist **unverfuegbar** und nicht abwaegungsfaehig.
 - Das gleiche gilt fuer den **Wesensgehalt** Art 19 II GG und das
-  **Existenzminimum** (BVerfGE 125 Band 125 Seite 175).
+  **Existenzminimum** (BVerfGE 125, 175 (Hartz IV)).
 
 ## Abwaegungsverbot
 
@@ -51,6 +51,6 @@ Grenzen:
 
 ## Folgewirkung
 
-- BVerfGE 132 Band 132 Seite 1: Bundeswehreinsatz im Innern unter
+- BVerfGE 132, 1 (Bundeswehreinsatz im Innern): Bundeswehreinsatz im Innern unter
   engen Voraussetzungen moeglich, aber niemals mit spezifisch
   militaerischen Mitteln gegen unbeteiligte Zivilpersonen.

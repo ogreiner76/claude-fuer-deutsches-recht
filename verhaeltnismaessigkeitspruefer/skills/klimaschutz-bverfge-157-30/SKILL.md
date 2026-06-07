@@ -12,8 +12,7 @@ Freiheitssicherung.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Beschluss 24.03.2021, 1 BvR 2656/18 ua, BVerfGE
-Band 157 Seite 30. Bundes-Klimaschutzgesetz teilweise verfassungswidrig
+Senat 1 BVerfG, Beschluss 24.03.2021, 1 BvR 2656/18 ua, BVerfGE 157, 30 (Klimaschutz-Beschluss). Bundes-Klimaschutzgesetz teilweise verfassungswidrig
 hinsichtlich Vorgaben fuer Zeitraum ab 2031.
 
 ## Intertemporale Freiheitssicherung

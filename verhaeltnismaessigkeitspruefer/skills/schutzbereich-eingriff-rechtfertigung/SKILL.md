@@ -12,7 +12,7 @@ Ist das beeintraechtigte Verhalten persoenlicher und sachlicher Schutzbereich
 des Grundrechts?
 - Persoenlich: Wer ist Traeger (Deutschen-Grundrecht versus Jedermann-Grundrecht;
   juristische Personen Art 19 III GG; auslaendische juristische Personen seit
-  BVerfGE 129 Band 129 Seite 78 fuer EU-Gesellschaften)?
+  BVerfGE 129, 78 (EU-Gesellschaften) fuer EU-Gesellschaften)?
 - Sachlich: Welche konkrete Verhaltensweise schuetzt das Grundrecht?
 
 ### 2. Eingriff
@@ -20,7 +20,7 @@ des Grundrechts?
 **Klassischer Eingriff** (vier Merkmale): final, unmittelbar, rechtsfoermig, imperativ.
 
 **Moderner Eingriff**: jede Beeintraechtigung die einem Hoheitstraeger zurechenbar ist.
-BVerfGE 105 Band 105 Seite 252 (Glykol) und BVerfGE 105 Band 105 Seite 279
+BVerfGE 105, 252 (Glykol) (Glykol) und BVerfGE 105, 279 (Osho)
 (Osho) haben den modernen Eingriffsbegriff entwickelt fuer faktische und
 mittelbare Beeintraechtigungen durch staatliches Informationshandeln.
 

@@ -11,7 +11,7 @@ Personenmerkmalen. Massenproteste, Verfassungsbeschwerden.
 
 ## Entscheidung
 
-Senat 1 BVerfG, Urteil 15.12.1983, BVerfGE Band 65 Seite 1.
+Senat 1 BVerfG, Urteil 15.12.1983, BVerfGE 65, 1 (Volkszaehlung).
 Volkszaehlungsgesetz teilweise verfassungswidrig (insbesondere
 Verknuepfungs- und Abgleichsregelungen).
 

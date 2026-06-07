@@ -8,7 +8,7 @@ description: Stufe 2 der Verhaeltnismaessigkeit Geeignetheit als Foerderung des 
 Das Mittel muss den Zweck **foerdern koennen**. Nicht erforderlich ist,
 dass es den Zweck **vollstaendig erreicht**.
 
-BVerfGE 30 Band 30 Seite 292 (Erdoelbevorratung): "Geeignet ist eine Massnahme
+BVerfGE 30, 292 (Erdoelbevorratung) (Erdoelbevorratung): "Geeignet ist eine Massnahme
 schon dann, wenn mit ihrer Hilfe der gewuenschte Erfolg gefoerdert werden kann."
 
 ## Pruefungsperspektive
@@ -26,7 +26,7 @@ Drei Kontrolldichten:
    Aussenpolitik, neuartigen Risiken.
 2. **Vertretbarkeitskontrolle** (mittel): Standard.
 3. **Intensive inhaltliche Kontrolle**: bei schweren Eingriffen in
-   hochwertige Grundrechte; siehe BVerfGE 88 Band 88 Seite 203
+   hochwertige Grundrechte; siehe BVerfGE 88, 203 (Schwangerschaftsabbruch II)
    (Schwangerschaftsabbruch).
 
 ## Wann scheitert Geeignetheit?
@@ -39,8 +39,8 @@ Drei Kontrolldichten:
 ## Beispiele aus der Rechtsprechung
 
 - BVerfGE 30 292 Erdoelbevorratung: geeignet.
-- BVerfGE 19 Band 19 Seite 330 (Sachkundenachweis Einzelhandel): geeignet.
-- BVerfGE 102 Band 102 Seite 197 (Spielbankenmonopol): geeignet.
+- BVerfGE 19, 330 (Sachkundenachweis Einzelhandel) (Sachkundenachweis Einzelhandel): geeignet.
+- BVerfGE 102, 197 (Spielbankenmonopol) (Spielbankenmonopol): geeignet.
 - Geeignetheit verneint wurde in BVerfGE selten; die meisten Faelle
   scheitern erst an Erforderlichkeit oder Angemessenheit.
 
